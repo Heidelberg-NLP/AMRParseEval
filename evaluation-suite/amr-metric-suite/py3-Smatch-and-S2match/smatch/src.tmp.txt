@@ -1,0 +1,599 @@
+# ::snt Please contact 735-8000 for more information.
+(vx0 / contact-01 :mode imperative :polite + :ARG0 (vx1 / you) :ARG1 (vx2 / phone-number-entity :value "735") :purpose (vx3 / information :quant (vx4 / more)))
+
+# ::snt Traffic has more than doubled in one section of Huguenot Trail since 288 opened , reports Will Jones .
+(vx0 / report-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Will" :op2 "Jones")) :ARG1 (vx3 / double-01 :ARG1 (vx4 / traffic) :mod (vx5 / more-than) :location (vx6 / section :quant 1 :part-of (vx7 / road :name (vx8 / name :op1 "Huguenot" :op2 "Trail"))) :time (vx9 / since :op1 (vx10 / open-01 :ARG1 (vx11 / road :name (vx12 / name :op1 288))))))
+
+# ::snt In another first in the almost three-year intifada, the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory.
+(vx0 / allow-01 :ARG0 (vx1 / army :mod (vx2 / country :name (vx3 / name :op1 "Israel"))) :ARG1 (vx4 / circulate-01 :ARG1 (vx5 / person :mod (vx6 / country :name (vx7 / name :op1 "Palestine"))) :ARG1-of (vx8 / free-04) :location (vx9 / highway :ARG0-of (vx10 / cross-02 :ARG1 (vx11 / country-region :name (vx12 / name :op1 "Gaza"))))) :time (vx13 / abandon-01 :ARG0 (vx14 / troop) :ARG1 (vx15 / checkpoint :quant 3 :ARG1-of (vx16 / major-02) :location (vx17 / across :op1 (vx18 / territory :location (vx19 / coast))))) :ord (vx20 / ordinal-entity :value 1 :range (vx21 / intifada :duration (vx22 / almost :op1 (vx23 / temporal-quantity :quant 3 :unit (vx24 / year)))) :mod (vx25 / another)))
+
+# ::snt What should we do in the future! Ability alone isn't enough to become successful! Are we goin' to face such hard choices too?
+(vx0 / multi-sentence :snt1 (vx1 / recommend-01 :ARG1 (vx2 / do-02 :ARG0 (vx3 / we) :ARG1 (vx4 / amr-unknown) :time (vx5 / future))) :snt2 (vx6 / have-quant-91 :polarity - :ARG1 (vx7 / ability :mod (vx8 / alone)) :ARG3 (vx9 / enough) :ARG6 (vx10 / become-01 :ARG1 vx7 :ARG2 (vx11 / succeed-01 :ARG0 vx7))) :snt3 (vx12 / face-01 :ARG0 (vx13 / we) :ARG1 (vx14 / choose-01 :ARG1-of (vx15 / hard-02 :degree (vx16 / such))) :mod (vx17 / too) :polarity (vx18 / amr-unknown)))
+
+# ::snt Five Iraqi civilians, including a woman, were killed Monday when their houses were hit by a missile fired by the US-led coalition warplanes, witnesses said.
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / witness-01)) :ARG1 (vx3 / kill-01 :ARG1 (vx4 / civilian :quant 5 :mod (vx5 / country :name (vx6 / name :op1 "Iraq")) :ARG2-of (vx7 / include-91 :ARG1 (vx8 / woman))) :time (vx9 / date-entity :weekday (vx10 / monday)) :time (vx11 / hit-01 :ARG1 (vx12 / house :poss vx4) :ARG2 (vx13 / missile :ARG1-of (vx14 / fire-01 :ARG0 (vx15 / warplane :mod (vx16 / coalition) :ARG1-of (vx17 / lead-02 :ARG0 (vx18 / country :name (vx19 / name :op1 "US")))))))))
+
+# ::snt To date, 1,786 people have been transferred to safe places.
+(vx0 / transfer-01 :ARG1 (vx1 / person :quant 1878) :ARG2 (vx2 / place :ARG1-of (vx3 / safe-01)) :time (vx4 / to-date))
+
+# ::snt Agree, just cheap entertainers. Their reputation in feudal China somewhat makes sense.
+(vx0 / multi-sentence :snt1 (vx1 / agree-01 :ARG0 (vx2 / i) :ARG1 (vx3 / sense-02 :ARG1 (vx4 / reputation :poss (vx5 / they) :location (vx6 / country :name (vx7 / name :op1 "China") :mod (vx8 / feudal))) :degree (vx9 / somewhat))) :snt2 (vx10 / person :ARG0-of (vx11 / entertain-01) :ARG1-of (vx12 / cheap-02) :mod (vx13 / just)))
+
+# ::snt Looking over to the flag
+(vx0 / look-01 :ARG2 (vx1 / flag) :direction (vx2 / over))
+
+# ::snt Lots of Austin relief efforts and fundraising events listed here.
+(vx0 / list-01 :ARG1 (vx1 / and :op1 (vx2 / effort-01 :ARG1 (vx3 / relieve-01) :location (vx4 / city :name (vx5 / name :op1 "Austin")) :quant (vx6 / lot)) :op2 (vx7 / event :mod (vx8 / fundraise-04) :location vx4 :quant vx6)) :location (vx9 / here))
+
+# ::snt they healed, then i cut myself with staples i robbed from school and a razor.
+(vx0 / and :op1 (vx1 / heal-01 :ARG1 (vx2 / they)) :op2 (vx3 / cut-01 :ARG0 (vx4 / i :ARG1-of vx3) :instrument (vx5 / and :op1 (vx6 / staple :ARG1-of (vx7 / rob-01 :ARG0 vx4 :source (vx8 / school))) :op2 (vx9 / razor)) :time (vx10 / then)))
+
+# ::snt Los Angeles County Supervisor Gloria Molina and Los Angeles Mayor Antonio Villaraigosa assembled key members of their respective administrations over the Labor Day weekend to assess how the city and county could host thousands of displaced families that survived the disastrous hurricane, officials said.
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG2 (vx3 / official))) :ARG1 (vx4 / assemble-02 :ARG0 (vx5 / and :op1 (vx6 / person :name (vx7 / name :op1 "Gloria" :op2 "Molina") :ARG0-of (vx8 / supervise-01 :ARG1 (vx9 / county :name (vx10 / name :op1 "Los" :op2 "Angeles" :op3 "County")))) :op2 (vx11 / person :name (vx12 / name :op1 "Antonio" :op2 "Villaraigosa") :ARG0-of (vx13 / have-org-role-91 :ARG1 vx9 :ARG2 (vx14 / mayor)))) :ARG1 (vx15 / member :ARG1-of (vx16 / key-02) :part-of (vx17 / government-organization :ARG0-of (vx18 / administrate-01) :poss vx5)) :time (vx19 / weekend :mod (vx20 / holiday :name (vx21 / name :op1 "Labor" :op2 "Day"))) :purpose (vx22 / assess-01 :ARG0 vx5 :ARG1 (vx23 / thing :manner-of (vx24 / possible-01 :ARG1 (vx25 / host-01 :ARG0 (vx26 / and :op1 vx9 :op2 vx9) :ARG1 (vx27 / family :ARG1-of (vx28 / displace-01) :quant (vx29 / multiple :op1 1000) :ARG0-of (vx30 / survive-01 :ARG1 (vx31 / hurricane :mod (vx32 / disastrous))))))))))
+
+# ::snt when was the last time you were stuck in traffic that you were n't on your way to or from some sort of business ?
+(vx0 / stick-01 :ARG1 (vx1 / you) :ARG2 (vx2 / traffic) :time (vx3 / stick-01 :ARG1 vx1 :ARG2 (vx4 / way :poss vx1 :direction (vx5 / or :op1 (vx6 / business :mod (vx7 / sort :mod (vx8 / some))) :op2 (vx9 / business :mod (vx10 / some))))) :time (vx11 / amr-unknown) :mod (vx12 / last))
+
+# ::snt "They had no compass nor altitude-measuring apparatus, let alone special communication equipment usually used for mountaineering," said Deng.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Deng")) :ARG1 (vx3 / have-03 :polarity - :ARG0 (vx4 / they) :ARG1 (vx5 / and :op1 (vx6 / apparatus :instrument-of (vx7 / compass-01)) :op2 (vx8 / apparatus :instrument-of (vx9 / measure-01 :ARG1 (vx10 / altitude))) :op3 (vx11 / equipment :instrument-of (vx12 / communicate-01) :ARG1-of (vx13 / special-02) :ARG1-of (vx14 / use-01 :ARG2 (vx15 / mountaineer) :mod (vx16 / usual)) :mod (vx17 / let-alone)))))
+
+# ::snt Loose tee shirts, Nursing bras, nursing pads.
+(vx0 / and :op1 (vx1 / shirt :mod (vx2 / tee) :ARG1-of (vx3 / loose-04)) :op2 (vx4 / bra :mod (vx5 / nurse)) :op3 (vx6 / pad :mod vx5))
+
+# ::snt "Carrying my two young daughters, I tried to swim to escape," he said, "One of my daughters died shortly in the violent storm."
+(vx0 / multi-sentence :snt1 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / try-01 :ARG0 vx2 :ARG1 (vx4 / swim-01 :ARG0 vx2 :purpose (vx5 / escape-01 :ARG0 vx2)) :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / carry-01 :ARG0 vx2 :ARG1 (vx8 / person :quant 2 :mod (vx9 / young) :ARG0-of (vx10 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx11 / daughter))))))) :snt2 (vx12 / die-01 :ARG1 (vx13 / person :quant 1 :ARG1-of (vx14 / include-91 :ARG2 (vx15 / person :ARG0-of (vx16 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx17 / daughter))))) :ARG1-of (vx18 / cause-01 :ARG0 (vx19 / storm-01 :mod (vx20 / violent))) :time (vx21 / short-07)))
+
+# ::snt Since our road expenditures nowhere near match the increase in business or state domestic product , it is no wonder we suffer congestion problems .
+(vx0 / wonder-02 :polarity - :ARG1 (vx1 / suffer-01 :ARG0 (vx2 / we) :ARG1 (vx3 / problem :topic (vx4 / congest-01))) :ARG1-of (vx5 / cause-01 :ARG0 (vx6 / match-01 :ARG1 (vx7 / monetary-quantity :ARG1-of (vx8 / expend-01 :ARG0 vx2 :ARG2 (vx9 / road))) :ARG2 (vx10 / increase-01 :ARG1 (vx11 / or :op1 (vx12 / monetary-quantity :ARG1-of (vx13 / expend-01 :ARG0 (vx14 / business))) :op2 (vx15 / monetary-quantity :ARG1-of (vx16 / produce-01 :ARG0 (vx17 / state)) :mod (vx18 / domestic)))) :ARG1-of (vx19 / near-02))))
+
+# ::snt it think about it everyday,
+(vx0 / think-01 :ARG0 (vx1 / it) :ARG1 (vx2 / it) :frequency (vx3 / rate-entity-91 :ARG3 (vx4 / temporal-quantity :quant 1 :unit (vx5 / day))))
+
+# ::snt One of those listed missing is from Hong Kong, but his identity has not been defined, according to the rescue headquarters.
+(vx0 / say-01 :ARG0 (vx1 / headquarters :mod (vx2 / rescue-01)) :ARG1 (vx3 / contrast-01 :ARG1 (vx4 / be-from-91 :ARG1 (vx5 / person :quant 1 :ARG1-of (vx6 / list-01 :ARG2 (vx7 / person :ARG1-of (vx8 / miss-01)))) :ARG2 (vx9 / city :name (vx10 / name :op1 "Hong" :op2 "Kong"))) :ARG2 (vx11 / define-01 :polarity - :ARG1 (vx12 / identity :poss vx5))))
+
+# ::snt Mingxia Fu , who won the championship for our country at the World Championship and the Olympic Games , and the competitor from Hebei , Bin Chi , who won the championship at the World Cup will participate in the competition .
+(vx0 / participate-01 :ARG0 (vx1 / and :op1 (vx2 / person :name (vx3 / name :op1 "Mingxia" :op2 "Fu") :ARG0-of (vx4 / win-01 :ARG1 (vx5 / championship :beneficiary (vx6 / country :poss (vx7 / we))) :ARG2 (vx8 / and :op1 (vx9 / game :name (vx10 / name :op1 "World" :op2 "Championship")) :op2 (vx11 / game :name (vx12 / name :op1 "Olympic" :op2 "Games"))))) :op2 (vx13 / person :name (vx14 / name :op1 "Bin" :op2 "Chi") :ARG0-of (vx15 / compete-01) :source (vx16 / province :name (vx17 / name :op1 "Hebei")) :ARG0-of (vx18 / win-01 :ARG1 (vx19 / championship) :ARG2 vx8 :location (vx20 / game :name (vx21 / name :op1 "World" :op2 "Cup"))))) :ARG1 (vx22 / compete-01))
+
+# ::snt Brandish our weapons and cross to the east
+(vx0 / and :op1 (vx1 / brandish-01 :mode imperative :ARG0 (vx2 / you) :ARG1 (vx3 / weapon :poss (vx4 / we))) :op2 (vx5 / cross-02 :mode imperative :ARG0 vx2 :direction (vx6 / east)))
+
+# ::snt He had no alternative but to abandon the dead daughter in the wave and tried to keep himself afloat for a lengthy time, holding a nearby fallen tree branch.
+(vx0 / and :op1 (vx1 / obligate-01 :ARG1 (vx2 / he) :ARG2 (vx3 / abandon-01 :ARG0 vx2 :ARG1 (vx4 / person :ARG0-of (vx5 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx6 / daughter :ARG1-of (vx7 / die-01)))) :location (vx8 / wave))) :op2 (vx9 / try-01 :ARG0 vx2 :ARG1 (vx10 / keep-01 :ARG0 vx2 :ARG1 vx2 :ARG3 (vx11 / afloat) :duration (vx12 / time :ARG1-of (vx13 / long-03)) :manner (vx14 / hold-01 :ARG0 vx2 :ARG1 (vx15 / branch :part-of (vx16 / tree) :ARG1-of (vx17 / fall-01) :location (vx18 / nearby))))))
+
+# ::snt After the closing ceremonies of the Sports Meet , they will continue to remain in Beijing for two days , to carry out interaction activities with relevant Chinese parties and visit and tour , and return to Japan on 13th .
+(vx0 / continue-01 :ARG1 (vx1 / and :op1 (vx2 / remain-01 :ARG1 (vx3 / they) :ARG3 (vx4 / city :name (vx5 / name :op1 "Beijing")) :duration (vx6 / temporal-quantity :quant 2 :unit (vx7 / day))) :op2 (vx8 / carry-out-03 :ARG0 vx3 :ARG1 (vx9 / activity-06 :ARG0 vx3 :ARG1 (vx10 / interact-01 :ARG0 vx3 :ARG1 (vx11 / party :ARG1-of (vx12 / relevant-01) :mod (vx13 / country :name (vx14 / name :op1 "China")))))) :op3 (vx15 / and :op1 (vx16 / visit-01 :ARG0 vx3 :ARG1 (vx17 / country :name (vx18 / name :op1 "Japan"))) :op2 (vx19 / tour-01 :ARG0 vx3 :ARG1 vx17)) :op4 (vx20 / return-01 :ARG1 vx3 :ARG4 vx17 :time (vx21 / date-entity :day 13 :month 1))) :time (vx22 / after :op1 (vx23 / ceremony :mod (vx24 / close-03 :ARG1 (vx25 / event :name (vx26 / name :op1 "Sports" :op2 "Meet"))))))
+
+# ::snt i started when i was seven as i slit each firnger indevidually with sissors, and from that day i never stopped,
+(vx0 / and :op1 (vx1 / start-01 :ARG0 (vx2 / i) :time (vx3 / age-01 :ARG1 vx2 :ARG2 (vx4 / temporal-quantity :quant 7 :unit (vx5 / year))) :time (vx6 / slit-01 :ARG0 vx2 :ARG1 (vx7 / firnger :mod (vx8 / each)) :ARG2 (vx9 / sissors) :manner (vx10 / unique :polarity -))) :op2 (vx11 / stop-01 :polarity - :ARG0 vx2 :time (vx12 / ever) :time (vx13 / from :op1 (vx14 / day :mod (vx15 / that)))))
+
+# ::snt The six are all members of an outdoor sports club in Xining, Qinghai's provincial capital.
+(vx0 / member :part-of (vx1 / club :mod (vx2 / sport) :location (vx3 / outdoor) :location (vx4 / city :name (vx5 / name :op1 "Xining") :ARG0-of (vx6 / have-org-role-91 :ARG1 (vx7 / province :name (vx8 / name :op1 "Qinghai")) :ARG2 (vx9 / capital)))) :domain (vx10 / person :quant 6 :mod (vx11 / all)))
+
+# ::snt 17 accidents have been reported near the intersection of Winterfield Road so far this year , up from 12 for all of 2004 .
+(vx0 / report-01 :ARG1 (vx1 / accident :quant 17 :ARG1-of (vx2 / up-02 :ARG3 (vx3 / accident :quant 12 :time (vx4 / date-entity :year 2004 :mod (vx5 / all)))) :ARG1-of (vx6 / near-02 :ARG2 (vx7 / intersect-01 :ARG1 (vx8 / road :name (vx9 / name :op1 "Winterfield" :op2 "Road"))))) :time (vx10 / so-far :op1 (vx11 / year :mod (vx12 / this))))
+
+# ::snt Finding no drinking water and food in face of hunger, he tried to survive by drinking juice from fallen coconuts.
+(vx0 / try-01 :ARG0 (vx1 / he) :ARG1 (vx2 / survive-01 :ARG0 vx1 :manner (vx3 / drink-01 :ARG0 vx1 :ARG1 (vx4 / juice) :source (vx5 / coconut :ARG1-of (vx6 / fall-01)))) :ARG1-of (vx7 / cause-01 :ARG0 (vx8 / find-01 :ARG0 vx1 :ARG1 (vx9 / and :polarity - :op1 (vx10 / water :ARG1-of (vx11 / drink-01)) :op2 (vx12 / food)) :condition (vx13 / hunger-01 :ARG0 vx1))))
+
+# ::snt Perhaps there's a teacher at school who you trust and could tell.
+(vx0 / possible-01 :ARG1 (vx1 / person :ARG0-of (vx2 / teach-01) :ARG1-of (vx3 / trust-02 :ARG0 (vx4 / you)) :ARG0-of (vx5 / tell-01 :ARG1-of (vx6 / possible-01)) :location (vx7 / school)))
+
+# ::snt Under the 1993 Oslo accords, which granted a measure of autonomy to the Palestinians, the Rafah border crossing with Egypt was to be jointly managed by both Israel and the Palestinians, although Israel had final control over the zone.
+(vx0 / have-concession-91 :ARG1 (vx1 / manage-01 :ARG0 (vx2 / and :op1 (vx3 / country :name (vx4 / name :op1 "Israel")) :op2 (vx5 / person :mod (vx6 / country :name (vx7 / name :op1 "Palestine")))) :ARG1 (vx8 / cross-02 :ARG1 (vx9 / border :name (vx10 / name :op1 "Rafah")) :ARG3 (vx11 / country :name (vx12 / name :op1 "Egypt"))) :manner (vx13 / joint)) :ARG2 (vx14 / control-01 :ARG0 vx3 :ARG1 (vx15 / zone) :mod (vx16 / final)) :prep-under (vx17 / accord-03 :ARG0 (vx18 / city :name (vx19 / name :op1 "Oslo")) :time (vx20 / date-entity :year 1993) :ARG0-of (vx21 / grant-01 :ARG1 (vx22 / measure-02 :ARG1 (vx23 / autonomy) :ARG2 vx5) :ARG2 vx5)))
+
+# ::snt Why don't we fight with little Japan?
+(vx0 / cause-01 :ARG0 (vx1 / amr-unknown) :ARG1 (vx2 / fight-01 :polarity - :ARG0 (vx3 / we) :ARG1 (vx4 / country :name (vx5 / name :op1 "Japan") :mod (vx6 / little))))
+
+# ::snt Stop talking about others just behave yourself
+(vx0 / and :op1 (vx1 / stop-01 :mode imperative :ARG0 (vx2 / you) :ARG1 (vx3 / talk-01 :ARG0 vx2 :ARG1 (vx4 / other))) :op2 (vx5 / behave-01 :mode imperative :ARG0 vx2 :mod (vx6 / just)))
+
+# ::snt I am not a health professional and I can only speak from personal experience which is why I strongly suggest you see a qualified health professional about your feelings and worries about depression.
+(vx0 / cause-01 :ARG0 (vx1 / and :op1 (vx2 / professional :polarity - :mod (vx3 / health) :domain (vx4 / i)) :op2 (vx5 / possible-01 :ARG1 (vx6 / speak-01 :ARG0 vx4 :source (vx7 / experience-01 :ARG0 vx4 :ARG1-of (vx8 / personal-02 :ARG2 vx4)) :mod (vx9 / only)))) :ARG1 (vx10 / suggest-01 :ARG0 vx4 :ARG1 (vx11 / see-01 :ARG0 (vx12 / you) :ARG1 (vx13 / professional :mod vx3 :ARG1-of (vx14 / qualify-02)) :ARG2 (vx15 / and :op1 (vx16 / feel-01 :ARG0 vx12) :op2 (vx17 / worry-01 :ARG0 (vx18 / depress-01 :ARG1 vx12) :ARG1 vx12))) :ARG1-of (vx19 / strong-02)))
+
+# ::snt Rescue teams, medical staff and relief materials, including tents and food, have arrived at the affected areas.
+(vx0 / arrive-01 :ARG1 (vx1 / and :op1 (vx2 / team :ARG0-of (vx3 / rescue-01)) :op2 (vx4 / person :ARG2-of (vx5 / staff-01) :mod (vx6 / medicine)) :op3 (vx7 / material :ARG2-of (vx8 / relieve-01) :ARG2-of (vx9 / include-01 :ARG1 (vx10 / and :op1 (vx11 / tent) :op2 (vx12 / food))))) :ARG4 (vx13 / area :ARG1-of (vx14 / affect-01)))
+
+# ::snt It's totally unacceptable
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / accept-01 :ARG1 (vx2 / it)) :degree (vx3 / total))
+
+# ::snt Its not uncommon for people's existing feelings about themselves to become more intense when they are in new situations and feel the pressure to socialise with strangers and fit into new roles, i.e. being a university student.
+(vx0 / common :polarity - :domain (vx1 / become-01 :ARG1 (vx2 / feel-01 :ARG0 (vx3 / person :ARG1-of vx2) :ARG1-of (vx4 / exist-01)) :ARG2 (vx5 / intense-02 :ARG2-of (vx6 / have-degree-91 :ARG1 vx2 :ARG3 (vx7 / more))) :time (vx8 / and :op1 (vx9 / be-located-at-91 :ARG1 vx3 :ARG2 (vx10 / situation :ARG1-of (vx11 / new-01))) :op2 (vx12 / feel-01 :ARG0 vx3 :ARG1 (vx13 / pressure-01 :ARG1 vx3 :ARG2 (vx14 / and :op1 (vx15 / socialize-01 :ARG0 vx3 :ARG1 (vx16 / stranger)) :op2 (vx17 / fit-in-02 :ARG1 vx3 :ARG2 (vx18 / role :ARG1-of vx11 :example (vx19 / person :ARG0-of (vx20 / study-01 :location (vx21 / university)) :domain vx3)))))))))
+
+# ::snt Seven people were confirmed dead and 98 others were injured in a tornado that hit an east China city on Tuesday, say disaster relief authorities.
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG2 (vx3 / authority :ARG0-of (vx4 / relieve-01 :ARG1 (vx5 / disaster))))) :ARG1 (vx6 / and :op1 (vx7 / confirm-01 :ARG1 (vx8 / die-01 :ARG1 (vx9 / person :quant 7))) :op2 (vx10 / injure-01 :ARG1 (vx11 / person :quant 98 :mod (vx12 / other))) :ARG1-of (vx13 / cause-01 :ARG0 (vx14 / hit-01 :ARG0 (vx15 / tornado) :ARG1 (vx16 / city :location (vx17 / east :part-of (vx18 / country :name (vx19 / name :op1 "China")))) :time (vx20 / date-entity :weekday (vx21 / tuesday))))))
+
+# ::snt Goodwill Industries is expecting to donate massive amounts of clothing and other items, so if you are in Austin and were planning to donate stuff, now is a good time to do it.
+(vx0 / expect-01 :ARG0 (vx1 / company :name (vx2 / name :op1 "Goodwill" :op2 "Industries")) :ARG1 (vx3 / donate-01 :ARG0 vx1 :ARG1 (vx4 / and :op1 (vx5 / clothing) :op2 (vx6 / item :mod (vx7 / other)) :quant (vx8 / amount :mod (vx9 / massive))) :time (vx10 / time :ARG1-of (vx11 / good-02) :domain (vx12 / now) :condition (vx13 / and :op1 (vx14 / be-located-at-91 :ARG1 (vx15 / you) :ARG2 (vx16 / city :name (vx17 / name :op1 "Austin"))) :op2 (vx18 / plan-01 :ARG0 vx15 :ARG1 vx3)))) :ARG0-of (vx19 / cause-01 :ARG1 vx10))
+
+# ::snt Churches in South Texas which are taking in refugees.
+(vx0 / take-01 :ARG0 (vx1 / church :location (vx2 / south :part-of (vx3 / state :name (vx4 / name :op1 "Texas")))) :ARG1 (vx5 / refugee))
+
+# ::snt To put it plainly stars nowadays are just popular prostitutes in ancient times. Now that they are famous prostitutes, it should be just normal to drink with some high officials or even sleep with them
+(vx0 / multi-sentence :snt1 (vx1 / put-02 :ARG1 (vx2 / have-mod-91 :ARG1 (vx3 / star :time (vx4 / nowadays)) :ARG2 (vx5 / prostitute :ARG1-of (vx6 / popular-02 :mod (vx7 / just) :time (vx8 / time :mod (vx9 / ancient))))) :manner (vx10 / plain)) :snt2 (vx11 / recommend-01 :ARG1 (vx12 / normal-02 :ARG1 (vx13 / or :op1 (vx14 / drink-01 :ARG2 (vx15 / person :quant (vx16 / some) :ARG0-of (vx17 / have-org-role-91 :ARG2 (vx18 / official :ARG1-of (vx19 / high-02))))) :op2 (vx20 / sleep-02 :ARG1 vx15 :mod (vx21 / even))) :mod (vx22 / just)) :ARG1-of (vx23 / cause-01 :ARG0 (vx24 / fame-01 :ARG1 (vx25 / they) :ARG2 (vx26 / prostitute-01)))))
+
+# ::snt Her performance was 303.00 points .
+(vx0 / score-01 :ARG1 (vx1 / perform-02 :ARG0 (vx2 / she)) :ARG2 "303.00")
+
+# ::snt No less than Walter Stoch stated that 288 money was intended to be paid from economic development money .
+(vx0 / state-01 :ARG0 (vx1 / less-than :op1 (vx2 / person :name (vx3 / name :op1 "Walter" :op2 "Stoch"))) :ARG1 (vx4 / intend-01 :ARG1 (vx5 / pay-01 :ARG1 (vx6 / money :quant 288) :ARG3 (vx7 / money :purpose (vx8 / develop-02 :ARG1 (vx9 / economy))))))
+
+# ::snt Come on folks !!
+(vx0 / come-on-25 :ARG1 (vx1 / folk))
+
+# ::snt Houston is overloaded and many refugees are proceeding to Austin.
+(vx0 / and :op1 (vx1 / overload-01 :ARG1 (vx2 / city :name (vx3 / name :op1 "Houston"))) :op2 (vx4 / proceed-01 :ARG0 (vx5 / refugee :quant (vx6 / many)) :destination (vx7 / city :name (vx8 / name :op1 "Austin"))))
+
+# ::snt The whole society is like this, not to mention the stars
+(vx0 / resemble-01 :ARG1 (vx1 / society :mod (vx2 / whole) :ARG2-of (vx3 / include-91 :polarity - :ARG1 (vx4 / star))) :ARG2 (vx5 / this))
+
+# ::snt On 8 August 2008 Georgian government web sites crashed intermittently.
+(vx0 / crash-01 :ARG1 (vx1 / website :poss (vx2 / government-organization :ARG0-of (vx3 / govern-01 :ARG1 (vx4 / country :name (vx5 / name :op1 "Georgia"))))) :frequency (vx6 / intermittent) :time (vx7 / date-entity :year 2008 :month 8 :day 8))
+
+# ::snt After the storm wind stopped for a moment, his another daughter was found dead in his hand, he cried out.
+(vx0 / cry-out-03 :ARG0 (vx1 / he) :time (vx2 / after :op1 (vx3 / stop-01 :ARG1 (vx4 / wind :mod (vx5 / storm-01)) :duration (vx6 / moment))) :ARG1-of (vx7 / cause-01 :ARG0 (vx8 / find-01 :ARG1 (vx9 / die-01 :ARG1 (vx10 / person :ARG0-of (vx11 / have-rel-role-91 :ARG1 vx1 :ARG2 (vx12 / daughter)) :mod (vx13 / another)) :location (vx14 / hand :part-of vx1)))))
+
+# ::snt People would think I'm crazy, but it's very strangely difficult to get yourself out of this.
+(vx0 / contrast-01 :ARG1 (vx1 / think-01 :ARG0 (vx2 / person) :ARG1 (vx3 / crazy-03 :ARG1 (vx4 / i))) :ARG2 (vx5 / difficult :domain (vx6 / get-05 :ARG1 (vx7 / you) :ARG2 (vx8 / out-06 :ARG1 vx7 :ARG2 (vx9 / this))) :manner (vx10 / strange :degree (vx11 / very))))
+
+# ::snt "The six tourists has no experience of climbing snow-covered mountains and know little about the terrain," said Deng Haiping, head of the provincial mountaineering administration, which is in charge of the rescue operation.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Deng" :op2 "Haiping") :ARG0-of (vx3 / head-01 :ARG1 (vx4 / government-organization :ARG0-of (vx5 / administrate-01 :ARG1 (vx6 / mountaineer)) :mod (vx7 / province) :ARG1-of (vx8 / charge-05 :ARG2 (vx9 / operate-01 :ARG1 (vx10 / rescue-01)))))) :ARG1 (vx11 / and :op1 (vx12 / experience-01 :polarity - :ARG0 (vx13 / person :quant 6 :ARG0-of (vx14 / tour-01)) :ARG1 (vx15 / climb-01 :ARG0 vx13 :ARG1 (vx16 / mountain :ARG1-of (vx17 / cover-02 :ARG2 (vx18 / snow))))) :op2 (vx19 / know-02 :ARG0 vx13 :ARG1 (vx20 / terrain) :quant (vx21 / little))))
+
+# ::snt The Karni-Netzarim road, which runs east-to-west across the route, was still closed as was the section of the highway passing close by Kfar Darom settlement, just south of the Guest House junction, he said, adding both were likely to be opened in the coming weeks.
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / and :op1 (vx3 / close-01 :ARG1 (vx4 / road :name (vx5 / name :op1 "Karni-Netzarim") :ARG1-of (vx6 / run-04 :path (vx7 / east) :path (vx8 / across :op1 (vx9 / route)))) :mod (vx10 / still)) :op2 (vx11 / close-01 :ARG1 (vx12 / section :part-of (vx13 / highway) :ARG1-of (vx14 / pass-03 :ARG4 (vx15 / settlement :name (vx16 / name :op1 "Kfar" :op2 "Darom") :location (vx17 / relative-position :op1 (vx18 / junction :name (vx19 / name :op1 "Guest" :op2 "House")) :direction (vx20 / south) :mod (vx21 / just)))))) :op3 (vx22 / add-01 :ARG0 vx1 :ARG1 (vx23 / likely-01 :ARG1 (vx24 / open-01 :ARG1 (vx25 / both :op1 vx4 :op2 vx12) :time (vx26 / week :ARG1-of (vx27 / come-01)))))))
+
+# ::snt I am going to try and find near by housing for the Dad's with our church later this week, if possible.
+(vx0 / try-01 :ARG0 (vx1 / i) :ARG1 (vx2 / find-01 :ARG0 vx1 :ARG1 (vx3 / house-01 :ARG1 (vx4 / person :ARG0-of (vx5 / have-rel-role-91 :ARG2 (vx6 / dad))) :location (vx7 / near-by)) :ARG3 (vx8 / church :poss (vx9 / we)) :time (vx10 / after) :time (vx11 / week :mod (vx12 / this)) :condition (vx13 / possible-01 :ARG1 vx2)))
+
+# ::snt The US-led coalition forces launched a new round of airstrikes on Baghdad at 2:30 p.m. (1130GMT) on Monday.
+(vx0 / launch-01 :ARG0 (vx1 / force :mod (vx2 / coalition) :ARG1-of (vx3 / lead-02 :ARG0 (vx4 / country :name (vx5 / name :op1 "US")))) :ARG1 (vx6 / round-05 :ARG1 (vx7 / strike-01 :ARG1 (vx8 / city :name (vx9 / name :op1 "Baghdad")) :ARG2 (vx10 / air)) :ARG1-of (vx11 / new-01)) :time (vx12 / date-entity :time "14:30" :weekday (vx13 / monday)))
+
+# ::snt Although there was free movement along the trans-Gaza highway, several other roads remained temporarily closed, he said.
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / have-concession-91 :ARG1 (vx3 / remain-01 :ARG1 (vx4 / road :quant (vx5 / several) :mod (vx6 / other)) :ARG3 (vx7 / close-01 :duration (vx8 / temporary))) :ARG2 (vx9 / move-01 :ARG1-of (vx10 / free-04) :location (vx11 / along :op1 (vx12 / highway :ARG0-of (vx13 / cross-02 :ARG1 (vx14 / country-region :name (vx15 / name :op1 "Gaza"))))))))
+
+# ::snt Scott told investigators she had moved that body around before she moved to Texas, sometimes in the closet at the Byrds Creek house, in the trunk of her car and in the closet of her apartment in Richland Center, the complaint said.
+(vx0 / say-01 :ARG0 (vx1 / complaint) :ARG1 (vx2 / tell-01 :ARG0 (vx3 / person :name (vx4 / name :op1 "Scott")) :ARG1 (vx5 / move-01 :ARG0 vx3 :ARG1 (vx6 / body :mod (vx7 / that)) :ARG2 (vx8 / around :op1 (vx9 / and :op1 (vx10 / closet :location (vx11 / house :location (vx12 / city-district :name (vx13 / name :op1 "Byrds" :op2 "Creek")))) :op2 (vx14 / trunk :part-of (vx15 / car :poss vx3)) :op3 (vx16 / closet :location (vx17 / apartment :poss vx3 :location (vx18 / city-district :name (vx19 / name :op1 "Richland" :op2 "Center")))) :frequency (vx20 / sometimes))) :time (vx21 / before :op1 (vx22 / move-01 :ARG0 vx3 :ARG2 (vx23 / state :name (vx24 / name :op1 "Texas")))) :ARG2 (vx25 / person :ARG0-of (vx26 / investigate-01)))))
+
+# ::snt The three military checkpoints on the highway, which runs the entire length of the Gaza Strip, had transformed the trip from north to south, ordinarily a 30-minute ride, into a grinding two or three-hour ordeal and came to symbolise the horrors of occupation.
+(vx0 / and :op1 (vx1 / transform-01 :ARG0 (vx2 / checkpoint :quant 3 :mod (vx3 / military) :location (vx4 / highway :ARG1-of (vx5 / run-04 :ARG2 (vx6 / length :mod (vx7 / entire) :poss (vx8 / country-region :name (vx9 / name :op1 "Gaza" :op2 "Strip")))))) :ARG1 (vx10 / trip-03 :ARG1-of (vx11 / mean-01 :ARG2 (vx12 / ride-01 :duration (vx13 / temporal-quantity :quant 30 :unit (vx14 / minute)) :mod (vx15 / usual))) :source (vx16 / north) :destination (vx17 / south)) :ARG2 (vx18 / ordeal :duration (vx19 / or :op1 (vx20 / temporal-quantity :quant 2 :unit (vx21 / hour)) :op2 (vx22 / temporal-quantity :quant 3 :unit (vx23 / hour))) :ARG1-of (vx24 / grind-01))) :op2 (vx25 / come-04 :ARG1 vx2 :ARG2 (vx26 / symbolize-01 :ARG1 vx2 :ARG2 (vx27 / horror :poss (vx28 / occupy-01)))))
+
+# ::snt The Caucus region is an important conduit for the flow of oil from the Caspian Sea to world markets.
+(vx0 / conduit :ARG1-of (vx1 / important-01) :purpose (vx2 / flow-01 :ARG1 (vx3 / oil) :ARG3 (vx4 / sea :name (vx5 / name :op1 "Caspian" :op2 "Sea")) :ARG4 (vx6 / market :mod (vx7 / world))) :domain (vx8 / region :name (vx9 / name :op1 "Caucus")))
+
+# ::snt i have sevral slits on my arm,
+(vx0 / have-03 :ARG0 (vx1 / i) :ARG1 (vx2 / slit :mod (vx3 / sevral) :location (vx4 / arm :part-of vx1)))
+
+# ::snt Youngest brother is still a tender youth
+(vx0 / youth :mod (vx1 / tender) :domain (vx2 / person :ARG0-of (vx3 / have-rel-role-91 :ARG2 (vx4 / brother)) :ARG1-of (vx5 / have-degree-91 :ARG2 (vx6 / young) :ARG3 (vx7 / most))) :mod (vx8 / still))
+
+# ::snt He went on to recall that as his parents had been swept away by tidal wave at the start of the tragedy, he was left alive alone.
+(vx0 / go-on-25 :ARG0 (vx1 / he) :ARG1 (vx2 / recall-02 :ARG0 vx1 :ARG1 (vx3 / leave-12 :ARG1 (vx4 / person :ARG0-of (vx5 / have-rel-role-91 :ARG1 vx1 :ARG2 (vx6 / parent)) :ARG1-of (vx7 / sweep-01 :ARG4 (vx8 / away) :instrument (vx9 / wave :mod (vx10 / tidal)) :time (vx11 / start-01 :ARG1 (vx12 / tragedy)))) :mod (vx13 / alone) :manner (vx14 / live-01 :ARG0 vx4))))
+
+# ::snt More suffering is under the disguise of glorious looks, 'tis the undisputable fact.
+(vx0 / fact :ARG2-of (vx1 / dispute-01 :ARG1-of (vx2 / possible-01 :polarity -)) :domain (vx3 / suffer-01 :quant (vx4 / more) :ARG1-of (vx5 / disguise-01 :ARG2 (vx6 / look-02 :ARG1 (vx7 / glorious)))))
+
+# ::snt In the script " Mongolian handicapped athletes prepare for the Far South Sports Meet " broadcast today , the " Sports Association Chairman Lahagewasu " at the end of paragraph three should be changed to " Sports Association Chairman Lahagewasulen " .
+(vx0 / recommend-01 :ARG1 (vx1 / change-01 :ARG1 (vx2 / person :name (vx3 / name :op1 "Lahagewasu") :ARG0-of (vx4 / have-org-role-91 :ARG1 (vx5 / organization :name (vx6 / name :op1 "Sports" :op2 "Association")) :ARG2 (vx7 / chairman))) :ARG2 (vx8 / person :name (vx9 / name :op1 "Lahagewasulen") :ARG0-of (vx10 / have-org-role-91 :ARG1 vx5 :ARG2 vx7)) :location (vx11 / script-01 :ARG1 (vx12 / prepare-02 :ARG0 (vx13 / athlete :mod (vx14 / country :name (vx15 / name :op1 "Mongolia")) :ARG1-of (vx16 / handicap-01)) :ARG2 (vx17 / event :name (vx18 / name :op1 "Far" :op2 "South" :op3 "Sports" :op4 "Meet") :ARG1-of (vx19 / broadcast-01 :time (vx20 / today))))) :location (vx21 / end-01 :ARG1 (vx22 / paragraph :ord (vx23 / ordinal-entity :value 3)))))
+
+# ::snt The JCAA will distribute these goods when more information is made available on which organizations will be accepting goods and what the local needs will be, as well as the regional needs.
+(vx0 / distribute-01 :ARG0 (vx1 / organization :name (vx2 / name :op1 "JCAA")) :ARG1 (vx3 / good :mod (vx4 / this)) :time (vx5 / available-02 :ARG2 (vx6 / information :quant (vx7 / more) :topic (vx8 / and :op1 (vx9 / and :op1 (vx10 / organization :ARG0-of (vx11 / accept-01 :ARG1 vx3)) :op2 (vx12 / thing :ARG1-of (vx13 / need-01 :ARG0 (vx14 / person :ARG1-of (vx15 / local-02)))) :op3 (vx16 / thing :ARG1-of (vx17 / need-01 :ARG0 (vx18 / region))))))))
+
+# ::snt Traffic was flowing freely through the Netzarim junction, just south of Gaza City, the Kissufim junction by Deir al-Balah in the central Gaza Strip, and the Guest House junction just south of Deir al-Balah after the army withdrew.
+(vx0 / flow-01 :ARG1 (vx1 / traffic) :ARG3 (vx2 / and :op1 (vx3 / junctions :name (vx4 / name :op1 "Netzarim") :location (vx5 / relative-position :op1 (vx6 / city :name (vx7 / name :op1 "Gaza" :op2 "City")) :direction (vx8 / south) :mod (vx9 / just))) :op2 (vx10 / junctions :name (vx11 / name :op1 "Kissufim") :location (vx12 / city :name (vx13 / name :op1 "Deir" :op2 "al-Balah") :location (vx14 / center :part-of (vx15 / country-region :name (vx16 / name :op1 "Gaza" :op2 "Strip"))))) :op3 (vx17 / junctions :name (vx18 / name :op1 "Guest" :op2 "House" :op3 "Junction") :location (vx19 / relative-position :op1 vx12 :direction (vx20 / south)))) :ARG1-of (vx21 / free-04) :time (vx22 / after :op1 (vx23 / withdraw-01 :ARG0 (vx24 / army))))
+
+# ::snt Most people feel unintelligent and awkward when they first get to uni- you're definitely not alone there. But I would really recommend that you get an appointment with your uni counselling services. It doesn't really matter whether anyone has told you that you are depressed or not, you are obviously having some problems at the minute and could use some support- labels aren't as important as your experiences. Meditation and exercise are really helpful, so definitely try to do those. But yeah, you will have to engage with help and life in general to get somewhere- but don't beat yourself up about feeling unmotivated to do anything at the minute, lots of people feel like this and hopefully it will pass as you begin to feel better. Being unkind to yourself will only make you feel worse- be kind to yourself and get some help.
+(vx0 / multi-sentence :snt1 (vx1 / and :op1 (vx2 / feel-01 :ARG0 (vx3 / person :mod (vx4 / most)) :ARG1 (vx5 / and :op1 (vx6 / intelligent-01 :polarity - :ARG1 vx3) :op2 (vx7 / awkward)) :time (vx8 / get-05 :ARG1 vx3 :ARG2 (vx9 / university) :ord (vx10 / ordinal-entity :value 1))) :op2 (vx11 / alone :polarity - :domain (vx12 / you) :mod (vx13 / definite) :location vx9) :op3 (vx14 / contrast-01 :ARG2 (vx15 / recommend-01 :ARG0 (vx16 / i) :ARG1 (vx17 / get-01 :ARG0 vx12 :ARG1 (vx18 / appointment-02 :ARG0 vx12 :ARG1 (vx19 / service :mod vx9 :ARG0-of (vx20 / counsel-01 :ARG1 vx12)))) :ARG2 vx12 :ARG1-of (vx21 / real-04))) :snt4 (vx22 / and :op1 (vx23 / obvious-01 :ARG1 (vx24 / have-03 :ARG0 vx12 :ARG1 (vx25 / problem :quant (vx26 / some)) :time (vx27 / minute))) :op2 (vx28 / possible-01 :ARG1 (vx29 / use-01 :ARG0 vx12 :ARG1 (vx30 / support-01 :mod (vx31 / some))))) :snt5 (vx32 / have-degree-91 :ARG1 (vx33 / feel-01 :ARG0 (vx34 / you) :ARG1 (vx35 / bad-07 :ARG2-of (vx36 / have-degree-91 :ARG1 vx33 :ARG3 (vx37 / more)))) :ARG2 vx33 :ARG3 (vx38 / more)) :snt5 (vx39 / kind-01 :mode imperative :ARG0 vx34 :ARG2 vx34) :snt6 (vx40 / get-01 :mode imperative :ARG0 vx34 :ARG1 (vx41 / help-01 :mod (vx42 / some))) :snt7 (vx43 / helpful-04 :ARG0 (vx44 / and :op1 (vx45 / meditate-01) :op2 (vx46 / exercise-02)) :ARG1-of (vx47 / real-04) :ARG0-of (vx48 / cause-01 :ARG1 (vx49 / try-01 :mode imperative :ARG0 (vx50 / you) :ARG1 vx44 :mod (vx51 / definite)))) :snt8 (vx52 / contrast-01 :ARG2 (vx53 / contrast-01 :ARG1 (vx54 / obligate-01 :ARG1 (vx55 / you) :ARG2 (vx56 / engage-01 :ARG1 vx55 :ARG2 (vx57 / and :op1 (vx58 / help-01) :op2 (vx59 / life :ARG1-of (vx60 / general-02))) :purpose (vx61 / get-05 :ARG1 vx55 :ARG2 (vx62 / somewhere)))) :ARG2 (vx63 / beat-up-05 :polarity - :mode imperative :ARG0 vx55 :ARG1 vx55 :ARG1-of (vx64 / cause-01 :ARG0 (vx65 / feel-01 :ARG0 vx55 :ARG1 (vx66 / motivate-01 :polarity - :ARG1 vx55 :ARG2 (vx67 / do-02 :ARG0 vx55 :ARG1 (vx68 / anything) :time (vx69 / minute)))))) :snt9 (vx70 / and :op1 (vx71 / feel-01 :ARG0 (vx72 / person :quant (vx73 / lot)) :ARG1 (vx74 / thing :ARG1-of (vx75 / resemble-01 :ARG2 (vx76 / this)))) :op2 (vx77 / pass-03 :ARG1 vx72 :ARG1-of (vx78 / hopeful-03) :time (vx79 / begin-01 :ARG0 vx55 :ARG1 (vx80 / feel-01 :ARG0 vx55 :ARG1 (vx81 / good-02 :ARG2-of (vx82 / have-degree-91 :ARG1 vx80 :ARG3 (vx83 / more)))))))) :snt10 (vx84 / important-01 :polarity - :ARG1 (vx85 / thing :ARG2-of (vx86 / label-01)) :ARG2-of (vx87 / have-degree-91 :ARG1 vx85 :ARG3 (vx88 / equal) :ARG4 (vx89 / thing :ARG1-of (vx90 / experience-01 :ARG0 vx55)))))))
+
+# ::snt Many Chinese provinces have reported disastrous weather in recent weeks, when flooding hit central and southern China while droughts persisted in the north.
+(vx0 / report-01 :ARG0 (vx1 / province :quant (vx2 / many) :location (vx3 / country :name (vx4 / name :op1 "China"))) :ARG1 (vx5 / weather :mod (vx6 / disaster) :ARG1-of (vx7 / cause-01 :ARG0 (vx8 / contrast-01 :ARG1 (vx9 / hit-01 :ARG0 (vx10 / flood-01) :ARG1 (vx11 / and :op1 (vx12 / center :part-of vx3) :op2 (vx13 / south :part-of vx3))) :ARG2 (vx14 / persist-01 :ARG1 (vx15 / drought) :location (vx16 / north))))) :time (vx17 / week :mod (vx18 / recent)))
+
+# ::snt I 'd usually take the pro-road position -
+(vx0 / position-02 :ARG0 (vx1 / i) :ARG2 (vx2 / favor-01 :ARG1 (vx3 / road)) :mod (vx4 / usual))
+
+# ::snt Officials in Los Angeles mull ways to accommodate Katrina evacuees
+(vx0 / mull-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG1 (vx3 / city :name (vx4 / name :op1 "Los" :op2 "Angeles")) :ARG2 (vx5 / official))) :ARG1 (vx6 / way :manner-of (vx7 / accommodate-01 :ARG0 vx1 :ARG1 (vx8 / person :ARG1-of (vx9 / evacuate-01 :ARG2 (vx10 / natural-disaster :name (vx11 / name :op1 "Katrina")))))))
+
+# ::snt Beginning on Friday, September 2, there will be a United Van Lines truck stationed at the JCAA to collect items approved by the American Red Cross Disaster Relief, including: new or gently used clothing, staples such as toothbrushes, toothpaste, diapers and non-perishable food items: bottled water, peanut butter, tuna fish and granola/cereal bars.
+(vx0 / station-01 :ARG1 (vx1 / truck :mod (vx2 / company :name (vx3 / name :op1 "United" :op2 "Van" :op3 "Lines"))) :ARG2 (vx4 / facility :name (vx5 / name :op1 "JCAA")) :ARG1-of (vx6 / begin-01 :time (vx7 / date-entity :month 9 :day 2 :weekday (vx8 / friday))) :purpose (vx9 / collect-01 :ARG0 vx1 :ARG1 (vx10 / item :ARG1-of (vx11 / approve-01 :ARG0 (vx12 / organization :name (vx13 / name :op1 "American" :op2 "Red" :op3 "Cross" :op4 "Disaster" :op5 "Relief"))) :ARG2-of (vx14 / include-01 :ARG1 (vx15 / and :op1 (vx16 / or :op1 (vx17 / clothing :ARG1-of (vx18 / new-01)) :op2 (vx19 / clothing :ARG1-of (vx20 / use-01 :manner (vx21 / gentle)))) :op2 (vx22 / staple :example (vx23 / and :op1 (vx24 / brush-01 :ARG2 (vx25 / tooth)) :op2 (vx26 / toothpaste) :op3 (vx27 / diaper) :op4 (vx28 / item :mod (vx29 / food) :ARG1-of (vx30 / perish-01 :polarity -) :example (vx31 / and :op1 (vx32 / water :ARG1-of (vx33 / bottle-01)) :op2 (vx34 / butter :consist-of (vx35 / peanut)) :op3 (vx36 / fish :mod (vx37 / tuna)) :op4 (vx38 / bar :consist-of (vx39 / granola) :consist-of (vx40 / cereal)))))))))))
+
+# ::snt According to other reports reaching here, five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border.
+(vx0 / say-01 :ARG0 (vx1 / thing :ARG1-of (vx2 / report-01) :mod (vx3 / other) :ARG0-of (vx4 / reach-01 :ARG1 (vx5 / here))) :ARG1 (vx6 / and :op1 (vx7 / kill-01 :ARG1 (vx8 / passenger :quant 5 :mod (vx9 / bus :mod (vx10 / country :name (vx11 / name :op1 "Syria"))))) :op2 (vx12 / injure-01 :ARG1 (vx13 / passenger :quant 10 :mod (vx14 / other))) :time (vx15 / date-entity :weekday (vx16 / sunday) :dayperiod (vx17 / morning)) :time (vx18 / hit-01 :ARG0 (vx19 / missile :mod (vx20 / country :name (vx21 / name :op1 "US"))) :ARG1 (vx22 / bus :location-of (vx23 / travel-01 :ARG0 vx8) :ARG1-of (vx24 / near-02 :ARG2 (vx25 / border-01 :ARG1 vx20 :ARG2 (vx26 / country :name (vx27 / name :op1 "Iraq"))))))))
+
+# ::snt In the competition today , both sides each have 7 Go players participating .
+(vx0 / compete-01 :ARG0 (vx1 / side :mod (vx2 / both) :mod (vx3 / each)) :ARG2 (vx4 / person :quant 7 :ARG0-of (vx5 / play-01 :ARG1 (vx6 / game :name (vx7 / name :op1 "Go"))) :ARG0-of (vx8 / participate-01)) :time (vx9 / today))
+
+# ::snt a group of people of nine professions
+(vx0 / group :consist-of (vx1 / person :ARG0-of (vx2 / have-03 :ARG1 (vx3 / profession :quant 9))))
+
+# ::snt Additional traffic congestion in old places ?
+(vx0 / congest-01 :polarity (vx1 / amr-unknown) :ARG1 (vx2 / place :mod (vx3 / old)) :ARG2 (vx4 / traffic) :mod (vx5 / additional))
+
+# ::snt Conflict in the caucus region has lasted for years along Russia's borders.
+(vx0 / last-01 :ARG1 (vx1 / conflict-01 :location (vx2 / region :mod (vx3 / caucus))) :ARG2 (vx4 / multiple :op1 (vx5 / temporal-quantity :quant 1 :unit (vx6 / year))) :location (vx7 / along :op1 (vx8 / border :poss (vx9 / country :name (vx10 / name :op1 "Russia")))))
+
+# ::snt Thanks for nothing .
+(vx0 / thank-01 :ARG1 (vx1 / you) :ARG2 (vx2 / nothing))
+
+# ::snt The Austin JCC website has updates on local relief efforts.
+(vx0 / have-03 :ARG0 (vx1 / website :mod (vx2 / organization :name (vx3 / name :op1 "Austin" :op2 "JCC"))) :ARG1 (vx4 / update-02 :ARG2 (vx5 / effort-01 :ARG1 (vx6 / relieve-01) :ARG1-of (vx7 / local-02))))
+
+# ::snt We will also focus on developing a group of trained spiritual care responders, available to meet the pastoral needs of those in crisis.
+(vx0 / focus-01 :ARG0 (vx1 / we) :ARG1 (vx2 / develop-02 :ARG0 vx1 :ARG1 (vx3 / group :consist-of (vx4 / person :ARG0-of (vx5 / respond-01 :ARG1 (vx6 / care-03 :mod (vx7 / spiritual))) :ARG2-of (vx8 / train-01) :ARG2-of (vx9 / available-02 :purpose (vx10 / meet-01 :ARG0 vx4 :ARG1 (vx11 / need-01 :ARG0 (vx12 / person :mod (vx13 / crisis)) :ARG1 (vx14 / pastoral))))))) :mod (vx15 / also))
+
+# ::snt A deadly tropical cyclone Nargis, which occurred over the Bay of Bengal, severely hit five divisions and states -- Yangon, Bago, Ayeyawaddy, Kayin and Mon -- on May 2 and 3, covering such coastal towns in the Ayeyawaddy division as Haing Gyi Island, Pathein, Myaungmya, Laputta, Mawlamyinegyun, Kyaiklat, Phyarpon and Bogalay, and 45 townships in the biggest city of Yangon and sustaining the heaviest ever casualties and infrastructural damage.
+(vx0 / hit-01 :ARG0 (vx1 / cyclone :name (vx2 / name :op1 "Nargis") :mod (vx3 / tropic) :location (vx4 / over :op1 (vx5 / bay :name (vx6 / name :op1 "Bay" :op2 "of" :op3 "Bengal"))) :ARG0-of (vx7 / kill-01)) :ARG1 (vx8 / and :op1 (vx9 / and :op1 (vx10 / division :quant 5) :op2 (vx11 / state :quant 5) :ARG1-of (vx12 / mean-01 :ARG2 (vx13 / and :op1 (vx14 / island :name (vx15 / name :op1 "Yangon")) :op2 (vx16 / island :name (vx17 / name :op1 "Bago")) :op3 (vx18 / country-region :name (vx19 / name :op1 "Ayeyawaddy")) :op4 (vx20 / island :name (vx21 / name :op1 "Kayin")) :op5 (vx22 / island :name (vx23 / name :op1 "Mon"))))) :op2 (vx24 / and :op1 (vx25 / division :quant 2) :op2 (vx26 / state :quant 45) :ARG1-of (vx27 / mean-01 :ARG2 (vx28 / and :op1 (vx29 / island :name (vx30 / name :op1 "Haing" :op2 "Gyi" :op3 "Island")) :op2 (vx31 / island :name (vx32 / name :op1 "Pathein")) :op3 (vx33 / town :name (vx34 / name :op1 "Myaungmya")) :op4 (vx35 / town :name (vx36 / name :op1 "Laputta")) :op5 (vx37 / town :name (vx38 / name :op1 "Mawlamyinegyun")) :op6 (vx39 / town :name (vx40 / name :op1 "Kyaiklat")) :op7 (vx41 / town :name (vx42 / name :op1 "Phyarpon")) :op8 (vx43 / town :name (vx44 / name :op1 "Bogalay")) :location vx18))) :manner (vx45 / severe) :ARG0-of (vx46 / sustain-01 :ARG1 (vx47 / and :op1 (vx48 / casualty :mod (vx49 / heavy :degree (vx50 / most) :compared-to (vx51 / ever))) :op2 (vx52 / damage-01 :mod (vx53 / infrastructure))))))
+
+# ::snt i dont what to stop,
+(vx0 / know-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / thing :ARG1-of (vx3 / stop-01 :ARG0 vx1)))
+
+# ::snt "Israel has implemented most of the agreement except for a few issues," the source said, pointing out that Israel had still not removed two military observation posts at the Kissufim junction and the Guest House junction.
+(vx0 / and :op1 (vx1 / say-01 :ARG0 (vx2 / source) :ARG1 (vx3 / implement-01 :ARG0 (vx4 / country :name (vx5 / name :op1 "Israel")) :ARG1 (vx6 / thing :ARG1-of (vx7 / include-91 :ARG2 (vx8 / agree-01) :ARG3 (vx9 / most)) :ARG2-of (vx10 / except-01 :ARG1 (vx11 / issue-02 :quant (vx12 / few)))))) :op2 (vx13 / point-out-02 :ARG0 vx2 :ARG1 (vx14 / remove-01 :polarity - :ARG0 vx4 :ARG1 (vx15 / post :quant 2 :mod (vx16 / military) :ARG0-of (vx17 / observe-01) :location (vx18 / and :op1 (vx19 / junction :name (vx20 / name :op1 "Kissufim")) :op2 (vx21 / junction :name (vx22 / name :op1 "Guest" :op2 "House" :op3 "Junction")))) :mod (vx23 / still))))
+
+# ::snt PLEASE separate clothing items and label for children, women or men.
+(vx0 / separate-02 :mode imperative :polite + :ARG0 (vx1 / you) :ARG1 (vx2 / and :op1 (vx3 / item :mod (vx4 / clothing)) :op2 (vx5 / label-01 :ARG1 vx3 :ARG3 (vx6 / or :op1 (vx7 / child) :op2 (vx8 / woman) :op3 (vx9 / man)))))
+
+# ::snt Doctors will have seen much worse cases so don't worry about that!
+(vx0 / see-01 :ARG0 (vx1 / doctor) :ARG1 (vx2 / case-04 :ARG1-of (vx3 / have-degree-91 :ARG2 (vx4 / bad-07 :ARG1 vx2) :ARG3 (vx5 / more :quant (vx6 / much)))) :ARG0-of (vx7 / cause-01 :ARG1 (vx8 / worry-01 :polarity - :ARG0 vx0 :ARG1 (vx9 / you))))
+
+# ::snt The entertainment circle is a dirty one, all men in it are birds and beasts and scum
+(vx0 / and :op1 (vx1 / circle-01 :ARG1 (vx2 / entertain-01) :ARG1-of (vx3 / dirty-02) :part vx4) :op2 (vx4 / man :mod (vx5 / all) :domain (vx6 / and :op1 (vx7 / bird) :op2 (vx8 / beast) :op3 (vx9 / scum))))
+
+# ::snt Please RSVP if you can attend: aaim@aaimaustin.org or call 512-386-9145 Food will be provided for $3.00
+(vx0 / multi-sentence :snt1 (vx1 / RSVP :polite + :mode imperative :ARG0 (vx2 / you) :condition (vx3 / possible-01 :ARG1 (vx4 / attend-01 :ARG0 vx2)) :medium (vx5 / or :op1 (vx6 / email-address-entity :value "aaim@aaimaustin.org") :op2 (vx7 / call-02 :mode imperative :ARG0 vx2 :ARG1 (vx8 / phone-number-entity :value "512-386-9145"))) :snt2 (vx9 / provide-01 :ARG1 (vx10 / food :ARG1-of (vx11 / cost-01 :ARG2 (vx12 / monetary-quantity :quant 3 :unit (vx13 / dollar)))))))
+
+# ::snt The provincial office of disaster relief said the tornado struck several towns 11:10 p.m. Tuesday and 2 a.m. Wednesday.
+(vx0 / say-01 :ARG0 (vx1 / office :mod (vx2 / province) :mod (vx3 / relieve-01 :ARG1 (vx4 / disaster))) :ARG1 (vx5 / strike-01 :ARG0 (vx6 / tornado) :ARG1 (vx7 / town :quant (vx8 / several)) :time (vx9 / and :op1 (vx10 / date-entity :time "23:10" :weekday (vx11 / tuesday)) :op2 (vx12 / date-entity :time "2:00" :weekday (vx13 / wednesday)))))
+
+# ::snt The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians, security sources said.
+(vx0 / say-01 :ARG0 (vx1 / source :mod (vx2 / security)) :ARG1 (vx3 / hand-over-02 :ARG0 (vx4 / army) :ARG1 (vx5 / control-01 :ARG0 vx4 :ARG1 (vx6 / cross-02 :ARG1 (vx7 / border-01 :ARG1 (vx8 / country-region :name (vx9 / name :op1 "Rafah")) :ARG2 (vx10 / country :name (vx11 / name :op1 "Egypt")) :ARG3 (vx12 / country-region :name (vx13 / name :op1 "Gaza" :op2 "Strip"))))) :ARG2 (vx14 / person :mod (vx15 / country :name (vx16 / name :op1 "Palestine"))) :mod (vx17 / also)))
+
+# ::snt However, rescue work was hampered by thick snow and signs of new avalanche, said Deng.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Deng")) :ARG1 (vx3 / contrast-01 :ARG2 (vx4 / hamper-01 :ARG0 (vx5 / and :op1 (vx6 / snow :ARG1-of (vx7 / thick-03)) :op2 (vx8 / signal-07 :ARG1 (vx9 / avalanche :ARG1-of (vx10 / new-01)))) :ARG1 (vx11 / work-01 :ARG1 (vx12 / rescue-01)))))
+
+# ::snt The relief operations were also hampered in some places due to the continuous rains.
+(vx0 / hamper-01 :ARG0 (vx1 / rain-01 :ARG1-of (vx2 / continue-01)) :ARG1 (vx3 / operate-01 :ARG1 (vx4 / relieve-01)) :location (vx5 / place :quant (vx6 / some)) :mod (vx7 / also))
+
+# ::snt The results of today 's preliminary women 's water - polo competition are : the Hungarian team defeated the Canadian team by 13 : 7 , the French team defeated the Brazilian team by 10 : 9 , the Australian team defeated the German team by 10 : 8 , the Russian team defeated the Dutch team by 7 : 6 , the US team defeated the Kazakhstani team by 10 : 5 , and the Italian team defeated the New Zealand team by 12 : 2 .
+(vx0 / result-01 :ARG1 (vx1 / compete-01 :ARG0 (vx2 / woman) :ARG3 (vx3 / water-polo) :mod (vx4 / preliminary) :time (vx5 / today)) :ARG2 (vx6 / and :op1 (vx7 / defeat-01 :ARG0 (vx8 / team :mod (vx9 / country :name (vx10 / name :op1 "Hungary"))) :ARG1 (vx11 / team :mod (vx12 / country :name (vx13 / name :op1 "Canada"))) :ARG2 (vx14 / score-entity :op1 13 :op2 7)) :op2 (vx15 / defeat-01 :ARG0 (vx16 / team :mod (vx17 / country :name (vx18 / name :op1 "France"))) :ARG1 (vx19 / team :mod (vx20 / country :name (vx21 / name :op1 "Brazil"))) :ARG2 (vx22 / score-entity :op1 10 :op2 9)) :op3 (vx23 / defeat-01 :ARG0 (vx24 / team :mod (vx25 / country :name (vx26 / name :op1 "Australia"))) :ARG1 (vx27 / team :mod (vx28 / country :name (vx29 / name :op1 "Germany"))) :ARG2 (vx30 / score-entity :op1 10 :op2 8)) :op4 (vx31 / defeat-01 :ARG0 (vx32 / team :mod (vx33 / country :name (vx34 / name :op1 "Russia"))) :ARG1 (vx35 / team :mod (vx36 / country :name (vx37 / name :op1 "Netherlands"))) :ARG2 (vx38 / score-entity :op1 7 :op2 6)) :op5 (vx39 / defeat-01 :ARG0 (vx40 / team :mod (vx41 / country :name (vx42 / name :op1 "US"))) :ARG1 (vx43 / team :mod (vx44 / country :name (vx45 / name :op1 "Kazakhstan"))) :ARG2 (vx46 / score-entity :op1 10 :op2 5)) :op6 (vx47 / defeat-01 :ARG0 (vx48 / team :mod (vx49 / country :name (vx50 / name :op1 "Italy"))) :ARG1 (vx51 / team :mod (vx52 / country :name (vx53 / name :op1 "New" :op2 "Zealand"))) :ARG2 (vx54 / score-entity :op1 12 :op2 2))))
+
+# ::snt In the first round of competition , the Chinese team defeated the relatively stronger Korean team with a score of 4 : 3 .
+(vx0 / defeat-01 :ARG0 (vx1 / team :mod (vx2 / country :name (vx3 / name :op1 "China"))) :ARG1 (vx4 / team :mod (vx5 / country :name (vx6 / name :op1 "Korea"))) :time (vx7 / round :ord (vx8 / ordinal-entity :value 1) :subevent-of (vx9 / compete-01)) :manner (vx10 / score-entity :op1 4 :op2 3) :ARG1-of (vx11 / have-degree-91 :ARG2 (vx12 / strong-02 :ARG1 vx0) :ARG3 (vx13 / more :ARG1-of (vx14 / relative-05))))
+
+# ::snt The death toll in Rajasthan's floods touched 33 as five more persons were swept away in the past 48 hours in the desert state where nine districts are facing the fury of the monsoon rains.
+(vx0 / touch-01 :ARG0 (vx1 / toll :quant-of (vx2 / die-01) :location (vx3 / flood-01 :ARG1 (vx4 / state :name (vx5 / name :op1 "Rajasthan") :location (vx6 / desert) :location-of (vx7 / face-01 :ARG0 (vx8 / district :quant 9) :ARG1 (vx9 / fury :poss (vx10 / rain-01 :mod (vx11 / monsoon)))))) :ARG1 (vx12 / person :quant 33) :ARG1-of (vx13 / cause-01 :ARG0 (vx14 / sweep-02 :ARG1 (vx15 / person :quant 5 :mod (vx16 / more)) :ARG2 (vx17 / away) :time (vx18 / before :op1 (vx19 / now) :duration (vx20 / temporal-quantity :quant 48 :unit (vx21 / hour)))))))
+
+# ::snt MENYUAN, Northwest China, Apr. 5
+(vx0 / be-located-at-91 :ARG2 (vx1 / city :name (vx2 / name :op1 "Menyuan") :location (vx3 / northwest :part-of (vx4 / country :name (vx5 / name :op1 "China")))) :time (vx6 / date-entity :month 4 :day 5))
+
+# ::snt but with the glaring needs in other parts of the state , 288 was definitely excess ...
+(vx0 / contrast-01 :ARG2 (vx1 / excess :domain (vx2 / thing :quant 288) :mod (vx3 / definite) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / need-01 :ARG1-of (vx6 / bloat-01) :location (vx7 / part :mod (vx8 / other) :part-of (vx9 / state))))))
+
+# ::snt Volunteers look here.
+(vx0 / look-01 :ARG0 (vx1 / person :ARG0-of (vx2 / volunteer-01)) :location (vx3 / here))
+
+# ::snt We will begin with an interfaith service of reflection, song and prayer.
+(vx0 / begin-01 :ARG0 (vx1 / we) :ARG2 (vx2 / serve-01 :ARG0 vx1 :ARG1 (vx3 / and :op1 (vx4 / reflect-02 :ARG0 vx1) :op2 (vx5 / sing-01 :ARG0 vx1) :op3 (vx6 / pray-01 :ARG0 vx1)) :mod (vx7 / interfaith)))
+
+# ::snt Sportsmen , coaches , doctors , nurses and officials of the delegation sat neatly below the stage .
+(vx0 / sit-01 :ARG1 (vx1 / and :op1 (vx2 / sportsman) :op2 (vx3 / person :ARG0-of (vx4 / coach-01)) :op3 (vx5 / doctor) :op4 (vx6 / nurse) :op5 (vx7 / person :ARG0-of (vx8 / have-org-role-91 :ARG1 (vx9 / delegation) :ARG2 (vx10 / official)))) :ARG2 (vx11 / below :op1 (vx12 / stage)) :manner (vx13 / neat))
+
+# ::snt The handover is a credibility test for the Palestinian Authority, which must show it means business when it comes to reining in hardline groups plotting attacks on the Jewish state.
+(vx0 / test-01 :ARG0 (vx1 / government-organization :name (vx2 / name :op1 "Palestinian" :op2 "Authority") :ARG1-of (vx3 / obligate-01 :ARG2 (vx4 / show-01 :ARG0 vx1 :ARG1 (vx5 / mean-01 :ARG1 vx1 :ARG2 (vx6 / business) :time (vx7 / come-12 :ARG1 (vx8 / rein-in-01 :ARG1 (vx9 / group :mod (vx10 / hardline) :ARG0-of (vx11 / plot-01 :ARG1 (vx12 / attack-01 :ARG1 (vx13 / state :mod (vx14 / religious-group :name (vx15 / name :op1 "Jew")))))))))))) :ARG1 (vx16 / credibility) :ARG2 (vx17 / hand-over-02))
+
+# ::snt Vice provincial governor Zhao Shucong led a relief team to Tianchang Wednesday morning, promising relief funds, materials and medical assistance.
+(vx0 / and :op1 (vx1 / lead-02 :ARG0 (vx2 / person :name (vx3 / name :op1 "Zhao" :op2 "Shucong") :ARG0-of (vx4 / have-org-role-91 :ARG1 (vx5 / province) :ARG2 (vx6 / governor :mod (vx7 / vice)))) :ARG1 (vx8 / team :ARG0-of (vx9 / relieve-01)) :ARG4 (vx10 / city-district :name (vx11 / name :op1 "Tianchang")) :time (vx12 / date-entity :weekday (vx13 / wednesday) :dayperiod (vx14 / morning))) :op2 (vx15 / promise-01 :ARG0 vx2 :ARG2 (vx16 / and :op1 (vx17 / fund :mod vx9) :op2 (vx18 / material) :op3 (vx19 / assist-01 :mod (vx20 / medicine)))))
+
+# ::snt It has 3 bedrooms A/C and a kitchen.
+(vx0 / have-03 :ARG0 (vx1 / it) :ARG1 (vx2 / and :op1 (vx3 / bedroom :quant 3 :mod (vx4 / air-conditioning)) :op2 (vx5 / kitchen)))
+
+# ::snt He also said : " Our athletes are not very used to carrying out competition under strong sunlight . "
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / use-02 :polarity - :ARG0 (vx3 / athlete :poss (vx4 / we)) :ARG1 (vx5 / carry-out-03 :ARG0 vx3 :ARG1 (vx6 / compete-01 :ARG0 vx3) :location (vx7 / sunlight :ARG1-of (vx8 / strong-02))) :degree (vx9 / very)) :mod (vx10 / also))
+
+# ::snt and they are creating traffic congestion in new places .
+(vx0 / and :op2 (vx1 / create-01 :ARG0 (vx2 / they) :ARG1 (vx3 / congest-01 :ARG0 (vx4 / traffic) :location (vx5 / place :ARG1-of (vx6 / new-01)))))
+
+# ::snt Their houses are located in Al-Azamiyah, one of the most populous areas in the Iraqi capital of Baghdad, they said.
+(vx0 / say-01 :ARG0 (vx1 / they) :ARG1 (vx2 / be-located-at-91 :ARG1 (vx3 / house :poss vx1) :ARG2 (vx4 / area :name (vx5 / name :op1 "Al-Azamiyah") :ARG1-of (vx6 / include-91 :ARG2 (vx7 / area :ARG1-of (vx8 / have-degree-91 :ARG2 (vx9 / populate-01 :ARG1 vx7) :ARG3 (vx10 / most) :ARG5 (vx11 / area :location (vx12 / city :name (vx13 / name :op1 "Baghdad") :ARG0-of (vx14 / have-org-role-91 :ARG1 (vx15 / country :name (vx16 / name :op1 "Iraq")) :ARG2 (vx17 / capital))))))))))
+
+# ::snt Do any of you have a similar 'ritual'?
+(vx0 / have-03 :polarity (vx1 / amr-unknown) :ARG0 (vx2 / any :ARG1-of (vx3 / include-91 :ARG2 (vx4 / you))) :ARG1 (vx5 / ritual :ARG1-of (vx6 / resemble-01)))
+
+# ::snt You have a city , Richmond , that has virtually no traffic .
+(vx0 / have-03 :ARG0 (vx1 / you) :ARG1 (vx2 / city :name (vx3 / name :op1 "Richmond") :ARG1-of (vx4 / traffic :ARG1-of (vx5 / have-polarity-91 :ARG2 - :degree (vx6 / virtual)))))
+
+# ::snt Other articles: "A book for Taiwan compatriots-I have a dream", "The necessity for building memorials museums or temples for Chinese national heroes", "How long will we tolerate it", "China is expecting the Olympics, but would never beg for the Olympics", "If we forget the hardship of history, there will be more history of hardship", "I am Chinese", "There is only one Chinese nation, there is only one Chinese culture", "With the over-development of sports, the state may decline", "'Wealthy country, strong people' or 'wealthy officials, poor people"?", "Disgusting Ren Zhiqiang, shut your filthy mouth", "Hateful housing prices! Pitiable people!", "Google, you have no right to make irresponsible remarks to China", "How long will we tolerate the US", "Japan deserved the bombing-strongly oppose Ban Ki-moon presenting a bouquet in Hiroshima", "Be strong, my brothers and sisters", "Do we need low-level entertainment stars, or talents in technological innovation?", "Contemporary garbage writer, shameless Li Yinhe, please let the children off the hook"
+(vx0 / article :mod (vx1 / other) :example (vx2 / and :op1 (vx3 / book :beneficiary (vx4 / compatriot :mod (vx5 / country :name (vx6 / name :op1 "Taiwan"))) :ARG1-of (vx7 / dream-01 :ARG0 (vx8 / i))) :op2 (vx9 / need-01 :ARG1 (vx10 / build-01 :ARG1 (vx11 / or :op1 (vx12 / museum) :op2 (vx13 / temple)) :beneficiary (vx14 / hero :mod (vx15 / nation :mod (vx16 / country :name (vx17 / name :op1 "China")))))) :op3 (vx18 / tolerate-01 :ARG0 (vx19 / we) :ARG1 (vx20 / it) :duration (vx21 / amr-unknown)) :op4 (vx22 / contrast-01 :ARG1 (vx23 / expect-01 :ARG0 vx16 :ARG1 (vx24 / game :name (vx25 / name :op1 "Olympics"))) :ARG2 (vx26 / beg-01 :polarity - :ARG0 vx16 :ARG1 vx24 :time (vx27 / ever))) :op5 (vx28 / have-condition-91 :ARG1 (vx29 / history :quant (vx30 / more) :topic (vx31 / hardship)) :ARG2 (vx32 / forget-01 :ARG0 vx19 :ARG1 (vx33 / hardship :poss (vx34 / history)))) :op6 (vx35 / person :domain (vx36 / i) :mod vx16) :op7 (vx37 / strong-02 :mode imperative :ARG0 (vx38 / you) :ARG1 (vx39 / and :op1 (vx40 / person :ARG0-of (vx41 / have-rel-role-91 :ARG1 vx36 :ARG2 (vx42 / brother))) :op2 (vx43 / person :ARG0-of (vx44 / have-rel-role-91 :ARG1 vx36 :ARG2 (vx45 / sister))))) :op8 (vx46 / need-01 :ARG0 vx19 :ARG1 (vx47 / or :op1 (vx48 / star :mod (vx49 / entertainment) :mod (vx50 / level :ARG1-of (vx51 / low-04))) :op2 (vx52 / talent :topic (vx53 / innovate-01 :ARG1 (vx54 / technology)))) :polarity (vx55 / amr-unknown)) :op9 (vx56 / let-01 :polite + :mode imperative :ARG0 (vx57 / person :name (vx58 / name :op1 "Li" :op2 "Yinhe") :ARG0-of (vx59 / write-01 :ARG1 (vx60 / garbage)) :mod (vx61 / contemporary) :part (vx62 / mouth :mod (vx63 / filthy))) :ARG1 (vx64 / off :op1 (vx65 / hook)) :manner vx62) :op10 (vx66 / price-01 :ARG1 (vx67 / house-01) :ARG0-of (vx68 / hate-01)) :op11 (vx69 / person :mod (vx70 / pitiable)) :op12 (vx71 / say-01 :ARG1 (vx72 / right-05 :polarity - :ARG1 (vx73 / company :name (vx74 / name :op1 "Google")) :ARG2 (vx75 / remark-01 :ARG0 vx73 :ARG2 vx16 :ARG1-of (vx76 / responsible-02 :polarity -))) :op13 (vx77 / deserve-01 :ARG0 (vx78 / country :name (vx79 / name :op1 "Japan")) :ARG1 (vx80 / bomb-01)) :op14 (vx81 / oppose-01 :ARG0 vx78 :ARG1 (vx82 / person :name (vx83 / name :op1 "Ban" :op2 "Ki-moon") :ARG0-of (vx84 / present-01 :ARG1 (vx85 / bouquet) :location (vx86 / city :name (vx87 / name :op1 "Hiroshima")))) :ARG1-of (vx88 / strong-02)) :op15 (vx89 / possible-01 :ARG1 (vx90 / decline-01 :ARG1 (vx91 / state) :ARG1-of (vx92 / cause-01 :ARG0 (vx93 / develop-02 :ARG1 (vx94 / sport) :ARG1-of (vx95 / over-03))))))))
+
+# ::snt Looks like we still need to train more outdoors . "
+(vx0 / look-02 :ARG1 (vx1 / need-01 :ARG0 (vx2 / we) :ARG1 (vx3 / train-01 :ARG0 vx2 :location (vx4 / outdoors :quant (vx5 / more))) :mod (vx6 / still)))
+
+# ::snt The only thing that surprises me is how rapidly this is happening .
+(vx0 / surprise-01 :ARG0 (vx1 / thing :mod (vx2 / only) :domain (vx3 / rapid :degree-of (vx4 / this))) :ARG1 (vx5 / i))
+
+# ::snt Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday, police took up positions there and in the neighbouring town of Beit Lahiya, he said.
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / take-up-31 :ARG0 (vx3 / police) :ARG1 (vx4 / position-01 :ARG1 vx3 :ARG2 (vx5 / and :op1 (vx6 / city :name (vx7 / name :op1 "Beit" :op2 "Lahiya") :ARG1-of (vx8 / neighbor-01 :ARG2 vx6)) :op2 (vx9 / city :name (vx10 / name :op1 "Beit" :op2 "Hanoun") :location (vx11 / north)))) :ARG1-of (vx12 / follow-01 :ARG2 (vx13 / withdraw-01 :ARG1 (vx14 / troop :mod (vx15 / country :name (vx16 / name :op1 "Israel"))) :ARG2 vx6 :time (vx17 / late :op1 (vx18 / date-entity :weekday (vx19 / sunday)))))))
+
+# ::snt The move marked a huge step forward in carrying out the US-backed Middle East "roadmap", which aims to end the months of bloodshed and create a lasting peace between Israel and the Palestinians.
+(vx0 / mark-01 :ARG0 (vx1 / move-02) :ARG1 (vx2 / step-01 :ARG2 (vx3 / forward) :ARG3 (vx4 / carry-out-03 :ARG1 (vx5 / road :mod (vx6 / world-region :name (vx7 / name :op1 "Middle" :op2 "East")) :ARG1-of (vx8 / back-01 :ARG0 (vx9 / country :name (vx10 / name :op1 "US"))) :ARG0-of (vx11 / aim-01 :ARG1 (vx12 / and :op1 (vx13 / end-01 :ARG1 (vx14 / bloodshed :duration (vx15 / multiple :op1 (vx16 / temporal-quantity :quant 1 :unit (vx17 / month))))) :op2 (vx18 / create-01 :ARG1 (vx19 / peace :ARG1-of (vx20 / last-01) :mod (vx21 / between :op1 (vx22 / country :name (vx23 / name :op1 "Israel")) :op2 (vx24 / person :mod (vx25 / country :name (vx26 / name :op1 "Palestine")))))))))) :mod (vx27 / huge)))
+
+# ::snt "He might take his ID card with himself and we only know his name in Mandarin as Hung Zhihua," said Deng, adding local government is trying to find out his identity with Hong Kong Special Administrative Region government.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Deng") :ARG0-of (vx3 / add-01 :ARG1 (vx4 / try-01 :ARG0 (vx5 / government-organization :ARG0-of (vx6 / govern-01) :ARG1-of (vx7 / local-02)) :ARG1 (vx8 / find-out-03 :ARG0 vx5 :ARG1 (vx9 / identity :poss (vx10 / he) :accompanier (vx11 / government-organization :ARG0-of vx6 :location (vx12 / city :name (vx13 / name :op1 "Hong" :op2 "Kong" :op3 "Special" :op4 "Administrative" :op5 "Region")))))))) :ARG1 (vx14 / and :op1 (vx15 / possible-01 :ARG1 (vx16 / take-01 :ARG0 vx10 :ARG1 (vx17 / card :mod (vx18 / identity) :poss vx10) :ARG3 vx10)) :op2 (vx19 / know-02 :ARG0 (vx20 / we) :ARG1 (vx21 / name :poss vx10) :ARG2 (vx22 / person :name (vx23 / name :op1 "Hung" :op2 "Zhihua")) :medium (vx24 / language :name (vx25 / name :op1 "Mandarin")) :mod (vx26 / only))))
+
+# ::snt Search for the two missing outdoor tourists in an avalanche in northwestern China's Qinghai Province continued on Tuesday and the tourists' lack of precaution was listed as the main reason of the tragedy, which has already left one dead.
+(vx0 / and :op1 (vx1 / continue-01 :ARG1 (vx2 / search-01 :ARG2 (vx3 / person :quant 2 :ARG0-of (vx4 / tour-01) :ARG1-of (vx5 / miss-01 :location (vx6 / outdoor)) :location (vx7 / avalanche :location (vx8 / northwest :part-of (vx9 / province :name (vx10 / name :op1 "Qinghai" :op2 "Province") :location (vx11 / country :name (vx12 / name :op1 "China"))))))) :time (vx13 / date-entity :weekday (vx14 / tuesday))) :op2 (vx15 / list-01 :ARG1 (vx16 / lack-01 :ARG0 vx3 :ARG1 (vx17 / precaution-01 :ARG0 vx3)) :ARG2 (vx18 / reason :mod (vx19 / main) :ARG0-of (vx20 / cause-01 :ARG1 (vx21 / tragedy :ARG0-of (vx22 / leave-13 :ARG1 (vx23 / die-01 :ARG1 (vx24 / person :quant 1 :ARG0-of vx4)) :time (vx25 / already)))))))
+
+# ::snt I am 24 and a mother of a 2 and a half year old.
+(vx0 / and :op1 (vx1 / age-01 :ARG1 (vx2 / i) :ARG2 (vx3 / temporal-quantity :quant 24 :unit (vx4 / year))) :op2 (vx5 / have-rel-role-91 :ARG0 vx2 :ARG1 (vx6 / person :age (vx7 / temporal-quantity :quant "2.5" :unit (vx8 / year))) :ARG2 (vx9 / mother)))
+
+# ::snt "We have found no clue of the missing, but two helmets, over the past three days," said Deng.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Deng")) :ARG1 (vx3 / find-01 :ARG0 (vx4 / we) :ARG1 (vx5 / clue :polarity - :topic (vx6 / person :ARG1-of (vx7 / miss-01)) :ARG2-of (vx8 / except-01 :ARG1 (vx9 / helmet :quant 2))) :time (vx10 / before :op1 (vx11 / now) :duration (vx12 / temporal-quantity :quant 3 :unit (vx13 / day)))))
+
+# ::snt I think we could have spent the $ 400 million better elsewhere .
+(vx0 / think-01 :ARG0 (vx1 / i) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / spend-01 :ARG0 (vx4 / we) :ARG3 (vx5 / monetary-quantity :quant 400000000 :unit (vx6 / dollar)) :location (vx7 / elsewhere) :ARG1-of (vx8 / good-02 :ARG2-of (vx9 / have-degree-91 :ARG1 vx3 :ARG3 (vx10 / more))))))
+
+# ::snt The storm affected 23,681 people, destroyed 715 houses and caused estimated direct economic losses of 24 million yuan (2.9 million US dollars), according to officials.
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG2 (vx3 / official))) :ARG1 (vx4 / and :op1 (vx5 / affect-01 :ARG0 (vx6 / storm) :ARG1 (vx7 / person :quant 23681)) :op2 (vx8 / destroy-01 :ARG0 vx6 :ARG1 (vx9 / house :quant 715)) :op3 (vx10 / cause-01 :ARG0 vx6 :ARG1 (vx11 / lose-01 :ARG1 (vx12 / economy) :ARG2 (vx13 / monetary-quantity :quant 24000000 :unit (vx14 / yuan)) :ARG1-of (vx15 / direct-02) :ARG1-of (vx16 / estimate-01)))))
+
+# ::snt Pledge to fight to the death defending the Diaoyu Islands and the related islands
+(vx0 / Pledge-01 :mode imperative :ARG0 (vx1 / you) :ARG2 (vx2 / fight-01 :ARG0 vx1 :ARG2 (vx3 / defend-01 :ARG0 vx1 :ARG1 (vx4 / and :op1 (vx5 / island :name (vx6 / name :op1 "Diaoyu" :op2 "Islands")) :op2 (vx7 / island :ARG1-of (vx8 / relate-01 :ARG2 vx5)))) :extent (vx9 / die-01 :ARG1 vx1)))
+
+# ::snt its hard but you can do it.
+(vx0 / hard-02 :ARG1 (vx1 / it) :concession-of (vx2 / possible-01 :ARG1 (vx3 / do-02 :ARG0 (vx4 / you) :ARG1 vx1)))
+
+# ::snt It seems to me that the whole point of roads is to facilitate the public interest in getting to and from private businesses .
+(vx0 / seem-01 :ARG1 (vx1 / point-03 :ARG1 (vx2 / road) :ARG2 (vx3 / facilitate-01 :ARG0 vx2 :ARG1 (vx4 / interest-01 :ARG1 (vx5 / public) :ARG2 (vx6 / and :op1 (vx7 / get-05 :ARG2 (vx8 / business :ARG1-of (vx9 / private-03))) :op2 (vx10 / get-05 :ARG3 vx8)))) :mod (vx11 / whole)) :ARG2 (vx12 / i))
+
+# ::snt Dozens of people have already traveled from the ruins of Louisiana and Alabama to Los Angeles County and are being sheltered at the Dream Center, a non-profit agency.
+(vx0 / and :op1 (vx1 / travel-01 :ARG0 (vx2 / person :quant (vx3 / multiple :op1 12)) :ARG3 (vx4 / and :op1 (vx5 / ruin-01 :ARG1 (vx6 / state :name (vx7 / name :op1 "Louisiana"))) :op2 (vx8 / ruin-01 :ARG1 (vx9 / state :name (vx10 / name :op1 "Alabama")))) :ARG4 (vx11 / county :name (vx12 / name :op1 "Los" :op2 "Angeles" :op3 "County")) :time (vx13 / already)) :op2 (vx14 / shelter-01 :ARG1 vx2 :ARG2 (vx15 / agency :name (vx16 / name :op1 "Dream" :op2 "Center") :mod (vx17 / profit :polarity -))))
+
+# ::snt An atmosphere of confidence and eagerness for progress filled the ceremony ground .
+(vx0 / fill-01 :ARG1 (vx1 / ground :mod (vx2 / ceremony)) :ARG2 (vx3 / atmosphere :consist-of (vx4 / and :op1 (vx5 / confident-01) :op2 (vx6 / eager-01 :ARG2 (vx7 / progress-01)))))
+
+# ::snt A fifth team of rescuers has been dispatched to search for the missing and more than 140 rescuers are now involved in the operation.
+(vx0 / and :op1 (vx1 / dispatch-01 :ARG1 (vx2 / team :consist-of (vx3 / person :ARG0-of (vx4 / rescue-01)) :ord (vx5 / ordinal-entity :value 5)) :ARG2 (vx6 / search-01 :ARG0 vx2 :ARG2 (vx7 / person :ARG1-of (vx8 / miss-02)))) :op2 (vx9 / involve-01 :ARG1 (vx10 / person :ARG0-of vx4 :quant (vx11 / more-than :op1 140)) :ARG2 (vx12 / operation) :time (vx13 / now)))
+
+# ::snt Two of them climbed such a mountain for the first time, said Lu Shimin, one of the three survivors.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Lu" :op2 "Shimin") :ARG1-of (vx3 / include-91 :ARG2 (vx4 / person :quant 3 :ARG0-of (vx5 / survive-01)))) :ARG1 (vx6 / climb-01 :ARG0 (vx7 / person :quant 2 :ARG1-of (vx8 / include-91 :ARG2 (vx9 / they))) :ARG1 (vx10 / mountain :mod (vx11 / such)) :ord (vx12 / ordinal-entity :value 1)))
+
+# ::snt Among which , Weiping Nie , Xiaoguang Liu and Hao Chang both achieved victories in the middle games .
+(vx0 / win-01 :ARG0 (vx1 / and :op1 (vx2 / person :name (vx3 / name :op1 "Weiping" :op2 "Nie")) :op2 (vx4 / person :name (vx5 / name :op1 "Xiaoguang" :op2 "Liu")) :op3 (vx6 / person :name (vx7 / name :op1 "Hao" :op2 "Chang")) :ARG2-of (vx8 / include-91)) :ARG2 (vx9 / game :mod (vx10 / middle)))
+
+# ::snt For more information, please contact Liza Levine 512-735-8078, Alan Potash 512-735-8012 or Hayley Wasser 512-735-8082.
+(vx0 / contact-01 :mode imperative :polite + :ARG0 (vx1 / you) :ARG1 (vx2 / or :op1 (vx3 / person :name (vx4 / name :op1 "Liza" :op2 "Levine") :location (vx5 / street-address-91 :ARG2 512 :ARG6 878)) :op2 (vx6 / person :name (vx7 / name :op1 "Alan" :op2 "Potash") :location (vx8 / street-address-91 :ARG2 512 :ARG6 8012)) :op3 (vx9 / person :name (vx10 / name :op1 "Hayley" :op2 "Wasser") :location (vx11 / street-address-91 :ARG2 512 :ARG6 882))) :purpose (vx12 / information :mod (vx13 / more)))
+
+# ::snt Basically, imagine you were camping with a newborn.
+(vx0 / imagine-01 :mode imperative :ARG0 (vx1 / you) :ARG1 (vx2 / camp-02 :ARG0 vx1 :accompanier (vx3 / person :ARG1-of (vx4 / bear-02 :ARG1-of (vx5 / new-01)))) :mod (vx6 / basic))
+
+# ::snt We need shows in life, but it is really p. to show yourself within someone's embrace.
+(vx0 / contrast-01 :ARG1 (vx1 / need-01 :ARG0 (vx2 / we) :ARG1 (vx3 / show-04 :time (vx4 / live-01))) :ARG2 (vx5 / really) :domain (vx6 / show-01 :ARG0 (vx7 / you :ARG1-of vx6) :location (vx8 / embrace-02 :ARG0 (vx9 / someone) :ARG1 vx7)))
+
+# ::snt Holiday Inn (working with Red Cross) 8901 Business Park Drive $49/$59 night 343-0888
+(vx0 / be-located-at-91 :ARG1 (vx1 / hotel :name (vx2 / name :op1 "Holiday" :op2 "Inn") :ARG0-of (vx3 / work-01 :ARG3 (vx4 / organization :name (vx5 / name :op1 "Red" :op2 "Cross")))) :ARG2 (vx6 / street-address-91 :ARG1 8901 :ARG2 (vx7 / road :name (vx8 / name :op1 "Business" :op2 "Park" :op3 "Drive"))) :ARG3-of (vx9 / cost-01 :ARG1 (vx10 / night) :ARG3 (vx11 / monetary-quantity :quant 49 :unit (vx12 / dollar)) :ARG4 (vx13 / monetary-quantity :quant 59 :unit (vx14 / dollar))) :time (vx15 / date-interval :op1 (vx16 / date-entity :day 343 :month 888) :op2 (vx17 / date-entity :day 8 :month 888)))
+
+# ::snt A local doctor is worried about hygiene issues that have developed through disposal of urine by tens of thousands of homeless victims and it also constitutes a threat by unsettled thousands of dead bodies from the health point of view.
+(vx0 / and :op1 (vx1 / worry-02 :ARG0 (vx2 / doctor :ARG1-of (vx3 / local-02)) :ARG1 (vx4 / issue-02 :ARG0 (vx5 / hygiene) :ARG1-of (vx6 / develop-02 :ARG2 (vx7 / dispose-01 :ARG0 (vx8 / victim :mod (vx9 / homeless) :quant (vx10 / multiple :op1 10000)) :ARG1 (vx11 / urine))))) :op2 (vx12 / constitute-01 :ARG0 vx4 :ARG1 (vx13 / threaten-01 :ARG0 (vx14 / body :ARG1-of (vx15 / die-01) :ARG1-of (vx16 / unsettle-01) :quant (vx17 / multiple :op1 1000)) :manner (vx18 / view-02 :ARG1 (vx19 / health))) :mod (vx20 / also)))
+
+# ::snt Fifty-seven people are still being treated in hospital with serious injuries.
+(vx0 / treat-03 :ARG1 (vx1 / person :quant 57) :ARG2 (vx2 / injure-01 :ARG1 vx1 :ARG1-of (vx3 / serious-02)) :mod (vx4 / still) :location (vx5 / hospital))
+
+# ::snt The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8, officials said Monday.
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG2 (vx3 / official))) :ARG1 (vx4 / find-01 :ARG1 (vx5 / skeleton :part-of (vx6 / baby :ord (vx7 / ordinal-entity :value 2))) :location (vx8 / home :location (vx9 / state :name (vx10 / name :op1 "Wisconsin") :mod (vx11 / rural)) :location-of (vx12 / discover-01 :ARG1 (vx13 / infant :ARG1-of (vx14 / die-01) :poss (vx15 / woman :age (vx16 / temporal-quantity :quant 22 :unit (vx17 / year)))) :location (vx18 / container :consist-of (vx19 / plastic :mod (vx20 / blue))) :time (vx21 / date-entity :month 6 :day 8)))) :time (vx22 / date-entity :weekday (vx23 / monday)))
+
+# ::snt They collect and prepare nonperishable food boxes for local shelters and meal programs, and are helping with the Katrina effort.
+(vx0 / and :op1 (vx1 / collect-01 :ARG0 (vx2 / they) :ARG1 (vx3 / box :mod (vx4 / food) :ARG1-of (vx5 / perish-01 :polarity -)) :ARG3 (vx6 / and :op1 (vx7 / shelter-01 :ARG1-of (vx8 / local-02)) :op2 (vx9 / program :mod vx4))) :op2 (vx10 / prepare-01 :ARG0 vx2 :ARG1 vx3 :ARG3 vx6) :op3 (vx11 / help-01 :ARG0 vx2 :ARG1 (vx12 / effort-01 :ARG1 (vx13 / natural-disaster :name (vx14 / name :op1 "Katrina")))))
+
+# ::snt I now have more severe anxiety and think this was just a warning sign so just try and wean yourself out of the habit while it's relatively fresh-definitely visit your doctor but also tell yourself not to keep checking these things (easier said than done I know).
+(vx0 / cause-01 :ARG0 (vx1 / and :op1 (vx2 / have-03 :ARG0 (vx3 / i) :ARG1 (vx4 / anxiety :ARG1-of (vx5 / have-degree-91 :ARG2 (vx6 / severe) :ARG3 (vx7 / more))) :time (vx8 / now)) :op2 (vx9 / think-01 :ARG0 vx3 :ARG1 (vx10 / signal-07 :ARG0 (vx11 / this) :ARG1 (vx12 / warn-01) :mod (vx13 / just)))) :ARG1 (vx14 / and :op1 (vx15 / try-01 :ARG0 (vx16 / you) :ARG1 (vx17 / wean-out-02 :ARG0 vx16 :ARG1 vx16 :ARG2 (vx18 / habit) :time (vx19 / fresh-04 :ARG2-of (vx20 / relative-05))) :mod (vx21 / just)) :op2 (vx22 / contrast-01 :ARG1 (vx23 / visit-01 :ARG0 vx16 :ARG1 (vx24 / doctor :poss vx16) :mod (vx25 / definite)) :ARG2 (vx26 / tell-01 :ARG0 vx16 :ARG1 (vx27 / keep-02 :polarity - :ARG0 vx16 :ARG1 (vx28 / check-01 :ARG0 vx16 :ARG1 (vx29 / thing :mod (vx30 / this)))) :ARG2 vx16 :mod (vx31 / also)) :op3 (vx32 / say-01 :ARG1-of (vx33 / have-degree-91 :ARG2 (vx34 / easy-05 :ARG1 vx32) :ARG3 (vx35 / more) :ARG4 (vx36 / do-02 :ARG1 vx32) :ARG1-of (vx37 / know-01 :ARG0 vx3))))))
+
+# ::snt Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14.
+(vx0 / tell-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Kristin" :op2 "Scott") :ARG0-of (vx3 / have-rel-role-91 :ARG2 (vx4 / mother))) :ARG1 (vx5 / bear-02 :ARG0 vx1 :ARG1 (vx6 / and :op1 (vx7 / baby :quant 1 :mod (vx8 / sex :ARG1-of (vx9 / know-01 :polarity -) :time (vx10 / date-entity :month 4 :year 2001))) :op2 (vx11 / baby :mod (vx12 / girl :mod (vx13 / full-term)))) :manner (vx14 / secret) :location (vx15 / home :poss (vx16 / person :ARG0-of (vx17 / have-rel-role-91 :ARG1 vx1 :ARG2 (vx18 / parent))) :location (vx19 / city :name (vx20 / name :op1 "Byrds" :op2 "Creek") :location (vx21 / county :name (vx22 / name :op1 "Richland" :op2 "County")))) :time (vx23 / date-entity :month 1 :day 14)) :ARG2 (vx24 / police))
+
+# ::snt The woman's parents, William and Nancy Scott, found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house.
+(vx0 / find-01 :ARG0 (vx1 / and :op1 (vx2 / person :name (vx3 / name :op1 "William" :op2 "Scott") :ARG0-of (vx4 / have-rel-role-91 :ARG1 (vx5 / woman) :ARG2 (vx6 / parent) :ARG0 vx7)) :op2 (vx7 / person :name (vx8 / name :op1 "Nancy" :op2 "Scott"))) :ARG1 (vx9 / body :ARG1-of (vx10 / decompose-01) :part-of (vx11 / baby :ord (vx12 / ordinal-entity :value 1))) :location (vx13 / closet :poss vx5) :time (vx14 / after :op1 (vx15 / go-02 :ARG0 vx1 :ARG1 (vx16 / look-01 :ARG0 vx1 :ARG1 (vx17 / thing :ARG0-of (vx18 / source-02 :ARG1 (vx19 / odor :mod (vx20 / foul))) :location (vx21 / house :poss vx1))))))
+
+# ::snt hello, i am a 12 year old girl (13 in two days) who is addicted to self harming
+(vx0 / multi-sentence :snt1 (vx1 / hello) :snt2 (vx2 / girl :age (vx3 / temporal-quantity :quant 12 :unit (vx4 / year)) :domain (vx5 / i) :ARG1-of (vx6 / addict-01 :ARG2 (vx7 / harm-01 :ARG0 vx2 :ARG1 vx2)) :quant (vx8 / temporal-quantity :quant 13 :unit (vx9 / day :quant 2))))
+
+# ::snt Scott told police she did not tend to the baby, and it died after 30 minutes.
+(vx0 / and :op1 (vx1 / tell-01 :ARG0 (vx2 / person :name (vx3 / name :op1 "Scott")) :ARG1 (vx4 / tend-01 :polarity - :ARG0 vx2 :ARG1 (vx5 / baby)) :ARG2 (vx6 / police)) :op2 (vx7 / die-01 :ARG1 vx5 :time (vx8 / after :quant (vx9 / temporal-quantity :quant 30 :unit (vx10 / minute)))))
+
+# ::snt HEFEI, July 9
+(vx0 / be-located-at-91 :ARG2 (vx1 / city :name (vx2 / name :op1 "Helsinki")) :time (vx3 / date-entity :day 9 :month 7))
+
+# ::snt The International Atomic Energy Agency may have been tricked because it was eager for a deal.
+(vx0 / possible-01 :ARG1 (vx1 / trick-01 :ARG1 (vx2 / organization :name (vx3 / name :op1 "International" :op2 "Atomic" :op3 "Energy" :op4 "Agency")) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / eager-01 :ARG0 vx2 :ARG1 (vx6 / deal-01 :ARG0 vx2)))))
+
+# ::snt By Monday, floods had caused 233 deaths and destroyed 118,500 houses in 18 areas, while droughts in the north had left nearly 7.4 million people short of drinking water, the state flood and drought prevention headquarters said.
+(vx0 / say-01 :ARG0 (vx1 / headquarters :mod (vx2 / state) :mod (vx3 / flood-01) :mod (vx4 / prevent-01 :ARG1 (vx5 / drought))) :ARG1 (vx6 / contrast-01 :ARG1 (vx7 / cause-01 :ARG0 (vx8 / flood-01) :ARG1 (vx9 / and :op1 (vx10 / die-01 :quant 233) :op2 (vx11 / destroy-01 :ARG1 (vx12 / house :quant 118500))) :location (vx13 / area :quant 18) :time (vx14 / by :op1 (vx15 / date-entity :weekday (vx16 / monday)))) :ARG2 (vx17 / leave-12 :ARG0 (vx18 / drought :location (vx19 / north)) :ARG1 (vx20 / short-06 :ARG1 (vx21 / person :quant (vx22 / nearly :op1 7400000)) :ARG2 (vx23 / water :ARG1-of (vx24 / drink-01))))))
+
+# ::snt The Go teams from China and Korea will shift to Seoul on September 1st , and will hold the second competition in the Le Tian Hotel on the 2nd .
+(vx0 / and :op1 (vx1 / shift-01 :ARG1 (vx2 / team :mod (vx3 / game :name (vx4 / name :op1 "Go")) :source (vx5 / country :name (vx6 / name :op1 "China")) :source (vx7 / country :name (vx8 / name :op1 "Korea"))) :ARG2 (vx9 / city :name (vx10 / name :op1 "Seoul")) :time (vx11 / date-entity :month 9 :day 1)) :op2 (vx12 / hold-04 :ARG0 vx2 :ARG1 (vx13 / compete-01 :ord (vx14 / ordinal-entity :value 2)) :location (vx15 / hotel :name (vx16 / name :op1 "Le" :op2 "Tian" :op3 "Hotel")) :time (vx17 / date-entity :month 9 :day 2)))
+
+# ::snt To the brainiacs who thought Route 288 was such a great idea :
+(vx0 / think-01 :ARG0 (vx1 / brainiac) :ARG1 (vx2 / idea :mod (vx3 / great :degree (vx4 / such)) :domain (vx5 / road :name (vx6 / name :op1 "Route" :op2 288))))
+
+# ::snt A Japanese flag hung from the Chairman 's stage .
+(vx0 / hang-01 :ARG1 (vx1 / flag :mod (vx2 / country :name (vx3 / name :op1 "Japan"))) :ARG2 (vx4 / stage :poss (vx5 / chairman)))
+
+# ::snt SUPPLIES WE NEED: comfortable nursing chairs and rockers, nursing foot stool, boppie, SLINGS and baby clothes, diapers.
+(vx0 / supply-01 :ARG2 (vx1 / we) :example (vx2 / and :op1 (vx3 / and :op1 (vx4 / chair :mod (vx5 / nurse) :ARG0-of (vx6 / comfortable-02)) :op2 (vx7 / rocker)) :op2 (vx8 / stool :mod (vx9 / foot) :mod vx5) :op3 (vx10 / boppie) :op4 (vx11 / and :op1 (vx12 / sling) :op2 (vx13 / clothes :mod (vx14 / baby))) :op5 (vx15 / diaper)))
+
+# ::snt http://www.keshertalk.com/archives/2...g_hurrica.html
+(vx0 / url-entity :value "http://www.keshertalk.com/archives/2...g...g...hurrica.html")
+
+# ::snt Indian army continued relief operations in the flood-affected areas of the state and their helicopters dropped food packets in affected areas.
+(vx0 / and :op1 (vx1 / continue-01 :ARG0 (vx2 / army :poss (vx3 / country :name (vx4 / name :op1 "India"))) :ARG1 (vx5 / operation :purpose (vx6 / relieve-01) :location (vx7 / area :ARG1-of (vx8 / affect-01 :ARG0 (vx9 / flood)) :location (vx10 / state)))) :op2 (vx11 / drop-01 :ARG0 (vx12 / helicopter :poss vx2) :ARG1 (vx13 / packet :consist-of (vx14 / food)) :ARG4 vx7))
+
+# ::snt The first " Le Tian Cup " China and Korea Go competition started today at Fushan , the second largest city of Korea .
+(vx0 / start-01 :ARG1 (vx1 / compete-01 :name (vx2 / name :op1 "Le" :op2 "Tian" :op3 "Cup" :op4 "China" :op5 "and" :op6 "Korea" :op7 "Go") :ord (vx3 / ordinal-entity :value 1)) :time (vx4 / today) :location (vx5 / city :name (vx6 / name :op1 "Fushan") :ARG1-of (vx7 / have-degree-91 :ARG2 (vx8 / large) :ARG3 (vx9 / most :ord (vx10 / ordinal-entity :value 2)) :ARG5 (vx11 / city :location (vx12 / country :name (vx13 / name :op1 "Korea"))))))
+
+# ::snt I feel if I lost my wallet or phone, then I'm doomed or so I feel.
+(vx0 / feel-01 :ARG0 (vx1 / i) :ARG1 (vx2 / doom-01 :ARG1 vx1 :condition (vx3 / lose-02 :ARG0 vx1 :ARG1 (vx4 / or :op1 (vx5 / wallet) :op2 (vx6 / phone) :poss vx1)) :ARG1-of (vx7 / feel-01 :ARG0 vx1)))
+
+# ::snt She is being held on 50,000 dollars bail on a charge of first-degree reckless homicide and hiding a corpse in the death of the infant born in January.
+(vx0 / hold-01 :ARG1 (vx1 / she) :ARG3 (vx2 / bail-out-02 :ARG1 vx1 :ARG2 (vx3 / monetary-quantity :quant 50000 :unit (vx4 / dollar)) :ARG3 (vx5 / charge-05 :ARG1 vx1 :ARG2 (vx6 / and :op1 (vx7 / homicide :mod (vx8 / reckless) :mod (vx9 / first-degree)) :op2 (vx10 / hide-01 :ARG0 vx1 :ARG1 (vx11 / corpse) :time (vx12 / die-01 :ARG1 (vx13 / infant :ARG1-of (vx14 / bear-02 :time (vx15 / date-entity :month 1)))))))))
+
+# ::snt wipes and baby toys, changing table, diaper genie, bed rail, futon, sheets towels, nursing wear, new mom clothes…think elastic!
+(vx0 / think-01 :mode imperative :ARG0 (vx1 / you) :ARG1 (vx2 / elastic) :ARG2-of (vx3 / include-91 :ARG1 (vx4 / and :op1 (vx5 / and :op1 (vx6 / wipes) :op2 (vx7 / toy :mod (vx8 / baby))) :op2 (vx9 / table :location-of (vx10 / change-01)) :op3 (vx11 / genie :mod (vx12 / diaper)) :op4 (vx13 / rail :location (vx14 / bed)) :op5 (vx15 / futon) :op6 (vx16 / towel :mod (vx17 / sheet)) :op7 (vx18 / wear-01 :ARG1 (vx19 / nurse-01)) :op8 (vx20 / clothes :mod (vx21 / mom :ARG1-of (vx22 / new-01))))))
+
+# ::snt The situation continues to be bad in Udaipur, Dungarpur, Barmer, Pali, Sirohi, Jalore, Kota and Jhalawar districts.
+(vx0 / continue-01 :ARG1 (vx1 / bad-07 :ARG1 (vx2 / situation)) :location (vx3 / and :op1 (vx4 / district :name (vx5 / name :op1 "Udaipur")) :op2 (vx6 / district :name (vx7 / name :op1 "Dungarpur")) :op3 (vx8 / district :name (vx9 / name :op1 "Barmer")) :op4 (vx10 / district :name (vx11 / name :op1 "Pali")) :op5 (vx12 / district :name (vx13 / name :op1 "Sirohi")) :op6 (vx14 / district :name (vx15 / name :op1 "Jalore")) :op7 (vx16 / district :name (vx17 / name :op1 "Kota")) :op8 (vx18 / district :name (vx19 / name :op1 "Jhalawar"))))
+
+# ::snt Weiping Nie ( 9th level ) , Xiaoguang Liu ( 9th level ) , Hao Chang ( 6th level ) and Dayuan Cao ( 9th level ) from the Chinese team defeated Guibing Cui ( 6th level ) , Xiuying Zhang ( 9th level ) , Fengzhu Xu ( 9th level ) and Xuange Lin ( 8th level ) from the Korean team respectively .
+(vx0 / defeat-01 :ARG0 (vx1 / and :op1 (vx2 / person :name (vx3 / name :op1 "Weiping" :op2 "Nie") :mod (vx4 / level :ord (vx5 / ordinal-entity :value 9))) :op2 (vx6 / person :name (vx7 / name :op1 "Xiaoguang" :op2 "Liu") :mod (vx8 / level :ord (vx9 / ordinal-entity :value 9))) :op3 (vx10 / person :name (vx11 / name :op1 "Hao" :op2 "Chang") :mod (vx12 / level :ord (vx13 / ordinal-entity :value 6))) :op4 (vx14 / person :name (vx15 / name :op1 "Dayuan" :op2 "Cao") :mod (vx16 / level :ord (vx17 / ordinal-entity :value 9))) :part-of (vx18 / team :mod (vx19 / country :name (vx20 / name :op1 "China")))) :ARG1 (vx21 / and :op1 (vx22 / person :name (vx23 / name :op1 "Guibing" :op2 "Cui") :mod (vx24 / level :ord (vx25 / ordinal-entity :value 6))) :op2 (vx26 / person :name (vx27 / name :op1 "Xiuying" :op2 "Zhang") :mod (vx28 / level :ord (vx29 / ordinal-entity :value 9))) :op3 (vx30 / person :name (vx31 / name :op1 "Fengzhu" :op2 "Xu") :mod (vx32 / level :ord (vx33 / ordinal-entity :value 9))) :op4 (vx34 / person :name (vx35 / name :op1 "Xuange" :op2 "Lin") :mod (vx36 / level :ord (vx37 / ordinal-entity :value 8))) :part-of (vx38 / team :mod (vx39 / country :name (vx40 / name :op1 "Korea")))))
+
+# ::snt Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory, a Palestinian security source said.
+(vx0 / return-01 :ARG1 (vx1 / force :mod (vx2 / security :mod (vx3 / country :name (vx4 / name :op1 "Palestine")))) :ARG4 (vx5 / position-01 :ARG1 vx1 :ARG1-of (vx6 / hold-01 :ARG0 vx1 :location (vx7 / country-region :name (vx8 / name :op1 "Gaza" :op2 "Strip")) :time (vx9 / before :op1 (vx10 / break-out :ARG1 (vx11 / rise-up-03 :ARG0 vx3 :duration (vx12 / temporal-quantity :quant 33 :unit (vx13 / month))) :time (vx14 / remove-01 :ARG0 (vx15 / country :name (vx16 / name :op1 "Israel")) :ARG1 (vx17 / checkpoint :ARG1-of (vx18 / major-02) :mod (vx19 / all) :location vx7)))))) :time (vx20 / date-entity :weekday (vx21 / monday)) :ARG1-of (vx22 / say-01 :ARG0 (vx23 / source :mod vx2)))
+
+# ::snt If accidents do not occur , their hopes of entering the heats are already in sight .
+(vx0 / see-01 :ARG1 (vx1 / hopeful-03 :ARG0 (vx2 / they) :ARG1 (vx3 / enter-01 :ARG0 vx2 :ARG1 (vx4 / heat))) :time (vx5 / already) :condition (vx6 / accident :polarity -))
+
+# ::snt The mayor and county supervisor jointly activated the Los Angeles County Emergency Operation Center to prepare for the intensive response involved in assisting the evacuees.
+(vx0 / activate-01 :ARG0 (vx1 / and :op1 (vx2 / person :ARG0-of (vx3 / have-org-role-91 :ARG2 (vx4 / mayor))) :op2 (vx5 / person :ARG0-of (vx6 / supervise-01 :ARG1 (vx7 / county))) :manner (vx8 / joint)) :ARG1 (vx9 / facility :name (vx10 / name :op1 "Los" :op2 "Angeles" :op3 "County" :op4 "Emergency" :op5 "Operation" :op6 "Center")) :purpose (vx11 / prepare-02 :ARG0 vx1 :ARG2 (vx12 / respond-01 :ARG1-of (vx13 / involve-01 :ARG2 (vx14 / assist-01 :ARG1 (vx15 / person :ARG2-of (vx16 / evacuate-01)))) :mod (vx17 / intensive))))
+
+# ::snt A fierce tornado killed 16 people and injured 162 as it swept through Wuwei County in east China's Anhui Province on Tuesday night.
+(vx0 / and :op1 (vx1 / kill-01 :ARG0 (vx2 / tornado :mod (vx3 / fierce)) :ARG1 (vx4 / person :quant 16)) :op2 (vx5 / injure-01 :ARG0 vx2 :ARG1 (vx6 / person :quant 162)) :time (vx7 / sweep-02 :ARG1 vx2 :ARG2 (vx8 / county :name (vx9 / name :op1 "Wuwei" :op2 "County") :location (vx10 / east :part-of (vx11 / province :name (vx12 / name :op1 "Anhui" :op2 "Province") :location (vx13 / country :name (vx14 / name :op1 "China"))))) :time (vx15 / date-entity :weekday (vx16 / tuesday) :dayperiod (vx17 / night))))
+
+# ::snt Damn it being not sexy
+(vx0 / sexy-02 :polarity - :ARG0 (vx1 / it) :mod (vx2 / damn :mode expressive))
+
+# ::snt Please leave a message and someone will get back to you ASAP, if you need or can offer space in an apartment, office, room in your home, etc., call 512-250-1043 or email Mitch Sudolsky at mitch.sudolsky@jcaaonline.org.
+(vx0 / and :op1 (vx1 / leave-14 :mode imperative :polite + :ARG0 (vx2 / you) :ARG1 (vx3 / message-01 :ARG0 vx2)) :op2 (vx4 / get-back-10 :ARG1 (vx5 / someone) :ARG2 vx2 :time (vx6 / ASAP)) :op3 (vx7 / or :op1 (vx8 / call-02 :mode imperative :polite + :ARG0 vx2 :ARG1 (vx9 / person :name (vx10 / name :op1 "Mitch" :op2 "Sudolsky")) :ARG2 (vx11 / email-address-entity :value "mitch.sudolsky@jcaaonline.org")) :op2 (vx12 / email-address-entity :value "mitch.sudolsky@jcaaonline.org")) :condition (vx13 / or :op1 (vx14 / need-01 :ARG0 vx2 :ARG1 (vx15 / space :location (vx16 / or :op1 (vx17 / apartment) :op2 (vx18 / office) :op3 (vx19 / room :location (vx20 / home :poss vx2)) :op4 (vx21 / et-cetera)))) :op2 (vx22 / possible-01 :ARG1 (vx23 / offer-01 :ARG0 vx2 :ARG1 vx15))))
+
+# ::snt The country's western desert state of Rajasthan is also bracing for its fifth straight year of drought.
+(vx0 / brace-01 :ARG0 (vx1 / state :name (vx2 / name :op1 "Rajasthan") :location (vx3 / west :part-of (vx4 / country)) :location (vx5 / desert)) :ARG2 (vx6 / drought :duration (vx7 / temporal-quantity :quant 5 :ord (vx8 / ordinal-entity :value 5) :unit (vx9 / year)) :poss vx1) :mod (vx10 / also))
+
+# ::snt Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2.
+(vx0 / arrest-01 :ARG0 (vx1 / police) :ARG1 (vx2 / she) :location (vx3 / city :name (vx4 / name :op1 "Abilene") :location (vx5 / state :name (vx6 / name :op1 "Texas")) :location-of (vx7 / move-01 :ARG0 vx2 :accompanier (vx8 / person :ARG0-of (vx9 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx10 / friend))) :time (vx11 / date-entity :month 6 :day 2))) :time (vx12 / date-entity :weekday (vx13 / saturday)))
+
+# ::snt He had achieved complete victory in nine games with Chinese Go players before .
+(vx0 / achieve-01 :ARG0 (vx1 / he) :ARG1 (vx2 / win-01 :ARG0 vx1 :ARG1-of (vx3 / complete-02) :subevent-of (vx4 / game :quant 9 :accompanier (vx5 / person :ARG0-of (vx6 / play-01 :ARG1 (vx7 / game :name (vx8 / name :op1 "Go"))) :mod (vx9 / country :name (vx10 / name :op1 "China"))))) :time (vx11 / before))
+
+# ::snt It is the first time they have had freedom of movement with cars and weapons since the start of the intifada," the source said.
+(vx0 / say-01 :ARG0 (vx1 / source) :ARG1 (vx2 / have-03 :ARG0 (vx3 / they) :ARG1 (vx4 / free-04 :ARG3 (vx5 / move-01 :instrument (vx6 / and :op1 (vx7 / car) :op2 (vx8 / weapon)))) :ord (vx9 / ordinal-entity :value 1 :range (vx10 / since :op1 (vx11 / start-01 :ARG1 (vx12 / intifada))))))
+
+# ::snt Even I thought there might be a lag of three or four years .
+(vx0 / think-01 :ARG0 (vx1 / i :mod (vx2 / even)) :ARG1 (vx3 / possible-01 :ARG1 (vx4 / lag-01 :ARG2 (vx5 / or :op1 (vx6 / temporal-quantity :quant 3 :unit (vx7 / year)) :op2 (vx8 / temporal-quantity :quant 4 :unit (vx9 / year))))))
+
+# ::snt Much envied super stars often encounter social engagements or circumstances which they don't welcome but have to join in,
+(vx0 / encounter-01 :ARG0 (vx1 / star :mod (vx2 / super) :ARG1-of (vx3 / envy-01 :quant (vx4 / much))) :ARG1 (vx5 / or :op1 (vx6 / engagement-02 :mod (vx7 / society) :ARG1-of (vx8 / welcome-01 :polarity - :ARG0 vx1 :ARG1-of (vx9 / contrast-01 :ARG2 (vx10 / obligate-01 :ARG1 vx1 :ARG2 (vx11 / join-in-05 :ARG0 vx1 :ARG1 vx6))))) :op2 (vx12 / circumstance :ARG1-of vx8)) :frequency (vx13 / often))
+
+# ::snt Posted by Judith at September 3, 2005 03:23 PM
+(vx0 / post-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Judith")) :time (vx3 / date-entity :day 3 :month 9 :year 2005 :time "13:23"))
+
+# ::snt Before the end of the decade , we may well see the unfunded liability zoom well past the original $ 400 million it took to build the original highway .
+(vx0 / possible-01 :ARG1 (vx1 / see-01 :ARG0 (vx2 / we) :ARG1 (vx3 / zoom-01 :ARG1 (vx4 / liability :ARG1-of (vx5 / fund-01 :polarity -)) :ARG2 (vx6 / past :op1 (vx7 / monetary-quantity :quant 400000000 :unit (vx8 / dollar) :mod (vx9 / original) :ARG1-of (vx10 / take-10 :ARG0 (vx11 / build-01 :ARG1 (vx12 / highway :mod vx9)))) :degree (vx13 / well))) :time (vx14 / before :op1 (vx15 / end-01 :ARG1 (vx16 / decade)))) :mod (vx17 / well))
+
+# ::snt People who do dance/ gymnastics/ ballet etc have it drilled into them, to the point where I find it more comfortable now =P
+(vx0 / drill-01 :ARG1 (vx1 / person :ARG0-of (vx2 / dance-01 :ARG1 (vx3 / slash :op1 (vx4 / dance-01) :op2 (vx5 / gymnastics) :op3 (vx6 / ballet) :op4 (vx7 / et-cetera)))) :ARG2 vx1 :ARG2-of (vx8 / have-degree-91 :ARG1 vx1 :ARG3 (vx9 / to-the-point) :ARG6 (vx10 / find-02 :ARG0 (vx11 / i) :ARG1 (vx12 / comfortable-02 :ARG0 vx1 :ARG1 vx11 :ARG2-of (vx13 / have-degree-91 :ARG1 vx11 :ARG3 (vx14 / more))) :time (vx15 / now))) :mod (vx16 / emoticon :value "=P"))
+
+# ::snt Then , of course there is the sunday drive , the trip to grandma 's , and the soccer games , but still , the overwhelming need is to support business .
+(vx0 / contrast-01 :ARG1 (vx1 / and :op1 (vx2 / drive-01 :time (vx3 / date-entity :weekday (vx4 / sunday))) :op2 (vx5 / trip-03 :ARG4 (vx6 / house :poss (vx7 / grandma))) :op3 (vx8 / game :mod (vx9 / soccer)) :time (vx10 / then) :mod (vx11 / of-course)) :ARG2 (vx12 / need-01 :ARG1 (vx13 / support-01 :ARG1 (vx14 / business)) :ARG0-of (vx15 / overwhelm-01) :mod (vx16 / still)))
+
+# ::snt India's has been reeling under a heatwave since mid-May which has killed 1,403 people.
+(vx0 / reel-01 :ARG1 (vx1 / country :name (vx2 / name :op1 "India")) :ARG2 (vx3 / heatwave :ARG0-of (vx4 / kill-01 :ARG1 (vx5 / person :quant 10403))) :time (vx6 / since :op1 (vx7 / middle :op1 (vx8 / date-entity :month 5))))
+
+# ::snt While the limited access highway might provide limited traffic relief for people driving back and forth between Chesterfield and Goochland counties , other people are making choices about where they live and work ,
+(vx0 / have-concession-91 :ARG1 (vx1 / choose-01 :ARG0 (vx2 / person :mod (vx3 / other)) :ARG1 (vx4 / and :op1 (vx5 / thing :location-of (vx6 / live-01 :ARG0 vx2)) :op2 (vx7 / thing :location-of (vx8 / work-01 :ARG0 vx2)))) :ARG2 (vx9 / possible-01 :ARG1 (vx10 / provide-01 :ARG0 (vx11 / highway :ARG1-of (vx12 / limit-01 :ARG1 (vx13 / relieve-01 :ARG0 vx11 :ARG1 (vx14 / traffic))) :instrument-of (vx15 / access-01)) :ARG1 vx13 :ARG2 (vx16 / drive-01 :ARG0 (vx17 / person) :ARG1 (vx18 / between :op1 (vx19 / county :name (vx20 / name :op1 "Chesterfield")) :op2 (vx21 / county :name (vx22 / name :op1 "Goochland"))) :path (vx23 / and :op1 (vx24 / back) :op2 (vx25 / forth))))))
+
+# ::snt I wouldn't read too much into random "symptoms" like that
+(vx0 / read-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / symptom :mod (vx3 / random) :ARG1-of (vx4 / resemble-01 :ARG2 (vx5 / that))) :quant (vx6 / much :ARG2-of (vx7 / have-quant-91 :ARG1 vx0 :ARG3 (vx8 / too))))
+
+# ::snt Wandering in all directions, bearing a seal
+(vx0 / Wander-01 :ARG0 (vx1 / i :ARG0-of (vx2 / bear-01 :ARG1 (vx3 / seal))) :direction (vx4 / direction :mod (vx5 / all)))
+
+# ::snt We have a free standing house on the grounds of our church.
+(vx0 / have-03 :ARG0 (vx1 / we) :ARG1 (vx2 / house :ARG1-of (vx3 / stand-01 :ARG3-of (vx4 / free-04)) :location (vx5 / ground :part-of (vx6 / church :poss vx1))))
+
+# ::snt He hoped that all the athletes would " fully demonstrate the strength and skill that they cultivate daily , as the competitors representing Japan , they should carry out competition with athletes from various countries honestly " .
+(vx0 / multi-sentence :snt1 (vx1 / hope-01 :ARG0 (vx2 / he) :ARG1 (vx3 / demonstrate-01 :ARG0 (vx4 / athlete :mod (vx5 / all)) :ARG1 (vx6 / and :op1 (vx7 / strong-02) :op2 (vx8 / skill) :ARG1-of (vx9 / cultivate-01 :ARG0 vx4 :frequency (vx10 / rate-entity-91 :ARG3 (vx11 / temporal-quantity :quant 1 :unit (vx12 / day))))) :ARG1-of (vx13 / full-09))) :snt2 (vx14 / recommend-01 :ARG1 (vx15 / carry-out-03 :ARG0 (vx16 / they) :ARG1 (vx17 / compete-01 :ARG0 vx16 :ARG1 (vx18 / athlete :source (vx19 / country :mod (vx20 / various))) :manner (vx21 / honest)) :ARG1-of (vx22 / cause-01 :ARG0 (vx23 / person :ARG0-of (vx24 / compete-01) :ARG0-of (vx25 / represent-01 :ARG1 (vx26 / country :name (vx27 / name :op1 "Japan"))) :domain vx16)))))
+
+# ::snt Huge explosions were heard in different parts of Baghdad and air raid siren sounded throughout the capital city, they said, adding that Iraqi anti-aircraft artillery had begun to fire back.
+(vx0 / say-01 :ARG0 (vx1 / they :ARG0-of (vx2 / add-01 :ARG1 (vx3 / begin-01 :ARG0 (vx4 / artillery :mod (vx5 / country :name (vx6 / name :op1 "Iraq")) :ARG0-of (vx7 / counter-01 :ARG1 (vx8 / aircraft))) :ARG1 (vx9 / fire-01 :ARG0 vx4 :direction (vx10 / back))))) :ARG1 (vx11 / and :op1 (vx12 / hear-01 :ARG1 (vx13 / explode-01 :mod (vx14 / huge)) :location (vx15 / part :ARG1-of (vx16 / differ-02) :part-of (vx17 / city :name (vx18 / name :op1 "Baghdad") :ARG0-of (vx19 / have-org-role-91 :ARG2 (vx20 / capital))))) :op2 (vx21 / sound-02 :ARG1 (vx22 / siren :mod (vx23 / raid-01 :path (vx24 / air))) :location (vx25 / throughout :op1 vx17))))
+
+# ::snt Texas, Especially Austin, Needs Help!
+(vx0 / need-01 :ARG0 (vx1 / and :op1 (vx2 / state :name (vx3 / name :op1 "Texas")) :op2 (vx4 / city :name (vx5 / name :op1 "Austin") :mod (vx6 / especially))) :ARG1 (vx7 / help-01 :ARG2 vx1))
+
+# ::snt Adressing Palestinian complaints, an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road.
+(vx0 / contrast-01 :ARG1 (vx1 / confirm-01 :ARG0 (vx2 / source :mod (vx3 / military :mod (vx4 / country :name (vx5 / name :op1 "Israel")))) :ARG1 (vx6 / install-01 :ARG0 (vx7 / troop) :ARG1 (vx8 / gate) :ARG2 (vx9 / and :op1 (vx10 / cross-02 :ARG1 (vx11 / city-district :name (vx12 / name :op1 "Netzarim"))) :op2 (vx13 / junction :mod (vx14 / house :mod (vx15 / guest) :location (vx16 / south))))) :ARG2-of (vx17 / address-02 :ARG0 vx2 :ARG1 (vx18 / complain-01 :ARG0 (vx19 / person :mod (vx20 / country :name (vx21 / name :op1 "Palestine")))))) :ARG2 (vx22 / say-01 :ARG0 vx2 :ARG1 (vx23 / be-located-at-91 :ARG1 vx7 :ARG2 vx9 :purpose (vx24 / need-01 :ARG0 (vx25 / person :ARG1-of (vx26 / settle-03) :mod (vx27 / religious-group :name (vx28 / name :op1 "Jew"))) :ARG1 (vx29 / use-01 :ARG0 vx25 :ARG1 (vx30 / road))) :mod (vx31 / only))))
+
+# ::snt It's not so bad, they're just playing in their own circle, out of sight, out of mind,
+(vx0 / bad-07 :polarity - :ARG1 (vx1 / it) :ARG1-of (vx2 / cause-01 :ARG0 (vx3 / play-01 :ARG0 (vx4 / they) :mod (vx5 / just) :location (vx6 / circle :poss vx4) :ARG1-of (vx7 / see-01 :polarity -) :mod (vx8 / out :mod (vx9 / mind)))))
+
+# ::snt According to an official updated death toll until Monday, a total of 31,938 people lost their lives in the cyclone storm with altogether 29,770 people remaining missing and 1,403 injured.
+(vx0 / say-01 :ARG0 (vx1 / toll :quant-of (vx2 / die-01) :ARG1-of (vx3 / update-01 :mod (vx4 / official)) :time (vx5 / until :op1 (vx6 / date-entity :weekday (vx7 / monday)))) :ARG1 (vx8 / and :op1 (vx9 / lose-02 :ARG0 (vx10 / person :quant 3138938 :ARG1-of (vx11 / total-01)) :ARG1 (vx12 / life :poss vx10) :ARG1-of (vx13 / cause-01 :ARG0 (vx14 / storm-01 :ARG1 (vx15 / cyclone)))) :op2 (vx16 / remain-01 :ARG1 (vx17 / and :op1 (vx18 / miss-01 :ARG1 (vx19 / person :quant 29770 :mod (vx20 / altogether) :ARG1-of (vx21 / include-91 :ARG2 vx10))) :op2 (vx22 / injure-01 :ARG1 (vx23 / person :quant 1200 :mod (vx24 / altogether) :ARG1-of (vx25 / include-91 :ARG2 vx7)))))))
+
+# ::snt I really dont know what to do, and am afraid of going to the GP.
+(vx0 / and :op1 (vx1 / know-01 :polarity - :ARG0 (vx2 / i) :ARG1 (vx3 / thing :ARG1-of (vx4 / do-02 :ARG0 vx2)) :degree (vx5 / really)) :op2 (vx6 / fear-01 :ARG0 vx2 :ARG1 (vx7 / go-02 :ARG0 vx2 :ARG4 (vx8 / practitioner :mod (vx9 / general)))))
+
+# ::snt Electricity and telephone networks have been disrupted in all the flood-affected areas and widespread flooding has affected the road and rail traffic network.
+(vx0 / and :op1 (vx1 / disrupt-01 :ARG1 (vx2 / and :op1 (vx3 / network :mod (vx4 / electricity)) :op2 (vx5 / network :mod (vx6 / telephone))) :location (vx7 / area :ARG1-of (vx8 / affect-01 :ARG0 (vx9 / flood-01)) :mod (vx10 / all))) :op2 (vx11 / affect-01 :ARG0 (vx12 / flood-01) :ARG1 (vx13 / and :op1 (vx14 / network :mod (vx15 / road)) :op2 (vx16 / network :mod (vx17 / rail)) :mod (vx18 / traffic)) :ARG1-of (vx19 / spread-02 :ARG1-of (vx20 / wide-02))))
+
+# ::snt No one is easy. Life is like a show, you must have a look at the script to know how to perform
+(vx0 / multi-sentence :snt1 (vx1 / easy-05 :ARG1 (vx2 / no-one)) :snt2 (vx3 / resemble-01 :ARG1 (vx4 / life) :ARG2 (vx5 / show-04)) :snt3 (vx6 / obligate-01 :ARG1 (vx7 / you) :ARG2 (vx8 / look-01 :ARG0 vx7 :ARG1 (vx9 / script-01 :ARG1 vx5) :purpose (vx10 / know-01 :ARG0 vx7 :ARG1 (vx11 / thing :manner-of (vx12 / perform-02 :ARG0 vx7))))))
+
+# ::snt Officials are still calculating the damage to Tianchang City, in east China's Anhui Province, where a tornado packing winds of 100 kilometers per hour destroyed more than 100 homes and forced the evacuation of at least 1,100 people in three villages.
+(vx0 / calculate-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG2 (vx3 / official))) :ARG1 (vx4 / damage-01 :ARG1 (vx5 / city :name (vx6 / name :op1 "Tianchang") :location (vx7 / east :part-of (vx8 / province :name (vx9 / name :op1 "Anhui") :location (vx10 / country :name (vx11 / name :op1 "China")))) :location-of (vx12 / and :op1 (vx13 / destroy-01 :ARG0 (vx14 / tornado :ARG0-of (vx15 / pack-01 :ARG1 (vx16 / wind :mod (vx17 / rate-entity-91 :ARG1 (vx18 / distance-quantity :quant 100 :unit (vx19 / kilometer)) :ARG2 (vx20 / temporal-quantity :quant 1 :unit (vx21 / hour)))))) :ARG1 (vx22 / home :quant (vx23 / more-than :op1 100))) :op2 (vx24 / force-01 :ARG0 vx14 :ARG1 (vx25 / evacuate-01 :ARG2 (vx26 / person :quant (vx27 / at-least :op1 100)) :location (vx28 / village :quant 3)))))) :mod (vx29 / still))
+
+# ::snt The accident happened Saturday afternoon when the six slided down the 3700-meter-high Daban Mountain at Ertanggou in Menyuan Hui Autonomous County of Haibei Tibetan Autonomous Prefecture.
+(vx0 / accident :time (vx1 / date-entity :weekday (vx2 / saturday) :dayperiod (vx3 / afternoon)) :time-of (vx4 / slide-01 :ARG1 (vx5 / person :quant 6) :ARG4 (vx6 / mountain :name (vx7 / name :op1 "Daban" :op2 "Mountain") :ARG1-of (vx8 / high-02 :ARG2 (vx9 / distance-quantity :quant 3700 :unit (vx10 / meter))) :location (vx11 / city :name (vx12 / name :op1 "Ertanggou") :location (vx13 / county :name (vx14 / name :op1 "Menyuan" :op2 "Hui" :op3 "Autonomous" :op4 "County") :location (vx15 / province :name (vx16 / name :op1 "Haibei" :op2 "Tibetan" :op3 "Autonomous" :op4 "Prefecture")))) :direction (vx17 / down))))
+
+# ::snt September 03, 2005 Helping hurricane refugees in Austin TX
+(vx0 / help-01 :ARG1 (vx1 / refugee :mod (vx2 / hurricane)) :location (vx3 / city :name (vx4 / name :op1 "Austin") :location (vx5 / state :name (vx6 / name :op1 "Texas"))) :time (vx7 / date-entity :day 3 :month 9 :year 2005))
+
+# ::snt However, if it gets worse, then yes, go to the doctor's.
+(vx0 / contrast-01 :ARG2 (vx1 / go-02 :mode imperative :ARG0 (vx2 / you) :ARG4 (vx3 / doctor) :condition (vx4 / worsen-01 :ARG1 (vx5 / it))))
+
+# ::snt Fengzhu Xu has won many championships in international competitions before .
+(vx0 / win-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Fengzhu" :op2 "Xu")) :ARG1 (vx3 / championship :quant (vx4 / many)) :ARG2 (vx5 / compete-02 :mod (vx6 / international)) :time (vx7 / before))
+
+# ::snt Currently our citizens' lives are all too carefree! The officials are too extravagant.
+(vx0 / multi-sentence :snt1 (vx1 / have-degree-91 :ARG1 (vx2 / life :poss (vx3 / citizen :poss (vx4 / we))) :ARG2 (vx5 / care-04 :ARG1 vx2) :ARG3 (vx6 / too :mod (vx7 / all)) :time (vx8 / current)) :snt2 (vx9 / extravagant :domain (vx10 / person :ARG0-of (vx11 / have-org-role-91 :ARG2 (vx12 / official))) :ARG2-of (vx13 / have-degree-91 :ARG1 vx10 :ARG3 (vx14 / too))))
+
+# ::snt Now we already have no cohesion! China needs to start a war! A harsh slap in the face of the countries which follow the United States' rear!
+(vx0 / multi-sentence :snt1 (vx1 / have-03 :polarity - :ARG0 (vx2 / we) :ARG1 (vx3 / cohere-01 :ARG1 vx2) :time (vx4 / now) :time (vx5 / already)) :snt2 (vx6 / need-01 :ARG0 (vx7 / country :name (vx8 / name :op1 "China")) :ARG1 (vx9 / start-01 :ARG0 vx7 :ARG1 (vx10 / war))) :snt3 (vx11 / slap-01 :ARG1 (vx12 / face :part-of (vx13 / country :ARG1-of (vx14 / follow-01 :ARG2 (vx15 / rear :part-of (vx16 / country :name (vx17 / name :op1 "United" :op2 "States")))))) :ARG1-of (vx18 / harsh-02)))
+
+# ::snt A ban on Palestinian men under the age of 35 being allowed to move freely was still in force but that was expected to be lifted later on Monday or early Tuesday.
+(vx0 / contrast-01 :ARG1 (vx1 / enforce-01 :ARG1 (vx2 / ban-01 :ARG1 (vx3 / allow-01 :ARG1 (vx4 / move-01 :ARG1 (vx5 / man :mod (vx6 / country :name (vx7 / name :op1 "Palestine")) :age (vx8 / under :op1 (vx9 / temporal-quantity :quant 35 :unit (vx10 / year)))) :ARG3-of (vx11 / free-04)))) :mod (vx12 / still)) :ARG2 (vx13 / expect-01 :ARG1 (vx14 / lift-02 :ARG1 vx2 :time (vx15 / after) :time (vx16 / or :op1 (vx17 / date-entity :weekday (vx18 / monday)) :op2 (vx19 / early :op1 (vx20 / date-entity :weekday (vx21 / tuesday)))))))
+
+# ::snt Raje said that assessment of loss due to floods would be done soon, and a memorandum would be sent to the Indian government seeking assistance for rehabilitation and relief operations.
+(vx0 / say-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Raje")) :ARG1 (vx3 / and :op1 (vx4 / assess-01 :ARG1 (vx5 / lose-02 :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / flood))) :time (vx8 / soon)) :op2 (vx9 / send-01 :ARG1 (vx10 / memorandum :ARG1 (vx11 / assist-01 :ARG2 (vx12 / and :op1 (vx13 / rehabilitate-01) :op2 (vx14 / operation :purpose (vx15 / relieve-01)))))) :ARG2 (vx16 / government-organization :ARG0-of (vx17 / govern-01 :ARG1 (vx18 / country :name (vx19 / name :op1 "India"))))))
+
+# ::snt Dayuan Cao achieved victory with an advantage of seven and a half ' mu ' .
+(vx0 / achieve-01 :ARG0 (vx1 / person :name (vx2 / name :op1 "Dayuan" :op2 "Cao")) :ARG1 (vx3 / win-01 :ARG0 vx1 :manner (vx4 / advantage-01 :ARG2 vx1 :ARG3 (vx5 / monetary-quantity :quant "7.5" :unit (vx6 / yuan)))))
+
+# ::snt At least 33 dead in Rajasthan floods
+(vx0 / die-01 :ARG1 (vx1 / person :quant (vx2 / at-least :op1 33)) :ARG1-of (vx3 / cause-01 :ARG0 (vx4 / flood-01 :location (vx5 / state :name (vx6 / name :op1 "Rajasthan")))))
+
+# ::snt And you give them a beltway through a largely rural area .
+(vx0 / and :op2 (vx1 / give-01 :ARG0 (vx2 / you) :ARG1 (vx3 / beltway) :ARG2 (vx4 / they) :path (vx5 / area :mod (vx6 / rural :degree (vx7 / large)))))
+
+# ::snt The competitor from Zimbabwe , Si Aiwan , who is temporarily in third place , has a total score of 354.39 points .
+(vx0 / score-01 :ARG1 (vx1 / person :name (vx2 / name :op1 "Si" :op2 "Aiwan") :ARG0-of (vx3 / compete-01) :location (vx4 / country :name (vx5 / name :op1 "Zimbabwe")) :ARG0-of (vx6 / place-01 :ord (vx7 / ordinal-entity :value 3) :duration (vx8 / temporary))) :ARG2 (vx9 / point :quant "354.39") :ARG3 (vx10 / total))
+
+# ::snt Already it is changing development patterns for the worse and causing localized traffic congestion around its exits .
+(vx0 / and :op1 (vx1 / change-01 :ARG0 (vx2 / it) :ARG1 (vx3 / pattern :mod (vx4 / develop-02)) :ARG2 (vx5 / have-degree-91 :ARG1 vx3 :ARG2 (vx6 / bad-07 :ARG1 vx3) :ARG3 (vx7 / more))) :op2 (vx8 / cause-01 :ARG0 vx2 :ARG1 (vx9 / congest-01 :ARG1 (vx10 / around :op1 (vx11 / exit :poss vx2)) :ARG2 (vx12 / traffic :ARG1-of (vx13 / localize-01)))) :time (vx14 / already))
+
+# ::snt Sorry to anyone whose read this jumbled mess, and I feel a bit like a self-seeking moaner, but I truly do feel desperate.
+(vx0 / contrast-01 :ARG1 (vx1 / and :op1 (vx2 / sorry-01 :ARG1 (vx3 / i) :ARG2 (vx4 / anyone :ARG0-of (vx5 / read-01 :ARG1 (vx6 / mess :ARG1-of (vx7 / jumble-01) :mod (vx8 / this))))) :op2 (vx9 / feel-01 :ARG0 vx3 :ARG1 (vx10 / resemble-01 :ARG1 vx3 :ARG2 (vx11 / person :ARG0-of (vx12 / moan-01) :ARG0-of (vx13 / seek-01 :ARG1 vx11)) :degree (vx14 / bit)))) :ARG2 (vx15 / feel-01 :ARG0 vx3 :ARG1 (vx16 / despair-01 :ARG0 vx3) :ARG1-of (vx17 / true-01)))
+
+# ::snt Mega links at site:
+(vx0 / link :mod (vx1 / mega) :location (vx2 / site))
+
+# ::snt The University of TX at Austin, Rice U, and Texas A&M are coordinating with Tulane to enroll college students displaced by the floods.
+(vx0 / coordinate-01 :ARG0 (vx1 / and :op1 (vx2 / university :name (vx3 / name :op1 "University" :op2 "of" :op3 "Texas" :op4 "at" :op5 "Austin")) :op2 (vx4 / university :name (vx5 / name :op1 "Rice" :op2 "U")) :op3 (vx6 / university :name (vx7 / name :op1 "Texas" :op2 "A" :op3 "&" :op4 "M"))) :ARG1 (vx8 / enroll-01 :ARG0 vx1 :ARG1 (vx9 / person :ARG0-of (vx10 / study-01) :ARG1-of (vx11 / displace-01 :ARG0 (vx12 / flood-01)) :mod (vx13 / college))) :ARG2 (vx14 / university :name (vx15 / name :op1 "Tulane")))
+
+# ::snt From the First Baptist Church of Oak Hill:
+(vx0 / be-from-91 :ARG2 (vx1 / worship-place :name (vx2 / name :op1 "First" :op2 "Baptist" :op3 "Church" :op4 "of" :op5 "Oak" :op6 "Hill")))
+
+# ::snt Sometimes a dinner party which seems very normal for us ordinary people may not be that simple for stars as we imagined.
+(vx0 / possible-01 :ARG1 (vx1 / simple-02 :polarity - :ARG1 (vx2 / party-01 :mod (vx3 / dinner) :ARG1-of (vx4 / normal-02 :ARG2 (vx5 / we :mod (vx6 / person :mod (vx7 / ordinary))) :degree (vx8 / very) :ARG1-of (vx9 / seem-01 :ARG2 vx5))) :beneficiary (vx10 / star :ARG1-of (vx11 / imagine-01 :ARG0 vx5)) :degree (vx12 / that)) :time (vx13 / sometimes))
+
+# ::snt We should tell the whole world, that Chinese can't be bullied at will by others ...
+(vx0 / recommend-01 :ARG1 (vx1 / tell-01 :ARG0 (vx2 / we) :ARG1 (vx3 / possible-01 :polarity - :ARG1 (vx4 / bully-01 :ARG0 (vx5 / person :mod (vx6 / other)) :ARG1 (vx7 / person :mod (vx8 / country :name (vx9 / name :op1 "China"))) :mod (vx10 / at-will))) :ARG2 (vx11 / world :mod (vx12 / whole))))
+
+# ::snt At home , they carry out indoor training mostly .
+(vx0 / carry-out-03 :ARG0 (vx1 / they) :ARG1 (vx2 / train-01 :ARG2 vx1 :location (vx3 / indoor) :mod (vx4 / most)) :location (vx5 / home))
+
+# ::snt People who could not stand the strike were swept away in the overnight storm.
+(vx0 / swept-away-02 :ARG1 (vx1 / person :ARG0-of (vx2 / suffer-01 :polarity - :ARG1 (vx3 / strike-01) :ARG1-of (vx4 / possible-01))) :ARG1-of (vx5 / cause-01 :ARG0 (vx6 / storm-01 :time (vx7 / overnight))))

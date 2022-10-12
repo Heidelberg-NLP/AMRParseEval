@@ -1,0 +1,999 @@
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.24 ::date 2017-11-16T12:51:12 ::annotator SDL-AMR-09 ::preferred
+# ::snt Please contact 735-8000 for more information.
+# ::save-date Wed Jan 24, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_24.txt
+(c / contact-01 :mode imperative :polite + :ARG0 (y / you) :ARG1 (p / phone-number-entity :value "735-8000") :purpose (i2 / information :quant (m / more)))
+
+# ::id wb.eng_0003.7 ::date 2012-08-27T11:30:51 ::annotator ISI-AMR-01 ::preferred
+# ::snt Traffic has more than doubled in one section of Huguenot Trail since 288 opened , reports Will Jones .
+# ::save-date Tue Mar 26, 2013 ::file wb_eng_0003_7.txt
+(r2 / report-01 :ARG0 (p / person :name (w / name :op1 "Will" :op2 "Jones")) :ARG1 (d / double-01 :ARG1 (t / traffic :location (s / section :quant 1 :part-of (r / road :name (h / name :op1 "Huguenot" :op2 "Trail")))) :time (s2 / since :op1 (o / open-01 :ARG1 (r3 / road :name (x / name :op1 288)))) :mod (m / more-than)))
+
+# ::id NW_AFP_ENG_0019_2003_0630.9 ::date 2017-10-29T03:47:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt In another first in the almost three-year intifada, the Israeli army allowed Palestinians free circulation on the trans-Gaza highway as troops abandoned three major checkpoints across the coastal territory.
+# ::save-date Sun Jan 7, 2018 ::file NW_AFP_ENG_0019_2003_0630_9.txt
+(a2 / allow-01 :ARG0 (e / event :name (n / name :op1 "Intifada") :mod (c / country :name (n2 / name :op1 "Israel")) :ARG1-of (m3 / mean-01 :ARG2 (a6 / army))) :ARG1 (c2 / circulate-01 :ARG1 (p / person :mod (c3 / country :name (n3 / name :op1 "Palestine"))) :ARG3-of (f / free-04) :location (r / road :name (n5 / name :op1 "trans-Gaza" :op2 "highway"))) :ARG1-of (c6 / cause-01 :ARG0 (a3 / abandon-01 :ARG0 (t2 / troop) :ARG1 (c7 / checkpoint :quant 3 :ARG1-of (m2 / major-02)) :location (a4 / across :op1 (t3 / territory :mod (c8 / coast))))) :ord (o / ordinal-entity :value 1 :mod (a5 / another) :time (a / almost :op1 (t / temporal-quantity :quant 3 :unit (y / year)))))
+
+# ::id bolt12_91455_5340.1 ::date 2012-12-09T13:26:13 ::annotator SDL-AMR-09 ::preferred
+# ::snt What should we do in the future! Ability alone isn't enough to become successful! Are we goin' to face such hard choices too?
+# ::save-date Wed Dec 20, 2017 ::file bolt12_91455_5340_1.txt
+(m / multi-sentence :snt1 (r / recommend-01 :ARG1 (d / do-02 :ARG1 (a / amr-unknown) :time (f / future)) :ARG2 (w / we)) :snt3 (f2 / face-01 :ARG0 (w2 / we) :ARG1 (t / thing :ARG1-of (c / choose-01) :ARG1-of (h / hard-02 :mod (s2 / such))) :mod (t2 / too) :polarity (a2 / amr-unknown)) :snt2 (h2 / have-quant-91 :polarity - :ARG1 (c2 / capable-01 :mod (a3 / alone)) :ARG3 (e / enough) :ARG6 (s3 / succeed-01)))
+
+# ::id NW_XIN_ENG_0189_2003_0324.1 ::date 2017-11-12T11:34:39 ::annotator SDL-AMR-09 ::preferred
+# ::snt Five Iraqi civilians, including a woman, were killed Monday when their houses were hit by a missile fired by the US-led coalition warplanes, witnesses said.
+# ::save-date Sun Nov 12, 2017 ::file NW_XIN_ENG_0189_2003_0324_1.txt
+(s / say-01 :ARG0 (p / person :ARG0-of (w3 / witness-01)) :ARG1 (k / kill-01 :ARG1 (c / civilian :quant 5 :mod (c2 / country :name (n / name :op1 "Iraq")) :ARG2-of (i2 / include-01 :ARG1 (w / woman))) :time (d / date-entity :weekday (m / monday)) :time (h / hit-01 :ARG1 (h2 / house :poss (t / they)) :ARG2 (m2 / missile :ARG1-of (f / fire-01 :ARG0 (w2 / warplane :mod (c3 / coalition :ARG1-of (l / lead-02 :ARG0 (c4 / country :name (n2 / name :op1 "US"))))))))))
+
+# ::id NW_XIN_ENG_0190_2003_0709.7 ::date 2017-11-14T10:58:11 ::annotator SDL-AMR-09 ::preferred
+# ::snt To date, 1,786 people have been transferred to safe places.
+# ::save-date Fri Jan 5, 2018 ::file NW_XIN_ENG_0190_2003_0709_7.txt
+(t / transfer-01 :ARG1 (p / person :quant 1786) :ARG2 (p2 / place :ARG0-of (s / safe-01)) :time (t2 / to-date))
+
+# ::id bolt12_91455_5315.1 ::date 2012-12-07T14:21:47 ::annotator SDL-AMR-09 ::preferred
+# ::snt Agree, just cheap entertainers. Their reputation in feudal China somewhat makes sense.
+# ::save-date Sat Jul 25, 2015 ::file bolt12_91455_5315_1.txt
+(m / multi-sentence :snt1 (a / agree-01 :ARG1 (p / person :ARG0-of (e / entertain-01) :mod (j / just) :ARG1-of (c / cheap-02))) :snt2 (s / sense-02 :ARG1 (t2 / thing :ARG2-of (r / repute-01 :ARG1 (t / they) :location (c2 / country :name (n / name :op1 "China") :mod (f / feudal)))) :degree (s2 / somewhat)))
+
+# ::id bolt12_6455_6562.22 ::date 2012-12-02T11:56:57 ::annotator SDL-AMR-09 ::preferred
+# ::snt Looking over to the flag
+# ::save-date Mon Jan 6, 2014 ::file bolt12_6455_6562_22.txt
+(l / look-over-06 :ARG1 (f / flag))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.20 ::date 2017-11-16T12:44:24 ::annotator SDL-AMR-09 ::preferred
+# ::snt Lots of Austin relief efforts and fundraising events listed here.
+# ::save-date Fri Dec 22, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_20.txt
+(l / list-01 :ARG1 (a / and :op1 (e / effort-01 :ARG1 (r / relieve-01) :quant (l2 / lot) :location (c / city :name (n / name :op1 "Austin"))) :op2 (e2 / event :purpose (f / fundraise-04))) :location (h / here))
+
+# ::id DF-200-192400-625_7557.5 ::date 2013-09-07T04:14:19 ::annotator SDL-AMR-09 ::preferred
+# ::snt they healed, then i cut myself with staples i robbed from school and a razor.
+# ::save-date Sun Sep 15, 2013 ::file DF-200-192400-625_7557_5.txt
+(a / and :op1 (h / heal-01 :ARG1 (t / they)) :op2 (c / cut-01 :ARG0 (i / i) :ARG1 i :ARG3 (a2 / and :op1 (s / staple :ARG2-of (r / rob-01 :ARG0 i :ARG1 (s2 / school))) :op2 (r2 / razor)) :mod (t2 / then)))
+
+# ::id NW_XIN_ENG_0192_2005_0906.4 ::date 2017-11-14T13:28:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt Los Angeles County Supervisor Gloria Molina and Los Angeles Mayor Antonio Villaraigosa assembled key members of their respective administrations over the Labor Day weekend to assess how the city and county could host thousands of displaced families that survived the disastrous hurricane, officials said.
+# ::save-date Thu Jan 25, 2018 ::file NW_XIN_ENG_0192_2005_0906_4.txt
+(s3 / say-01 :ARG0 (p / person :ARG0-of (h3 / have-org-role-91 :ARG2 (o2 / official))) :ARG1 (a6 / and :op1 (a2 / assemble-02 :ARG0 (p3 / person :name (n3 / name :op1 "Gloria" :op2 "Molina") :ARG0-of (s / supervise-01 :ARG1 (c3 / county :name (n4 / name :op1 "Los" :op2 "Angeles" :op3 "County")))) :ARG1 (p5 / person :ARG0-of (h4 / have-org-role-91 :ARG1 (o / organization :ARG0-of (a / administrate-01) :poss p3) :ARG2 (m4 / member)) :ARG1-of (k / key-02))) :op2 (a7 / assemble-02 :ARG0 (p4 / person :name (n5 / name :op1 "Antonio" :op2 "Villaraigosa") :mod (m2 / mayor :mod (c2 / city :name (n2 / name :op1 "Los" :op2 "Angeles")))) :ARG1 (p6 / person :ARG0-of (h5 / have-org-role-91 :ARG1 (o3 / organization :ARG0-of (a8 / administrate-01) :poss p4) :ARG2 (m5 / member)) :ARG1-of k)) :purpose (a4 / assess-01 :ARG0 (a3 / and :op1 p3 :op2 p4) :ARG1 (p2 / possible-01 :ARG1 (h / host-01 :ARG0 (a5 / and :op1 c3 :op2 c2) :ARG1 (f / family :quant (m / multiple :op1 1000) :ARG1-of (d2 / displace-01) :ARG0-of (s2 / survive-01 :ARG1 (h2 / hurricane :mod (d3 / disastrous))))))) :time (w / weekend :mod (f2 / festival :name (n / name :op1 "Labor" :op2 "Day")))))
+
+# ::id wb.eng_0003.56 ::date 2012-09-28T09:42:09 ::annotator ISI-AMR-01 ::preferred
+# ::snt when was the last time you were stuck in traffic that you were n't on your way to or from some sort of business ?
+# ::save-date Wed Jun 8, 2016 ::file wb_eng_0003_56.txt
+(s / stick-01 :ARG1 (y / you) :ARG2 (t / traffic) :time (a / amr-unknown :mod (l2 / last) :time-of (o / or :polarity - :op1 (g / go-02 :ARG0 y :ARG3 (b / business :mod (s2 / sort :mod (s3 / some)))) :op2 (g2 / go-02 :ARG0 y :ARG4 b))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.7 ::date 2017-11-14T11:43:10 ::annotator SDL-AMR-09 ::preferred
+# ::snt "They had no compass nor altitude-measuring apparatus, let alone special communication equipment usually used for mountaineering," said Deng.
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0191_2005_0405_7.txt
+(s / say-01 :ARG0 (p / person :name (n / name :op1 "Deng")) :ARG1 (h / have-03 :polarity - :ARG0 (t / they) :ARG1 (a / and :op1 (c / compass) :op2 (a2 / apparatus :ARG0-of (m / measure-01 :ARG1 (a3 / altitude))) :op3 (e / equipment :mod (c2 / communicate-01) :ARG1-of (s2 / special-02) :mod (l / let-alone) :ARG1-of (u / use-01 :ARG2 (m2 / mountain) :mod (u2 / usual))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.42 ::date 2017-11-16T14:06:55 ::annotator SDL-AMR-09 ::preferred
+# ::snt Loose tee shirts, Nursing bras, nursing pads.
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_42.txt
+(a / and :op1 (t / tee-shirt :ARG1-of (l / loose-03)) :op2 (b / bra :mod (n / nursing)) :op3 (p / pad :mod n))
+
+# ::id NW_XIN_ENG_0209_2008_0513.6 ::date 2017-11-18T02:18:15 ::annotator SDL-AMR-09 ::preferred
+# ::snt "Carrying my two young daughters, I tried to swim to escape," he said, "One of my daughters died shortly in the violent storm."
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_6.txt
+(s2 / say-01 :ARG0 (h2 / he) :ARG1 (a / and :op1 (h3 / have-condition-91 :ARG1 (t / try-01 :ARG0 h2 :ARG1 (s3 / swim-01 :ARG0 h2) :purpose (e / escape-01 :ARG0 h2)) :ARG2 (c / carry-01 :ARG1 (p / person :quant 2 :ARG0-of (h4 / have-rel-role-91 :ARG1 h2 :ARG2 (d / daughter)) :mod (y / young)))) :op2 (d2 / die-01 :ARG1 (p2 / person :quant 1 :ARG0-of (h5 / have-rel-role-91 :ARG1 h2 :ARG2 (d3 / daughter))) :ARG1-of (c2 / cause-01 :ARG0 (s4 / storm :mod (v / violent))) :ARG1-of (s5 / short-07))))
+
+# ::id wb.eng_0003.59 ::date 2012-10-05T10:00:40 ::annotator ISI-AMR-01 ::preferred
+# ::snt Since our road expenditures nowhere near match the increase in business or state domestic product , it is no wonder we suffer congestion problems .
+# ::save-date Sun Jun 21, 2015 ::file wb_eng_0003_59.txt
+(w2 / wonder-02 :polarity - :ARG1 (s / suffer-01 :ARG0 (w / we) :ARG1 (p / problem :topic (c / congest-01))) :ARG1-of (c2 / cause-01 :ARG0 (m / match-01 :polarity - :ARG1 (t / thing :ARG1-of (e / expend-01 :ARG0 w :ARG2 (r / road))) :ARG2 (t2 / thing :ARG2-of (i / increase-01 :ARG1 (o2 / or :op1 (b2 / business) :op2 (p2 / product :mod (d / domestic) :mod (s2 / state))))))))
+
+# ::id DF-200-192400-625_7557.9 ::date 2013-09-07T04:31:40 ::annotator SDL-AMR-09 ::preferred
+# ::snt it think about it everyday,
+# ::save-date Fri May 2, 2014 ::file DF-200-192400-625_7557_9.txt
+(t / think-01 :ARG0 (i / i) :ARG1 (i2 / it) :frequency (r / rate-entity-91 :ARG2 (t2 / temporal-quantity :quant 1 :unit (d / day))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.12 ::date 2017-11-14T12:28:59 ::annotator SDL-AMR-09 ::preferred
+# ::snt One of those listed missing is from Hong Kong, but his identity has not been defined, according to the rescue headquarters.
+# ::save-date Thu Jan 11, 2018 ::file NW_XIN_ENG_0191_2005_0405_12.txt
+(s / say-01 :ARG0 (h / headquarters :poss (o / organization :ARG0-of (r / rescue-01))) :ARG1 (c2 / contrast-01 :ARG1 (b / be-located-at-91 :ARG1 (p / person :quant 1 :ARG1-of (i2 / include-91 :ARG2 (t / that :ARG1-of (l / list-01 :ARG2 (m / miss-01 :ARG1 t))))) :ARG2 (c / city :name (n / name :op1 "Hong" :op2 "Kong"))) :ARG2 (d / define-01 :polarity - :ARG1 (i3 / identity :poss p))))
+
+# ::id nw.chtb_0324.15 ::date 2012-12-29T21:56:59 ::annotator SDL-AMR-09 ::preferred
+# ::snt Mingxia Fu , who won the championship for our country at the World Championship and the Olympic Games , and the competitor from Hebei , Bin Chi , who won the championship at the World Cup will participate in the competition .
+# ::save-date Sat Jul 25, 2015 ::file nw_chtb_0324_15.txt
+(p / participate-01 :ARG0 (a / and :op1 (p4 / person :name (n / name :op1 "Mingxia" :op2 "Fu") :ARG0-of (w3 / win-01 :ARG1 (c / championship-02 :ARG0 p4) :ARG3 (c2 / country :poss (w4 / we)) :location (g2 / game :name (n2 / name :op1 "World" :op2 "Championship")) :location (g3 / game :name (n3 / name :op1 "Olympic" :op2 "Games")))) :op2 (p5 / person :name (n4 / name :op1 "Bin" :op2 "Chi") :ARG0-of (c3 / compete-01) :source (p2 / province :name (n5 / name :op1 "Hebei")) :ARG0-of (w5 / win-01 :ARG1 (c4 / championship-02 :ARG0 p5) :location (g4 / game :name (n6 / name :op1 "World" :op2 "Cup"))))) :ARG1 (c5 / compete-01))
+
+# ::id bolt12_6455_6562.23 ::date 2012-12-02T11:58:28 ::annotator SDL-AMR-09 ::preferred
+# ::snt Brandish our weapons and cross to the east
+# ::save-date Mon Nov 25, 2013 ::file bolt12_6455_6562_23.txt
+(a / and :op1 (b / brandish-01 :ARG0 (w2 / we) :ARG1 (w / weapon :poss w2)) :op2 (c / cross-02 :ARG0 w2 :direction (e / east)))
+
+# ::id NW_XIN_ENG_0209_2008_0513.7 ::date 2017-11-18T02:57:35 ::annotator SDL-AMR-09 ::preferred
+# ::snt He had no alternative but to abandon the dead daughter in the wave and tried to keep himself afloat for a lengthy time, holding a nearby fallen tree branch.
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_7.txt
+(c / contrast-01 :ARG1 (h2 / have-03 :polarity - :ARG0 (h3 / he) :ARG1 (a / alternative)) :ARG2 (a3 / and :op1 (a2 / abandon-01 :ARG0 h3 :ARG1 (p / person :ARG0-of (h / have-rel-role-91 :ARG1 h3 :ARG2 (d / daughter)) :ARG1-of (d2 / die-01)) :location (w / wave)) :op2 (t / try-01 :ARG0 h3 :ARG1 (k / keep-01 :ARG0 h3 :ARG1 (a4 / afloat) :duration (t2 / time :ARG1-of (l / long-03)) :manner (h4 / hold-01 :ARG0 h3 :ARG1 (b / branch :part-of (t3 / tree) :ARG1-of (f / fall-01) :location (n / nearby)))))))
+
+# ::id nw.chtb_0318.13 ::date 2012-12-29T13:18:08 ::annotator SDL-AMR-09 ::preferred
+# ::snt After the closing ceremonies of the Sports Meet , they will continue to remain in Beijing for two days , to carry out interaction activities with relevant Chinese parties and visit and tour , and return to Japan on 13th .
+# ::save-date Fri Dec 22, 2017 ::file nw_chtb_0318_13.txt
+(a / and :op1 (r / remain-01 :ARG1 (t2 / they) :location (c6 / city :name (n / name :op1 "Beijing")) :duration (t3 / temporal-quantity :quant 2 :unit (d3 / day)) :purpose (a4 / and :op1 (c7 / carry-out-03 :ARG0 t2 :ARG1 (a2 / activity-06 :ARG0 t2 :ARG1 (i / interact-01 :ARG0 t2 :ARG1 (p / party :mod (c8 / country :name (n2 / name :op1 "China")) :ARG1-of (r2 / relevant-01))))) :op2 (v / visit-01 :ARG0 t2 :ARG1 c6) :op3 (t4 / tour-01 :ARG0 t2 :ARG1 c6)) :time (a3 / after :op1 (c11 / ceremony :ARG0-of (c / close-01 :ARG1 (g / game :name (n4 / name :op1 "Sports" :op2 "Meet")))))) :op2 (r3 / return-01 :ARG1 t2 :ARG4 (c9 / country :name (n3 / name :op1 "Japan")) :time (d4 / date-entity :day 13)))
+
+# ::id DF-200-192400-625_7557.2 ::date 2013-09-07T04:02:19 ::annotator SDL-AMR-09 ::preferred
+# ::snt i started when i was seven as i slit each firnger indevidually with sissors, and from that day i never stopped,
+# ::save-date Sun Sep 15, 2013 ::file DF-200-192400-625_7557_2.txt
+(a2 / and :op1 (s / start-01 :ARG0 (i / i) :ARG2 (s2 / slit-01 :ARG0 i :ARG1 (f / finger :mod (e / each) :mod (i2 / individual)) :ARG3 (s3 / scissors)) :time (a / age-01 :ARG1 i :ARG2 (t / temporal-quantity :quant 7 :unit (y / year)))) :op2 (s4 / stop-01 :polarity - :ARG0 i :time (e2 / ever) :time (f2 / from :op1 (d / day :mod (t2 / that)))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.5 ::date 2017-11-14T11:31:42 ::annotator SDL-AMR-09 ::preferred
+# ::snt The six are all members of an outdoor sports club in Xining, Qinghai's provincial capital.
+# ::save-date Thu Jan 11, 2018 ::file NW_XIN_ENG_0191_2005_0405_5.txt
+(p / person :quant 6 :domain (m / member :ARG1-of (i2 / include-91 :ARG2 (c / club :mod (s / sport) :mod (o / outdoors))) :mod (a / all) :location (c2 / city :name (n / name :op1 "Xining") :ARG0-of (h / have-org-role-91 :ARG1 (p2 / province :name (n2 / name :op1 "Qinghai")) :ARG2 (c3 / capital)))))
+
+# ::id wb.eng_0003.9 ::date 2012-08-27T11:31:02 ::annotator ISI-AMR-01 ::preferred
+# ::snt 17 accidents have been reported near the intersection of Winterfield Road so far this year , up from 12 for all of 2004 .
+# ::save-date Mon Feb 15, 2016 ::file wb_eng_0003_9.txt
+(r / report-01 :ARG1 (a / accident :quant 17 :ARG1-of (n / near-02 :ARG2 (i4 / intersect-01 :ARG0 (r2 / road :name (w / name :op1 "Winterfield" :op2 "Road")))) :ARG4-of (u / up-02 :ARG3 (a3 / accident :quant 12 :time (d / date-entity :year 2004 :mod (a4 / all))))) :time (s2 / so-far :op1 (y / year :mod (t / this))))
+
+# ::id NW_XIN_ENG_0209_2008_0513.11 ::date 2017-11-18T02:21:54 ::annotator SDL-AMR-09 ::preferred
+# ::snt Finding no drinking water and food in face of hunger, he tried to survive by drinking juice from fallen coconuts.
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_11.txt
+(c / cause-01 :ARG0 (f / find-01 :polarity - :ARG0 (h / he) :ARG1 (a / and :op1 (w / water :ARG1-of (d / drink-01)) :op2 (f2 / food)) :condition (f3 / face-01 :ARG0 h :ARG1 (h3 / hunger-01 :ARG0 h))) :ARG1 (t / try-01 :ARG0 h :ARG1 (s / survive-01 :ARG0 h :ARG1 h3 :manner (d2 / drink-01 :ARG0 h :ARG1 (j / juice :source (c2 / coconut :ARG1-of (f4 / fall-01)))))))
+
+# ::id DF-200-192400-625_7557.25 ::date 2013-09-07T05:38:43 ::annotator SDL-AMR-09 ::preferred
+# ::snt Perhaps there's a teacher at school who you trust and could tell.
+# ::save-date Mon Sep 16, 2013 ::file DF-200-192400-625_7557_25.txt
+(p / possible-01 :ARG1 (p3 / person :ARG2-of (t2 / trust-01 :ARG0 (y / you)) :ARG2-of (t3 / tell-01 :ARG0 y :ARG1-of (p2 / possible-01)) :ARG0-of (h / have-org-role-91 :ARG1 (s / school) :ARG3 (t / teach-01))))
+
+# ::id NW_AFP_ENG_0019_2003_0630.20 ::date 2017-10-29T15:05:15 ::annotator SDL-AMR-09 ::preferred
+# ::snt Under the 1993 Oslo accords, which granted a measure of autonomy to the Palestinians, the Rafah border crossing with Egypt was to be jointly managed by both Israel and the Palestinians, although Israel had final control over the zone.
+# ::save-date Sun Oct 29, 2017 ::file NW_AFP_ENG_0019_2003_0630_20.txt
+(o / obligate-01 :ARG0 (a / accord-03 :mod (c3 / city :name (n3 / name :op1 "Oslo")) :time (d / date-entity :year 1993) :ARG0-of (g / grant-01 :ARG1 (m / measure :poss (a2 / autonomy)) :ARG2 (p / person :mod (c4 / country :name (n4 / name :op1 "Palestine"))))) :ARG1 (m2 / manage-01 :ARG0 (a3 / and :op1 (c2 / country :name (n2 / name :op1 "Israel")) :op2 p) :ARG1 (b / border :mod (c5 / city :name (n5 / name :op1 "Rafah")) :ARG0-of (c6 / cross-01 :ARG1 (c / country :name (n / name :op1 "Egypt")))) :manner (j / joint)) :concession (c7 / control-01 :ARG0 c2 :ARG1 (z / zone) :mod (f / final)))
+
+# ::id bolt12_6455_6564.1 ::date 2012-12-02T12:09:01 ::annotator SDL-AMR-09 ::preferred
+# ::snt Why don't we fight with little Japan?
+# ::save-date Mon Nov 25, 2013 ::file bolt12_6455_6564_1.txt
+(c2 / cause-01 :ARG0 (a / amr-unknown) :ARG1 (f / fight-01 :polarity - :ARG0 (w / we) :ARG1 (c / country :name (n / name :op1 "Japan") :mod (l / little))))
+
+# ::id bolt12_91455_5339.1 ::date 2012-12-09T13:22:47 ::annotator SDL-AMR-09 ::preferred
+# ::snt Stop talking about others just behave yourself
+# ::save-date Wed Dec 4, 2013 ::file bolt12_91455_5339_1.txt
+(m / multi-sentence :snt1 (s / stop-01 :mode imperative :ARG0 (y2 / you) :ARG1 (t / talk-01 :ARG0 y2 :ARG1 (p / person :mod (o / other)))) :snt2 (b / behave-01 :mode imperative :ARG0 (y / you) :mod (j / just)))
+
+# ::id DF-200-192400-625_7046.10 ::date 2013-09-07T12:57:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt I am not a health professional and I can only speak from personal experience which is why I strongly suggest you see a qualified health professional about your feelings and worries about depression.
+# ::save-date Mon Nov 2, 2015 ::file DF-200-192400-625_7046_10.txt
+(a / and :op1 (p / professional :polarity - :topic (h / healthy) :domain (i / i)) :op2 (p2 / possible-01 :ARG1 (s / speak-01 :ARG0 i :source (e / experience-01 :ARG0 i :ARG1-of (p4 / personal-02 :ARG2 i)) :mod (o / only)) :ARG0-of (c / cause-01 :ARG1 (s2 / suggest-01 :ARG0 i :ARG1 (s3 / see-01 :ARG0 (y / you) :ARG1 (p3 / professional :topic (h2 / healthy) :ARG1-of (q / qualify-02)) :topic (a2 / and :op1 (t / thing :ARG1-of (f / feel-01 :ARG0 y :ARG2 (d / depression))) :op2 (w / worry-02 :ARG0 y :ARG1 d))) :ARG2 y :ARG1-of (s4 / strong-02)))))
+
+# ::id NW_XIN_ENG_0190_2003_0709.8 ::date 2017-11-14T10:59:43 ::annotator SDL-AMR-09 ::preferred
+# ::snt Rescue teams, medical staff and relief materials, including tents and food, have arrived at the affected areas.
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0190_2003_0709_8.txt
+(a / arrive-01 :ARG1 (a2 / and :op1 (t / team :ARG0-of (r / rescue-01)) :op2 (s / staff :mod (m / medicine)) :op3 (m2 / material :purpose (r2 / relieve-01) :ARG2-of (i2 / include-01 :ARG1 (a3 / and :op1 (t2 / tent) :op2 (f / food))))) :ARG4 (a4 / area :ARG1-of (a5 / affect-01)))
+
+# ::id bolt12_91455_5314.1 ::date 2012-12-07T14:18:43 ::annotator SDL-AMR-09 ::preferred
+# ::snt It's totally unacceptable
+# ::save-date Wed Dec 18, 2013 ::file bolt12_91455_5314_1.txt
+(p / possible-01 :polarity - :ARG1 (a / accept-01 :ARG1 (i / it)) :degree (t / total))
+
+# ::id DF-200-192400-625_7046.9 ::date 2013-09-07T11:47:29 ::annotator SDL-AMR-09 ::preferred
+# ::snt Its not uncommon for people's existing feelings about themselves to become more intense when they are in new situations and feel the pressure to socialise with strangers and fit into new roles, i.e. being a university student.
+# ::save-date Sat Oct 7, 2017 ::file DF-200-192400-625_7046_9.txt
+(c / common :domain (b / become-01 :ARG1 (t / thing :ARG1-of (f / feel-01 :ARG0 (p / person) :ARG2 p) :ARG1-of (e / exist-01)) :ARG2 (i / intense-02 :ARG1 t :ARG2-of (h / have-degree-91 :ARG1 t :ARG3 (m / more))) :time (a / and :op1 (b2 / be-located-at-91 :ARG1 p :ARG2 (s / situation :ARG1-of (n / new-02))) :op2 (f2 / feel-01 :ARG0 p :ARG1 (p2 / pressure-01 :ARG1 p :ARG2 (a2 / and :op1 (s2 / socialize-01 :ARG0 p :prep-with (s3 / stranger)) :op2 (f3 / fit-06 :ARG1 p :ARG2 (r / role :ARG1-of n :example (p3 / person :ARG0-of (s4 / study-01 :location (u / university)))))))))))
+
+# ::id NW_XIN_ENG_0194_2007_0704.3 ::date 2017-11-17T05:42:31 ::annotator SDL-AMR-09 ::preferred
+# ::snt Seven people were confirmed dead and 98 others were injured in a tornado that hit an east China city on Tuesday, say disaster relief authorities.
+# ::save-date Fri Nov 17, 2017 ::file NW_XIN_ENG_0194_2007_0704_3.txt
+(s / say-01 :ARG0 (a2 / authority :ARG0-of (r / relieve-01) :mod (d3 / disaster)) :ARG1 (a / and :op1 (c2 / confirm-01 :ARG1 (d2 / die-01 :ARG1 (p / person :quant 7))) :op2 (i2 / injure-01 :ARG0 (t2 / tornado :ARG0-of (h / hit-01 :ARG1 (c3 / city :location (c / country :name (n / name :op1 "China") :direction (e / east))) :time (d / date-entity :weekday (t / tuesday)))) :ARG1 (p2 / person :quant 98 :mod (o / other)))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.31 ::date 2017-11-16T13:24:32 ::annotator SDL-AMR-09 ::preferred
+# ::snt Goodwill Industries is expecting to donate massive amounts of clothing and other items, so if you are in Austin and were planning to donate stuff, now is a good time to do it.
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_31.txt
+(e / expect-01 :ARG0 (o2 / organization :name (n / name :op1 "Goodwill" :op2 "Industries")) :ARG1 (d / donate-01 :ARG1 (a / amount :quant-of (c / clothe-01) :quant-of (i2 / item :mod (o / other)) :mod (m / massive))) :ARG1-of (c2 / cause-01 :ARG0 (h / have-condition-91 :ARG1 (n3 / now :time-of d2 :ARG1-of (g / good-07)) :ARG2 (a2 / and :op1 (b / be-located-at-91 :ARG1 (y / you) :ARG2 (c3 / city :name (n2 / name :op1 "Austin"))) :op2 (p / plan-01 :ARG0 y :ARG1 (d2 / donate-01 :ARG0 y :ARG1 (s / stuff)))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.11 ::date 2017-11-16T12:05:41 ::annotator SDL-AMR-09 ::preferred
+# ::snt Churches in South Texas which are taking in refugees.
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_11.txt
+(t / take-in-06 :ARG0 (c / church :location (l / local-region :name (n2 / name :op1 "South" :op2 "Texas"))) :ARG1 (r / refugee))
+
+# ::id bolt12_91455_5338.1 ::date 2012-12-09T13:12:42 ::annotator SDL-AMR-09 ::preferred
+# ::snt To put it plainly stars nowadays are just popular prostitutes in ancient times. Now that they are famous prostitutes, it should be just normal to drink with some high officials or even sleep with them
+# ::save-date Sun Jul 26, 2015 ::file bolt12_91455_5338_1.txt
+(m / multi-sentence :snt1 (p6 / person :ARG1-of (p3 / prostitute-01 :ARG0 p6) :ARG1-of (p4 / popular-02) :mod (j / just) :time (t2 / time :mod (a / ancient)) :domain (p7 / person :ARG1-of (s4 / star-01) :time (n4 / nowadays)) :ARG1-of (p / put-02 :manner (p2 / plain))) :snt2 (c / cause-01 :ARG0 (p8 / person :ARG1-of (p5 / prostitute-01 :ARG0 p8) :ARG1-of (f / fame-01) :domain (t / they) :time (n2 / now)) :ARG1 (r / recommend-01 :ARG1 (n / normal-02 :ARG1 (o / or :op1 (d / drink-01 :ARG0 t :accompanier (p9 / person :quant (s2 / some) :ARG0-of (h2 / have-org-role-91 :ARG2 (o2 / official :ARG1-of (h / high-02))))) :op2 (s3 / sleep-02 :ARG0 t :ARG1 o2 :mod (e / even))) :mod (j2 / just)))))
+
+# ::id nw.chtb_0325.6 ::date 2012-12-29T22:32:54 ::annotator SDL-AMR-09 ::preferred
+# ::snt Her performance was 303.00 points .
+# ::save-date Tue Nov 21, 2017 ::file nw_chtb_0325_6.txt
+(p2 / point :quant 303.00 :domain (p / perform-01 :ARG0 (s / she)))
+
+# ::id wb.eng_0003.53 ::date 2012-09-28T09:35:20 ::annotator ISI-AMR-01 ::preferred
+# ::snt No less than Walter Stoch stated that 288 money was intended to be paid from economic development money .
+# ::save-date Mon Oct 15, 2012 ::file wb_eng_0003_53.txt
+(s / state-01 :ARG0 (p / person :name (w / name :op1 "Walter" :op2 "Stoch") :mod (l / less :polarity -)) :ARG1 (i / intend-01 :ARG1 (p2 / pay-01 :ARG1 (m2 / money :purpose (d / develop-02 :ARG1 (e / economy))) :ARG3 (r / road :name (x / name :op1 288)))))
+
+# ::id wb.eng_0003.54 ::date 2012-09-28T09:40:15 ::annotator ISI-AMR-01 ::preferred
+# ::snt Come on folks !!
+# ::save-date Mon Oct 15, 2012 ::file wb_eng_0003_54.txt
+(c / come-on-25 :ARG1 (f / folk) :mode imperative)
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.7 ::date 2017-11-16T11:39:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt Houston is overloaded and many refugees are proceeding to Austin.
+# ::save-date Mon Jan 22, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_7.txt
+(a / and :op1 (l / load-01 :ARG1 (c / city :name (n / name :op1 "Houston")) :ARG1-of (o / over-03)) :op2 (p / proceed-01 :ARG0 (r / refugee :quant (m / many)) :destination (c2 / city :name (n2 / name :op1 "Austin"))))
+
+# ::id bolt12_91455_5312.1 ::date 2012-12-07T14:10:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt The whole society is like this, not to mention the stars
+# ::save-date Sun Dec 8, 2013 ::file bolt12_91455_5312_1.txt
+(r / resemble-01 :ARG1 (s / society :mod (w / whole) :ARG2-of (i / include-91 :ARG1 (p / person :ARG1-of (s2 / star-01)))) :ARG2 (t / this))
+
+# ::id PROXY_NYT_ENG_20080808_0162.20 ::date 2013-08-05T09:36:23 ::snt-type body ::annotator SDL-AMR-09 ::preferred
+# ::snt On 8 August 2008 Georgian government web sites crashed intermittently.
+# ::save-date Fri Aug 9, 2013 ::file PROXY_NYT_ENG_20080808_0162_20.txt
+(c / crash-01 :ARG0 (s / site :mod (w / web) :poss (g / government-organization :ARG0-of (g2 / govern-01 :ARG1 (c2 / country :name (n / name :op1 "Georgia"))))) :time (d / date-entity :day 8 :month 8 :year 2008) :manner (i / intermittent))
+
+# ::id NW_XIN_ENG_0209_2008_0513.8 ::date 2017-11-18T03:01:03 ::annotator SDL-AMR-09 ::preferred
+# ::snt After the storm wind stopped for a moment, his another daughter was found dead in his hand, he cried out.
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_8.txt
+(c / cause-01 :ARG0 (f / find-01 :ARG1 (p / person :ARG0-of (h / have-rel-role-91 :ARG1 h2 :ARG2 (d / daughter)) :mod (a / another) :ARG1-of (d2 / die-01)) :location (h3 / hand :part-of h2) :time (a2 / after :op1 (s / stop-03 :ARG1 (w / wind :mod (s2 / storm)) :duration (m / moment)))) :ARG1 (c2 / cry-out-03 :ARG0 (h2 / he)))
+
+# ::id DF-200-192400-625_7744.13 ::date 2013-09-07T09:40:18 ::annotator SDL-AMR-09 ::preferred
+# ::snt People would think I'm crazy, but it's very strangely difficult to get yourself out of this.
+# ::save-date Sun Jul 26, 2015 ::file DF-200-192400-625_7744_13.txt
+(c / contrast-01 :ARG1 (t / think-01 :ARG0 (p / person) :ARG1 (c2 / crazy-03 :ARG1 (i / i))) :ARG2 (d / difficult :domain (g / get-05 :ARG0 y :ARG1 (y / you) :ARG2 (o / out-06 :ARG1 y :ARG2 (t2 / this))) :manner (s / strange :degree (v / very))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.4 ::date 2017-11-14T11:18:21 ::annotator SDL-AMR-09 ::preferred
+# ::snt "The six tourists has no experience of climbing snow-covered mountains and know little about the terrain," said Deng Haiping, head of the provincial mountaineering administration, which is in charge of the rescue operation.
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0191_2005_0405_4.txt
+(s / say-01 :ARG0 (p3 / person :name (n / name :op1 "Deng" :op2 "Haiping") :ARG0-of (h / head-01 :ARG1 (o / organization :ARG0-of (a / administrate-01) :mod (m2 / mountaineer-00) :mod (s3 / state) :ARG1-of (c3 / charge-08 :ARG2 (o2 / operate-01 :ARG0 o :ARG1 (r / rescue-01)))))) :ARG1 (a2 / and :op1 (h2 / have-03 :polarity - :ARG0 (p / person :quant 6 :ARG0-of (t / tour-01)) :ARG1 (e / experience-01 :ARG1 (c / climb-01 :ARG0 p :ARG1 (m / mountain :ARG1-of (c2 / cover-01 :ARG2 (s2 / snow)))))) :op2 (k / know-01 :ARG0 p :ARG1 (t2 / terrain) :mod (l / little))))
+
+# ::id NW_AFP_ENG_0019_2003_0630.14 ::date 2017-10-29T14:10:55 ::annotator SDL-AMR-09 ::preferred
+# ::snt The Karni-Netzarim road, which runs east-to-west across the route, was still closed as was the section of the highway passing close by Kfar Darom settlement, just south of the Guest House junction, he said, adding both were likely to be opened in the coming weeks.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_14.txt
+(c / close-01 :ARG1 (a / and :op1 (r5 / road :name (n / name :op1 "Karni-Netzarim" :op2 "road") :ARG1-of (r2 / run-04 :ARG3 (e / east) :ARG4 (w / west) :part (a3 / across :op1 (r3 / route)))) :op2 (s2 / section :part-of (h2 / highway :ARG1-of (p / pass-03 :ARG1-of (c3 / close-10 :ARG2 (s3 / settlement :name (n4 / name :op1 "Kfar" :op2 "Darom") :location (r4 / relative-position :op1 (j / junction :mod (c4 / city-district :name (n5 / name :op1 "Guest" :op2 "House"))) :direction (s4 / south :mod (j2 / just))))))))) :ARG1-of (s / say-01 :ARG0 (h / he :ARG0-of (a2 / add-01 :ARG1 (l / likely-01 :ARG1 (o / open-01 :ARG1 a :time (w2 / week :ARG1-of (c5 / come-01))))))) :mod (s5 / still))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.38 ::date 2017-11-16T13:44:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt I am going to try and find near by housing for the Dad's with our church later this week, if possible.
+# ::save-date Tue Dec 19, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_38.txt
+(t2 / try-01 :ARG0 (i / i) :ARG1 (f / find-01 :ARG0 i :ARG1 (h / house :ARG1-of (n2 / near-02)) :beneficiary (p / person :ARG0-of (h2 / have-rel-role-91 :ARG1 i :ARG2 (d / dad))) :location (c / church :mod (w2 / we)) :time (w / week :mod (t / this)) :time (a / after) :condition (p2 / possible-01)))
+
+# ::id NW_XIN_ENG_0189_2003_0324.4 ::date 2017-11-12T11:51:11 ::annotator SDL-AMR-09 ::preferred
+# ::snt The US-led coalition forces launched a new round of airstrikes on Baghdad at 2:30 p.m. (1130GMT) on Monday.
+# ::save-date Sun Nov 12, 2017 ::file NW_XIN_ENG_0189_2003_0324_4.txt
+(l / launch-01 :ARG0 (f / force-01 :ARG0 (c2 / coalition :ARG1-of (l2 / lead-02 :ARG0 (c3 / country :name (n2 / name :op1 "US"))))) :ARG1 (r / round :ARG1-of (n3 / new-01) :mod (s / strike-01 :mod (a / air))) :location (c / city :name (n / name :op1 "Baghdad")) :time (d / date-entity :time "14:30" :weekday (m2 / monday)) :time (d2 / date-entity :time "11:30" :timezone "GMT" :weekday (m3 / monday)))
+
+# ::id NW_AFP_ENG_0019_2003_0630.13 ::date 2017-10-29T14:02:21 ::annotator SDL-AMR-09 ::preferred
+# ::snt Although there was free movement along the trans-Gaza highway, several other roads remained temporarily closed, he said.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_13.txt
+(s / say-01 :ARG0 (h / he) :ARG1 (r / remain-01 :ARG1 (r2 / road :quant (s2 / several) :mod (o / other)) :ARG3 (c / close-01 :duration (t / temporary)) :concession-of (m / move-01 :ARG3-of (f / free-04) :location (a / along :op1 (r3 / road :name (n2 / name :op1 "trans-Gaza" :op2 "highway"))))))
+
+# ::id NW_AFP_ENG_0018_2003_0616.8 ::date 2017-10-29T17:02:12 ::annotator SDL-AMR-09 ::preferred
+# ::snt Scott told investigators she had moved that body around before she moved to Texas, sometimes in the closet at the Byrds Creek house, in the trunk of her car and in the closet of her apartment in Richland Center, the complaint said.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0018_2003_0616_8.txt
+(t / tell-01 :ARG0 (p2 / person :name (n3 / name :op1 "Scott")) :ARG1 (m / move-01 :ARG0 p2 :ARG1 (b / body :mod (t2 / that)) :ARG2 (a / and :op1 (c / closet :part-of (h / house :location (c2 / city-district :name (n4 / name :op1 "Byrds" :op2 "Creek"))) :frequency (s3 / sometimes)) :op2 (t3 / trunk :mod (c3 / car :poss p2)) :op3 (c4 / closet :location (a2 / apartment :poss p2 :location (c5 / city :name (n2 / name :op1 "Richland" :op2 "Center"))))) :time (b2 / before :op1 (m2 / move-01 :ARG1 p2 :ARG2 (s / state :name (n / name :op1 "Texas")) :mod (a3 / around)))) :ARG2 (p / person :ARG0-of (i / investigate-01)) :ARG1-of (s2 / say-01 :ARG0 (c6 / complaint)))
+
+# ::id NW_AFP_ENG_0019_2003_0630.11 ::date 2017-10-29T13:34:13 ::annotator SDL-AMR-09 ::preferred
+# ::snt The three military checkpoints on the highway, which runs the entire length of the Gaza Strip, had transformed the trip from north to south, ordinarily a 30-minute ride, into a grinding two or three-hour ordeal and came to symbolise the horrors of occupation.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_11.txt
+(a / and :op1 (t3 / transform-01 :ARG0 (c2 / checkpoint :quant 3 :location (h2 / highway :ARG1-of (r / run-04 :ARG2 (l / long-03 :ARG1 (c / country-region :name (n / name :op1 "Gaza" :op2 "Strip")) :mod (e / entire)))) :mod (m2 / military)) :ARG1 (t4 / trip-03 :ARG1 (s / south) :ARG2 (n2 / north)) :ARG2 (r2 / ride :duration (t / temporal-quantity :quant 30 :unit (m / minute)) :mod (o / ordinary)) :ARG3 (o2 / ordeal :duration (o3 / or :op1 (t5 / temporal-quantity :quant 2 :unit (h / hour)) :op2 (t2 / temporal-quantity :quant 3 :unit h)) :ARG0-of (g / grind-05))) :op2 (c3 / come-04 :ARG1 (s2 / symbolize-01 :ARG1 c2 :ARG2 (h3 / horror :topic (o4 / occupy-01)))))
+
+# ::id PROXY_NYT_ENG_20080808_0162.23 ::date 2013-08-05T09:55:28 ::snt-type body ::annotator SDL-AMR-09 ::preferred
+# ::snt The Caucus region is an important conduit for the flow of oil from the Caspian Sea to world markets.
+# ::save-date Mon Nov 2, 2015 ::file PROXY_NYT_ENG_20080808_0162_23.txt
+(c / conduit :domain (w / world-region :name (n / name :op1 "Caucasus")) :ARG1-of (i / important-01) :purpose (f / flow-01 :ARG1 (o / oil) :source (s / sea :name (n2 / name :op1 "Caspian" :op2 "Sea")) :destination (m / market :mod (w2 / world))))
+
+# ::id DF-200-192400-625_7557.4 ::date 2013-09-07T04:13:30 ::annotator SDL-AMR-09 ::preferred
+# ::snt i have sevral slits on my arm,
+# ::save-date Sat Sep 7, 2013 ::file DF-200-192400-625_7557_4.txt
+(h / have-03 :ARG0 (i / i) :ARG1 (s / slit :location (a / arm :part-of i) :quant (s2 / several)))
+
+# ::id bolt12_6455_6562.20 ::date 2012-12-02T08:20:47 ::annotator SDL-AMR-09 ::preferred
+# ::snt Youngest brother is still a tender youth
+# ::save-date Sun Oct 22, 2017 ::file bolt12_6455_6562_20.txt
+(y / youth :ARG1-of (t / tender-02) :time (s / still) :domain (p / person :ARG0-of (h / have-rel-role-91 :ARG2 (b / brother :ARG1-of (h2 / have-degree-91 :ARG2 (y2 / young) :ARG3 (m / most))))))
+
+# ::id NW_XIN_ENG_0209_2008_0513.9 ::date 2017-11-18T03:03:17 ::annotator SDL-AMR-09 ::preferred
+# ::snt He went on to recall that as his parents had been swept away by tidal wave at the start of the tragedy, he was left alive alone.
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_9.txt
+(a2 / and :op1 (r / recall-02 :ARG0 (h / he) :ARG1 (s / sweep-01 :ARG0 (w / wave :mod (t / tide)) :ARG1 (p / parent :poss h) :manner (a / away) :time (s2 / start-01 :ARG0 (t2 / tragedy)))) :op2 (l / leave-12 :ARG1 h :ARG2 (a3 / alone :mod (l2 / live-01 :ARG0 h))))
+
+# ::id bolt12_91455_5341.1 ::date 2012-12-09T13:29:26 ::annotator SDL-AMR-09 ::preferred
+# ::snt More suffering is under the disguise of glorious looks, 'tis the undisputable fact.
+# ::save-date Wed Dec 4, 2013 ::file bolt12_91455_5341_1.txt
+(d2 / disguise-01 :ARG1 (s / suffer-01 :quant (m / more)) :ARG2 (l / look-02 :ARG1 (g / glorious)) :ARG2-of (d / dispute-01 :ARG1-of (p / possible-01 :polarity -)))
+
+# ::id nw.chtb_0319.1 ::date 2012-12-29T13:24:43 ::annotator SDL-AMR-09 ::preferred
+# ::snt In the script " Mongolian handicapped athletes prepare for the Far South Sports Meet " broadcast today , the " Sports Association Chairman Lahagewasu " at the end of paragraph three should be changed to " Sports Association Chairman Lahagewasulen " .
+# ::save-date Tue Jul 28, 2015 ::file nw_chtb_0319_1.txt
+(r / recommend-01 :ARG1 (c2 / change-01 :ARG2 (p / person :name (n2 / name :op1 "Lahagewasulen") :ARG0-of (h / have-org-role-91 :ARG1 (o / organization :name (n4 / name :op1 "Sports" :op2 "Association")) :ARG2 (c / chairman))) :ARG3 (p3 / person :name (n5 / name :op1 "Lahagewasu") :ARG0-of (h2 / have-org-role-91 :ARG1 o :ARG2 c) :location (e / end-01 :ARG1 (p4 / paragraph :mod 3))) :location (s / script :ARG1-of (b / broadcast-01 :time (t / today)) :ARG1-of (t2 / title-01 :ARG2 (p5 / prepare-02 :ARG0 (a / athlete :ARG1-of (h3 / handicap-01) :mod (c3 / country :name (n6 / name :op1 "Mongolia"))) :ARG1 a :ARG2 (g / game :name (n7 / name :op1 "Far" :op2 "South" :op3 "Sports" :op4 "Meet")))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.48 ::date 2017-11-17T09:32:10 ::annotator SDL-AMR-09 ::preferred
+# ::snt The JCAA will distribute these goods when more information is made available on which organizations will be accepting goods and what the local needs will be, as well as the regional needs.
+# ::save-date Fri Dec 22, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_48.txt
+(d / distribute-01 :ARG0 (o / organization :name (n / name :op1 "Junior" :op2 "College" :op3 "Athletic" :op4 "Association")) :ARG1 (g / good :mod (t / this)) :time (a / available-02 :ARG2 (i2 / information :quant (m / more) :topic (a3 / and :op1 (o2 / organization :ARG0-of (a2 / accept-01 :ARG1 g)) :op2 (t2 / thing :ARG1-of (n2 / need-01 :ARG1-of (l / local-02))) :op3 (t3 / thing :ARG1-of (n3 / need-01 :ARG0 (r / region)))))))
+
+# ::id NW_AFP_ENG_0019_2003_0630.10 ::date 2017-10-29T13:14:27 ::annotator SDL-AMR-09 ::preferred
+# ::snt Traffic was flowing freely through the Netzarim junction, just south of Gaza City, the Kissufim junction by Deir al-Balah in the central Gaza Strip, and the Guest House junction just south of Deir al-Balah after the army withdrew.
+# ::save-date Thu Dec 14, 2017 ::file NW_AFP_ENG_0019_2003_0630_10.txt
+(f / flow-01 :ARG1 (t / traffic) :ARG3-of (f2 / free-04) :location (a / and :op1 (j / junction :mod (c2 / city-district :name (n4 / name :op1 "Netzarim")) :location (r / relative-position :op1 (c3 / city :name (n5 / name :op1 "Gaza" :op2 "City")) :direction (s / south))) :op2 (j2 / junction :ARG1-of (n6 / near-02 :ARG2 (c4 / city :name (n7 / name :op1 "Deir" :op2 "al-Balah") :location (c / country-region :name (n / name :op1 "Gaza" :op2 "Strip") :part (c5 / center)))) :mod (c7 / city-district :name (n2 / name :op1 "Kissufim"))) :op3 (j3 / junction :location (r2 / relative-position :op1 c4 :direction (s2 / south :mod (j4 / just))) :mod (c8 / city-district :name (n3 / name :op1 "Guest" :op2 "House")))) :time (a2 / after :op1 (w / withdraw-01 :ARG1 (a3 / army))))
+
+# ::id DF-200-192400-625_7046.11 ::date 2013-09-07T12:17:56 ::annotator SDL-AMR-09 ::preferred
+# ::snt Most people feel unintelligent and awkward when they first get to uni- you're definitely not alone there. But I would really recommend that you get an appointment with your uni counselling services. It doesn't really matter whether anyone has told you that you are depressed or not, you are obviously having some problems at the minute and could use some support- labels aren't as important as your experiences. Meditation and exercise are really helpful, so definitely try to do those. But yeah, you will have to engage with help and life in general to get somewhere- but don't beat yourself up about feeling unmotivated to do anything at the minute, lots of people feel like this and hopefully it will pass as you begin to feel better. Being unkind to yourself will only make you feel worse- be kind to yourself and get some help.
+# ::save-date Tue Dec 19, 2017 ::file DF-200-192400-625_7046_11.txt
+(m / multi-sentence :snt1 (f / feel-01 :ARG0 (p / person :quant (m2 / most)) :ARG1 (a / and :op1 (i / intelligent-01 :polarity - :ARG1 p) :op2 (a2 / awkward)) :time (g / get-05 :ARG1 p :ARG2 (u / university) :ord (o5 / ordinal-entity :value 1)) :ARG0-of (c3 / cause-01 :ARG1 (a4 / alone :polarity - :domain (y / you) :location u :mod (d / definite)))) :snt2 (c / contrast-01 :ARG2 (r / recommend-01 :ARG0 (i2 / i) :ARG1 (g2 / get-01 :ARG0 (y2 / you) :ARG1 (a5 / appointment-02 :ARG0 y2 :ARG1 (s / service :ARG0-of (c2 / counsel-01 :ARG1 y) :location (u2 / university :poss y)))) :ARG2 y2 :degree (r2 / really))) :snt3 (m3 / matter-01 :polarity - :ARG1 (t / tell-01 :ARG0 (a3 / anyone) :ARG1 (t7 / truth-value :polarity-of (d2 / depress-01 :ARG1 y3)) :ARG2 (y3 / you)) :ARG1-of (r3 / real-04)) :snt4 (a6 / and :op1 (h / have-03 :ARG0 (y4 / you) :ARG1 (p2 / problem :quant (s2 / some)) :ARG1-of (o2 / obvious-01) :time (m10 / minute)) :op2 (p3 / possible-01 :ARG1 (u3 / use-01 :ARG0 y4 :ARG1 (s3 / support-01 :ARG1 y4 :mod (s4 / some))))) :snt6 (h2 / helpful-04 :ARG0 (a7 / and :op1 (m4 / meditate-01) :op2 (e / exercise-02)) :ARG0-of (c4 / cause-01 :ARG1 (t4 / try-01 :ARG0 (y6 / you) :ARG1 (d4 / do-02 :ARG0 y6 :ARG1 a7))) :degree (r4 / really)) :snt7 (c5 / contrast-01 :ARG2 (c6 / contrast-01 :ARG1 (o3 / obligate-01 :ARG2 (e4 / engage-01 :ARG1 (y7 / you) :ARG2 (a8 / and :op1 (h3 / help) :op2 (l2 / life :ARG1-of (g3 / general-02))) :purpose (g4 / get-05 :ARG1 y7 :ARG2 (s5 / somewhere)))) :ARG2 (b / beat-up-05 :polarity - :ARG0 y7 :ARG1 y7 :ARG1-of (c7 / cause-01 :ARG0 (f3 / feel-01 :ARG0 y7 :ARG1 (m5 / motivate-01 :polarity - :ARG1 y7 :ARG2 (d5 / do-02 :ARG0 y7 :ARG1 (a9 / anything) :time (m6 / minute)))))))) :snt8 (a10 / and :op1 (f4 / feel-01 :ARG0 (p4 / person :quant (l3 / lot)) :ARG1 (t5 / thing :ARG1-of (r5 / resemble-01 :ARG2 (t6 / this)))) :op2 (p5 / pass-03 :ARG1 t5 :ARG1-of (h5 / hope-01) :time (b3 / begin-01 :ARG0 y8 :ARG1 (f5 / feel-01 :ARG0 (y8 / you) :ARG1 (h9 / have-degree-91 :ARG1 y8 :ARG2 (w2 / well-05) :ARG3 (m7 / more)))))) :snt9 (k / kind-01 :polarity - :ARG0 (y9 / you) :ARG2 y9 :ARG0-of (w / worsen-01 :ARG1 (f6 / feel-01 :ARG0 y9) :mod (o4 / only))) :snt10 (a11 / and :op1 (k2 / kind-01 :mode imperative :ARG0 (y10 / you) :ARG2 y10) :op2 (g6 / get-01 :mode imperative :ARG0 y10 :ARG1 (h4 / help-01 :ARG2 y10 :mod (s6 / some)))) :snt5 (h7 / have-degree-91 :polarity - :ARG1 (t2 / thing :ARG2-of (l / label-01)) :ARG2 (i3 / important-01 :ARG1 t2) :ARG3 (e5 / equal) :ARG4 (t3 / thing :ARG1-of (e2 / experience-01 :ARG0 (y5 / you)))))
+
+# ::id NW_XIN_ENG_0194_2007_0704.9 ::date 2017-11-17T06:46:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt Many Chinese provinces have reported disastrous weather in recent weeks, when flooding hit central and southern China while droughts persisted in the north.
+# ::save-date Fri Dec 22, 2017 ::file NW_XIN_ENG_0194_2007_0704_9.txt
+(r / report-01 :ARG0 (p / province :location (c / country :name (n2 / name :op1 "China")) :mod (m / many)) :ARG1 (w / weather :mod (d / disastrous)) :time (w2 / week :mod (r2 / recent)) :time (h / hit-01 :ARG0 (f / flood-01) :ARG1 (a / and :op1 (c7 / center :part-of c) :op2 (s / south :part-of c)) :ARG1-of (c5 / contrast-01 :ARG2 (p2 / persist-01 :ARG1 (d2 / draught) :location (n6 / north :part-of c)))))
+
+# ::id wb.eng_0003.31 ::date 2012-09-23T17:26:51 ::annotator ISI-AMR-01 ::preferred
+# ::snt I 'd usually take the pro-road position -
+# ::save-date Fri Jul 24, 2015 ::file wb_eng_0003_31.txt
+(t / take-01 :ARG0 (i / i) :ARG1 (p / position-02 :ARG0 i :ARG2 (f / favor-01 :ARG1 (r / road))) :mod (u / usual))
+
+# ::id NW_XIN_ENG_0192_2005_0906.1 ::date 2017-11-14T13:11:51 ::annotator SDL-AMR-09 ::preferred
+# ::snt Officials in Los Angeles mull ways to accommodate Katrina evacuees
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0192_2005_0906_1.txt
+(m / mull-01 :ARG0 (p2 / person :location (c / city :name (n / name :op1 "Los" :op2 "Angeles")) :ARG0-of (h2 / have-org-role-91 :ARG2 (o / official))) :ARG1 (w / way) :purpose (a / accommodate-01 :ARG0 p2 :ARG1 (p / person :ARG2-of (e / evacuate-01 :ARG0 (h / hurricane :name (n2 / name :op1 "Katrina"))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.45 ::date 2017-11-16T14:20:03 ::annotator SDL-AMR-09 ::preferred
+# ::snt Beginning on Friday, September 2, there will be a United Van Lines truck stationed at the JCAA to collect items approved by the American Red Cross Disaster Relief, including: new or gently used clothing, staples such as toothbrushes, toothpaste, diapers and non-perishable food items: bottled water, peanut butter, tuna fish and granola/cereal bars.
+# ::save-date Fri Dec 22, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_45.txt
+(s / station-01 :ARG1 (t / truck :mod (c3 / company :name (n4 / name :op1 "United" :op2 "Van" :op3 "Lines"))) :ARG2 (o3 / organization :name (n5 / name :op1 "Junior" :op2 "College" :op3 "Athletic" :op4 "Association")) :purpose (c4 / collect-01 :ARG0 t :ARG1 (i2 / item :ARG1-of (a / approve-01 :ARG0 (o2 / organization :name (n3 / name :op1 "Red" :op2 "Cross") :mod (c / country :name (n / name :op1 "America")))) :ARG2-of (i3 / include-01 :ARG1 (a2 / and :op1 (o / or :op1 (c2 / cloth :ARG1-of (n2 / new-01)) :op2 (c6 / cloth :ARG1-of (u / use-01 :manner (g / gentle-01)))) :op2 (s2 / staple :example (t2 / toothbrush)) :op3 (t3 / toothpaste) :op4 (d2 / diaper) :op5 (i4 / item :mod (f2 / food) :mod (p / perishable :polarity -) :example (w / water :ARG1-of (b2 / bottle-01)) :example (b3 / butter :source (p2 / peanut)) :example (f3 / fish :mod (t4 / tuna)) :example (b4 / bar :mod (g2 / granola)) :example (b5 / bar :mod (c5 / cereal))))))) :time (b / begin-01 :time (d / date-entity :day 2 :month 9 :weekday (f / friday))))
+
+# ::id NW_XIN_ENG_0189_2003_0324.7 ::date 2017-11-12T12:24:26 ::annotator SDL-AMR-09 ::preferred
+# ::snt According to other reports reaching here, five Syrian bus passengers were killed and 10 others were injured on Sunday morning when a US missile hit the bus they were traveling in near the Iraqi border.
+# ::save-date Sun Nov 12, 2017 ::file NW_XIN_ENG_0189_2003_0324_7.txt
+(s2 / say-01 :ARG0 (t / thing :ARG1-of (r / report-01) :mod (o / other) :ARG1-of (r2 / reach-01 :location (h / here))) :ARG1 (a / and :op1 (k / kill-01 :ARG1 (p / passenger :quant 5 :mod (b / bus) :mod (c / country :name (n / name :op1 "Syria")))) :op2 (i2 / injure-01 :ARG1 (p2 / person :quant 10 :mod (o2 / other))) :time (d / date-entity :weekday (s / sunday) :dayperiod (m / morning)) :time (h2 / hit-01 :ARG1 (b2 / bus :instrument-of (t2 / travel-01 :ARG1 (n3 / near-02 :ARG1 b2 :ARG2 (b3 / border-01 :ARG1 (c3 / country :name (n4 / name :op1 "Iraq")))))) :ARG2 (m2 / missile :mod (c2 / country :name (n2 / name :op1 "US"))))))
+
+# ::id nw.chtb_0322.4 ::date 2012-12-29T13:57:34 ::annotator SDL-AMR-09 ::preferred
+# ::snt In the competition today , both sides each have 7 Go players participating .
+# ::save-date Tue Dec 17, 2013 ::file nw_chtb_0322_4.txt
+(h / have-03 :ARG0 (s / side :mod (b / both) :mod (e2 / each)) :ARG1 (p2 / person :quant 7 :ARG0-of (p3 / play-01 :ARG1 (g / game :name (n / name :op1 "Go"))) :ARG0-of (c / compete-01 :time (t / today))))
+
+# ::id bolt12_91455_5317.1 ::date 2012-12-07T14:27:01 ::annotator SDL-AMR-09 ::preferred
+# ::snt a group of people of nine professions
+# ::save-date Sun Dec 8, 2013 ::file bolt12_91455_5317_1.txt
+(g / group :consist-of (p / person :ARG0-of (h / have-org-role-91 :ARG2 (p2 / profession :quant 9))))
+
+# ::id wb.eng_0003.29 ::date 2012-09-20T21:58:53 ::annotator ISI-AMR-01 ::preferred
+# ::snt Additional traffic congestion in old places ?
+# ::save-date Mon Sep 18, 2017 ::file wb_eng_0003_29.txt
+(c / congest-01 :ARG2 (t / traffic) :location (p / place :mod (o / old)) :mod (a2 / additional) :polarity (a / amr-unknown))
+
+# ::id PROXY_NYT_ENG_20080808_0162.24 ::date 2013-08-05T09:56:51 ::snt-type body ::annotator SDL-AMR-09 ::preferred
+# ::snt Conflict in the caucus region has lasted for years along Russia's borders.
+# ::save-date Thu Jan 16, 2014 ::file PROXY_NYT_ENG_20080808_0162_24.txt
+(l / last-01 :ARG1 (c / conflict-01 :location (w / world-region :name (n / name :op1 "Caucasus"))) :ARG2 (m / multiple :op1 (t / temporal-quantity :quant 1 :unit (y / year))) :location (a / along :op1 (b / border-01 :ARG2 (c2 / country :name (n2 / name :op1 "Russia")))))
+
+# ::id wb.eng_0003.25 ::date 2012-09-20T21:51:24 ::annotator ISI-AMR-01 ::preferred
+# ::snt Thanks for nothing .
+# ::save-date Mon Sep 24, 2012 ::file wb_eng_0003_25.txt
+(t / thank-01 :ARG0 (i / i) :ARG1 (y / you) :ARG2 (n / nothing))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.22 ::date 2017-11-16T12:46:40 ::annotator SDL-AMR-09 ::preferred
+# ::snt The Austin JCC website has updates on local relief efforts.
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_22.txt
+(h / have-03 :ARG0 (w / website :mod (o / organization :name (n / name :op1 "Jewish" :op2 "Community" :op3 "Center") :mod (c / city :name (n2 / name :op1 "Austin")))) :ARG1 (u / update-02 :ARG2 (e / effort-01 :ARG1 (r / relieve-01) :ARG1-of (l / local-02))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.57 ::date 2017-11-17T11:49:38 ::annotator SDL-AMR-09 ::preferred
+# ::snt We will also focus on developing a group of trained spiritual care responders, available to meet the pastoral needs of those in crisis.
+# ::save-date Fri Dec 22, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_57.txt
+(f / focus-01 :ARG0 (w / we) :ARG1 (d / develop-02 :ARG0 w :ARG1 (g / group :part (p / person :ARG0-of (r / respond-01 :ARG2 (c / care-03)) :ARG2-of (t / train-01 :ARG1 (s / spirit)) :ARG2-of (a / available-02 :purpose (m / meet-05 :ARG0 p :ARG1 (n / need-01 :ARG0 (p3 / person :mod (c2 / crisis)) :ARG1 (p2 / pastor))))))) :mod (a2 / also))
+
+# ::id NW_XIN_ENG_0209_2008_0513.21 ::date 2017-11-18T02:34:27 ::annotator SDL-AMR-09 ::preferred
+# ::snt A deadly tropical cyclone Nargis, which occurred over the Bay of Bengal, severely hit five divisions and states -- Yangon, Bago, Ayeyawaddy, Kayin and Mon -- on May 2 and 3, covering such coastal towns in the Ayeyawaddy division as Haing Gyi Island, Pathein, Myaungmya, Laputta, Mawlamyinegyun, Kyaiklat, Phyarpon and Bogalay, and 45 townships in the biggest city of Yangon and sustaining the heaviest ever casualties and infrastructural damage.
+# ::save-date Tue Jan 16, 2018 ::file NW_XIN_ENG_0209_2008_0513_21.txt
+(h2 / hit-01 :ARG0 (c / cyclone :name (n / name :op1 "Nargis") :mod (t / tropic) :ARG0-of (k / kill-01) :location (o / over :op1 (b2 / bay :name (n2 / name :op1 "Bengal"))) :ARG0-of (c2 / cover-02 :ARG1 (a5 / and :op1 (t3 / town :mod (c12 / coast) :location (s9 / state :name (n8 / name :op1 "Ayeyawaddy")) :ARG2-of (i4 / include-91 :ARG1 (a4 / and :op1 (i2 / island :name (n9 / name :op1 "Haing" :op2 "Gyi")) :op2 (c3 / city :name (n10 / name :op1 "Pathein")) :op3 (c4 / city :name (n11 / name :op1 "Myaungmya")) :op4 (c5 / city :name (n12 / name :op1 "Laputta")) :op5 (c6 / city :name (n13 / name :op1 "Mawlamyinegyun")) :op6 (c7 / city :name (n14 / name :op1 "Kyaiklat")) :op7 (c8 / city :name (n15 / name :op1 "Phyarpon")) :op8 (c9 / city :name (n16 / name :op1 "Bogalay"))))) :op2 (t2 / township :quant 45 :location (c10 / city :name (n17 / name :op1 "Yangon") :ARG1-of (h4 / have-degree-91 :ARG2 (b3 / big) :ARG3 (m3 / most)) :ARG0-of (s8 / sustain-01 :ARG1 (a6 / and :op1 (c11 / casualty :ARG1-of (h5 / have-degree-91 :ARG2 (h6 / heavy) :ARG3 (m4 / most)) :mod (e / ever)) :op2 (d5 / damage-01 :ARG1 (i3 / infrastructure))))))))) :ARG1 (a / and :op1 (d2 / division :quant 5) :op2 (s2 / state) :ARG1-of (m2 / mean-01 :ARG2 (a2 / and :op1 (s3 / state :name (n3 / name :op1 "Yangon")) :op2 (s4 / state :name (n4 / name :op1 "Bago")) :op3 (s5 / state :name (n5 / name :op1 "Ayeyawaddy")) :op4 (s6 / state :name (n6 / name :op1 "Kayin")) :op5 (s7 / state :name (n7 / name :op1 "Mon"))))) :degree (s / severe) :time (a3 / and :op1 (d / date-entity :day 2 :month 5) :op2 (d3 / date-entity :day 3 :month 5)))
+
+# ::id DF-200-192400-625_7557.16 ::date 2013-09-07T04:44:48 ::annotator SDL-AMR-09 ::preferred
+# ::snt i dont what to stop,
+# ::save-date Fri May 2, 2014 ::file DF-200-192400-625_7557_16.txt
+(w / want-01 :polarity - :ARG0 (i / i) :ARG1 (s / stop-01 :ARG0 i))
+
+# ::id NW_AFP_ENG_0019_2003_0630.12 ::date 2017-10-29T13:47:29 ::annotator SDL-AMR-09 ::preferred
+# ::snt "Israel has implemented most of the agreement except for a few issues," the source said, pointing out that Israel had still not removed two military observation posts at the Kissufim junction and the Guest House junction.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_12.txt
+(i2 / implement-01 :ARG0 (c / country :name (n / name :op1 "Israel")) :ARG1 (a / agree-01 :quant (m / most) :ARG2-of (e / except-01 :ARG1 (i3 / issue :quant (f / few)))) :ARG1-of (s / say-01 :ARG0 (p / person :ARG0-of (s2 / source-02) :ARG0-of (p2 / point-out-02 :ARG1 (r / remove-01 :polarity - :ARG0 c :ARG1 (p3 / post :ARG0-of (o / observe-01 :quant 2) :mod (m2 / military) :location (a2 / and :op1 (j / junction :mod (c2 / city-district :name (n2 / name :op1 "Kissufim"))) :op2 (j2 / junction :mod (c3 / city-district :name (n3 / name :op1 "Guest" :op2 "House"))))) :mod (s3 / still))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.46 ::date 2017-11-17T09:23:35 ::annotator SDL-AMR-09 ::preferred
+# ::snt PLEASE separate clothing items and label for children, women or men.
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_46.txt
+(a / and :op1 (s / separate-01 :mode expressive :polite + :ARG0 (y / you) :ARG1 (i2 / item :mod (c / clothing))) :op2 (l / label-01 :mode expressive :polite + :ARG0 y :ARG2 (o / or :op1 (c2 / child) :op2 (w / woman) :op3 (m / man))))
+
+# ::id DF-200-192400-625_7744.17 ::date 2013-09-07T11:49:34 ::annotator SDL-AMR-09 ::preferred
+# ::snt Doctors will have seen much worse cases so don't worry about that!
+# ::save-date Sat Oct 7, 2017 ::file DF-200-192400-625_7744_17.txt
+(c / cause-01 :ARG0 (s / see-01 :ARG0 (d / doctor) :ARG1 (c2 / case-04 :ARG1-of (h / have-degree-91 :ARG2 (b / bad-05 :ARG1 c2) :ARG3 (m / more :quant (m2 / much))))) :ARG1 (w / worry-02 :polarity - :mode imperative :ARG0 (y / you) :ARG1 (t / that)))
+
+# ::id bolt12_91455_5334.1 ::date 2012-12-09T07:55:27 ::annotator SDL-AMR-09 ::preferred
+# ::snt The entertainment circle is a dirty one, all men in it are birds and beasts and scum
+# ::save-date Sat Jul 25, 2015 ::file bolt12_91455_5334_1.txt
+(m2 / multi-sentence :snt1 (d / dirty-02 :ARG1 (c / circle :mod (e / entertain-01))) :snt2 (a2 / and :op1 (b / bird) :op2 (b2 / beast) :op3 (s / scum) :domain (m / man :mod (a3 / all) :location (i / it))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.60 ::date 2017-11-17T12:20:04 ::annotator SDL-AMR-09 ::preferred
+# ::snt Please RSVP if you can attend: aaim@aaimaustin.org or call 512-386-9145 Food will be provided for $3.00
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_60.txt
+(m2 / multi-sentence :snt1 (r / respond-01 :mode imperative :polite + :ARG0 (y / you) :condition (p / possible-01 :ARG1 (a / attend-01 :ARG0 y)) :medium (o / or :op1 (e / email-address-entity :value "aaim@aaimaustin.org") :op2 (c / call-02 :ARG0 y :ARG1 (p2 / phone-number-entity :value "512-386-9145")))) :snt2 (p3 / provide-01 :ARG1 (f / food :ARG1-of (c2 / cost-01 :ARG2 (m / monetary-quantity :quant 3.00 :unit (d / dollar))))))
+
+# ::id NW_XIN_ENG_0190_2003_0709.4 ::date 2017-11-12T12:48:57 ::annotator SDL-AMR-09 ::preferred
+# ::snt The provincial office of disaster relief said the tornado struck several towns 11:10 p.m. Tuesday and 2 a.m. Wednesday.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0190_2003_0709_4.txt
+(s / say-01 :ARG0 (o / office :mod (s2 / state) :mod (d3 / disaster :mod (r / relieve-01))) :ARG1 (s3 / strike-01 :ARG0 (t2 / tornado) :ARG1 (t3 / town :quant (s4 / several))) :time (a / and :op1 (d / date-entity :time "23:10" :weekday (t / tuesday)) :op2 (d2 / date-entity :time "2:00" :weekday (w / wednesday))))
+
+# ::id NW_AFP_ENG_0019_2003_0630.18 ::date 2017-10-29T14:54:26 ::annotator SDL-AMR-09 ::preferred
+# ::snt The army also handed over control of Rafah border crossing between the Gaza Strip and Egypt to the Palestinians, security sources said.
+# ::save-date Sun Oct 29, 2017 ::file NW_AFP_ENG_0019_2003_0630_18.txt
+(h / hand-over-02 :ARG0 (a / army) :ARG1 (c3 / control-01 :ARG1 (b / border :mod (c4 / city :name (n4 / name :op1 "Rafah")) :ARG0-of (c5 / cross-02 :ARG1 (b2 / between :op1 (c / country-region :name (n2 / name :op1 "Gaza" :op2 "Strip")) :op2 (c2 / country :name (n3 / name :op1 "Egypt")))))) :ARG2 (p / person :mod (c6 / country :name (n5 / name :op1 "Palestine"))) :mod (a2 / also) :ARG1-of (s / say-01 :ARG0 (p2 / person :ARG0-of (s2 / secure-02) :ARG0-of (s3 / source-02))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.15 ::date 2017-11-14T12:40:30 ::annotator SDL-AMR-09 ::preferred
+# ::snt However, rescue work was hampered by thick snow and signs of new avalanche, said Deng.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0191_2005_0405_15.txt
+(s3 / say-01 :ARG0 (p / person :name (n2 / name :op1 "Deng")) :ARG1 (h / have-concession-91 :ARG2 (h2 / hamper-01 :ARG0 (a / and :op1 (s / snow :ARG1-of (t / thick-02)) :op2 (s2 / sign :mod (a2 / avalanche :ARG1-of (n / new-01)))) :ARG1 (w / work-01 :ARG1 (r / rescue-01)))))
+
+# ::id NW_XIN_ENG_0193_2006_0822.6 ::date 2017-11-16T12:37:03 ::annotator SDL-AMR-09 ::preferred
+# ::snt The relief operations were also hampered in some places due to the continuous rains.
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0193_2006_0822_6.txt
+(h / hamper-01 :ARG1 (o / operate-01 :mod (r / relieve-01)) :mod (a / also) :location (p / place :quant (s / some)) :ARG1-of (c / cause-01 :ARG0 (r2 / rain-01 :ARG1-of (c2 / continue-01))))
+
+# ::id nw.chtb_0325.8 ::date 2012-12-29T22:42:24 ::annotator SDL-AMR-09 ::preferred
+# ::snt The results of today 's preliminary women 's water - polo competition are : the Hungarian team defeated the Canadian team by 13 : 7 , the French team defeated the Brazilian team by 10 : 9 , the Australian team defeated the German team by 10 : 8 , the Russian team defeated the Dutch team by 7 : 6 , the US team defeated the Kazakhstani team by 10 : 5 , and the Italian team defeated the New Zealand team by 12 : 2 .
+# ::save-date Tue Dec 17, 2013 ::file nw_chtb_0325_8.txt
+(r2 / result-01 :ARG1 (c13 / compete-01 :ARG0 (w / woman) :mod (p / preliminary) :time (t / today) :mod (p14 / polo :mod (w2 / water))) :ARG2 (a2 / and :op1 (d / defeat-01 :ARG0 (t2 / team :mod (c14 / country :name (n5 / name :op1 "Hungary"))) :ARG1 (t3 / team :mod (c15 / country :name (n6 / name :op1 "Canada"))) :quant (s / score-entity :op1 13 :op2 7)) :op2 (d2 / defeat-01 :ARG0 (t4 / team :mod (c16 / country :name (n7 / name :op1 "France"))) :ARG1 (t5 / team :mod (c17 / country :name (n8 / name :op1 "Brazil"))) :quant (s2 / score-entity :op1 10 :op2 9)) :op3 (d3 / defeat-01 :ARG0 (t6 / team :mod (c18 / country :name (n9 / name :op1 "Australia"))) :ARG1 (t7 / team :mod (c19 / country :name (n10 / name :op1 "Germany"))) :quant (s3 / score-entity :op1 10 :op2 8)) :op4 (d4 / defeat-01 :ARG0 (t8 / team :mod (c20 / country :name (n11 / name :op1 "Russia"))) :ARG1 (t9 / team :mod (c21 / country :name (n12 / name :op1 "Netherlands"))) :quant (s4 / score-entity :op1 7 :op2 6)) :op5 (d5 / defeat-01 :ARG0 (t10 / team :mod (c22 / country :name (n13 / name :op1 "United" :op2 "States"))) :ARG1 (t11 / team :mod (c23 / country :name (n14 / name :op1 "Kazakhstan"))) :quant (s5 / score-entity :op1 10 :op2 5)) :op6 (d6 / defeat-01 :ARG0 (t12 / team :mod (c24 / country :name (n15 / name :op1 "Italy"))) :ARG1 (t13 / team :mod (c25 / country :name (n16 / name :op1 "New" :op2 "Zealand"))) :quant (s6 / score-entity :op1 12 :op2 2))))
+
+# ::id nw.chtb_0322.3 ::date 2012-12-29T13:54:58 ::annotator SDL-AMR-09 ::preferred
+# ::snt In the first round of competition , the Chinese team defeated the relatively stronger Korean team with a score of 4 : 3 .
+# ::save-date Mon Oct 23, 2017 ::file nw_chtb_0322_3.txt
+(d / defeat-01 :ARG0 (t / team :mod (c4 / country :name (n / name :op1 "China"))) :ARG1 (t2 / team :mod (c5 / country :name (n2 / name :op1 "Korea")) :ARG1-of (h / have-degree-91 :ARG2 (s / strong-02 :ARG1 t2 :ARG2-of (r2 / relative-05)) :ARG3 (m / more) :ARG4 t)) :time (r / round-05 :ARG1 (c / compete-01) :ord (o / ordinal-entity :value 1)) :quant (s2 / score-entity :op1 4 :op2 3))
+
+# ::id NW_XIN_ENG_0193_2006_0822.3 ::date 2017-11-16T12:23:05 ::annotator SDL-AMR-09 ::preferred
+# ::snt The death toll in Rajasthan's floods touched 33 as five more persons were swept away in the past 48 hours in the desert state where nine districts are facing the fury of the monsoon rains.
+# ::save-date Wed Jan 17, 2018 ::file NW_XIN_ENG_0193_2006_0822_3.txt
+(t2 / touch-01 :ARG0 (t3 / toll :mod (d / die-01) :location (f / flood-01 :ARG1 (s3 / state :name (n / name :op1 "Rajasthan")))) :ARG1 (p / person :quant 33) :ARG1-of (c2 / cause-01 :ARG0 (s / sweep-02 :ARG1 (p2 / person :quant 5 :mod (m / more)) :manner (a / away) :time (p3 / past :op1 (t / temporal-quantity :quant 48 :unit (h / hour))) :location (s2 / state :mod (d2 / desert) :location-of (f2 / face-01 :ARG0 (d3 / district :quant 9) :ARG1 (f3 / fury :poss (r / rain-01 :mod (m2 / monsoon))))))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.2 ::date 2017-11-14T11:08:41 ::annotator SDL-AMR-09 ::preferred
+# ::snt MENYUAN, Northwest China, Apr. 5
+# ::save-date Thu Jan 18, 2018 ::file NW_XIN_ENG_0191_2005_0405_2.txt
+(c2 / county :name (n2 / name :op1 "Menyuan") :location (c / country :name (n / name :op1 "China")) :time (d / date-entity :day 5 :month 4) :direction (n3 / northwest))
+
+# ::id wb.eng_0003.32 ::date 2012-09-23T17:28:30 ::annotator ISI-AMR-01 ::preferred
+# ::snt but with the glaring needs in other parts of the state , 288 was definitely excess ...
+# ::save-date Fri May 9, 2014 ::file wb_eng_0003_32.txt
+(c / contrast-01 :ARG2 (e / excess :mod (d / definite) :domain (r / road :name (x / name :op1 288)) :prep-with (n / need-01 :mod (g / glaring) :location (t / thing :part-of (s / state) :mod (o / other)))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.18 ::date 2017-11-16T12:40:46 ::annotator SDL-AMR-09 ::preferred
+# ::snt Volunteers look here.
+# ::save-date Wed Jan 17, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_18.txt
+(l / look-01 :ARG0 (p / person :ARG0-of (v2 / volunteer-01)) :location (h / here))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.55 ::date 2017-11-17T11:40:00 ::annotator SDL-AMR-09 ::preferred
+# ::snt We will begin with an interfaith service of reflection, song and prayer.
+# ::save-date Sun Jan 14, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_55.txt
+(b / begin-01 :ARG0 (w / we) :ARG2 (s / service-06 :ARG2 (a / and :op1 (r / reflect-01) :op2 (s2 / song) :op3 (p / pray-01)) :mod (i2 / interfaith)))
+
+# ::id nw.chtb_0318.4 ::date 2012-12-11T23:21:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt Sportsmen , coaches , doctors , nurses and officials of the delegation sat neatly below the stage .
+# ::save-date Mon Dec 16, 2013 ::file nw_chtb_0318_4.txt
+(s / sit-01 :ARG1 (a / and :op1 (s2 / sportsman) :op2 (p / person :ARG0-of (c / coach-01)) :op3 (d / doctor) :op4 (n / nurse) :op5 (p2 / person :ARG0-of (h / have-org-role-91 :ARG1 (d2 / delegation) :ARG2 (o2 / official)))) :location (b / below :op1 (s3 / stage)) :manner (n2 / neat))
+
+# ::id NW_AFP_ENG_0019_2003_0630.8 ::date 2017-10-29T03:39:05 ::annotator SDL-AMR-09 ::preferred
+# ::snt The handover is a credibility test for the Palestinian Authority, which must show it means business when it comes to reining in hardline groups plotting attacks on the Jewish state.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_8.txt
+(t / test-01 :ARG1 (g / government-organization :name (n2 / name :op1 "Palestinian" :op2 "Authority") :ARG0-of (o / obligate-01 :ARG1 (s / show-01 :ARG0 g :ARG1 (m / mean-02 :ARG1 (b / business) :time (c / come-12 :ARG1 (r / rein-in-01 :ARG1 (g2 / group :mod (h2 / hardline) :ARG0-of (p / plot-01 :ARG1 (a / attack-01 :ARG1 (s2 / state :mod (r2 / religious-group :name (n3 / name :op1 "Jew")))))))))))) :ARG2 (c2 / credibility) :instrument (h / hand-over-02))
+
+# ::id NW_XIN_ENG_0194_2007_0704.8 ::date 2017-11-17T06:32:25 ::annotator SDL-AMR-09 ::preferred
+# ::snt Vice provincial governor Zhao Shucong led a relief team to Tianchang Wednesday morning, promising relief funds, materials and medical assistance.
+# ::save-date Fri Dec 22, 2017 ::file NW_XIN_ENG_0194_2007_0704_8.txt
+(l / lead-01 :ARG0 (p / person :name (n / name :op1 "Zhao" :op2 "Shucong") :ARG0-of (h / have-org-role-91 :ARG1 (p3 / province) :ARG2 (g2 / governor :mod (v / vice)))) :ARG1 (t / team :ARG0-of (r / relieve-01)) :ARG4 (c / city :name (n2 / name :op1 "Tianchang")) :time (d / date-entity :weekday (w / wednesday) :dayperiod (m / morning)) :subevent (p2 / promise-01 :ARG0 p :ARG2 (a / and :op1 (f / fund :mod (r2 / relieve-01)) :op2 (m2 / material) :op3 (a2 / assist-01 :mod (m3 / medicine)))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.34 ::date 2017-11-16T13:32:55 ::annotator SDL-AMR-09 ::preferred
+# ::snt It has 3 bedrooms A/C and a kitchen.
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_34.txt
+(h / have-03 :ARG0 (i2 / it) :ARG1 (a / and :op1 (b / bedroom :quant 3) :op2 (a2 / air :ARG1-of (c / condition-02)) :op3 (k / kitchen)))
+
+# ::id nw.chtb_0324.9 ::date 2012-12-29T21:40:46 ::annotator SDL-AMR-09 ::preferred
+# ::snt He also said : " Our athletes are not very used to carrying out competition under strong sunlight . "
+# ::save-date Mon Jul 13, 2015 ::file nw_chtb_0324_9.txt
+(s / say-01 :ARG0 (h / he) :ARG1 (u2 / use-02 :polarity - :ARG0 (a2 / athlete :poss (w / we)) :ARG1 (c2 / compete-01 :ARG0 a2 :location (u / under :op1 (s2 / sunlight :ARG1-of (s3 / strong-02)))) :degree (v / very)) :mod (a3 / also))
+
+# ::id wb.eng_0003.17 ::date 2012-09-13T09:34:53 ::annotator ISI-AMR-01 ::preferred
+# ::snt and they are creating traffic congestion in new places .
+# ::save-date Wed Nov 4, 2015 ::file wb_eng_0003_17.txt
+(a / and :op2 (c / create-01 :ARG0 (t / they) :ARG1 (c2 / congest-01 :ARG2 (t2 / traffic) :location (p / place :ARG1-of (n / new-01)))))
+
+# ::id NW_XIN_ENG_0189_2003_0324.2 ::date 2017-11-12T11:43:32 ::annotator SDL-AMR-09 ::preferred
+# ::snt Their houses are located in Al-Azamiyah, one of the most populous areas in the Iraqi capital of Baghdad, they said.
+# ::save-date Wed Jan 10, 2018 ::file NW_XIN_ENG_0189_2003_0324_2.txt
+(s / say-01 :ARG0 t :ARG1 (l / locate-01 :ARG1 (h / house :poss (t / they)) :location (c2 / city-district :quant 1 :name (n2 / name :op1 "Al-Azamiyah") :ARG1-of (i2 / include-91 :ARG2 (a / area :ARG1-of (h2 / have-degree-91 :ARG2 (p / populous) :ARG3 (m / most) :ARG5 (a2 / area :location (c / city :name (n3 / name :op1 "Baghdad") :ARG0-of (h3 / have-org-role-91 :ARG1 (c4 / country :name (n4 / name :op1 "Iraq")) :ARG2 (c3 / capital))))))))))
+
+# ::id DF-200-192400-625_7744.12 ::date 2013-09-07T09:36:20 ::annotator SDL-AMR-09 ::preferred
+# ::snt Do any of you have a similar 'ritual'?
+# ::save-date Mon Jan 20, 2014 ::file DF-200-192400-625_7744_12.txt
+(h / have-03 :polarity (a2 / amr-unknown) :ARG0 (p / person :ARG1-of (i / include-91 :ARG2 (y / you)) :mod (a / any)) :ARG1 (r / ritual :ARG1-of (r2 / resemble-01)))
+
+# ::id wb.eng_0003.33 ::date 2012-09-23T17:31:53 ::annotator ISI-AMR-01 ::preferred
+# ::snt You have a city , Richmond , that has virtually no traffic .
+# ::save-date Mon May 11, 2015 ::file wb_eng_0003_33.txt
+(h / have-03 :ARG0 (c / city :name (r / name :op1 "Richmond")) :ARG1 (t / traffic) :ARG1-of (h2 / have-polarity-91 :ARG2 - :degree (v / virtual)))
+
+# ::id bolt12_6455_6562.26 ::date 2012-12-02T12:08:42 ::annotator SDL-AMR-09 ::preferred
+# ::snt Other articles: "A book for Taiwan compatriots-I have a dream", "The necessity for building memorials museums or temples for Chinese national heroes", "How long will we tolerate it", "China is expecting the Olympics, but would never beg for the Olympics", "If we forget the hardship of history, there will be more history of hardship", "I am Chinese", "There is only one Chinese nation, there is only one Chinese culture", "With the over-development of sports, the state may decline", "'Wealthy country, strong people' or 'wealthy officials, poor people"?", "Disgusting Ren Zhiqiang, shut your filthy mouth", "Hateful housing prices! Pitiable people!", "Google, you have no right to make irresponsible remarks to China", "How long will we tolerate the US", "Japan deserved the bombing-strongly oppose Ban Ki-moon presenting a bouquet in Hiroshima", "Be strong, my brothers and sisters", "Do we need low-level entertainment stars, or talents in technological innovation?", "Contemporary garbage writer, shameless Li Yinhe, please let the children off the hook"
+# ::save-date Wed Dec 20, 2017 ::file bolt12_6455_6562_26.txt
+(t / title-01 :ARG1 (a / article :mod (o / other)) :ARG2 (a2 / and :op1 (b / book :beneficiary (c / compatriot :mod (c2 / country :name (n18 / name :op1 "Taiwan"))) :mod (h / have-03 :ARG0 (i / i) :ARG1 (t19 / thing :ARG1-of (d / dream-01)))) :op2 (n / need-01 :ARG1 (b2 / build-01 :ARG1 (o2 / or :op1 (m / museum :mod (m2 / memorial)) :op2 (t2 / temple)) :beneficiary (h2 / hero :mod (n19 / nation) :mod (c3 / country :name (n20 / name :op1 "China"))))) :op3 (t3 / tolerate-01 :ARG0 (w / we) :ARG1 (i2 / it) :duration (a3 / amr-unknown)) :op4 (h3 / have-concession-91 :ARG1 (b3 / beg-01 :polarity - :ARG0 c3 :ARG2 (g / game :name (n3 / name :op1 "Olympics")) :time (e / ever)) :ARG2 (e2 / expect-01 :ARG0 (c4 / country) :ARG1 g)) :op5 (h4 / have-condition-91 :ARG1 (h5 / history :mod (m3 / more) :mod (h6 / hardship)) :ARG2 (f / forget-01 :ARG0 (w2 / we) :ARG1 (h7 / hardship :poss (h11 / history)))) :op6 (p14 / person :domain (i3 / i) :mod c3) :op7 (a4 / and :op1 (n5 / nation :quant 1 :mod c3) :op2 (c7 / culture :quant 1 :mod (c6 / country)) :mod (o3 / only)) :op8 (p / possible-01 :ARG1 (d2 / decline-01 :ARG1 (s / state)) :time (o10 / overdevelop-00 :ARG1 (s2 / sport))) :op9 (a9 / amr-choice :op1 (a5 / and :op1 (c8 / country :mod (w3 / wealthy)) :op2 (p2 / person :ARG1-of (s3 / strong-02))) :op2 (a6 / and :op1 (o6 / official :mod w3) :op2 (p3 / person :mod (p4 / poor)))) :op10 (s4 / shut-01 :ARG0 (p5 / person :name (n7 / name :op1 "Ren" :op2 "Zhiqiang") :ARG0-of (d4 / disgust-01)) :ARG1 (m4 / mouth :part-of p5 :mod (f2 / filthy))) :op11 (a11 / and :op1 (m6 / monetary-quantity :ARG2-of (p6 / price-01 :ARG1 (h8 / housing)) :mod (h9 / hateful)) :op2 (p7 / person :ARG1-of (p8 / pity-01 :ARG1-of (p9 / possible-01)))) :op12 (s10 / say-01 :ARG0 (c15 / company :name (n8 / name :op1 "Google")) :ARG1 (r3 / right-05 :polarity - :ARG1 c15 :ARG2 (t4 / thing :ARG1-of (r / remark-01 :ARG0 c15 :ARG2 c3) :ARG1-of (r2 / responsible-02 :polarity -)))) :op13 (t5 / tolerate-01 :ARG0 (w4 / we) :ARG1 (c10 / country :name (n10 / name :op1 "US")) :duration (a7 / amr-unknown)) :op14 (d5 / deserve-01 :ARG0 (c11 / country :name (n11 / name :op1 "Japan")) :ARG1 (p11 / present-01 :ARG0 (p12 / person :name (n12 / name :op1 "Ban" :op2 "Ki-Moon") :ARG0-of (o7 / oppose-01 :ARG1 (b5 / bomb-01) :ARG1-of (s5 / strong-02))) :ARG1 (b4 / bouquet) :location (c12 / city :name (n13 / name :op1 "Hiroshima")))) :op15 (s6 / strong-02 :mode imperative :ARG1 (a8 / and :op1 (p10 / person :ARG0-of (h12 / have-rel-role-91 :ARG1 (i4 / i) :ARG2 (b6 / brother))) :op2 (p15 / person :ARG0-of (h13 / have-rel-role-91 :ARG1 i4 :ARG2 (s7 / sister))))) :op16 (n14 / need-01 :ARG0 (w5 / we) :ARG1 (a10 / amr-choice :op1 (s8 / star :ARG0-of (e4 / entertain-01 :mod (l / level :ARG1-of (l2 / low-04)))) :op2 (t6 / talent :mod (i5 / innovate-01 :ARG1 (t7 / technology))))) :op17 (l3 / let-01 :polite + :mode imperative :ARG0 (p13 / person :name (n15 / name :op1 "Li" :op2 "Yinhe") :ARG0-of (w6 / write-01 :ARG1 (g2 / garbage) :time (c13 / contemporary)) :ARG1-of (s9 / shame-01 :polarity -)) :ARG1 (g3 / get-off-23 :ARG1 (c14 / child)))))
+
+# ::id nw.chtb_0324.11 ::date 2012-12-29T21:49:56 ::annotator SDL-AMR-09 ::preferred
+# ::snt Looks like we still need to train more outdoors . "
+# ::save-date Tue Dec 17, 2013 ::file nw_chtb_0324_11.txt
+(l / look-02 :ARG1 (n / need-01 :ARG0 (w / we) :ARG1 (t / train-01 :ARG0 w :ARG2 w :quant (m / more) :location (o / outdoor)) :mod (s / still)))
+
+# ::id wb.eng_0003.18 ::date 2012-09-13T13:20:46 ::annotator ISI-AMR-01 ::preferred
+# ::snt The only thing that surprises me is how rapidly this is happening .
+# ::save-date Mon Sep 17, 2012 ::file wb_eng_0003_18.txt
+(s / surprise-01 :ARG0 (r / rapid :manner-of (t / this) :mod (o / only)) :ARG1 (i / i))
+
+# ::id NW_AFP_ENG_0019_2003_0630.6 ::date 2017-10-29T03:31:54 ::annotator SDL-AMR-09 ::preferred
+# ::snt Following the withdrawal of Israeli troops from the northern town of Beit Hanoun late Sunday, police took up positions there and in the neighbouring town of Beit Lahiya, he said.
+# ::save-date Fri Jan 12, 2018 ::file NW_AFP_ENG_0019_2003_0630_6.txt
+(t / take-up-38 :ARG0 (p / police) :ARG1 (p2 / position) :location (a / and :op1 (t2 / there) :op2 (t3 / town :name (n / name :op1 "Beit" :op2 "Lahiya") :ARG1-of (n2 / neighbor-01))) :ARG1-of (f / follow-01 :ARG2 (w / withdraw-01 :ARG1 (t4 / troop :mod (c / country :name (n3 / name :op1 "Israel"))) :ARG2 (t5 / town :name (n4 / name :op1 "Beit" :op2 "Hanoun") :location (n5 / north)) :time (l / late :op1 (d / date-entity :weekday (s / sunday))))) :ARG1-of (s2 / say-01 :ARG0 (h / he)))
+
+# ::id NW_AFP_ENG_0019_2003_0630.5 ::date 2017-10-29T03:20:12 ::annotator SDL-AMR-09 ::preferred
+# ::snt The move marked a huge step forward in carrying out the US-backed Middle East "roadmap", which aims to end the months of bloodshed and create a lasting peace between Israel and the Palestinians.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_5.txt
+(m / mark-01 :ARG0 (m2 / move-04) :ARG1 (s / step-01 :ARG2 (c2 / carry-out-03 :ARG1 (r / roadmap :mod (w / world-region :name (n / name :op1 "Middle" :op2 "East")) :ARG1-of (b / back-01 :ARG0 (c3 / country :name (n3 / name :op1 "United" :op2 "States" :op3 "of" :op4 "America"))) :ARG0-of (a / aim-01 :ARG1 (a2 / and :op1 (e / end-01 :ARG1 (s2 / shed-03 :ARG1 (b2 / blood) :duration (m3 / multiple :op1 (t / temporal-quantity :quant 1 :unit (m4 / month))))) :op2 (c4 / create-01 :ARG0 r :ARG1 (p / peace :ARG1-of (l / last-01) :mod (b3 / between :op1 (c / country :name (n2 / name :op1 "Israel")) :op2 (p2 / person :mod (c5 / country :name (n4 / name :op1 "Palestine")))))))))) :mod (h / huge) :direction (f / forward)))
+
+# ::id NW_XIN_ENG_0191_2005_0405.13 ::date 2017-11-14T12:32:08 ::annotator SDL-AMR-09 ::preferred
+# ::snt "He might take his ID card with himself and we only know his name in Mandarin as Hung Zhihua," said Deng, adding local government is trying to find out his identity with Hong Kong Special Administrative Region government.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0191_2005_0405_13.txt
+(s / say-01 :ARG0 (p2 / person :name (n3 / name :op1 "Deng")) :ARG1 (a / and :op1 (p / possible-01 :ARG1 (t / take-01 :ARG0 (h / he) :ARG1 (c2 / card :mod (i2 / id)) :accompanier h)) :op2 (k / know-01 :ARG1 (n4 / name :poss h :mod (l / language :name (n / name :op1 "Mandarin")) :domain (p3 / person :name (n5 / name :op1 "Hung" :op2 "Zhihua"))) :mod (o / only)) :op3 (t2 / try-01 :ARG0 (g / government-organization :ARG0-of (g2 / govern-01) :ARG1-of (l2 / local-02)) :ARG1 (f / find-out-03 :ARG0 g :ARG1 (i3 / identity :poss h) :accompanier (g3 / government-organization :name (n6 / name :op1 "Hong" :op2 "Kong" :op3 "Special" :op4 "Administrative" :op5 "Region"))))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.3 ::date 2017-11-14T11:09:26 ::annotator SDL-AMR-09 ::preferred
+# ::snt Search for the two missing outdoor tourists in an avalanche in northwestern China's Qinghai Province continued on Tuesday and the tourists' lack of precaution was listed as the main reason of the tragedy, which has already left one dead.
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0191_2005_0405_3.txt
+(a2 / and :op1 (c2 / continue-01 :ARG1 (s / search-01 :ARG1 (p / person :quant 2 :ARG0-of (t2 / tour-01) :mod (o / outdoors) :ARG1-of (m / miss-01 :location (a / avalanche))) :location (p2 / province :name (n2 / name :op1 "Qinghai") :location (c / country :name (n / name :op1 "China")) :direction (n3 / northwest)) :time (d / date-entity :weekday (t / tuesday)))) :op2 (l / list-01 :ARG1 (l2 / lack-01 :ARG0 p :ARG1 (p3 / precaution-01) :ARG0-of (l3 / leave-13 :ARG1 (d2 / die-01 :ARG1 (o2 / one)) :time (a3 / already))) :ARG2 (r / reason :mod (m2 / main) :ARG0-of (c3 / cause-01 :ARG1 (t3 / tragedy)))))
+
+# ::id DF-199-194215-653_0484.1 ::date 2013-08-30T09:02:09 ::annotator SDL-AMR-09 ::preferred
+# ::snt I am 24 and a mother of a 2 and a half year old.
+# ::save-date Tue Apr 29, 2014 ::file DF-199-194215-653_0484_1.txt
+(a / and :op1 (a2 / age-01 :ARG1 (i / i) :ARG2 (t / temporal-quantity :quant 24 :unit (y2 / year))) :op2 (h / have-rel-role-91 :ARG0 i :ARG1 (p / person :age (t3 / temporal-quantity :quant 2.5 :unit (y / year))) :ARG2 (m / mother)))
+
+# ::id NW_XIN_ENG_0191_2005_0405.16 ::date 2017-11-14T12:42:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt "We have found no clue of the missing, but two helmets, over the past three days," said Deng.
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0191_2005_0405_16.txt
+(s / say-01 :ARG0 (p / person :name (n / name :op1 "Deng")) :ARG1 (f / find-01 :ARG0 (w / we) :ARG1 (c / contrast-01 :ARG1 (c2 / clue :polarity - :mod (m / miss-01)) :ARG2 (h2 / helmet :quant 2)) :time (b / before :op1 (n2 / now) :duration (t / temporal-quantity :quant 3 :unit (d / day)))))
+
+# ::id wb.eng_0003.26 ::date 2012-09-20T21:52:05 ::annotator ISI-AMR-01 ::preferred
+# ::snt I think we could have spent the $ 400 million better elsewhere .
+# ::save-date Wed Sep 13, 2017 ::file wb_eng_0003_26.txt
+(t / think-01 :ARG0 (i / i) :ARG1 (p / possible-01 :ARG1 (s / spend-01 :ARG0 (w / we) :ARG1 (e / elsewhere) :ARG3 (m / monetary-quantity :quant 400000000 :unit (d / dollar)) :ARG1-of (h / have-degree-91 :ARG2 (g / good-02) :ARG3 (m2 / more)))))
+
+# ::id NW_XIN_ENG_0190_2003_0709.6 ::date 2017-11-14T10:53:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt The storm affected 23,681 people, destroyed 715 houses and caused estimated direct economic losses of 24 million yuan (2.9 million US dollars), according to officials.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0190_2003_0709_6.txt
+(s2 / say-01 :ARG0 (o / official) :ARG1 (a2 / and :op1 (a / affect-01 :ARG0 (s / storm) :ARG1 (p / person :quant 23681)) :op2 (d2 / destroy-01 :ARG0 s :ARG1 (h / house :quant 715)) :op3 (c2 / cause-01 :ARG0 s :ARG1 (l / lose-01 :ARG1 (m / monetary-quantity :quant 24000000 :unit (y / yuan) :ARG1-of (e3 / equal-01 :ARG2 (m2 / monetary-quantity :quant 2900000 :unit (d4 / dollar :mod (c / country :name (n / name :op1 "US")))))) :mod (e / economy) :ARG1-of (e2 / estimate-01) :ARG1-of (d3 / direct-02)))))
+
+# ::id bolt12_64556_5627.2 ::date 2012-12-04T18:01:08 ::annotator SDL-AMR-09 ::preferred
+# ::snt Pledge to fight to the death defending the Diaoyu Islands and the related islands
+# ::save-date Sun Jun 28, 2015 ::file bolt12_64556_5627_2.txt
+(p / pledge-01 :mode imperative :ARG0 (y / you) :ARG2 (f / fight-01 :ARG0 y :ARG2 (d2 / defend-01 :ARG0 y :ARG1 (a / and :op1 (i / island :name (n / name :op1 "Diaoyu" :op2 "Islands")) :op2 (i2 / island :ARG1-of (r / relate-01 :ARG2 i)))) :manner (d / die-01 :ARG1 y)))
+
+# ::id DF-200-192400-625_7557.31 ::date 2013-09-07T05:53:47 ::annotator SDL-AMR-09 ::preferred
+# ::snt its hard but you can do it.
+# ::save-date Sat Jul 25, 2015 ::file DF-200-192400-625_7557_31.txt
+(c / contrast-01 :ARG1 (h / hard-02 :ARG1 (i2 / it)) :ARG2 (p / possible-01 :ARG1 (d / do-02 :ARG0 (y / you) :ARG1 i2)))
+
+# ::id wb.eng_0003.57 ::date 2012-09-28T09:44:16 ::annotator ISI-AMR-01 ::preferred
+# ::snt It seems to me that the whole point of roads is to facilitate the public interest in getting to and from private businesses .
+# ::save-date Fri Oct 13, 2017 ::file wb_eng_0003_57.txt
+(s / seem-01 :ARG1 (p3 / point-03 :ARG1 (r / road) :ARG2 (f / facilitate-01 :ARG0 r :ARG1 (i3 / interest-01 :ARG1 (p / public) :ARG2 (a / and :op1 (g / get-05 :ARG0 p :ARG2 (b / business :ARG1-of (p2 / private-03))) :op2 (g2 / get-05 :ARG0 p :source b)))) :mod (w / whole)) :ARG2 (i / i))
+
+# ::id NW_XIN_ENG_0192_2005_0906.9 ::date 2017-11-16T11:50:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt Dozens of people have already traveled from the ruins of Louisiana and Alabama to Los Angeles County and are being sheltered at the Dream Center, a non-profit agency.
+# ::save-date Tue Dec 19, 2017 ::file NW_XIN_ENG_0192_2005_0906_9.txt
+(a / and :op1 (t / travel-01 :ARG0 (p / person :quant (m / multiple :op1 12)) :ARG2 (a3 / and :op1 (r / ruin :location (s / state :name (n / name :op1 "Louisiana"))) :op2 (r2 / ruin :location (s2 / state :name (n2 / name :op1 "Alabama")))) :ARG4 (c / county :name (n3 / name :op1 "Los" :op2 "Angeles" :op3 "County")) :time (a2 / already)) :op2 (s3 / shelter-01 :ARG2 (a5 / agency :name (n4 / name :op1 "Dream" :op2 "Center") :ARG0-of (p2 / profit-01 :polarity -))))
+
+# ::id nw.chtb_0318.5 ::date 2012-12-11T23:24:22 ::annotator SDL-AMR-09 ::preferred
+# ::snt An atmosphere of confidence and eagerness for progress filled the ceremony ground .
+# ::save-date Fri Jan 3, 2014 ::file nw_chtb_0318_5.txt
+(f / fill-01 :ARG1 (g / ground :location-of (c2 / ceremony)) :ARG2 (a / atmosphere :consist-of (a2 / and :op1 (c / confident-01) :op2 (e / eager-01 :ARG1 (p / progress-01)))))
+
+# ::id NW_XIN_ENG_0191_2005_0405.14 ::date 2017-11-14T12:37:03 ::annotator SDL-AMR-09 ::preferred
+# ::snt A fifth team of rescuers has been dispatched to search for the missing and more than 140 rescuers are now involved in the operation.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0191_2005_0405_14.txt
+(a / and :op1 (d / dispatch-01 :ARG1 (t / team :ARG0-of (r / rescue-01) :ord (o / ordinal-entity :value 5)) :ARG2 (s / search-01 :ARG0 t :ARG1 (p / person :ARG1-of (m2 / miss-01)))) :op2 (i2 / involve-01 :ARG1 (p2 / person :ARG0-of (r2 / rescue-01) :quant (m / more-than :op1 140)) :ARG2 (o2 / operate-01) :time (n / now)))
+
+# ::id NW_XIN_ENG_0191_2005_0405.6 ::date 2017-11-14T11:36:39 ::annotator SDL-AMR-09 ::preferred
+# ::snt Two of them climbed such a mountain for the first time, said Lu Shimin, one of the three survivors.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0191_2005_0405_6.txt
+(s2 / say-01 :ARG0 (p2 / person :name (n / name :op1 "Lu" :op2 "Shimin") :ARG1-of (i3 / include-91 :ARG2 (p / person :quant 3 :ARG0-of (s / survive-01)))) :ARG1 (c / climb-01 :ARG0 (p3 / person :quant 2 :ARG1-of (i2 / include-91 :ARG2 (t / they))) :ARG1 (m / mountain :mod (s3 / such)) :ord (o / ordinal-entity :value 1)))
+
+# ::id nw.chtb_0322.6 ::date 2012-12-29T14:08:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt Among which , Weiping Nie , Xiaoguang Liu and Hao Chang both achieved victories in the middle games .
+# ::save-date Tue May 12, 2015 ::file nw_chtb_0322_6.txt
+(w / win-01 :ARG0 (a2 / and :op1 (p4 / person :name (n / name :op1 "Xiaoguang" :op2 "Liu")) :op2 (p5 / person :name (n2 / name :op1 "Hao" :op2 "Chang")) :op3 (p6 / person :name (n3 / name :op1 "Weiping" :op2 "Nie"))) :ARG2 (g / game :mod (m / middle)) :ARG1-of (i / include-91))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.49 ::date 2017-11-17T09:42:21 ::annotator SDL-AMR-09 ::preferred
+# ::snt For more information, please contact Liza Levine 512-735-8078, Alan Potash 512-735-8012 or Hayley Wasser 512-735-8082.
+# ::save-date Fri Dec 22, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_49.txt
+(a / and :op1 (c / contact-01 :mode expressive :polite + :ARG0 (y / you) :ARG1 (p / person :name (n / name :op1 "Liza" :op2 "Levine")) :manner (p4 / phone-number-entity :value "512-735-8078") :purpose (i2 / information :quant (m / more))) :op2 (c2 / contact-01 :mode expressive :polite + :ARG0 y :ARG1 (p2 / person :name (n2 / name :op1 "Alan" :op2 "Potash")) :manner (p5 / phone-number-entity :value "512-735-8012") :purpose i2) :op3 (c3 / contact-01 :ARG1 (p3 / person :name (n3 / name :op1 "Hayley" :op2 "Wasser")) :manner (p6 / phone-number-entity :value "512-735-8082") :purpose i2))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.43 ::date 2017-11-16T14:07:57 ::annotator SDL-AMR-09 ::preferred
+# ::snt Basically, imagine you were camping with a newborn.
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_43.txt
+(i2 / imagine-01 :ARG0 (y / you) :ARG1 (c / camp-02 :ARG0 y :accompanier (n / newborn)) :mod (b / basic))
+
+# ::id bolt12_91455_5310.1 ::date 2012-12-07T14:07:42 ::annotator SDL-AMR-09 ::preferred
+# ::snt We need shows in life, but it is really p. to show yourself within someone's embrace.
+# ::save-date Wed Dec 20, 2017 ::file bolt12_91455_5310_1.txt
+(c / contrast-01 :ARG1 (n / need-01 :ARG0 (w / we) :ARG1 (s3 / show) :time (l / life)) :ARG2 (a / amr-unintelligible :value "p." :degree (r / really) :domain (s / show-01 :ARG0 y2 :ARG1 (y2 / you :ARG1-of (e / embrace-02 :ARG0 (s2 / someone))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.51 ::date 2017-11-17T09:54:23 ::annotator SDL-AMR-09 ::preferred
+# ::snt Holiday Inn (working with Red Cross) 8901 Business Park Drive $49/$59 night 343-0888
+# ::save-date Wed Dec 20, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_51.txt
+(b / be-located-at-91 :ARG1 (h2 / hotel :name (n2 / name :op1 "Holiday" :op2 "Inn") :ARG0-of (w / work-01 :ARG3 (o / organization :name (n / name :op1 "Red" :op2 "Cross"))) :ARG1-of (c / cost-01 :ARG2 (a / and :op1 (r2 / rate-entity-91 :ARG1 (m / monetary-quantity :quant 49 :unit (d / dollar)) :ARG2 (n4 / night)) :op2 (r3 / rate-entity-91 :ARG1 (m2 / monetary-quantity :quant 59 :unit d) :ARG2 n4))) :mod (p / phone-number-entity :value "343-0888")) :ARG2 (s / street-address-91 :ARG1 8901 :ARG2 (r / road :name (n3 / name :op1 "Business" :op2 "Park" :op3 "Drive"))))
+
+# ::id NW_XIN_ENG_0209_2008_0513.20 ::date 2017-11-18T02:28:37 ::annotator SDL-AMR-09 ::preferred
+# ::snt A local doctor is worried about hygiene issues that have developed through disposal of urine by tens of thousands of homeless victims and it also constitutes a threat by unsettled thousands of dead bodies from the health point of view.
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_20.txt
+(w / worry-01 :ARG0 (d / doctor :ARG1-of (l / local-02)) :ARG1 (i2 / issue-02 :ARG0 (h / hygiene) :ARG1-of (c / cause-01 :ARG0 (a / and :op1 (d2 / develop-02 :ARG0 (d3 / dispose-01 :ARG0 (v / victim :ARG0-of (h2 / have-03 :polarity - :ARG1 (h3 / home)) :quant (m2 / multiple :op1 10000)) :ARG1 (u / urine))) :op2 (c2 / constitute-01 :ARG0 d3 :ARG1 (t / threaten-01 :ARG1 (b / body :quant (m3 / multiple :op1 1000) :ARG1-of (d4 / die-01) :ARG1-of (s / settle-02 :polarity -))) :mod (a2 / also) :ARG2-of (v2 / view-02 :ARG0 (h4 / health)))))))
+
+# ::id NW_XIN_ENG_0190_2003_0709.5 ::date 2017-11-14T10:52:00 ::annotator SDL-AMR-09 ::preferred
+# ::snt Fifty-seven people are still being treated in hospital with serious injuries.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0190_2003_0709_5.txt
+(t / treat-03 :ARG1 (p / person :quant 57) :ARG2 (i2 / injure-01 :ARG1-of (s2 / serious-02)) :mod (s / still) :location (h / hospital))
+
+# ::id NW_AFP_ENG_0018_2003_0616.1 ::date 2017-10-29T15:29:55 ::annotator SDL-AMR-09 ::preferred
+# ::snt The skeleton of a second baby has been found at a rural Wisconsin home where a 22-year-old woman's dead infant was discovered in a blue plastic container June 8, officials said Monday.
+# ::save-date Sun Oct 29, 2017 ::file NW_AFP_ENG_0018_2003_0616_1.txt
+(f / find-01 :ARG1 (s3 / skeleton :poss (b / baby :ord (o / ordinal-entity :value 2))) :location (h / home :mod (r / rural) :location (s2 / state :name (n / name :op1 "Wisconsin")) :location-of (d3 / discover-01 :ARG1 (i2 / infant :ARG1-of (d4 / die-01) :poss (w / woman :age (t2 / temporal-quantity :quant 22 :unit (y / year)))) :location (c / container :mod (p / plastic) :mod (b2 / blue)) :time (d / date-entity :day 8 :month 6))) :ARG1-of (s4 / say-01 :ARG0 (p2 / person :ARG0-of (h2 / have-org-role-91 :ARG2 (o2 / official))) :time (d2 / date-entity :weekday (m / monday))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.30 ::date 2017-11-16T13:18:51 ::annotator SDL-AMR-09 ::preferred
+# ::snt They collect and prepare nonperishable food boxes for local shelters and meal programs, and are helping with the Katrina effort.
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_30.txt
+(a / and :op1 (c / collect-01 :ARG0 (t / they) :ARG1 (b / box :part (f / food :mod (p2 / perishable :polarity -))) :beneficiary (a2 / and :op1 (s / shelter-01 :ARG1-of (l / local-02)) :op2 (p3 / program :mod (m / meal)))) :op2 (p / prepare-01 :ARG0 t :ARG1 b) :op3 (h / help-01 :ARG0 t :ARG1 (e / effort-01 :ARG1 (n / natural-disaster :name (n2 / name :op1 "Katrina")))))
+
+# ::id DF-200-192400-625_7744.16 ::date 2013-09-07T10:48:08 ::annotator SDL-AMR-09 ::preferred
+# ::snt I now have more severe anxiety and think this was just a warning sign so just try and wean yourself out of the habit while it's relatively fresh-definitely visit your doctor but also tell yourself not to keep checking these things (easier said than done I know).
+# ::save-date Sat Oct 7, 2017 ::file DF-200-192400-625_7744_16.txt
+(m / multi-sentence :snt2 (k2 / know-01 :ARG0 i :ARG1 (h5 / have-degree-91 :ARG1 s3 :ARG2 (e / easy-05 :ARG1 (s3 / say-01)) :ARG3 (m3 / more) :ARG4 (d3 / do-02))) :snt1 (a / and :op1 (h / have-03 :ARG0 (i / i) :ARG1 (a2 / anxiety :ARG1-of (h4 / have-degree-91 :ARG2 (s / severe) :ARG3 (m2 / more))) :time (n / now)) :op2 (t / think-01 :ARG0 i :ARG1 (s2 / sign :ARG0-of (w / warn-01) :domain (t2 / this))) :ARG0-of (c3 / cause-01 :ARG1 (a3 / and :op1 (t3 / try-01 :ARG0 (y3 / you) :ARG1 (w2 / wean-01 :ARG2 (h2 / habit) :time (f / fresh-04 :ARG1 h2 :ARG2-of (r / relative-05))) :mod (j / just)) :op2 (v2 / visit-01 :mode imperative :ARG0 y3 :ARG1 (p / person :ARG0-of (h3 / have-rel-role-91 :ARG1 y3 :ARG2 (d / doctor))) :mod (d2 / definite) :ARG1-of (c / contrast-01 :ARG2 (t4 / tell-01 :ARG0 y3 :ARG1 (k / keep-01 :polarity - :ARG0 y3 :ARG1 (c2 / check-01 :ARG0 y3 :ARG1 (t5 / thing :mod (t6 / this)))) :ARG2 y3 :mod (a4 / also))))))))
+
+# ::id NW_AFP_ENG_0018_2003_0616.2 ::date 2017-10-29T16:32:27 ::annotator SDL-AMR-09 ::preferred
+# ::snt Kristin Scott, the mother, told police she gave birth secretly to both babies at her parents' home in Byrds Creek, Richland County, one of unknown sex in April 2001 and the other, a fullterm girl, January 14.
+# ::save-date Thu Jan 11, 2018 ::file NW_AFP_ENG_0018_2003_0616_2.txt
+(t / tell-01 :ARG0 (p2 / person :name (n / name :op1 "Kristin" :op2 "Scott") :ARG0-of (h / have-rel-role-91 :ARG2 (m / mother))) :ARG1 (b / bear-02 :ARG0 p2 :ARG1 (b2 / baby :quant 2 :ARG2-of (i2 / include-91 :ARG1 (a / and :op1 (b3 / baby :mod (s2 / sex :ARG1-of (k / know-01 :polarity -)) :time (d / date-entity :month 4 :year 2001)) :op2 (b4 / baby :mod (o / other) :mod (g / girl :mod (t2 / term :ARG1-of (f / full-09))) :time (d2 / date-entity :day 14 :month 1))))) :manner (s / secret) :location (h2 / home :poss (p / person :ARG0-of (h3 / have-rel-role-91 :ARG1 p2 :ARG2 (p3 / parent))) :location (c / city-district :name (n2 / name :op1 "Byrds" :op2 "Creek") :part-of (c2 / county :name (n3 / name :op1 "Richland"))))) :ARG2 (p4 / police))
+
+# ::id NW_AFP_ENG_0018_2003_0616.7 ::date 2017-10-29T16:56:45 ::annotator SDL-AMR-09 ::preferred
+# ::snt The woman's parents, William and Nancy Scott, found the decomposing body of the first baby in her closet after they went looking for the source of a foul odor in their house.
+# ::save-date Wed Dec 20, 2017 ::file NW_AFP_ENG_0018_2003_0616_7.txt
+(f / find-01 :ARG0 (a / and :op1 (p / person :name (n2 / name :op1 "William" :op2 "Scott") :ARG0-of (h / have-rel-role-91 :ARG1 (w / woman) :ARG2 (p3 / parent))) :op2 (p2 / person :name (n3 / name :op1 "Nancy" :op2 "Scott") :ARG0-of h)) :ARG1 (b / body :ARG1-of (d / decompose-01) :poss (b2 / baby :ord (o / ordinal-entity :value 1))) :location (c / closet :poss w) :time (a2 / after :op1 (g / go-05 :ARG1 (l / look-01 :ARG0 a :ARG1 (t / thing :ARG0-of (s / source-02 :ARG1 (o2 / odor :ARG1-of (f2 / foul-01) :location (h2 / house :poss a))))))))
+
+# ::id DF-200-192400-625_7557.1 ::date 2013-09-06T01:28:15 ::annotator SDL-AMR-09 ::preferred
+# ::snt hello, i am a 12 year old girl (13 in two days) who is addicted to self harming
+# ::save-date Tue Mar 10, 2015 ::file DF-200-192400-625_7557_1.txt
+(m2 / multi-sentence :snt1 (h2 / hello) :snt2 (g / girl :age (t2 / temporal-quantity :quant 12 :unit (y / year) :ARG1-of (m / mean-01 :ARG2 (a / age-01 :ARG2 (t3 / temporal-quantity :quant 13 :unit (y2 / year)) :time (a3 / after :op1 (n / now) :quant (t / temporal-quantity :quant 2 :unit (d2 / day)))))) :ARG1-of (a2 / addict-01 :ARG2 (h / harm-01 :ARG1 (s / self))) :domain (i / i)))
+
+# ::id NW_AFP_ENG_0018_2003_0616.5 ::date 2017-10-29T16:51:37 ::annotator SDL-AMR-09 ::preferred
+# ::snt Scott told police she did not tend to the baby, and it died after 30 minutes.
+# ::save-date Tue Dec 19, 2017 ::file NW_AFP_ENG_0018_2003_0616_5.txt
+(t2 / tell-01 :ARG0 (p / person :name (n / name :op1 "Scott")) :ARG1 (a2 / and :op1 (t3 / tend-01 :polarity - :ARG0 (s / she) :ARG1 (b / baby)) :op2 (d / die-01 :ARG1 b :time (a / after :quant (t / temporal-quantity :quant 30 :unit (m / minute))))) :ARG2 (p2 / police))
+
+# ::id NW_XIN_ENG_0190_2003_0709.2 ::date 2017-11-12T12:43:32 ::annotator SDL-AMR-09 ::preferred
+# ::snt HEFEI, July 9
+# ::save-date Sun Nov 12, 2017 ::file NW_XIN_ENG_0190_2003_0709_2.txt
+(c / city :name (n / name :op1 "Hefei") :time (d / date-entity :day 9 :month 7))
+
+# ::id PROXY_NYT_ENG_20070828_0223.27 ::date 2013-08-28T00:35:27 ::snt-type body subordinate ::annotator SDL-AMR-09 ::preferred
+# ::snt The International Atomic Energy Agency may have been tricked because it was eager for a deal.
+# ::save-date Wed Aug 28, 2013 ::file PROXY_NYT_ENG_20070828_0223_27.txt
+(p / possible-01 :ARG1 (t / trick-01 :ARG1 (o / organization :name (n / name :op1 "International" :op2 "Atomic" :op3 "Energy" :op4 "Agency"))) :ARG1-of (c / cause-01 :ARG0 (e / eager-01 :ARG0 o :ARG1 (d2 / deal-01))))
+
+# ::id NW_XIN_ENG_0194_2007_0704.10 ::date 2017-11-17T06:51:04 ::annotator SDL-AMR-09 ::preferred
+# ::snt By Monday, floods had caused 233 deaths and destroyed 118,500 houses in 18 areas, while droughts in the north had left nearly 7.4 million people short of drinking water, the state flood and drought prevention headquarters said.
+# ::save-date Thu Jan 11, 2018 ::file NW_XIN_ENG_0194_2007_0704_10.txt
+(s2 / say-01 :ARG0 (h2 / headquarters :ARG0-of (p3 / prevent-01 :ARG1 (a3 / and :op1 f :op2 d5)) :mod (s3 / state)) :ARG1 (c2 / contrast-01 :ARG1 (a / and :op1 (c / cause-01 :ARG0 (f / flood-01) :ARG1 (d2 / die-01 :ARG1 (p / person :quant 233))) :op2 (d3 / destroy-01 :ARG0 f :ARG1 (h / house :quant 118500)) :location (a2 / area :quant 18) :time (d / date-entity :weekday (m / monday))) :ARG2 (l / leave-12 :ARG0 (d5 / draught) :ARG1 (p2 / person :quant (n / nearly :op1 7400000)) :ARG2 (s / short-06 :ARG1 p2 :ARG2 (w / water :ARG1-of (d4 / drink-01))))))
+
+# ::id nw.chtb_0322.16 ::date 2012-12-29T15:43:54 ::annotator SDL-AMR-09 ::preferred
+# ::snt The Go teams from China and Korea will shift to Seoul on September 1st , and will hold the second competition in the Le Tian Hotel on the 2nd .
+# ::save-date Tue Dec 17, 2013 ::file nw_chtb_0322_16.txt
+(a / and :op1 (s2 / shift-01 :ARG1 (a2 / and :op1 (t / team :mod (c5 / country :name (n2 / name :op1 "China")) :mod (g2 / game :name (n5 / name :op1 "Go"))) :op2 (t2 / team :mod (c6 / country :name (n / name :op1 "Korea")) :mod g2)) :ARG2 (c7 / city :name (n3 / name :op1 "Seoul")) :time (d3 / date-entity :month 9 :day 1)) :op2 (c / compete-01 :ARG0 t :ARG1 t2 :ord (o / ordinal-entity :value 2) :location (h2 / hotel :name (n4 / name :op1 "Le" :op2 "Tian" :op3 "Hotel")) :time (d4 / date-entity :day 2)))
+
+# ::id wb.eng_0003.24 ::date 2012-09-20T21:50:10 ::annotator ISI-AMR-01 ::preferred
+# ::snt To the brainiacs who thought Route 288 was such a great idea :
+# ::save-date Mon Sep 24, 2012 ::file wb_eng_0003_24.txt
+(s / say-01 :ARG0 i :ARG2 (b / brainiac :ARG0-of (t / think-01 :ARG1 (i / idea :mod (g / great :mod (s2 / such)) :domain (r2 / road :name (r / name :op1 "Route" :op2 288))))))
+
+# ::id nw.chtb_0318.3 ::date 2012-12-11T23:21:04 ::annotator SDL-AMR-09 ::preferred
+# ::snt A Japanese flag hung from the Chairman 's stage .
+# ::save-date Fri Jan 3, 2014 ::file nw_chtb_0318_3.txt
+(h / hang-01 :ARG1 (f / flag :mod (c2 / country :name (n / name :op1 "Japan"))) :ARG2 (s / stage :poss (p / person :ARG0-of (h2 / have-org-role-91 :ARG2 (c3 / chairman)))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.40 ::date 2017-11-16T13:54:17 ::annotator SDL-AMR-09 ::preferred
+# ::snt SUPPLIES WE NEED: comfortable nursing chairs and rockers, nursing foot stool, boppie, SLINGS and baby clothes, diapers.
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_40.txt
+(n / need-01 :ARG0 (w / we) :ARG1 (s / supply-01 :example (c / chair :mod (n2 / nursing) :ARG0-of (c2 / comfortable-02)) :example (r / rocker) :example (s2 / stool :mod (f / foot) :mod n2) :example (b / boppie) :example (s3 / sling) :example (c3 / cloth :mod (b2 / baby)) :example (d / diaper)))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.4 ::date 2017-11-16T11:29:17 ::annotator SDL-AMR-09 ::preferred
+# ::snt http://www.keshertalk.com/archives/2...g_hurrica.html
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_4.txt
+(u / url-entity :value "http://www.keshertalk.com/archives/2...g_hurrica.html")
+
+# ::id NW_XIN_ENG_0193_2006_0822.12 ::date 2017-11-16T13:45:51 ::annotator SDL-AMR-09 ::preferred
+# ::snt Indian army continued relief operations in the flood-affected areas of the state and their helicopters dropped food packets in affected areas.
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0193_2006_0822_12.txt
+(a / and :op1 (c2 / continue-01 :ARG0 (m2 / military :name (n3 / name :op1 "Army") :mod (c / country :name (n / name :op1 "India"))) :ARG1 (o / operate-01 :ARG1 (r / relieve-01)) :location (a2 / area :ARG1-of (a3 / affect-01 :ARG0 (f / flood-01)) :part-of (s / state))) :op2 (d / drop-01 :ARG0 (h / helicopter :poss m2) :ARG1 (p / packet :mod (f2 / food)) :location (a4 / area :ARG1-of (a5 / affect-01))))
+
+# ::id nw.chtb_0322.2 ::date 2012-12-29T13:32:27 ::annotator SDL-AMR-09 ::preferred
+# ::snt The first " Le Tian Cup " China and Korea Go competition started today at Fushan , the second largest city of Korea .
+# ::save-date Mon Oct 23, 2017 ::file nw_chtb_0322_2.txt
+(s / start-01 :ARG1 (c6 / compete-01 :ARG0 (c5 / country :name (n5 / name :op1 "China")) :ARG1 c4 :name (n6 / name :op1 "Le" :op2 "Tian" :op3 "Cup") :mod (g2 / game :name (n2 / name :op1 "Go"))) :location (c3 / city :name (n3 / name :op1 "Fushan") :ARG1-of (h / have-degree-91 :ARG2 (l2 / large :ord (o / ordinal-entity :value 2)) :ARG3 (m / most) :ARG5 (c / city :location (c4 / country :name (n4 / name :op1 "Korea"))))) :time (t / today))
+
+# ::id DF-200-192400-625_7744.8 ::date 2013-09-07T08:41:42 ::annotator SDL-AMR-09 ::preferred
+# ::snt I feel if I lost my wallet or phone, then I'm doomed or so I feel.
+# ::save-date Thu Sep 12, 2013 ::file DF-200-192400-625_7744_8.txt
+(o / or :op1 (f / feel-02 :ARG0 (i / i) :ARG1 (h / have-condition-91 :ARG1 (d / doom-01 :ARG1 i) :ARG2 (l / lose-02 :ARG0 i :ARG1 (o2 / or :op1 (w / wallet :poss i) :op2 (p / phone :poss i))))) :op2 (f2 / feel-02 :ARG0 i :ARG1 d))
+
+# ::id NW_AFP_ENG_0018_2003_0616.4 ::date 2017-10-29T16:45:18 ::annotator SDL-AMR-09 ::preferred
+# ::snt She is being held on 50,000 dollars bail on a charge of first-degree reckless homicide and hiding a corpse in the death of the infant born in January.
+# ::save-date Sun Oct 29, 2017 ::file NW_AFP_ENG_0018_2003_0616_4.txt
+(h / hold-01 :ARG1 (s / she) :manner (b / bail :quant (m / monetary-quantity :quant 50000 :unit (d / dollar))) :topic (c / charge-05 :ARG1 s :ARG2 (a / and :op1 (h2 / homicide :mod (r / reckless) :mod (d3 / degree :ord (o / ordinal-entity :op1 1))) :op2 (h3 / hide-01 :ARG0 s :ARG1 (c2 / corpse) :time (d4 / die-01 :ARG1 (i2 / infant :ARG1-of (b2 / bear-02 :time (d2 / date-entity :month 1))))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.41 ::date 2017-11-16T13:58:00 ::annotator SDL-AMR-09 ::preferred
+# ::snt wipes and baby toys, changing table, diaper genie, bed rail, futon, sheets towels, nursing wear, new mom clothes…think elastic!
+# ::save-date Fri Jan 12, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_41.txt
+(a / and :op1 (w / wipe) :op2 (t / toy :mod (b / baby)) :op3 (t2 / table :purpose (c / change-01)) :op4 (g / genie :mod (d / diaper)) :op5 (r / rail :mod (b2 / bed)) :op6 (f / futon) :op7 (t3 / towel :mod (s / sheet)) :op8 (w2 / wear-01 :mod (n / nurse)) :op9 (c2 / cloth :mod (p / person :ARG0-of (h / have-org-role-91 :ARG1 (m / mom))) :ARG1-of (n2 / new-01)) :op10 (t4 / think-01 :mode expressive :ARG0 (y / you) :ARG1 (e / elastic)))
+
+# ::id NW_XIN_ENG_0193_2006_0822.4 ::date 2017-11-16T12:28:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt The situation continues to be bad in Udaipur, Dungarpur, Barmer, Pali, Sirohi, Jalore, Kota and Jhalawar districts.
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0193_2006_0822_4.txt
+(c / continue-01 :ARG1 (b / bad-07 :ARG1 (s / situation)) :location (a / and :op1 (d / district :name (n / name :op1 "Udaipur")) :op2 (d2 / district :name (n2 / name :op1 "Dungarpur")) :op3 (d3 / district :name (n3 / name :op1 "Barmer")) :op4 (d4 / district :name (n4 / name :op1 "Pali")) :op5 (d5 / district :name (n5 / name :op1 "Sirohi")) :op6 (d6 / district :name (n6 / name :op1 "Jalore")) :op7 (d7 / district :name (n7 / name :op1 "Kota")) :op8 (d8 / district :name (n8 / name :op1 "Jhalawar"))))
+
+# ::id nw.chtb_0322.5 ::date 2012-12-29T13:59:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt Weiping Nie ( 9th level ) , Xiaoguang Liu ( 9th level ) , Hao Chang ( 6th level ) and Dayuan Cao ( 9th level ) from the Chinese team defeated Guibing Cui ( 6th level ) , Xiuying Zhang ( 9th level ) , Fengzhu Xu ( 9th level ) and Xuange Lin ( 8th level ) from the Korean team respectively .
+# ::save-date Fri Dec 22, 2017 ::file nw_chtb_0322_5.txt
+(a3 / and :op1 (d / defeat-01 :ARG0 (p9 / person :name (n / name :op1 "Weiping" :op2 "Nie") :mod (l / level :ord (o / ordinal-entity :value 9)) :part-of (t / team :mod (c4 / country :name (n5 / name :op1 "China")))) :ARG1 (p13 / person :name (n6 / name :op1 "Guibing" :op2 "Cui") :mod l2 :part-of (t2 / team :mod (c5 / country :name (n10 / name :op1 "Korea"))))) :op2 (d3 / defeat-01 :ARG0 (p10 / person :name (n2 / name :op1 "Xiaoguang" :op2 "Liu") :mod l :part-of t) :ARG1 (p14 / person :name (n7 / name :op1 "Xiuying" :op2 "Zhang") :mod l :part-of t2)) :op3 (d4 / defeat-01 :ARG0 (p11 / person :name (n3 / name :op1 "Hao" :op2 "Chang") :mod (l2 / level :ord (o2 / ordinal-entity :value 6)) :part-of t) :ARG1 (p15 / person :name (n8 / name :op1 "Fengzhu" :op2 "Xu") :mod l :part-of t2)) :op4 (d2 / defeat-01 :ARG0 (p12 / person :name (n4 / name :op1 "Dayuan" :op2 "Cao") :mod l :part-of t) :ARG1 (p16 / person :name (n9 / name :op1 "Xuange" :op2 "Lin") :mod (l3 / level :ord (o3 / ordinal-entity :value 8)) :part-of t2)))
+
+# ::id NW_AFP_ENG_0019_2003_0630.1 ::date 2017-10-29T02:49:37 ::annotator SDL-AMR-09 ::preferred
+# ::snt Palestinian security forces returned Monday to the positions they held in the Gaza Strip before the outbreak of the 33-month Palestinian uprising as Israel removed all major checkpoints in the coastal territory, a Palestinian security source said.
+# ::save-date Thu Jan 11, 2018 ::file NW_AFP_ENG_0019_2003_0630_1.txt
+(r / return-01 :ARG1 (f2 / force :ARG0-of (s2 / secure-02) :mod (c / country :name (n / name :op1 "Palestine"))) :location (p / position :ARG1-of (h / hold-01 :ARG0 f2 :location (c2 / country-region :name (n2 / name :op1 "Gaza" :op2 "Strip")) :time (b / before :op1 (b2 / break-out-30 :ARG1 (r2 / rise-up-03 :ARG0 c :duration (t / temporal-quantity :quant 33 :unit (m2 / month))))))) :time (d / date-entity :weekday (m / monday)) :ARG1-of (c4 / cause-01 :ARG0 (r3 / remove-01 :ARG0 (c3 / country :name (n3 / name :op1 "Israel")) :ARG1 (c5 / checkpoint :mod (a / all) :ARG1-of (m3 / major-02) :location (t2 / territory :mod (c6 / coast))))) :ARG1-of (s / say-01 :ARG0 (p2 / person :ARG0-of (s3 / source-02) :mod c :mod f2)))
+
+# ::id nw.chtb_0325.4 ::date 2012-12-29T22:23:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt If accidents do not occur , their hopes of entering the heats are already in sight .
+# ::save-date Wed Jan 3, 2018 ::file nw_chtb_0325_4.txt
+(s / sight-01 :ARG1 (h / hopeful-03 :ARG0 (t / they) :ARG1 (e / enter-01 :ARG0 t :ARG1 (h2 / heat))) :time (a / already) :condition (a2 / accident :polarity -))
+
+# ::id NW_XIN_ENG_0192_2005_0906.8 ::date 2017-11-16T11:33:09 ::annotator SDL-AMR-09 ::preferred
+# ::snt The mayor and county supervisor jointly activated the Los Angeles County Emergency Operation Center to prepare for the intensive response involved in assisting the evacuees.
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0192_2005_0906_8.txt
+(a / activate-01 :ARG0 (a2 / and :op1 (p / person :ARG0-of (s / supervise-01) :mod (c2 / county)) :op2 (p3 / person :ARG0-of (s2 / supervise-01) :mod (m / mayor)) :manner (j / joint)) :ARG1 (c3 / center :mod (o / operate-01) :mod (e2 / emergency) :mod (c / county :name (n / name :op1 "Los" :op2 "Angeles" :op3 "County"))) :purpose (p4 / prepare-02 :ARG0 c3 :ARG1 (t / thing :ARG1-of (r / respond-01) :mod (i2 / intensive) :ARG1-of (i3 / involve-01 :ARG2 (a3 / assist-01 :ARG1 (p2 / person :ARG2-of (e / evacuate-01)))))))
+
+# ::id NW_XIN_ENG_0190_2003_0709.3 ::date 2017-11-12T12:44:09 ::annotator SDL-AMR-09 ::preferred
+# ::snt A fierce tornado killed 16 people and injured 162 as it swept through Wuwei County in east China's Anhui Province on Tuesday night.
+# ::save-date Sun Nov 12, 2017 ::file NW_XIN_ENG_0190_2003_0709_3.txt
+(c2 / cause-01 :ARG0 (s / sweep-01 :ARG0 t2 :ARG2 (c3 / county :name (n3 / name :op1 "Wuwei") :location (p3 / province :name (n4 / name :op1 "Anhui") :location (c / country :name (n2 / name :op1 "China"))) :direction (e / east)) :time (d / date-entity :weekday (t / tuesday) :dayperiod (n / night))) :ARG1 (a / and :op1 (k / kill-01 :ARG0 (t2 / tornado :mod (f / fierce)) :ARG1 (p / person :quant 16)) :op2 (i2 / injure-01 :ARG0 t2 :ARG1 (p2 / person :quant 162))))
+
+# ::id bolt12_91455_5313.1 ::date 2012-12-07T14:15:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt Damn it being not sexy
+# ::save-date Wed Jan 17, 2018 ::file bolt12_91455_5313_1.txt
+(d / damn-01 :ARG1 (s / sexy-02 :polarity -))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.27 ::date 2017-11-16T13:03:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt Please leave a message and someone will get back to you ASAP, if you need or can offer space in an apartment, office, room in your home, etc., call 512-250-1043 or email Mitch Sudolsky at mitch.sudolsky@jcaaonline.org.
+# ::save-date Wed Jan 17, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_27.txt
+(a / and :op1 (l / leave-02 :mode imperative :polite + :ARG0 (y / you) :ARG1 (m / message-01)) :op2 (g / get-back-25 :ARG0 (s2 / someone) :ARG1 y :time (s / soon :ARG2-of (h / have-degree-91 :ARG1 g :ARG3 (e / equal) :ARG4 (p / possible-01)))) :op3 (h3 / have-condition-91 :ARG1 (o4 / or :op1 (c / call-02 :mode imperative :polite + :ARG0 y :location (p4 / phone-number-entity :value "512-250-1043")) :op2 (e3 / email-01 :ARG2 (p3 / person :name (n2 / name :op1 "Mitch" :op2 "Sudolsky")) :location (e4 / email-address-entity :value "mitch.sudolsky@jcaaonline.org"))) :ARG2 (o / or :op1 (n / need-01 :ARG1 (a2 / and :op1 (s3 / space :location (a3 / apartment)) :op2 (o3 / office) :op3 (r / room :location (h2 / home)) :op4 (e2 / et-cetera))) :op2 (p2 / possible-01 :mod (o2 / offer-01 :ARG1 a2)))))
+
+# ::id NW_AFP_ENG_0017_2003_0607.8 ::date 2017-10-31T08:07:09 ::annotator SDL-AMR-09 ::preferred
+# ::snt The country's western desert state of Rajasthan is also bracing for its fifth straight year of drought.
+# ::save-date Wed Dec 13, 2017 ::file NW_AFP_ENG_0017_2003_0607_8.txt
+(b / brace-01 :ARG0 (s2 / state :name (n2 / name :op1 "Rajasthan") :mod (d2 / desert) :location (c / country :part (w2 / west))) :ARG2 (d / drought :duration (t / temporal-quantity :quant 5 :unit (y2 / year) :ARG1-of (s / straight-04)) :location s2) :mod (a / also))
+
+# ::id NW_AFP_ENG_0018_2003_0616.3 ::date 2017-10-29T16:41:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt Police arrested her in Abilene, Texas, Saturday where she had moved with a friend June 2.
+# ::save-date Sun Oct 29, 2017 ::file NW_AFP_ENG_0018_2003_0616_3.txt
+(a / arrest-01 :ARG0 (p2 / police) :ARG1 (s3 / she) :location (c / city :name (n2 / name :op1 "Abilene") :part-of (s2 / state :name (n / name :op1 "Texas")) :location-of (m / move-01 :ARG0 s3 :accompanier (p / person :ARG0-of (h / have-rel-role-91 :ARG1 s3 :ARG2 (f / friend))) :time (d2 / date-entity :day 2 :month 6))) :time (d / date-entity :weekday (s / saturday)))
+
+# ::id nw.chtb_0322.15 ::date 2012-12-29T15:40:07 ::annotator SDL-AMR-09 ::preferred
+# ::snt He had achieved complete victory in nine games with Chinese Go players before .
+# ::save-date Tue Jul 28, 2015 ::file nw_chtb_0322_15.txt
+(w / win-01 :ARG0 (h / he) :ARG2 (g / game :quant 9 :ARG1-of (p / play-01 :ARG0 h :ARG3 (p2 / person :mod (c4 / country :name (n / name :op1 "China")) :ARG0-of (p3 / play-01 :ARG1 (g2 / game :name (n2 / name :op1 "Go")))))) :ARG1-of (c / complete-02) :time (b / before))
+
+# ::id NW_AFP_ENG_0019_2003_0630.4 ::date 2017-10-29T03:16:46 ::annotator SDL-AMR-09 ::preferred
+# ::snt It is the first time they have had freedom of movement with cars and weapons since the start of the intifada," the source said.
+# ::save-date Wed Jan 17, 2018 ::file NW_AFP_ENG_0019_2003_0630_4.txt
+(f / free-04 :ARG1 (t / they) :ARG3 (m / move-01 :ARG0 t :instrument (a / and :op1 (c / car) :op2 (w / weapon))) :time (s / since :op1 (s2 / start-01 :ARG1 (e / event :name (n / name :op1 "Intifada")))) :ord (o / ordinal-entity :value 1) :ARG1-of (s3 / say-01 :ARG0 (p / person :ARG0-of (s4 / source-02))))
+
+# ::id wb.eng_0003.19 ::date 2012-09-13T13:23:55 ::annotator ISI-AMR-01 ::preferred
+# ::snt Even I thought there might be a lag of three or four years .
+# ::save-date Mon Sep 17, 2012 ::file wb_eng_0003_19.txt
+(t2 / think-01 :ARG0 (i / i :mod (e / even)) :ARG1 (p / possible-01 :ARG1 (l / lag-01 :ARG2 (o2 / or :op1 (t3 / temporal-quantity :quant 3 :unit (y3 / year)) :op2 (t / temporal-quantity :quant 4 :unit (y2 / year))))))
+
+# ::id bolt12_9145_5531.2 ::date 2012-12-06T14:41:28 ::annotator SDL-AMR-09 ::preferred
+# ::snt Much envied super stars often encounter social engagements or circumstances which they don't welcome but have to join in,
+# ::save-date Wed Dec 18, 2013 ::file bolt12_9145_5531_2.txt
+(e / encounter-01 :ARG0 (p / person :mod (s2 / super) :ARG1-of (e2 / envy-01 :degree (m / much)) :ARG1-of (s / star-01)) :ARG1 (o2 / or :op1 (e3 / engage-01 :mod (s3 / social)) :op2 (c2 / circumstance) :ARG1-of (w / welcome-01 :polarity - :ARG0 p :concession-of (o3 / obligate-01 :ARG1 p :ARG2 (j / join-in-05 :ARG0 p :ARG1 o2)))) :frequency (o / often))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.61 ::date 2017-11-17T12:25:13 ::annotator SDL-AMR-09 ::preferred
+# ::snt Posted by Judith at September 3, 2005 03:23 PM
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_61.txt
+(p / post-01 :ARG0 (p2 / person :name (n / name :op1 "Judith")) :time (d / date-entity :day 3 :month 9 :year 2005 :time "15:23"))
+
+# ::id wb.eng_0003.23 ::date 2012-09-13T17:11:45 ::annotator ISI-AMR-01 ::preferred
+# ::snt Before the end of the decade , we may well see the unfunded liability zoom well past the original $ 400 million it took to build the original highway .
+# ::save-date Tue Jul 28, 2015 ::file wb_eng_0003_23.txt
+(p / possible-01 :ARG1 (s / see-01 :ARG0 (w / we) :ARG1 (z / zoom-01 :ARG1 (l / liability :ARG1-of (f / fund-01 :polarity -)) :ARG4 (p2 / past :op1 (m / monetary-quantity :quant 400000000 :unit (d / dollar) :ARG1-of (t / take-10 :ARG0 (b2 / build-01 :ARG1 (h / highway :mod (o / original)))) :mod (o2 / original)) :mod (w2 / well))) :time (b / before :op1 (e / end-01 :ARG1 (d2 / decade)))) :degree (w3 / well))
+
+# ::id DF-200-192400-625_7200.16 ::date 2013-09-06T01:01:33 ::annotator SDL-AMR-09 ::preferred
+# ::snt People who do dance/ gymnastics/ ballet etc have it drilled into them, to the point where I find it more comfortable now =P
+# ::save-date Mon Nov 20, 2017 ::file DF-200-192400-625_7200_16.txt
+(d / drill-02 :ARG1 (p / person :ARG0-of (d2 / do-02 :ARG1 (s / slash :op1 (d3 / dance-01) :op2 (g / gymnastics) :op3 (b / ballet) :op4 (e / et-cetera)))) :ARG2 (i / it) :ARG1-of (h2 / have-quant-91 :ARG3 (t / to-the-point) :ARG6 (f / find-02 :ARG0 (i2 / i) :ARG1 (c / comfortable-02 :ARG1 i :time (n / now) :ARG2-of (h / have-degree-91 :ARG1 i :ARG3 (m / more))))))
+
+# ::id wb.eng_0003.58 ::date 2012-09-30T16:24:55 ::annotator ISI-AMR-01 ::preferred
+# ::snt Then , of course there is the sunday drive , the trip to grandma 's , and the soccer games , but still , the overwhelming need is to support business .
+# ::save-date Tue Jul 21, 2015 ::file wb_eng_0003_58.txt
+(n / need-01 :ARG1 (s3 / support-01 :ARG1 (b / business)) :ARG0-of (o / overwhelm-01) :concession (a / and :op1 (d / drive-01 :time (d2 / date-entity :weekday (s / sunday))) :op2 (t / trip-03 :ARG1 (l / location :poss (p / person :ARG0-of (h / have-rel-role-91 :ARG2 (g / grandmother))))) :op3 (g2 / game :mod (s2 / soccer)) :mod (o2 / of-course)))
+
+# ::id NW_AFP_ENG_0017_2003_0607.7 ::date 2017-10-31T07:56:55 ::annotator SDL-AMR-09 ::preferred
+# ::snt India's has been reeling under a heatwave since mid-May which has killed 1,403 people.
+# ::save-date Mon Nov 20, 2017 ::file NW_AFP_ENG_0017_2003_0607_7.txt
+(r / reel-01 :ARG1 (c / country :name (n / name :op1 "India")) :ARG2 (h / heatwave :time (s / since :op1 (d / date-entity :month 5 :mod (m / mid))) :ARG0-of (k / kill-01 :ARG1 (p / person :quant 1403))))
+
+# ::id wb.eng_0003.16 ::date 2012-09-13T09:22:46 ::annotator ISI-AMR-01 ::preferred
+# ::snt While the limited access highway might provide limited traffic relief for people driving back and forth between Chesterfield and Goochland counties , other people are making choices about where they live and work ,
+# ::save-date Fri Jan 5, 2018 ::file wb_eng_0003_16.txt
+(c5 / contrast-01 :ARG1 (c2 / choose-01 :ARG0 (p / person :mod (o / other)) :ARG1 (a / and :op1 (l / location :location-of (w / work-01 :ARG0 p)) :op2 (l4 / location :location-of (l2 / live-01 :ARG0 p)))) :ARG2 (p4 / possible-01 :ARG1 (r2 / relieve-01 :ARG0 (h / highway :ARG1-of (a2 / access-01 :ARG1-of (l3 / limit-01))) :ARG1 (t / traffic) :ARG2 (p2 / person :ARG0-of (d / drive-01 :location (b / between :op1 (c3 / county :name (c / name :op1 "Chesterfield" :op2 "County")) :op2 (c4 / county :name (g3 / name :op1 "Goochland" :op2 "County"))) :path (a3 / and :op1 (b2 / back) :op2 (f / forth)))))))
+
+# ::id DF-200-192400-625_7200.17 ::date 2013-09-06T01:08:22 ::annotator SDL-AMR-09 ::preferred
+# ::snt I wouldn't read too much into random "symptoms" like that
+# ::save-date Sat Oct 7, 2017 ::file DF-200-192400-625_7200_17.txt
+(r / read-01 :polarity - :ARG0 (i / i) :ARG2 (s / symptom :mod (r2 / random) :ARG1-of (r3 / resemble-01 :ARG2 (t2 / that))) :ARG1-of (h / have-quant-91 :ARG2 (m / much) :ARG3 (t / too)))
+
+# ::id bolt12_6455_6562.21 ::date 2012-12-02T08:22:01 ::annotator SDL-AMR-09 ::preferred
+# ::snt Wandering in all directions, bearing a seal
+# ::save-date Mon Nov 25, 2013 ::file bolt12_6455_6562_21.txt
+(a / and :op1 (w / wander-01 :ARG1 (d / direction :mod (a2 / all))) :op2 (b / bear-01 :ARG1 (s / seal)))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.33 ::date 2017-11-16T13:30:31 ::annotator SDL-AMR-09 ::preferred
+# ::snt We have a free standing house on the grounds of our church.
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_33.txt
+(h / have-03 :ARG0 (w / we) :ARG1 (h2 / house :location-of (s / stand-04) :ARG1-of (f / free-01)) :location (g2 / ground :poss (c / church :poss w)))
+
+# ::id nw.chtb_0318.8 ::date 2012-12-25T14:40:55 ::annotator SDL-AMR-09 ::preferred
+# ::snt He hoped that all the athletes would " fully demonstrate the strength and skill that they cultivate daily , as the competitors representing Japan , they should carry out competition with athletes from various countries honestly " .
+# ::save-date Thu Jan 21, 2016 ::file nw_chtb_0318_8.txt
+(a / and :op1 (h / hope-01 :ARG0 (h2 / he) :ARG1 (d / demonstrate-01 :ARG0 (a2 / athlete :mod (a3 / all)) :ARG1 (a4 / and :op1 (s / strong-02 :ARG1 a2) :op2 (s2 / skill) :ARG1-of (c2 / cultivate-01 :ARG0 a2 :frequency (r3 / rate-entity-91 :ARG2 (t / temporal-quantity :quant 1 :unit (d2 / day))))) :degree (f / full) :ARG1-of (c / cause-01 :ARG0 (r / recommend-01 :ARG1 (c3 / compete-01 :ARG0 a2 :ARG1 (a5 / athlete :source (c4 / country :mod (v / various))) :ARG1-of (h3 / honest-01) :prep-as (p / person :ARG0-of (c6 / compete-01) :ARG0-of (r2 / represent-01 :ARG1 (c5 / country :name (n / name :op1 "Japan"))))))))))
+
+# ::id NW_XIN_ENG_0189_2003_0324.5 ::date 2017-11-12T11:54:53 ::annotator SDL-AMR-09 ::preferred
+# ::snt Huge explosions were heard in different parts of Baghdad and air raid siren sounded throughout the capital city, they said, adding that Iraqi anti-aircraft artillery had begun to fire back.
+# ::save-date Thu Jan 11, 2018 ::file NW_XIN_ENG_0189_2003_0324_5.txt
+(a / and :op1 (s / say-01 :ARG0 (t / they) :ARG1 (a2 / and :op1 (h / hear-01 :ARG1 (e / explode-01 :mod (h2 / huge)) :location (p / part :part-of (c / city :name (n / name :op1 "Baghdad") :ARG0-of (h3 / have-org-role-91 :ARG1 c4 :ARG2 (c2 / capital))) :ARG1-of (d / differ-02))) :op2 (s2 / sound-02 :ARG1 (s3 / siren :mod (r / raid-01) :mod (a3 / air)) :location c))) :op2 (a4 / add-01 :ARG0 t :ARG1 (b / begin-01 :ARG0 (a5 / artillery :mod (c4 / country :name (n2 / name :op1 "Iraq")) :ARG0-of (o / oppose-01 :ARG1 (a6 / aircraft))) :ARG1 (f / fire-01 :ARG0 a5 :mod (b2 / back)))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.1 ::date 2017-11-16T11:22:51 ::annotator SDL-AMR-09 ::preferred
+# ::snt Texas, Especially Austin, Needs Help!
+# ::save-date Mon Jan 22, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_1.txt
+(n2 / need-01 :ARG0 (s / state :name (n / name :op1 "Texas") :part (c / city :name (n3 / name :op1 "Austin") :mod (e / especially))) :ARG1 (h / help-01 :ARG2 s))
+
+# ::id NW_AFP_ENG_0019_2003_0630.16 ::date 2017-10-29T14:32:31 ::annotator SDL-AMR-09 ::preferred
+# ::snt Adressing Palestinian complaints, an Israeli military source confirmed troops had installed a gate at the Netzarim crossing and at the southern Guest House junction but said that they were only there for when Jewish settlers needed to use the road.
+# ::save-date Wed Dec 6, 2017 ::file NW_AFP_ENG_0019_2003_0630_16.txt
+(c2 / confirm-01 :ARG0 (p / person :ARG0-of (s / source-02) :mod (m / military) :mod (c6 / country :name (n5 / name :op1 "Israel"))) :ARG1 (i2 / install-01 :ARG0 (t / troop) :ARG1 (g2 / gate) :location (a / and :op1 (c3 / cross-02 :ARG1 (c4 / city-district :name (n3 / name :op1 "Netzarim"))) :op2 (j / junction :mod (c5 / city-district :name (n4 / name :op1 "Guest" :op2 "House") :direction (s4 / south))))) :time (a2 / address-02 :ARG1 (c7 / complain-01 :ARG0 (p2 / person :mod (c / country :name (n / name :op1 "Palestine"))))) :ARG1-of (c8 / contrast-01 :ARG2 (s2 / say-01 :ARG0 p :ARG1 (b / be-located-at-91 :ARG1 t :ARG2 a :purpose (t2 / time :time-of (n6 / need-01 :ARG0 (p3 / person :ARG0-of (s3 / settle-03) :mod (r2 / religious-group :name (n2 / name :op1 "Jew"))) :ARG1 (u / use-01 :ARG0 p3 :ARG1 (r / road)))) :mod (o / only)))))
+
+# ::id bolt12_91455_5342.1 ::date 2012-12-11T05:32:08 ::annotator SDL-AMR-09 ::preferred
+# ::snt It's not so bad, they're just playing in their own circle, out of sight, out of mind,
+# ::save-date Fri Nov 3, 2017 ::file bolt12_91455_5342_1.txt
+(c2 / cause-01 :ARG0 (p / play-01 :ARG0 (t / they) :location (c / circle :poss t) :mod (j / just) :manner (h / have-condition-91 :ARG1 (s / see-01 :polarity - :ARG0 t :ARG1 (t2 / thing)) :ARG2 (k / keep-in-mind-08 :polarity - :ARG1 t :ARG2 t2))) :ARG1 (b / bad-07 :polarity - :ARG1 (i / it) :degree (s2 / so)))
+
+# ::id NW_XIN_ENG_0209_2008_0513.22 ::date 2017-11-18T02:47:38 ::annotator SDL-AMR-09 ::preferred
+# ::snt According to an official updated death toll until Monday, a total of 31,938 people lost their lives in the cyclone storm with altogether 29,770 people remaining missing and 1,403 injured.
+# ::save-date Fri Dec 22, 2017 ::file NW_XIN_ENG_0209_2008_0513_22.txt
+(s / say-01 :ARG0 (t / toll :mod (o / official) :ARG1-of (u / update-01 :time (u2 / until :op1 (d / date-entity :weekday (m / monday)))) :mod (d2 / die-01)) :ARG1 (a / and :op1 (l / lose-02 :ARG0 (p / person :ARG1-of (t2 / total-01 :ARG2 31938)) :ARG1 (l2 / life :poss p) :ARG3 (s2 / storm :mod (c / cyclone))) :op2 (r / remain-01 :ARG1 (p2 / person :quant 29770) :ARG3 (m2 / miss-01 :ARG1 p2) :mod (a2 / altogether)) :op3 (i2 / injure-01 :ARG1 (p3 / person :quant 1403))))
+
+# ::id DF-200-192400-625_7744.10 ::date 2013-09-07T08:52:51 ::annotator SDL-AMR-09 ::preferred
+# ::snt I really dont know what to do, and am afraid of going to the GP.
+# ::save-date Thu Oct 8, 2015 ::file DF-200-192400-625_7744_10.txt
+(a / and :op1 (k / know-01 :polarity - :ARG0 (i / i) :ARG1 (t / thing :ARG1-of (d / do-02 :ARG0 i)) :ARG1-of (r / real-04)) :op2 (f / fear-01 :ARG0 i :ARG1 (g / go-02 :ARG0 i :ARG4 (p2 / practitioner :mod (g2 / general)))))
+
+# ::id NW_XIN_ENG_0193_2006_0822.7 ::date 2017-11-16T12:44:41 ::annotator SDL-AMR-09 ::preferred
+# ::snt Electricity and telephone networks have been disrupted in all the flood-affected areas and widespread flooding has affected the road and rail traffic network.
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0193_2006_0822_7.txt
+(a4 / and :op1 (d / disrupt-01 :ARG1 (a / and :op1 (n / network :mod (e / electricity)) :op2 (n2 / network :mod (t / telephone))) :location (a2 / area :ARG1-of (a3 / affect-01 :ARG0 (f / flood-01 :ARG1 a2)))) :op2 (a5 / affect-01 :ARG0 (f2 / flood-01 :mod (w / widespread)) :ARG1 (a6 / and :op1 (n3 / network :mod (r / road)) :op2 (n4 / network :mod (t2 / traffic) :mod (r2 / rail)))))
+
+# ::id bolt12_91455_5325.1 ::date 2012-12-08T12:19:47 ::annotator SDL-AMR-09 ::preferred
+# ::snt No one is easy. Life is like a show, you must have a look at the script to know how to perform
+# ::save-date Wed Dec 20, 2017 ::file bolt12_91455_5325_1.txt
+(m / multi-sentence :snt1 (e / easy-05 :ARG1 (n / no-one)) :snt2 (r / resemble-01 :ARG1 (l / live-01) :ARG2 (s / show-04) :ARG1-of (m2 / mean-01 :ARG2 (o / obligate-01 :ARG1 (y / you) :ARG2 (l2 / look-01 :ARG0 y :ARG1 (s2 / script) :purpose (k / know-01 :ARG0 y :ARG1 (t / thing :manner-of (p2 / perform-01))))))))
+
+# ::id NW_XIN_ENG_0194_2007_0704.7 ::date 2017-11-17T06:20:35 ::annotator SDL-AMR-09 ::preferred
+# ::snt Officials are still calculating the damage to Tianchang City, in east China's Anhui Province, where a tornado packing winds of 100 kilometers per hour destroyed more than 100 homes and forced the evacuation of at least 1,100 people in three villages.
+# ::save-date Fri Nov 17, 2017 ::file NW_XIN_ENG_0194_2007_0704_7.txt
+(c2 / calculate-01 :ARG0 (o / official) :ARG1 (d2 / damage-01 :ARG1 (c3 / city :name (n2 / name :op1 "Tianchang") :location (p / province :name (n3 / name :op1 "Anhui") :location (c / country :name (n / name :op1 "China"))) :direction (e / east)) :location-of (a3 / and :op1 (d3 / destroy-01 :ARG0 (t / tornado :ARG0-of (p2 / pack-05 :ARG1 (w / wind-01 :ARG4-of (r / rate-entity-91 :ARG1 (d / distance-quantity :quant 100 :unit (k / kilometer)) :ARG2 (t2 / temporal-quantity :quant 1 :unit (h / hour)))))) :ARG1 (h2 / home :quant (m / more-than :op1 100))) :op2 (f / force-01 :ARG0 t :ARG1 (e2 / evacuate-01 :ARG1 (v / village :quant 3) :ARG2 (p3 / person :quant (a / at-least :op1 1100)))))) :mod (s / still))
+
+# ::id NW_XIN_ENG_0191_2005_0405.9 ::date 2017-11-14T11:49:22 ::annotator SDL-AMR-09 ::preferred
+# ::snt The accident happened Saturday afternoon when the six slided down the 3700-meter-high Daban Mountain at Ertanggou in Menyuan Hui Autonomous County of Haibei Tibetan Autonomous Prefecture.
+# ::save-date Tue Nov 14, 2017 ::file NW_XIN_ENG_0191_2005_0405_9.txt
+(a2 / accident :time (d / date-entity :weekday (s / saturday) :dayperiod (a / afternoon)) :time (s2 / slide-01 :ARG0 (p / person :quant 6) :direction (d2 / down) :location (m / mountain :name (n / name :op1 "Daban") :ARG1-of (h / high-02) :quant (d3 / distance-quantity :quant 3700 :unit (m2 / meter)) :location (t / thing :name (n2 / name :op1 "Ertanggou") :location (c / county :name (n3 / name :op1 "Menyuan" :op2 "Hui" :op3 "Autonomous") :location (p2 / prefecture :name (n4 / name :op1 "Haibei" :op2 "Tibetan" :op3 "Autonomous")))))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.5 ::date 2017-11-16T11:29:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt September 03, 2005 Helping hurricane refugees in Austin TX
+# ::save-date Fri Nov 17, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_5.txt
+(h / help-01 :ARG1 (r / refugee :mod (h2 / hurricane)) :location (c / city :name (n / name :op1 "Austin") :part-of (s / state :name (n2 / name :op1 "Texas"))) :time (d / date-entity :day 3 :month 9 :year 2005))
+
+# ::id DF-200-192400-625_7806.16 ::date 2013-09-08T05:36:59 ::annotator SDL-AMR-09 ::preferred
+# ::snt However, if it gets worse, then yes, go to the doctor's.
+# ::save-date Mon Jan 20, 2014 ::file DF-200-192400-625_7806_16.txt
+(c / contrast-01 :ARG2 (g / go-02 :mode imperative :ARG0 (y / you) :ARG4 (d / doctor) :condition (w / worsen-01 :ARG1 (i / it))))
+
+# ::id nw.chtb_0322.14 ::date 2012-12-29T15:39:17 ::annotator SDL-AMR-09 ::preferred
+# ::snt Fengzhu Xu has won many championships in international competitions before .
+# ::save-date Sat Jul 25, 2015 ::file nw_chtb_0322_14.txt
+(w / win-01 :ARG0 (p2 / person :name (n / name :op1 "Fengzhu" :op2 "Xu")) :ARG1 (c / championship-02 :ARG0 p2 :quant (m / many)) :time (b / before) :part-of (c2 / compete-01 :mod (i / international)))
+
+# ::id bolt12_6455_6566.2 ::date 2012-12-02T12:44:03 ::annotator SDL-AMR-09 ::preferred
+# ::snt Currently our citizens' lives are all too carefree! The officials are too extravagant.
+# ::save-date Thu Jan 11, 2018 ::file bolt12_6455_6566_2.txt
+(m / multi-sentence :snt1 (h2 / have-degree-91 :ARG1 (l / life :poss (c2 / citizen :poss (w / we)) :mod (a / all)) :ARG2 (c / care-01 :polarity -) :ARG3 (t / too) :time (c3 / current)) :snt2 (h3 / have-degree-91 :ARG1 (p / person :ARG0-of (h / have-org-role-91 :ARG2 (o2 / official))) :ARG2 (e / extravagant) :ARG3 (t2 / too)))
+
+# ::id bolt12_6455_6566.3 ::date 2012-12-02T12:47:06 ::annotator SDL-AMR-09 ::preferred
+# ::snt Now we already have no cohesion! China needs to start a war! A harsh slap in the face of the countries which follow the United States' rear!
+# ::save-date Sat Jul 25, 2015 ::file bolt12_6455_6566_3.txt
+(m / multi-sentence :snt1 (h / have-03 :polarity - :ARG0 (w / we) :ARG1 (c / cohesion) :time (n / now) :time (a / already)) :snt2 (n2 / need-01 :ARG0 (c2 / country :name (n3 / name :op1 "China")) :ARG1 (s / start-01 :ARG0 c2 :ARG1 (w2 / war))) :snt3 (s2 / slap-01 :ARG1 (f / face :part-of (c3 / country :ARG0-of (f2 / follow-02 :ARG1 (r / rear :poss (c4 / country :name (n4 / name :op1 "United" :op2 "States")))))) :ARG1-of (h2 / harsh-02)))
+
+# ::id NW_AFP_ENG_0019_2003_0630.17 ::date 2017-10-29T14:42:52 ::annotator SDL-AMR-09 ::preferred
+# ::snt A ban on Palestinian men under the age of 35 being allowed to move freely was still in force but that was expected to be lifted later on Monday or early Tuesday.
+# ::save-date Sun Oct 29, 2017 ::file NW_AFP_ENG_0019_2003_0630_17.txt
+(h / have-mod-91 :ARG1 (b / ban-01 :ARG1 (a2 / allow-01 :ARG1 (m2 / move-01 :ARG0 (m3 / man :mod (c / country :name (n / name :op1 "Palestine")) :age (u / under :op1 (t2 / temporal-quantity :quant 35 :unit (y / year)))) :ARG3-of (f2 / free-04)))) :ARG2 (f / force-04 :mod (s / still)) :concession-of (e2 / expect-01 :ARG1 (l / lift-02 :ARG1 b :time (o / or :op1 (a / after :op1 (d / date-entity :weekday (m / monday))) :op2 (e / early :op1 (d2 / date-entity :weekday (t / tuesday)))))))
+
+# ::id NW_XIN_ENG_0193_2006_0822.11 ::date 2017-11-16T13:40:40 ::annotator SDL-AMR-09 ::preferred
+# ::snt Raje said that assessment of loss due to floods would be done soon, and a memorandum would be sent to the Indian government seeking assistance for rehabilitation and relief operations.
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0193_2006_0822_11.txt
+(a / and :op1 (s / say-01 :ARG0 (p / person :name (n2 / name :op1 "Raje")) :ARG1 (d / do-02 :ARG1 (a2 / assess-01 :ARG2 (l / lose-01 :ARG1-of (c2 / cause-01 :ARG0 (f / flood-01)))) :time (s2 / soon))) :op2 (s3 / send-01 :ARG1 (m / memorandum) :ARG2 (g / government-organization :ARG0-of (g2 / govern-01 :ARG1 (c / country :name (n / name :op1 "India"))) :ARG0-of (s4 / seek-01 :ARG1 (a3 / assist-01 :ARG1 g :ARG2 (a4 / and :op1 (r / rehabilitate-01) :op2 (o / operate-01 :ARG1 (r2 / relieve-01))))))))
+
+# ::id nw.chtb_0322.7 ::date 2012-12-29T14:13:02 ::annotator SDL-AMR-09 ::preferred
+# ::snt Dayuan Cao achieved victory with an advantage of seven and a half ' mu ' .
+# ::save-date Tue Sep 19, 2017 ::file nw_chtb_0322_7.txt
+(w / win-01 :ARG0 (p2 / person :name (n / name :op1 "Dayuan" :op2 "Cao")) :manner (a / advantage-01 :ARG2 p2 :extent (m / mu :quant 7.5)))
+
+# ::id NW_XIN_ENG_0193_2006_0822.1 ::date 2017-11-16T12:20:01 ::annotator SDL-AMR-09 ::preferred
+# ::snt At least 33 dead in Rajasthan floods
+# ::save-date Thu Nov 16, 2017 ::file NW_XIN_ENG_0193_2006_0822_1.txt
+(d / die-01 :ARG1 (p / person :quant (a / at-least :op1 33)) :ARG2 (f / flood-01 :ARG1 (s / state :name (n / name :op1 "Rajasthan"))))
+
+# ::id wb.eng_0003.35 ::date 2012-09-28T16:06:47 ::annotator ISI-AMR-01 ::preferred
+# ::snt And you give them a beltway through a largely rural area .
+# ::save-date Thu Nov 13, 2014 ::file wb_eng_0003_35.txt
+(a / and :op2 (g / give-01 :ARG0 (y / you) :ARG1 (b / beltway :path (a2 / area :mod (r / rural :degree (l / large)))) :ARG2 (t / they)))
+
+# ::id nw.chtb_0324.7 ::date 2012-12-29T21:31:27 ::annotator SDL-AMR-09 ::preferred
+# ::snt The competitor from Zimbabwe , Si Aiwan , who is temporarily in third place , has a total score of 354.39 points .
+# ::save-date Tue Nov 21, 2017 ::file nw_chtb_0324_7.txt
+(s / score-01 :ARG1 (p3 / person :name (n / name :op1 "Si" :op2 "Aiwan") :ARG0-of (c2 / compete-01) :source (c3 / country :name (n2 / name :op1 "Zimbabwe")) :ARG1-of (p / place-01 :ord (o / ordinal-entity :value 3) :duration (t / temporary))) :ARG2 (p2 / point :quant 354.39 :ARG2-of (t2 / total-01)))
+
+# ::id wb.eng_0003.5 ::date 2012-08-27T11:30:38 ::annotator ISI-AMR-01 ::preferred
+# ::snt Already it is changing development patterns for the worse and causing localized traffic congestion around its exits .
+# ::save-date Fri Apr 17, 2015 ::file wb_eng_0003_5.txt
+(a / and :op1 (c / change-01 :ARG0 (i / it) :ARG1 (p / pattern :mod (d / develop-02)) :ARG1-of (c4 / cause-01 :ARG0 (w / worsen-01 :ARG1 p))) :op2 (c2 / cause-01 :ARG0 i :ARG1 (c3 / congest-01 :ARG1 (a2 / around :op1 (e / exit :poss i)) :ARG2 (t / traffic) :ARG1-of (l2 / localize-01))) :time (a3 / already))
+
+# ::id DF-200-192400-625_7046.8 ::date 2013-09-07T11:35:34 ::annotator SDL-AMR-09 ::preferred
+# ::snt Sorry to anyone whose read this jumbled mess, and I feel a bit like a self-seeking moaner, but I truly do feel desperate.
+# ::save-date Thu Feb 4, 2016 ::file DF-200-192400-625_7046_8.txt
+(a / and :op1 (s / sorry-01 :ARG1 (i / i) :beneficiary (a2 / anyone :ARG0-of (r / read-01 :ARG1 (m / mess :ARG1-of (j / jumble-01) :mod (t / this))))) :op2 (c / contrast-01 :ARG1 (f / feel-01 :ARG0 i :ARG1 (r2 / resemble-01 :ARG1 i :ARG2 (p / person :ARG0-of (m2 / moan-01) :ARG0-of (s2 / seek-01 :mod (s3 / self)))) :degree (b / bit)) :ARG2 (f2 / feel-01 :ARG0 i :ARG1 (d / despair-01 :ARG0 i) :ARG1-of (t2 / true-01))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.3 ::date 2017-11-16T11:26:19 ::annotator SDL-AMR-09 ::preferred
+# ::snt Mega links at site:
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_3.txt
+(l / link-01 :ARG2 (s / site) :degree (m / mega))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.13 ::date 2017-11-16T12:17:14 ::annotator SDL-AMR-09 ::preferred
+# ::snt The University of TX at Austin, Rice U, and Texas A&M are coordinating with Tulane to enroll college students displaced by the floods.
+# ::save-date Wed Jan 17, 2018 ::file ENG_DF_000170_20050903_C00020J0V_0001_13.txt
+(c / coordinate-01 :ARG0 (a / and :op1 (u4 / university :name (n4 / name :op1 "Rice" :op2 "U") :mod (u / university :mod (s / state :name (n / name :op1 "Texas"))) :location (c3 / city :name (n5 / name :op1 "Austin"))) :op2 (u2 / university :name (n2 / name :op1 "Texas" :op2 "A" :op3 "&" :op4 "M"))) :ARG2 (u3 / university :name (n3 / name :op1 "Tulane")) :purpose (e / enroll-01 :ARG1 (p / person :ARG0-of (s2 / study-01) :mod (c2 / college) :ARG1-of (d / displace-01 :ARG0 (f4 / flood-01)))))
+
+# ::id ENG_DF_000170_20050903_C00020J0V_0001.32 ::date 2017-11-16T13:29:36 ::annotator SDL-AMR-09 ::preferred
+# ::snt From the First Baptist Church of Oak Hill:
+# ::save-date Thu Nov 16, 2017 ::file ENG_DF_000170_20050903_C00020J0V_0001_32.txt
+(t / thing :source (c / church :name (n3 / name :op1 "First" :op2 "Baptist" :op3 "Church") :location (c2 / city :name (n4 / name :op1 "Oak" :op2 "Hill"))))
+
+# ::id bolt12_9145_5531.4 ::date 2012-12-07T07:58:40 ::annotator SDL-AMR-09 ::preferred
+# ::snt Sometimes a dinner party which seems very normal for us ordinary people may not be that simple for stars as we imagined.
+# ::save-date Wed Dec 20, 2017 ::file bolt12_9145_5531_4.txt
+(p3 / possible-01 :ARG1 (s3 / simple-02 :polarity - :ARG1 (p / party :ARG1-of (n / normal-02 :degree (v / very)) :mod (d / dinner) :ARG1-of (s / seem-01 :ARG2 (w / we :mod (p2 / person :mod (o / ordinary))))) :beneficiary (p4 / person :ARG1-of (s4 / star-01)) :degree (t / that) :ARG1-of (r / resemble-01 :ARG2 (i / imagine-01 :ARG0 w))) :frequency (s2 / sometimes))
+
+# ::id bolt12_6455_6565.4 ::date 2012-12-02T12:15:38 ::annotator SDL-AMR-09 ::preferred
+# ::snt We should tell the whole world, that Chinese can't be bullied at will by others ...
+# ::save-date Fri Jan 5, 2018 ::file bolt12_6455_6565_4.txt
+(r / recommend-01 :ARG1 (t / tell-01 :ARG0 (w / we) :ARG1 (p / possible-01 :polarity - :ARG1 (b / bully-01 :ARG0 (o / other) :ARG1 (c / country :name (n / name :op1 "China")) :mod (a / at-will))) :ARG2 (w2 / world :mod (w3 / whole))))
+
+# ::id nw.chtb_0324.10 ::date 2012-12-29T21:48:54 ::annotator SDL-AMR-09 ::preferred
+# ::snt At home , they carry out indoor training mostly .
+# ::save-date Mon Oct 23, 2017 ::file nw_chtb_0324_10.txt
+(t2 / train-01 :ARG2 (t / they) :location (i / indoor) :mod (m / most) :location (h / home))
+
+# ::id NW_XIN_ENG_0209_2008_0513.13 ::date 2017-11-18T03:09:28 ::annotator SDL-AMR-09 ::preferred
+# ::snt People who could not stand the strike were swept away in the overnight storm.
+# ::save-date Sat Nov 18, 2017 ::file NW_XIN_ENG_0209_2008_0513_13.txt
+(s2 / sweep-01 :ARG1 (p2 / person :ARG0-of (s / stand-01 :ARG1 (s3 / strike-01) :ARG1-of (p3 / possible-01 :polarity -))) :time (o / overnight :mod (s4 / storm)) :manner (a / away))
