@@ -12,7 +12,7 @@ Data for little prince:
 
 Data for AMR3:
 
-Is found in `qualityamr3`. It follows the same format as little prince data. **Note**: Release of reference graphs requires LDC license, therefore this repo does not contain `qualitylp/abparser/tgt.test.amr`.
+Is found in `qualityamr3`. It follows the same format as little prince data. **Note**: Release of reference graphs requires LDC license, therefore this repo does not contain `qualityamr3/abparser/tgt.test.amr`.
 
 # Run experiments
 
