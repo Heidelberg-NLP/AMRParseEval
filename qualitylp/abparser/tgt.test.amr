@@ -1,0 +1,1999 @@
+# ::id lpp_1943.646 ::date 2012-11-08T09:37:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt And the little prince went away , puzzled .
+# ::save-date Mon May 25, 2015 ::file lpp_1943_646.txt
+(vx0 / and :op2 (vx1 / go-02 :ARG0 (vx2 / prince :mod (vx3 / little) :ARG1-of (vx4 / puzzle-01)) :direction (vx5 / away)))
+
+# ::id lpp_1943.646 ::date 2012-11-08T09:37:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt And the little prince went away , puzzled .
+# ::save-date Mon May 25, 2015 ::file lpp_1943_646.txt
+(vx0 / and :op2 (vx1 / go-02 :ARG0 (vx2 / prince :mod (vx3 / little) :ARG1-of (vx4 / puzzle-01)) :direction (vx5 / away)))
+
+# ::id lpp_1943.328 ::date 2012-11-19T12:21:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he went on , relentlessly : " You mix everything up together ...
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_328.txt
+(vx0 / contrast-01 :ARG2 (vx1 / go-on-25 :ARG0 (vx2 / he) :ARG1 (vx3 / mix-up-02 :ARG0 (vx4 / you) :ARG1 (vx5 / everything) :ARG3 (vx6 / together)) :manner (vx7 / relentless)))
+
+# ::id lpp_1943.328 ::date 2012-11-19T12:21:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he went on , relentlessly : " You mix everything up together ...
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_328.txt
+(vx0 / contrast-01 :ARG2 (vx1 / go-on-25 :ARG0 (vx2 / he) :ARG1 (vx3 / mix-up-02 :ARG0 (vx4 / you) :ARG1 (vx5 / everything) :ARG3 (vx6 / together)) :manner (vx7 / relentless)))
+
+# ::id lpp_1943.761 ::date 2012-11-13T17:16:50 ::annotator ISI-AMR-05 ::preferred
+# ::snt For at least his work has some meaning .
+# ::save-date Sat Mar 14, 2015 ::file lpp_1943_761.txt
+(vx0 / cause-01 :ARG0 (vx1 / mean-01 :ARG1 (vx2 / work-01 :ARG0 (vx3 / he)) :degree (vx4 / some) :mod (vx5 / at-least)))
+
+# ::id lpp_1943.761 ::date 2012-11-13T17:16:50 ::annotator ISI-AMR-05 ::preferred
+# ::snt For at least his work has some meaning .
+# ::save-date Sat Mar 14, 2015 ::file lpp_1943_761.txt
+(vx0 / cause-01 :ARG0 (vx1 / mean-01 :ARG1 (vx2 / work-01 :ARG0 (vx3 / he)) :degree (vx4 / some) :mod (vx5 / at-least)))
+
+# ::id lpp_1943.347 ::date 2012-11-24T07:13:21 ::annotator ISI-AMR-05 ::preferred
+# ::snt And if I know - - I , myself - - one flower which is unique in the world , which grows nowhere but on my planet , but which one little sheep can destroy in a single bite some morning , without even noticing what he is doing - - Oh !
+# ::save-date Thu Sep 28, 2017 ::file lpp_1943_347.txt
+(vx0 / and :op1 (vx1 / oh :mode expressive :condition (vx2 / know-02 :ARG0 (vx3 / i) :ARG1 (vx4 / flower :quant 1 :ARG1-of (vx5 / unique-01 :ARG3 (vx6 / world)) :ARG1-of (vx7 / grow-01 :location (vx8 / contrast-01 :ARG0 (vx9 / nowhere) :ARG1 (vx10 / planet :poss vx3))) :ARG1-of (vx11 / destroy-01 :ARG0 (vx12 / sheep :quant 1 :mod (vx13 / little) :ARG0-of (vx14 / notice-01 :polarity - :ARG1 vx11)) :ARG2 (vx15 / bite-01 :quant 1 :ARG1-of (vx16 / single-02)) :ARG2-of vx21 :ARG1-of (vx17 / possible-01) :time (vx18 / date-entity :dayperiod (vx19 / morning) :mod (vx20 / some)))) :ARG1-of (vx21 / contrast-01))))
+
+# ::id lpp_1943.347 ::date 2012-11-24T07:13:21 ::annotator ISI-AMR-05 ::preferred
+# ::snt And if I know - - I , myself - - one flower which is unique in the world , which grows nowhere but on my planet , but which one little sheep can destroy in a single bite some morning , without even noticing what he is doing - - Oh !
+# ::save-date Thu Sep 28, 2017 ::file lpp_1943_347.txt
+(vx0 / and :op1 (vx1 / oh :mode expressive :condition (vx2 / know-02 :ARG0 (vx3 / i) :ARG1 (vx4 / flower :quant 1 :ARG1-of (vx5 / unique-01 :ARG3 (vx6 / world)) :ARG1-of (vx7 / grow-01 :location (vx8 / contrast-01 :ARG0 (vx9 / nowhere) :ARG1 (vx10 / planet :poss vx3))) :ARG1-of (vx11 / destroy-01 :ARG0 (vx12 / sheep :quant 1 :mod (vx13 / little) :ARG0-of (vx14 / notice-01 :polarity - :ARG1 vx11)) :ARG2 (vx15 / bite-01 :quant 1 :ARG1-of (vx16 / single-02)) :ARG2-of vx21 :ARG1-of (vx17 / possible-01) :time (vx18 / date-entity :dayperiod (vx19 / morning) :mod (vx20 / some)))) :ARG1-of (vx21 / contrast-01))))
+
+# ::id lpp_1943.790 ::date 2012-11-14T12:00:22 ::annotator ISI-AMR-05 ::preferred
+# ::snt From year to year the planet has turned more rapidly and the orders have not been changed ! "
+# ::save-date Tue Sep 19, 2017 ::file lpp_1943_790.txt
+(vx0 / and :op1 (vx1 / have-degree-91 :ARG1 (vx2 / turn-01 :ARG1 (vx3 / planet)) :ARG2 (vx4 / rapid) :ARG3 (vx5 / more) :frequency (vx6 / year)) :op2 (vx7 / change-01 :polarity - :ARG1 (vx8 / order-01)))
+
+# ::id lpp_1943.790 ::date 2012-11-14T12:00:22 ::annotator ISI-AMR-05 ::preferred
+# ::snt From year to year the planet has turned more rapidly and the orders have not been changed ! "
+# ::save-date Tue Sep 19, 2017 ::file lpp_1943_790.txt
+(vx0 / and :op1 (vx1 / have-degree-91 :ARG1 (vx2 / turn-01 :ARG1 (vx3 / planet)) :ARG2 (vx4 / rapid) :ARG3 (vx5 / more) :frequency (vx6 / year)) :op2 (vx7 / change-01 :polarity - :ARG1 (vx8 / order-01)))
+
+# ::id lpp_1943.813 ::date 2012-11-14T18:00:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " The one thing I love in life is to sleep . "
+# ::save-date Tue May 14, 2013 ::file lpp_1943_813.txt
+(vx0 / love-01 :ARG0 (vx1 / i) :ARG1 (vx2 / sleep-01 :ARG0 vx1 :mod (vx3 / thing :quant 1)) :time (vx4 / live-01))
+
+# ::id lpp_1943.813 ::date 2012-11-14T18:00:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " The one thing I love in life is to sleep . "
+# ::save-date Tue May 14, 2013 ::file lpp_1943_813.txt
+(vx0 / love-01 :ARG0 (vx1 / i) :ARG1 (vx2 / sleep-01 :ARG0 vx1 :mod (vx3 / thing :quant 1)) :time (vx4 / live-01))
+
+# ::id lpp_1943.18 ::date 2012-06-08T13:18:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt That is why , at the age of six , I gave up what might have been a magnificent career as a painter .
+# ::save-date Tue Nov 4, 2014 ::file lpp_1943_18.txt
+(vx0 / cause-01 :ARG0 (vx1 / that) :ARG1 (vx2 / give-up-07 :ARG0 (vx3 / i) :ARG1 (vx4 / career :mod (vx5 / magnificent) :topic (vx6 / person :ARG0-of (vx7 / paint-02))) :time (vx8 / age-01 :ARG1 vx3 :ARG2 (vx9 / temporal-quantity :quant 6 :unit (vx10 / year)))))
+
+# ::id lpp_1943.18 ::date 2012-06-08T13:18:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt That is why , at the age of six , I gave up what might have been a magnificent career as a painter .
+# ::save-date Tue Nov 4, 2014 ::file lpp_1943_18.txt
+(vx0 / cause-01 :ARG0 (vx1 / that) :ARG1 (vx2 / give-up-07 :ARG0 (vx3 / i) :ARG1 (vx4 / career :mod (vx5 / magnificent) :topic (vx6 / person :ARG0-of (vx7 / paint-02))) :time (vx8 / age-01 :ARG1 vx3 :ARG2 (vx9 / temporal-quantity :quant 6 :unit (vx10 / year)))))
+
+# ::id lpp_1943.4 ::date 2012-06-07T17:06:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt Here is a copy of the drawing .
+# ::save-date Thu Oct 29, 2015 ::file lpp_1943_4.txt
+(vx0 / be-located-at-91 :ARG1 (vx1 / thing :ARG2-of (vx2 / copy-01 :ARG1 (vx3 / picture :ARG1-of (vx4 / draw-01)))) :ARG2 (vx5 / here))
+
+# ::id lpp_1943.4 ::date 2012-06-07T17:06:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt Here is a copy of the drawing .
+# ::save-date Thu Oct 29, 2015 ::file lpp_1943_4.txt
+(vx0 / be-located-at-91 :ARG1 (vx1 / thing :ARG2-of (vx2 / copy-01 :ARG1 (vx3 / picture :ARG1-of (vx4 / draw-01)))) :ARG2 (vx5 / here))
+
+# ::id lpp_1943.642 ::date 2012-11-08T09:23:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Forget that I am ashamed , " the tippler confessed , hanging his head .
+# ::save-date Mon Apr 22, 2013 ::file lpp_1943_642.txt
+(vx0 / confess-01 :ARG0 (vx1 / person :ARG0-of (vx2 / tipple-01) :ARG0-of (vx3 / hang-01 :ARG1 (vx4 / head :part-of vx1))) :ARG1 (vx5 / forget-01 :ARG0 vx1 :ARG1 (vx6 / shame-01 :ARG1 vx1)))
+
+# ::id lpp_1943.642 ::date 2012-11-08T09:23:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Forget that I am ashamed , " the tippler confessed , hanging his head .
+# ::save-date Mon Apr 22, 2013 ::file lpp_1943_642.txt
+(vx0 / confess-01 :ARG0 (vx1 / person :ARG0-of (vx2 / tipple-01) :ARG0-of (vx3 / hang-01 :ARG1 (vx4 / head :part-of vx1))) :ARG1 (vx5 / forget-01 :ARG0 vx1 :ARG1 (vx6 / shame-01 :ARG1 vx1)))
+
+# ::id lpp_1943.582 ::date 2012-11-25T19:37:02 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Hum !
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_582.txt
+(vx0 / hum :mode expressive)
+
+# ::id lpp_1943.582 ::date 2012-11-25T19:37:02 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Hum !
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_582.txt
+(vx0 / hum :mode expressive)
+
+# ::id lpp_1943.837 ::date 2012-11-15T06:24:26 ::annotator ISI-AMR-05 ::preferred
+# ::snt " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
+# ::save-date Tue Oct 21, 2014 ::file lpp_1943_837.txt
+(vx0 / scholar :domain (vx1 / geographer) :ARG0-of (vx2 / know-01 :ARG1 (vx3 / location :location-of (vx4 / and :op1 (vx5 / sea) :op2 (vx6 / river) :op3 (vx7 / town) :op4 (vx8 / mountain) :op5 (vx9 / desert) :mod (vx10 / all)))))
+
+# ::id lpp_1943.837 ::date 2012-11-15T06:24:26 ::annotator ISI-AMR-05 ::preferred
+# ::snt " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
+# ::save-date Tue Oct 21, 2014 ::file lpp_1943_837.txt
+(vx0 / scholar :domain (vx1 / geographer) :ARG0-of (vx2 / know-01 :ARG1 (vx3 / location :location-of (vx4 / and :op1 (vx5 / sea) :op2 (vx6 / river) :op3 (vx7 / town) :op4 (vx8 / mountain) :op5 (vx9 / desert) :mod (vx10 / all)))))
+
+# ::id lpp_1943.1452 ::annotator ISI-AMR-05 ::preferred
+# ::snt " In one of the stars I shall be living .
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_1452.txt
+(vx0 / live-01 :ARG0 (vx1 / i) :location (vx2 / star :quant 1 :ARG1-of (vx3 / include-91 :ARG2 (vx4 / star))))
+
+# ::id lpp_1943.1452 ::annotator ISI-AMR-05 ::preferred
+# ::snt " In one of the stars I shall be living .
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_1452.txt
+(vx0 / live-01 :ARG0 (vx1 / i) :location (vx2 / star :quant 1 :ARG1-of (vx3 / include-91 :ARG2 (vx4 / star))))
+
+# ::id lpp_1943.821 ::date 2012-11-14T18:11:32 ::annotator ISI-AMR-05 ::preferred
+# ::snt He breathed a sigh of regret , and said to himself , again : " That man is the only one of them all whom I could have made my friend .
+# ::save-date Fri Apr 18, 2014 ::file lpp_1943_821.txt
+(vx0 / and :op1 (vx1 / breathe-02 :ARG0 (vx2 / he) :ARG1 (vx3 / sigh-02 :manner (vx4 / regret-01))) :op2 (vx5 / say-01 :ARG0 vx2 :ARG1 (vx6 / person :mod (vx7 / only) :ARG1-of (vx8 / include-91 :ARG2 (vx9 / they :mod (vx10 / all))) :domain (vx11 / man :mod (vx12 / that)) :ARG2-of (vx13 / make-01 :ARG0 vx2 :ARG1 (vx14 / have-rel-role-91 :ARG0 vx6 :ARG1 vx2 :ARG2 (vx15 / friend)) :ARG1-of (vx16 / possible-01))) :ARG2 vx2 :mod (vx17 / again)))
+
+# ::id lpp_1943.821 ::date 2012-11-14T18:11:32 ::annotator ISI-AMR-05 ::preferred
+# ::snt He breathed a sigh of regret , and said to himself , again : " That man is the only one of them all whom I could have made my friend .
+# ::save-date Fri Apr 18, 2014 ::file lpp_1943_821.txt
+(vx0 / and :op1 (vx1 / breathe-02 :ARG0 (vx2 / he) :ARG1 (vx3 / sigh-02 :manner (vx4 / regret-01))) :op2 (vx5 / say-01 :ARG0 vx2 :ARG1 (vx6 / person :mod (vx7 / only) :ARG1-of (vx8 / include-91 :ARG2 (vx9 / they :mod (vx10 / all))) :domain (vx11 / man :mod (vx12 / that)) :ARG2-of (vx13 / make-01 :ARG0 vx2 :ARG1 (vx14 / have-rel-role-91 :ARG0 vx6 :ARG1 vx2 :ARG2 (vx15 / friend)) :ARG1-of (vx16 / possible-01))) :ARG2 vx2 :mod (vx17 / again)))
+
+# ::id lpp_1943.682 ::date 2012-11-09T15:19:20 ::annotator ISI-AMR-05 ::preferred
+# ::snt The businessman suddenly realized that there was no hope of being left in peace until he answered this question .
+# ::save-date Fri Jul 17, 2015 ::file lpp_1943_682.txt
+(vx0 / realize-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / hopeful-03 :polarity - :ARG1 (vx3 / leave-14 :ARG1 (vx4 / peace :domain vx1)) :time (vx5 / until :op1 (vx6 / answer-01 :ARG0 vx1 :ARG1 (vx7 / question-01 :ARG1 (vx8 / this))))) :manner (vx9 / sudden))
+
+# ::id lpp_1943.682 ::date 2012-11-09T15:19:20 ::annotator ISI-AMR-05 ::preferred
+# ::snt The businessman suddenly realized that there was no hope of being left in peace until he answered this question .
+# ::save-date Fri Jul 17, 2015 ::file lpp_1943_682.txt
+(vx0 / realize-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / hopeful-03 :polarity - :ARG1 (vx3 / leave-14 :ARG1 (vx4 / peace :domain vx1)) :time (vx5 / until :op1 (vx6 / answer-01 :ARG0 vx1 :ARG1 (vx7 / question-01 :ARG1 (vx8 / this))))) :manner (vx9 / sudden))
+
+# ::id lpp_1943.1503 ::annotator ISI-AMR-05 ::preferred
+# ::snt All the stars will pour out fresh water for me to drink ... "
+# ::save-date Mon Jul 6, 2015 ::file lpp_1943_1503.txt
+(vx0 / pour-01 :ARG0 (vx1 / star :mod (vx2 / all)) :ARG1 (vx3 / water :ARG1-of (vx4 / fresh-04)) :purpose (vx5 / drink-01 :ARG0 (vx6 / i) :ARG1 vx3) :direction (vx7 / out))
+
+# ::id lpp_1943.1503 ::annotator ISI-AMR-05 ::preferred
+# ::snt All the stars will pour out fresh water for me to drink ... "
+# ::save-date Mon Jul 6, 2015 ::file lpp_1943_1503.txt
+(vx0 / pour-01 :ARG0 (vx1 / star :mod (vx2 / all)) :ARG1 (vx3 / water :ARG1-of (vx4 / fresh-04)) :purpose (vx5 / drink-01 :ARG0 (vx6 / i) :ARG1 vx3) :direction (vx7 / out))
+
+# ::id lpp_1943.1480 ::annotator ISI-AMR-05 ::preferred
+# ::snt But a thought came to reassure him : " It is true that they have no more poison for a second bite . "
+# ::save-date Mon Nov 2, 2015 ::file lpp_1943_1480.txt
+(vx0 / contrast-01 :ARG2 (vx1 / come-01 :ARG1 (vx2 / think-01 :ARG1 (vx3 / true-01 :ARG1 (vx4 / have-03 :polarity - :ARG0 (vx5 / they) :ARG1 (vx6 / poison :purpose (vx7 / bite-01 :ord (vx8 / ordinal-entity :value 2)) :quant (vx9 / more))) :purpose (vx10 / reassure-01 :ARG1 (vx11 / he))))))
+
+# ::id lpp_1943.1480 ::annotator ISI-AMR-05 ::preferred
+# ::snt But a thought came to reassure him : " It is true that they have no more poison for a second bite . "
+# ::save-date Mon Nov 2, 2015 ::file lpp_1943_1480.txt
+(vx0 / contrast-01 :ARG2 (vx1 / come-01 :ARG1 (vx2 / think-01 :ARG1 (vx3 / true-01 :ARG1 (vx4 / have-03 :polarity - :ARG0 (vx5 / they) :ARG1 (vx6 / poison :purpose (vx7 / bite-01 :ord (vx8 / ordinal-entity :value 2)) :quant (vx9 / more))) :purpose (vx10 / reassure-01 :ARG1 (vx11 / he))))))
+
+# ::id lpp_1943.589 ::date 2012-11-25T20:13:57 ::annotator ISI-AMR-05 ::preferred
+# ::snt But you will pardon him on each occasion ; for he must be treated thriftily .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_589.txt
+(vx0 / pardon-01 :ARG0 (vx1 / you) :ARG1 (vx2 / he) :frequency (vx3 / occasion-02 :quant (vx4 / each)) :ARG1-of (vx5 / cause-01 :ARG0 (vx6 / obligate-01 :ARG2 (vx7 / treat-04 :ARG1 vx2 :manner (vx8 / thrift)))))
+
+# ::id lpp_1943.589 ::date 2012-11-25T20:13:57 ::annotator ISI-AMR-05 ::preferred
+# ::snt But you will pardon him on each occasion ; for he must be treated thriftily .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_589.txt
+(vx0 / pardon-01 :ARG0 (vx1 / you) :ARG1 (vx2 / he) :frequency (vx3 / occasion-02 :quant (vx4 / each)) :ARG1-of (vx5 / cause-01 :ARG0 (vx6 / obligate-01 :ARG2 (vx7 / treat-04 :ARG1 vx2 :manner (vx8 / thrift)))))
+
+# ::id lpp_1943.1465 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then he quickly became serious : " Tonight - - you know ... do not come , " said the little prince .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_1465.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / become-01 :ARG2 (vx4 / serious-01 :ARG1 vx1) :ARG1-of (vx5 / quick-02) :time (vx6 / then))) :ARG1 (vx7 / come-01 :mode imperative :polarity - :ARG1 (vx8 / you) :time (vx9 / date-entity :dayperiod (vx10 / night) :mod (vx11 / today))))
+
+# ::id lpp_1943.1465 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then he quickly became serious : " Tonight - - you know ... do not come , " said the little prince .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_1465.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / become-01 :ARG2 (vx4 / serious-01 :ARG1 vx1) :ARG1-of (vx5 / quick-02) :time (vx6 / then))) :ARG1 (vx7 / come-01 :mode imperative :polarity - :ARG1 (vx8 / you) :time (vx9 / date-entity :dayperiod (vx10 / night) :mod (vx11 / today))))
+
+# ::id lpp_1943.46 ::date 2012-07-24T11:30:39 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Draw me a sheep ! "
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_46.txt
+(vx0 / draw-01 :ARG0 (vx1 / you) :ARG1 (vx2 / sheep) :ARG2 (vx3 / i) :mode imperative)
+
+# ::id lpp_1943.46 ::date 2012-07-24T11:30:39 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Draw me a sheep ! "
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_46.txt
+(vx0 / draw-01 :ARG0 (vx1 / you) :ARG1 (vx2 / sheep) :ARG2 (vx3 / i) :mode imperative)
+
+# ::id lpp_1943.5 ::date 2012-06-07T17:06:32 ::annotator ISI-AMR-05 ::preferred
+# ::snt In the book it said : " Boa constrictors swallow their prey whole , without chewing it .
+# ::save-date Fri Sep 6, 2013 ::file lpp_1943_5.txt
+(vx0 / say-01 :ARG0 (vx1 / book) :ARG1 (vx2 / swallow-01 :ARG0 (vx3 / boa :mod (vx4 / constrictor)) :ARG1 (vx5 / prey :mod (vx6 / whole) :poss vx3) :manner (vx7 / chew-01 :polarity - :ARG0 vx3 :ARG1 vx5)))
+
+# ::id lpp_1943.5 ::date 2012-06-07T17:06:32 ::annotator ISI-AMR-05 ::preferred
+# ::snt In the book it said : " Boa constrictors swallow their prey whole , without chewing it .
+# ::save-date Fri Sep 6, 2013 ::file lpp_1943_5.txt
+(vx0 / say-01 :ARG0 (vx1 / book) :ARG1 (vx2 / swallow-01 :ARG0 (vx3 / boa :mod (vx4 / constrictor)) :ARG1 (vx5 / prey :mod (vx6 / whole) :poss vx3) :manner (vx7 / chew-01 :polarity - :ARG0 vx3 :ARG1 vx5)))
+
+# ::id lpp_1943.1502 ::annotator ISI-AMR-05 ::preferred
+# ::snt All the stars will be wells with a rusty pulley .
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_1502.txt
+(vx0 / star :domain (vx1 / well :ARG0-of (vx2 / have-03 :ARG1 (vx3 / pulley :mod (vx4 / rust)))) :mod (vx5 / all))
+
+# ::id lpp_1943.1502 ::annotator ISI-AMR-05 ::preferred
+# ::snt All the stars will be wells with a rusty pulley .
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_1502.txt
+(vx0 / star :domain (vx1 / well :ARG0-of (vx2 / have-03 :ARG1 (vx3 / pulley :mod (vx4 / rust)))) :mod (vx5 / all))
+
+# ::id lpp_1943.21 ::date 2012-06-14T16:08:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt So then I chose another profession , and learned to pilot airplanes .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_21.txt
+(vx0 / cause-01 :ARG1 (vx1 / and :op1 (vx2 / choose-01 :ARG0 (vx3 / i) :ARG1 (vx4 / profession :mod (vx5 / another))) :op2 (vx6 / learn-01 :ARG0 vx3 :ARG1 (vx7 / pilot-01 :ARG0 vx3 :ARG1 (vx8 / airplane)))))
+
+# ::id lpp_1943.21 ::date 2012-06-14T16:08:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt So then I chose another profession , and learned to pilot airplanes .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_21.txt
+(vx0 / cause-01 :ARG1 (vx1 / and :op1 (vx2 / choose-01 :ARG0 (vx3 / i) :ARG1 (vx4 / profession :mod (vx5 / another))) :op2 (vx6 / learn-01 :ARG0 vx3 :ARG1 (vx7 / pilot-01 :ARG0 vx3 :ARG1 (vx8 / airplane)))))
+
+# ::id lpp_1943.576 ::date 2012-11-25T19:03:17 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Then you shall judge yourself , " the king answered .
+# ::save-date Mon Apr 22, 2013 ::file lpp_1943_576.txt
+(vx0 / answer-01 :ARG0 (vx1 / king) :ARG2 (vx2 / have-condition-91 :ARG1 (vx3 / judge-01 :ARG0 (vx4 / you) :ARG1 vx4)))
+
+# ::id lpp_1943.576 ::date 2012-11-25T19:03:17 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Then you shall judge yourself , " the king answered .
+# ::save-date Mon Apr 22, 2013 ::file lpp_1943_576.txt
+(vx0 / answer-01 :ARG0 (vx1 / king) :ARG2 (vx2 / have-condition-91 :ARG1 (vx3 / judge-01 :ARG0 (vx4 / you) :ARG1 vx4)))
+
+# ::id lpp_1943.1460 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then you will say to them , ' Yes , the stars always make me laugh ! ' And they will think you are crazy .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_1460.txt
+(vx0 / and :op1 (vx1 / say-01 :ARG0 (vx2 / you) :ARG1 (vx3 / and :op1 (vx4 / yes) :op2 (vx5 / make-02 :ARG0 (vx6 / star) :ARG1 (vx7 / laugh-01 :ARG0 (vx8 / i)) :time (vx9 / always))) :ARG2 (vx10 / they) :time (vx11 / then)) :op2 (vx12 / think-01 :ARG0 vx10 :ARG1 (vx13 / crazy-03 :ARG1 vx2)))
+
+# ::id lpp_1943.1460 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then you will say to them , ' Yes , the stars always make me laugh ! ' And they will think you are crazy .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_1460.txt
+(vx0 / and :op1 (vx1 / say-01 :ARG0 (vx2 / you) :ARG1 (vx3 / and :op1 (vx4 / yes) :op2 (vx5 / make-02 :ARG0 (vx6 / star) :ARG1 (vx7 / laugh-01 :ARG0 (vx8 / i)) :time (vx9 / always))) :ARG2 (vx10 / they) :time (vx11 / then)) :op2 (vx12 / think-01 :ARG0 vx10 :ARG1 (vx13 / crazy-03 :ARG1 vx2)))
+
+# ::id lpp_1943.329 ::date 2012-11-19T12:24:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt You confuse everything ... "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_329.txt
+(vx0 / confuse-01 :ARG0 (vx1 / you) :ARG2 (vx2 / everything))
+
+# ::id lpp_1943.329 ::date 2012-11-19T12:24:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt You confuse everything ... "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_329.txt
+(vx0 / confuse-01 :ARG0 (vx1 / you) :ARG2 (vx2 / everything))
+
+# ::id lpp_1943.1488 ::annotator ISI-AMR-05 ::preferred
+# ::snt " It was wrong of you to come .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_1488.txt
+(vx0 / come-01 :ARG1 (vx1 / you) :ARG1-of (vx2 / wrong-02))
+
+# ::id lpp_1943.1488 ::annotator ISI-AMR-05 ::preferred
+# ::snt " It was wrong of you to come .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_1488.txt
+(vx0 / come-01 :ARG1 (vx1 / you) :ARG1-of (vx2 / wrong-02))
+
+# ::id lpp_1943.598 ::date 2012-11-26T16:00:06 ::annotator ISI-AMR-05 ::preferred
+# ::snt As the king made no answer , the little prince hesitated a moment .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_598.txt
+(vx0 / hesitate-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :duration (vx3 / moment) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / answer-01 :polarity - :ARG0 (vx6 / king))))
+
+# ::id lpp_1943.598 ::date 2012-11-26T16:00:06 ::annotator ISI-AMR-05 ::preferred
+# ::snt As the king made no answer , the little prince hesitated a moment .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_598.txt
+(vx0 / hesitate-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :duration (vx3 / moment) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / answer-01 :polarity - :ARG0 (vx6 / king))))
+
+# ::id lpp_1943.787 ::date 2012-11-14T11:55:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And the orders have been changed since that time ? "
+# ::save-date Tue Apr 16, 2013 ::file lpp_1943_787.txt
+(vx0 / and :op2 (vx1 / change-01 :polarity (vx2 / amr-unknown) :ARG1 (vx3 / order-01) :time (vx4 / since :op1 (vx5 / time :mod (vx6 / that)))))
+
+# ::id lpp_1943.787 ::date 2012-11-14T11:55:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And the orders have been changed since that time ? "
+# ::save-date Tue Apr 16, 2013 ::file lpp_1943_787.txt
+(vx0 / and :op2 (vx1 / change-01 :polarity (vx2 / amr-unknown) :ARG1 (vx3 / order-01) :time (vx4 / since :op1 (vx5 / time :mod (vx6 / that)))))
+
+# ::id lpp_1943.7 ::date 2012-06-07T17:06:38 ::annotator ISI-AMR-05 ::preferred
+# ::snt I pondered deeply , then , over the adventures of the jungle .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_7.txt
+(vx0 / ponder-01 :ARG0 (vx1 / i) :ARG1 (vx2 / adventure :location (vx3 / jungle)) :ARG1-of (vx4 / deep-02) :time (vx5 / then))
+
+# ::id lpp_1943.7 ::date 2012-06-07T17:06:38 ::annotator ISI-AMR-05 ::preferred
+# ::snt I pondered deeply , then , over the adventures of the jungle .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_7.txt
+(vx0 / ponder-01 :ARG0 (vx1 / i) :ARG1 (vx2 / adventure :location (vx3 / jungle)) :ARG1-of (vx4 / deep-02) :time (vx5 / then))
+
+# ::id lpp_1943.349 ::date 2012-11-24T07:26:41 ::annotator ISI-AMR-05 ::preferred
+# ::snt His face turned from white to red as he continued : " If some one loves a flower , of which just one single blossom grows in all the millions and millions of stars , it is enough to make him happy just to look at the stars .
+# ::save-date Fri Sep 22, 2017 ::file lpp_1943_349.txt
+(vx0 / turn-02 :ARG1 (vx1 / face :part-of (vx2 / he)) :ARG2 (vx3 / red-02 :ARG1 vx1) :ARG3 (vx4 / white-03 :ARG1 vx1) :time (vx5 / continue-02 :ARG0 vx2 :ARG1 (vx6 / have-quant-91 :ARG1 (vx7 / love-01 :ARG0 (vx8 / someone) :ARG1 (vx9 / flower :part (vx10 / blossom :quant 1 :mod (vx11 / just) :ARG1-of (vx12 / grow-01 :location (vx13 / star :mod (vx14 / all) :quant (vx15 / multiple :op1 1000000))) :ARG1-of (vx16 / single-02)))) :ARG3 (vx17 / enough) :ARG6 (vx18 / make-02 :ARG0 vx7 :ARG1 (vx19 / happy-01 :ARG1 vx8) :ARG1-of (vx20 / cause-01 :ARG0 (vx21 / look-01 :ARG0 vx8 :ARG1 vx13 :mod (vx22 / just)))))))
+
+# ::id lpp_1943.349 ::date 2012-11-24T07:26:41 ::annotator ISI-AMR-05 ::preferred
+# ::snt His face turned from white to red as he continued : " If some one loves a flower , of which just one single blossom grows in all the millions and millions of stars , it is enough to make him happy just to look at the stars .
+# ::save-date Fri Sep 22, 2017 ::file lpp_1943_349.txt
+(vx0 / turn-02 :ARG1 (vx1 / face :part-of (vx2 / he)) :ARG2 (vx3 / red-02 :ARG1 vx1) :ARG3 (vx4 / white-03 :ARG1 vx1) :time (vx5 / continue-02 :ARG0 vx2 :ARG1 (vx6 / have-quant-91 :ARG1 (vx7 / love-01 :ARG0 (vx8 / someone) :ARG1 (vx9 / flower :part (vx10 / blossom :quant 1 :mod (vx11 / just) :ARG1-of (vx12 / grow-01 :location (vx13 / star :mod (vx14 / all) :quant (vx15 / multiple :op1 1000000))) :ARG1-of (vx16 / single-02)))) :ARG3 (vx17 / enough) :ARG6 (vx18 / make-02 :ARG0 vx7 :ARG1 (vx19 / happy-01 :ARG1 vx8) :ARG1-of (vx20 / cause-01 :ARG0 (vx21 / look-01 :ARG0 vx8 :ARG1 vx13 :mod (vx22 / just)))))))
+
+# ::id lpp_1943.61 ::date 2012-07-24T12:43:23 ::annotator ISI-AMR-05 ::preferred
+# ::snt When a mystery is too overpowering , one dare not disobey .
+# ::save-date Thu Sep 21, 2017 ::file lpp_1943_61.txt
+(vx0 / dare-01 :polarity - :ARG0 (vx1 / one) :ARG2 (vx2 / disobey-01 :ARG0 vx1) :condition (vx3 / have-quant-91 :ARG1 (vx4 / overpower-01 :ARG0 (vx5 / mystery)) :ARG3 (vx6 / too)))
+
+# ::id lpp_1943.61 ::date 2012-07-24T12:43:23 ::annotator ISI-AMR-05 ::preferred
+# ::snt When a mystery is too overpowering , one dare not disobey .
+# ::save-date Thu Sep 21, 2017 ::file lpp_1943_61.txt
+(vx0 / dare-01 :polarity - :ARG0 (vx1 / one) :ARG2 (vx2 / disobey-01 :ARG0 vx1) :condition (vx3 / have-quant-91 :ARG1 (vx4 / overpower-01 :ARG0 (vx5 / mystery)) :ARG3 (vx6 / too)))
+
+# ::id lpp_1943.818 ::date 2012-11-14T18:10:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That man , " said the little prince to himself , as he continued farther on his journey , " that man would be scorned by all the others : by the king , by the conceited man , by the tippler , by the businessman .
+# ::save-date Tue Dec 12, 2017 ::file lpp_1943_818.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / scorn-01 :ARG0 (vx4 / other :mod (vx5 / all) :domain (vx6 / and :op1 (vx7 / king) :op2 (vx8 / man :mod (vx9 / conceit)) :op3 (vx10 / person :ARG0-of (vx11 / tipple-01)) :op4 (vx12 / businessman))) :ARG1 (vx13 / man :mod (vx14 / that))) :ARG2 vx1 :time (vx15 / continue-01 :ARG0 vx1 :ARG1 (vx16 / journey-01 :ARG0 vx1) :extent (vx17 / far :ARG2-of (vx18 / have-degree-91 :ARG1 vx16 :ARG3 (vx19 / more)))))
+
+# ::id lpp_1943.818 ::date 2012-11-14T18:10:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That man , " said the little prince to himself , as he continued farther on his journey , " that man would be scorned by all the others : by the king , by the conceited man , by the tippler , by the businessman .
+# ::save-date Tue Dec 12, 2017 ::file lpp_1943_818.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / scorn-01 :ARG0 (vx4 / other :mod (vx5 / all) :domain (vx6 / and :op1 (vx7 / king) :op2 (vx8 / man :mod (vx9 / conceit)) :op3 (vx10 / person :ARG0-of (vx11 / tipple-01)) :op4 (vx12 / businessman))) :ARG1 (vx13 / man :mod (vx14 / that))) :ARG2 vx1 :time (vx15 / continue-01 :ARG0 vx1 :ARG1 (vx16 / journey-01 :ARG0 vx1) :extent (vx17 / far :ARG2-of (vx18 / have-degree-91 :ARG1 vx16 :ARG3 (vx19 / more)))))
+
+# ::id lpp_1943.16 ::date 2012-06-08T13:12:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt They always need to have things explained .
+# ::save-date Fri Apr 19, 2013 ::file lpp_1943_16.txt
+(vx0 / need-01 :ARG0 (vx1 / they) :ARG1 (vx2 / explain-01) :time (vx3 / always))
+
+# ::id lpp_1943.16 ::date 2012-06-08T13:12:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt They always need to have things explained .
+# ::save-date Fri Apr 19, 2013 ::file lpp_1943_16.txt
+(vx0 / need-01 :ARG0 (vx1 / they) :ARG1 (vx2 / explain-01) :time (vx3 / always))
+
+# ::id lpp_1943.60 ::date 2012-07-24T12:32:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt And in answer he repeated , very slowly , as if he were speaking of a matter of great consequence : " If you please -- draw me a sheep ... "
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_60.txt
+(vx0 / and :op2 (vx1 / repeat-01 :ARG0 (vx2 / he) :ARG1 (vx3 / draw-01 :mode imperative :polite + :ARG0 (vx4 / you) :ARG1 (vx5 / sheep) :ARG2 (vx6 / i)) :purpose (vx7 / answer-01 :ARG0 vx2) :ARG1-of (vx8 / slow-05 :degree (vx9 / very)) :conj-as-if (vx10 / speak-01 :ARG0 vx2 :ARG1 (vx11 / matter :ARG1-of (vx12 / consequential-01 :degree (vx13 / great))))))
+
+# ::id lpp_1943.60 ::date 2012-07-24T12:32:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt And in answer he repeated , very slowly , as if he were speaking of a matter of great consequence : " If you please -- draw me a sheep ... "
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_60.txt
+(vx0 / and :op2 (vx1 / repeat-01 :ARG0 (vx2 / he) :ARG1 (vx3 / draw-01 :mode imperative :polite + :ARG0 (vx4 / you) :ARG1 (vx5 / sheep) :ARG2 (vx6 / i)) :purpose (vx7 / answer-01 :ARG0 vx2) :ARG1-of (vx8 / slow-05 :degree (vx9 / very)) :conj-as-if (vx10 / speak-01 :ARG0 vx2 :ARG1 (vx11 / matter :ARG1-of (vx12 / consequential-01 :degree (vx13 / great))))))
+
+# ::id lpp_1943.1270 ::annotator ISI-AMR-05 ::preferred
+# ::snt In the moonlight I looked at his pale forehead , his closed eyes , his locks of hair that trembled in the wind , and I said to myself : " What I see here is nothing but a shell .
+# ::save-date Tue Dec 26, 2017 ::file lpp_1943_1270.txt
+(vx0 / and :op1 (vx1 / look-01 :ARG0 (vx2 / i) :ARG1 (vx3 / and :op1 (vx4 / forehead :part-of (vx5 / he) :ARG1-of (vx6 / pale-03)) :op2 (vx7 / eye :ARG1-of (vx8 / close-01) :part-of vx5) :op3 (vx9 / lock :consist-of (vx10 / hair) :ARG1-of (vx11 / tremble-01 :ARG1-of (vx12 / cause-01 :ARG0 (vx13 / wind))) :part-of vx5) :ARG1-of (vx14 / light-04 :ARG0 (vx15 / moon)))) :op2 (vx16 / say-01 :ARG0 vx2 :ARG1 (vx17 / see-01 :ARG0 vx2 :ARG1 (vx18 / shell) :mod (vx19 / nothing-but) :location (vx20 / here)) :ARG2 vx2))
+
+# ::id lpp_1943.1270 ::annotator ISI-AMR-05 ::preferred
+# ::snt In the moonlight I looked at his pale forehead , his closed eyes , his locks of hair that trembled in the wind , and I said to myself : " What I see here is nothing but a shell .
+# ::save-date Tue Dec 26, 2017 ::file lpp_1943_1270.txt
+(vx0 / and :op1 (vx1 / look-01 :ARG0 (vx2 / i) :ARG1 (vx3 / and :op1 (vx4 / forehead :part-of (vx5 / he) :ARG1-of (vx6 / pale-03)) :op2 (vx7 / eye :ARG1-of (vx8 / close-01) :part-of vx5) :op3 (vx9 / lock :consist-of (vx10 / hair) :ARG1-of (vx11 / tremble-01 :ARG1-of (vx12 / cause-01 :ARG0 (vx13 / wind))) :part-of vx5) :ARG1-of (vx14 / light-04 :ARG0 (vx15 / moon)))) :op2 (vx16 / say-01 :ARG0 vx2 :ARG1 (vx17 / see-01 :ARG0 vx2 :ARG1 (vx18 / shell) :mod (vx19 / nothing-but) :location (vx20 / here)) :ARG2 vx2))
+
+# ::id lpp_1943.657 ::date 2012-11-08T10:01:24 ::annotator ISI-AMR-05 ::preferred
+# ::snt FIfteen and seven make twenty - two .
+# ::save-date Wed May 8, 2013 ::file lpp_1943_657.txt
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 15 :op2 7) :ARG2 22)
+
+# ::id lpp_1943.657 ::date 2012-11-08T10:01:24 ::annotator ISI-AMR-05 ::preferred
+# ::snt FIfteen and seven make twenty - two .
+# ::save-date Wed May 8, 2013 ::file lpp_1943_657.txt
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 15 :op2 7) :ARG2 22)
+
+# ::id lpp_1943.637 ::date 2012-11-08T08:58:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What are you doing there ? " he said to the tippler , whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_637.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / do-02 :ARG0 vx5 :ARG1 (vx3 / amr-unknown) :location (vx4 / there)) :ARG2 (vx5 / person :ARG0-of (vx6 / tipple-01) :ARG1-of (vx7 / find-01 :ARG0 vx1) :ARG1-of (vx8 / settle-down-04 :manner (vx9 / silent) :location (vx10 / before :op1 (vx11 / and :op1 (vx12 / bottle :ARG1-of (vx13 / empty-02) :ARG1-of (vx14 / collect-01)) :op2 (vx15 / bottle :mod (vx16 / full) :ARG1-of (vx17 / collect-01)))))))
+
+# ::id lpp_1943.637 ::date 2012-11-08T08:58:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What are you doing there ? " he said to the tippler , whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_637.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / do-02 :ARG0 vx5 :ARG1 (vx3 / amr-unknown) :location (vx4 / there)) :ARG2 (vx5 / person :ARG0-of (vx6 / tipple-01) :ARG1-of (vx7 / find-01 :ARG0 vx1) :ARG1-of (vx8 / settle-down-04 :manner (vx9 / silent) :location (vx10 / before :op1 (vx11 / and :op1 (vx12 / bottle :ARG1-of (vx13 / empty-02) :ARG1-of (vx14 / collect-01)) :op2 (vx15 / bottle :mod (vx16 / full) :ARG1-of (vx17 / collect-01)))))))
+
+# ::id lpp_1943.350 ::date 2012-11-24T07:36:27 ::annotator ISI-AMR-05 ::preferred
+# ::snt He can say to himself , ' Somewhere , my flower is there ... ' But if the sheep eats the flower , in one moment all his stars will be darkened ...
+# ::save-date Wed Jul 22, 2015 ::file lpp_1943_350.txt
+(vx0 / possible-01 :ARG1 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / contrast-01 :ARG1 (vx4 / be-located-at-91 :ARG1 (vx5 / flower :poss vx2) :ARG2 (vx6 / there)) :ARG2 (vx7 / darken-01 :ARG1 (vx8 / star :mod (vx9 / all) :poss vx2) :condition (vx10 / eat-01 :ARG0 (vx11 / sheep) :ARG1 vx5) :time (vx12 / moment :quant 1))) :ARG2 vx2))
+
+# ::id lpp_1943.350 ::date 2012-11-24T07:36:27 ::annotator ISI-AMR-05 ::preferred
+# ::snt He can say to himself , ' Somewhere , my flower is there ... ' But if the sheep eats the flower , in one moment all his stars will be darkened ...
+# ::save-date Wed Jul 22, 2015 ::file lpp_1943_350.txt
+(vx0 / possible-01 :ARG1 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / contrast-01 :ARG1 (vx4 / be-located-at-91 :ARG1 (vx5 / flower :poss vx2) :ARG2 (vx6 / there)) :ARG2 (vx7 / darken-01 :ARG1 (vx8 / star :mod (vx9 / all) :poss vx2) :condition (vx10 / eat-01 :ARG0 (vx11 / sheep) :ARG1 vx5) :time (vx12 / moment :quant 1))) :ARG2 vx2))
+
+# ::id lpp_1943.54 ::date 2012-07-24T11:56:15 ::annotator ISI-AMR-05 ::preferred
+# ::snt The grown - ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
+# ::save-date Tue Nov 4, 2014 ::file lpp_1943_54.txt
+(vx0 / discourage-01 :ARG0 (vx1 / grown-up) :ARG1 (vx2 / i) :ARG2 (vx3 / career :topic (vx4 / person :ARG0-of (vx5 / paint-02)) :poss vx2) :ARG0-of (vx6 / cause-01 :ARG1 (vx7 / learn-01 :polarity - :ARG0 vx2 :ARG1 (vx8 / draw-01 :ARG0 vx2 :ARG1 (vx9 / anything)) :time (vx10 / ever) :ARG2-of (vx11 / except-01 :ARG1 (vx12 / and :op1 (vx13 / boa :direction (vx14 / from :op1 (vx15 / outside))) :op2 (vx16 / boa :direction (vx17 / from :op1 (vx18 / inside))))))) :time (vx19 / age-01 :ARG1 vx2 :ARG2 (vx20 / temporal-quantity :quant 6 :unit (vx21 / year))))
+
+# ::id lpp_1943.54 ::date 2012-07-24T11:56:15 ::annotator ISI-AMR-05 ::preferred
+# ::snt The grown - ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
+# ::save-date Tue Nov 4, 2014 ::file lpp_1943_54.txt
+(vx0 / discourage-01 :ARG0 (vx1 / grown-up) :ARG1 (vx2 / i) :ARG2 (vx3 / career :topic (vx4 / person :ARG0-of (vx5 / paint-02)) :poss vx2) :ARG0-of (vx6 / cause-01 :ARG1 (vx7 / learn-01 :polarity - :ARG0 vx2 :ARG1 (vx8 / draw-01 :ARG0 vx2 :ARG1 (vx9 / anything)) :time (vx10 / ever) :ARG2-of (vx11 / except-01 :ARG1 (vx12 / and :op1 (vx13 / boa :direction (vx14 / from :op1 (vx15 / outside))) :op2 (vx16 / boa :direction (vx17 / from :op1 (vx18 / inside))))))) :time (vx19 / age-01 :ARG1 vx2 :ARG2 (vx20 / temporal-quantity :quant 6 :unit (vx21 / year))))
+
+# ::id lpp_1943.1445 ::annotator ISI-AMR-05 ::preferred
+# ::snt For some , who are travelers , the stars are guides .
+# ::save-date Sun Dec 30, 2012 ::file lpp_1943_1445.txt
+(vx0 / guide-01 :ARG0 (vx1 / star) :ARG1 (vx2 / some :ARG0-of (vx3 / travel-01)))
+
+# ::id lpp_1943.1445 ::annotator ISI-AMR-05 ::preferred
+# ::snt For some , who are travelers , the stars are guides .
+# ::save-date Sun Dec 30, 2012 ::file lpp_1943_1445.txt
+(vx0 / guide-01 :ARG0 (vx1 / star) :ARG1 (vx2 / some :ARG0-of (vx3 / travel-01)))
+
+# ::id lpp_1943.1451 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What are you trying to say ? "
+# ::save-date Wed May 15, 2013 ::file lpp_1943_1451.txt
+(vx0 / try-01 :ARG0 (vx1 / you) :ARG1 (vx2 / say-01 :ARG0 vx1 :ARG1 (vx3 / amr-unknown)))
+
+# ::id lpp_1943.1451 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What are you trying to say ? "
+# ::save-date Wed May 15, 2013 ::file lpp_1943_1451.txt
+(vx0 / try-01 :ARG0 (vx1 / you) :ARG1 (vx2 / say-01 :ARG0 vx1 :ARG1 (vx3 / amr-unknown)))
+
+# ::id lpp_1943.636 ::date 2012-11-08T08:53:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt This was a very short visit , but it plunged the little prince into deep dejection .
+# ::save-date Mon Nov 2, 2015 ::file lpp_1943_636.txt
+(vx0 / have-concession-91 :ARG1 (vx1 / deject-01 :ARG0 vx5 :ARG1 (vx2 / prince :mod (vx3 / little)) :ARG1-of (vx4 / deep-02)) :ARG2 (vx5 / visit-01 :ARG1-of (vx6 / short-07 :degree (vx7 / very)) :domain (vx8 / this)))
+
+# ::id lpp_1943.636 ::date 2012-11-08T08:53:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt This was a very short visit , but it plunged the little prince into deep dejection .
+# ::save-date Mon Nov 2, 2015 ::file lpp_1943_636.txt
+(vx0 / have-concession-91 :ARG1 (vx1 / deject-01 :ARG0 vx5 :ARG1 (vx2 / prince :mod (vx3 / little)) :ARG1-of (vx4 / deep-02)) :ARG2 (vx5 / visit-01 :ARG1-of (vx6 / short-07 :degree (vx7 / very)) :domain (vx8 / this)))
+
+# ::id lpp_1943.14 ::date 2012-06-07T17:46:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was a picture of a boa constrictor digesting an elephant .
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_14.txt
+(vx0 / picture-01 :ARG0 (vx1 / it) :ARG1 (vx2 / boa :mod (vx3 / constrictor) :ARG0-of (vx4 / digest-01 :ARG1 (vx5 / elephant))))
+
+# ::id lpp_1943.14 ::date 2012-06-07T17:46:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was a picture of a boa constrictor digesting an elephant .
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_14.txt
+(vx0 / picture-01 :ARG0 (vx1 / it) :ARG1 (vx2 / boa :mod (vx3 / constrictor) :ARG0-of (vx4 / digest-01 :ARG1 (vx5 / elephant))))
+
+# ::id lpp_1943.865 ::date 2012-11-15T08:56:40 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Because intoxicated men see double .
+# ::save-date Tue May 7, 2013 ::file lpp_1943_865.txt
+(vx0 / see-01 :ARG0 (vx1 / man :ARG1-of (vx2 / intoxicate-01)) :ARG2 (vx3 / double) :ARG0-of (vx4 / cause-01 :ARG1 (vx5 / thing)))
+
+# ::id lpp_1943.865 ::date 2012-11-15T08:56:40 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Because intoxicated men see double .
+# ::save-date Tue May 7, 2013 ::file lpp_1943_865.txt
+(vx0 / see-01 :ARG0 (vx1 / man :ARG1-of (vx2 / intoxicate-01)) :ARG2 (vx3 / double) :ARG0-of (vx4 / cause-01 :ARG1 (vx5 / thing)))
+
+# ::id lpp_1943.1501 ::annotator ISI-AMR-05 ::preferred
+# ::snt I , too , shall look at the stars .
+# ::save-date Mon Dec 31, 2012 ::file lpp_1943_1501.txt
+(vx0 / look-01 :ARG0 (vx1 / vx1 :mod (vx2 / too)) :ARG1 (vx3 / star))
+
+# ::id lpp_1943.1501 ::annotator ISI-AMR-05 ::preferred
+# ::snt I , too , shall look at the stars .
+# ::save-date Mon Dec 31, 2012 ::file lpp_1943_1501.txt
+(vx0 / look-01 :ARG0 (vx1 / vx1 :mod (vx2 / too)) :ARG1 (vx3 / star))
+
+# ::id lpp_1943.614 ::date 2012-11-26T18:47:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_614.txt
+(vx0 / request-response-91 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / understand-01 :polarity - :ARG1 (vx4 / thing :ARG1-of (vx5 / talk-01 :ARG0 (vx6 / man :mod (vx7 / conceit)))))))
+
+# ::id lpp_1943.614 ::date 2012-11-26T18:47:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_614.txt
+(vx0 / request-response-91 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / understand-01 :polarity - :ARG1 (vx4 / thing :ARG1-of (vx5 / talk-01 :ARG0 (vx6 / man :mod (vx7 / conceit)))))))
+
+# ::id lpp_1943.1459 ::annotator ISI-AMR-05 ::preferred
+# ::snt And you will sometimes open your window , so , for that pleasure ... and your friends will be properly astonished to see you laughing as you look up at the sky !
+# ::save-date Tue Jan 23, 2018 ::file lpp_1943_1459.txt
+(vx0 / and :op1 (vx1 / open-01 :ARG0 (vx2 / you) :ARG1 (vx3 / window :poss vx2) :time (vx4 / sometimes) :purpose (vx5 / pleasure :mod (vx6 / that))) :op2 (vx7 / astonish-01 :ARG0 (vx8 / see-01 :ARG0 vx13 :ARG1 (vx9 / laugh-01 :ARG0 vx2 :time (vx10 / look-01 :ARG1 (vx11 / sky) :direction (vx12 / up)))) :ARG1 (vx13 / person :ARG0-of (vx14 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx15 / friend))) :manner (vx16 / proper)))
+
+# ::id lpp_1943.1459 ::annotator ISI-AMR-05 ::preferred
+# ::snt And you will sometimes open your window , so , for that pleasure ... and your friends will be properly astonished to see you laughing as you look up at the sky !
+# ::save-date Tue Jan 23, 2018 ::file lpp_1943_1459.txt
+(vx0 / and :op1 (vx1 / open-01 :ARG0 (vx2 / you) :ARG1 (vx3 / window :poss vx2) :time (vx4 / sometimes) :purpose (vx5 / pleasure :mod (vx6 / that))) :op2 (vx7 / astonish-01 :ARG0 (vx8 / see-01 :ARG0 vx13 :ARG1 (vx9 / laugh-01 :ARG0 vx2 :time (vx10 / look-01 :ARG1 (vx11 / sky) :direction (vx12 / up)))) :ARG1 (vx13 / person :ARG0-of (vx14 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx15 / friend))) :manner (vx16 / proper)))
+
+# ::id lpp_1943.778 ::date 2012-11-13T18:44:16 ::annotator ISI-AMR-05 ::preferred
+# ::snt " There is nothing to understand , " said the lamplighter .
+# ::save-date Wed May 15, 2013 ::file lpp_1943_778.txt
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / light-04 :ARG1 (vx3 / lamp))) :ARG1 (vx4 / nothing :ARG1-of (vx5 / understand-01)))
+
+# ::id lpp_1943.778 ::date 2012-11-13T18:44:16 ::annotator ISI-AMR-05 ::preferred
+# ::snt " There is nothing to understand , " said the lamplighter .
+# ::save-date Wed May 15, 2013 ::file lpp_1943_778.txt
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / light-04 :ARG1 (vx3 / lamp))) :ARG1 (vx4 / nothing :ARG1-of (vx5 / understand-01)))
+
+# ::id lpp_1943.676 ::date 2012-11-09T14:32:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt The second time , eleven years ago , I was disturbed by an attack of rheumatism .
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_676.txt
+(vx0 / disturb-01 :ARG0 (vx1 / attack-01 :ARG0 (vx2 / rheumatism) :ARG1 vx3) :ARG1 (vx3 / i) :time (vx4 / before :op1 (vx5 / now) :quant (vx6 / temporal-quantity :quant 11 :unit (vx7 / year))) :domain (vx8 / disturb-01 :ord (vx9 / ordinal-entity :value 2)))
+
+# ::id lpp_1943.676 ::date 2012-11-09T14:32:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt The second time , eleven years ago , I was disturbed by an attack of rheumatism .
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_676.txt
+(vx0 / disturb-01 :ARG0 (vx1 / attack-01 :ARG0 (vx2 / rheumatism) :ARG1 vx3) :ARG1 (vx3 / i) :time (vx4 / before :op1 (vx5 / now) :quant (vx6 / temporal-quantity :quant 11 :unit (vx7 / year))) :domain (vx8 / disturb-01 :ord (vx9 / ordinal-entity :value 2)))
+
+# ::id lpp_1943.795 ::date 2012-11-14T13:33:39 ::annotator ISI-AMR-05 ::preferred
+# ::snt A day lasts only one minute , here where you live ! "
+# ::save-date Wed Sep 18, 2013 ::file lpp_1943_795.txt
+(vx0 / last-01 :ARG1 (vx1 / temporal-quantity :quant 1 :unit (vx2 / day)) :ARG2 (vx3 / temporal-quantity :quant 1 :unit (vx4 / minute)) :mod (vx5 / only) :location (vx6 / live-01 :ARG0 (vx7 / you)))
+
+# ::id lpp_1943.795 ::date 2012-11-14T13:33:39 ::annotator ISI-AMR-05 ::preferred
+# ::snt A day lasts only one minute , here where you live ! "
+# ::save-date Wed Sep 18, 2013 ::file lpp_1943_795.txt
+(vx0 / last-01 :ARG1 (vx1 / temporal-quantity :quant 1 :unit (vx2 / day)) :ARG2 (vx3 / temporal-quantity :quant 1 :unit (vx4 / minute)) :mod (vx5 / only) :location (vx6 / live-01 :ARG0 (vx7 / you)))
+
+# ::id lpp_1943.773 ::date 2012-11-13T18:26:45 ::annotator ISI-AMR-05 ::preferred
+# ::snt Good evening . "
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_773.txt
+(vx0 / evening :ARG1-of (vx1 / good-02))
+
+# ::id lpp_1943.773 ::date 2012-11-13T18:26:45 ::annotator ISI-AMR-05 ::preferred
+# ::snt Good evening . "
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_773.txt
+(vx0 / evening :ARG1-of (vx1 / good-02))
+
+# ::id lpp_1943.747 ::date 2012-11-13T13:14:05 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I myself own a flower , " he continued his conversation with the businessman , " which I water every day .
+# ::save-date Mon Sep 9, 2013 ::file lpp_1943_747.txt
+(vx0 / continue-02 :ARG0 (vx1 / he) :ARG1 (vx2 / own-01 :ARG0 vx1 :ARG1 (vx3 / flower :ARG1-of (vx4 / water-01 :ARG0 vx1 :frequency (vx5 / rate-entity-91 :ARG3 (vx6 / temporal-quantity :quant 1 :unit (vx7 / day)))))) :ARG2 (vx8 / businessman) :ARG3 (vx9 / converse-01 :ARG0 vx1 :ARG2 vx8))
+
+# ::id lpp_1943.747 ::date 2012-11-13T13:14:05 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I myself own a flower , " he continued his conversation with the businessman , " which I water every day .
+# ::save-date Mon Sep 9, 2013 ::file lpp_1943_747.txt
+(vx0 / continue-02 :ARG0 (vx1 / he) :ARG1 (vx2 / own-01 :ARG0 vx1 :ARG1 (vx3 / flower :ARG1-of (vx4 / water-01 :ARG0 vx1 :frequency (vx5 / rate-entity-91 :ARG3 (vx6 / temporal-quantity :quant 1 :unit (vx7 / day)))))) :ARG2 (vx8 / businessman) :ARG3 (vx9 / converse-01 :ARG0 vx1 :ARG2 vx8))
+
+# ::id lpp_1943.763 ::date 2012-11-13T17:42:59 ::annotator ISI-AMR-05 ::preferred
+# ::snt When he puts out his lamp , he sends the flower , or the star , to sleep .
+# ::save-date Thu Oct 16, 2014 ::file lpp_1943_763.txt
+(vx0 / send-02 :ARG0 (vx1 / he) :ARG1 (vx2 / or :op1 (vx3 / flower) :op2 (vx4 / star)) :ARG2 (vx5 / sleep-01 :ARG0 vx2) :time (vx6 / put-out-09 :ARG0 vx1 :ARG1 (vx7 / lamp :poss vx1)))
+
+# ::id lpp_1943.763 ::date 2012-11-13T17:42:59 ::annotator ISI-AMR-05 ::preferred
+# ::snt When he puts out his lamp , he sends the flower , or the star , to sleep .
+# ::save-date Thu Oct 16, 2014 ::file lpp_1943_763.txt
+(vx0 / send-02 :ARG0 (vx1 / he) :ARG1 (vx2 / or :op1 (vx3 / flower) :op2 (vx4 / star)) :ARG2 (vx5 / sleep-01 :ARG0 vx2) :time (vx6 / put-out-09 :ARG0 vx1 :ARG1 (vx7 / lamp :poss vx1)))
+
+# ::id lpp_1943.867 ::date 2012-11-15T09:03:44 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I know some one , " said the little prince , " who would make a bad explorer . "
+# ::save-date Wed Apr 29, 2015 ::file lpp_1943_867.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / know-02 :ARG0 vx1 :ARG1 (vx4 / someone :ARG1-of (vx5 / make-06 :ARG2 (vx6 / person :ARG0-of (vx7 / explore-01) :ARG1-of (vx8 / bad-02 :ARG2 vx7))))))
+
+# ::id lpp_1943.867 ::date 2012-11-15T09:03:44 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I know some one , " said the little prince , " who would make a bad explorer . "
+# ::save-date Wed Apr 29, 2015 ::file lpp_1943_867.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / know-02 :ARG0 vx1 :ARG1 (vx4 / someone :ARG1-of (vx5 / make-06 :ARG2 (vx6 / person :ARG0-of (vx7 / explore-01) :ARG1-of (vx8 / bad-02 :ARG2 vx7))))))
+
+# ::id lpp_1943.579 ::date 2012-11-25T19:23:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt If you succeed in judging yourself rightly , then you are indeed a man of true wisdom . "
+# ::save-date Thu Feb 4, 2016 ::file lpp_1943_579.txt
+(vx0 / wise :domain (vx1 / you) :condition (vx2 / succeed-01 :ARG0 vx1 :ARG1 (vx3 / judge-01 :ARG0 vx1 :ARG1 vx1 :ARG1-of (vx4 / right-02))) :ARG1-of (vx5 / true-01))
+
+# ::id lpp_1943.579 ::date 2012-11-25T19:23:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt If you succeed in judging yourself rightly , then you are indeed a man of true wisdom . "
+# ::save-date Thu Feb 4, 2016 ::file lpp_1943_579.txt
+(vx0 / wise :domain (vx1 / you) :condition (vx2 / succeed-01 :ARG0 vx1 :ARG1 (vx3 / judge-01 :ARG0 vx1 :ARG1 vx1 :ARG1-of (vx4 / right-02))) :ARG1-of (vx5 / true-01))
+
+# ::id lpp_1943.2 ::date 2012-06-07T17:06:20 ::annotator ISI-AMR-05 ::preferred
+# ::snt Once when I was six years old I saw a magnificent picture in a book , called True Stories from Nature , about the primeval forest .
+# ::save-date Mon May 13, 2013 ::file lpp_1943_2.txt
+(vx0 / see-01 :ARG0 (vx1 / i) :ARG1 (vx2 / picture :mod (vx3 / magnificent) :location (vx4 / book :name (vx5 / name :op1 "True" :op2 "Stories" :op3 "from" :op4 "Nature") :topic (vx6 / forest :mod (vx7 / primeval)))) :mod (vx8 / once) :time (vx9 / age-01 :ARG1 vx1 :ARG2 (vx10 / temporal-quantity :quant 6 :unit (vx11 / year))))
+
+# ::id lpp_1943.2 ::date 2012-06-07T17:06:20 ::annotator ISI-AMR-05 ::preferred
+# ::snt Once when I was six years old I saw a magnificent picture in a book , called True Stories from Nature , about the primeval forest .
+# ::save-date Mon May 13, 2013 ::file lpp_1943_2.txt
+(vx0 / see-01 :ARG0 (vx1 / i) :ARG1 (vx2 / picture :mod (vx3 / magnificent) :location (vx4 / book :name (vx5 / name :op1 "True" :op2 "Stories" :op3 "from" :op4 "Nature") :topic (vx6 / forest :mod (vx7 / primeval)))) :mod (vx8 / once) :time (vx9 / age-01 :ARG1 vx1 :ARG2 (vx10 / temporal-quantity :quant 6 :unit (vx11 / year))))
+
+# ::id lpp_1943.1500 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he made one more effort : " You know , it will be very nice .
+# ::save-date Thu Jan 21, 2016 ::file lpp_1943_1500.txt
+(vx0 / contrast-01 :ARG2 (vx1 / effort-01 :ARG0 (vx2 / he) :ARG1 (vx3 / nice-01 :ARG1 (vx4 / it) :degree (vx5 / very)) :mod (vx6 / more :quant 1)))
+
+# ::id lpp_1943.1500 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he made one more effort : " You know , it will be very nice .
+# ::save-date Thu Jan 21, 2016 ::file lpp_1943_1500.txt
+(vx0 / contrast-01 :ARG2 (vx1 / effort-01 :ARG0 (vx2 / he) :ARG1 (vx3 / nice-01 :ARG1 (vx4 / it) :degree (vx5 / very)) :mod (vx6 / more :quant 1)))
+
+# ::id lpp_1943.344 ::date 2012-11-24T07:05:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt And is it not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns which are never of any use to them ?
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_344.txt
+(vx0 / and :op1 (vx1 / consequential-01 :ARG1 (vx2 / try-01 :ARG1 (vx3 / understand-01 :ARG1 (vx4 / thing :ARG0-of (vx5 / cause-01 :ARG1 (vx6 / trouble-05 :ARG1 (vx7 / flower) :ARG2 (vx8 / grow-01 :ARG0 vx7 :ARG1 (vx9 / thorn :ARG1-of (vx10 / use-01 :polarity - :ARG0 vx7 :time (vx11 / ever)))) :quant (vx12 / much :degree (vx13 / so))))))) :ARG1-of (vx14 / request-confirmation-91)))
+
+# ::id lpp_1943.344 ::date 2012-11-24T07:05:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt And is it not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns which are never of any use to them ?
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_344.txt
+(vx0 / and :op1 (vx1 / consequential-01 :ARG1 (vx2 / try-01 :ARG1 (vx3 / understand-01 :ARG1 (vx4 / thing :ARG0-of (vx5 / cause-01 :ARG1 (vx6 / trouble-05 :ARG1 (vx7 / flower) :ARG2 (vx8 / grow-01 :ARG0 vx7 :ARG1 (vx9 / thorn :ARG1-of (vx10 / use-01 :polarity - :ARG0 vx7 :time (vx11 / ever)))) :quant (vx12 / much :degree (vx13 / so))))))) :ARG1-of (vx14 / request-confirmation-91)))
+
+# ::id lpp_1943.22 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have flown a little over all parts of the world ; and it is true that geography has been very useful to me .
+# ::save-date Mon Jul 6, 2015 ::file lpp_1943_22.txt
+(vx0 / and :op1 (vx1 / fly-01 :ARG0 vx6 :location (vx2 / over :op1 (vx3 / part :part-of (vx4 / world)))) :op2 (vx5 / useful-05 :ARG0 (vx6 / i) :ARG1 (vx7 / geography) :degree (vx8 / very)))
+
+# ::id lpp_1943.22 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have flown a little over all parts of the world ; and it is true that geography has been very useful to me .
+# ::save-date Mon Jul 6, 2015 ::file lpp_1943_22.txt
+(vx0 / and :op1 (vx1 / fly-01 :ARG0 vx6 :location (vx2 / over :op1 (vx3 / part :part-of (vx4 / world)))) :op2 (vx5 / useful-05 :ARG0 (vx6 / i) :ARG1 (vx7 / geography) :degree (vx8 / very)))
+
+# ::id lpp_1943.707 ::date 2012-11-09T16:59:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Kings do not own , they reign over .
+# ::save-date Sun Dec 9, 2012 ::file lpp_1943_707.txt
+(vx0 / contrast-01 :ARG1 (vx1 / own-01 :polarity - :ARG0 (vx2 / king)) :ARG2 (vx3 / reign-01 :ARG0 vx2))
+
+# ::id lpp_1943.707 ::date 2012-11-09T16:59:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Kings do not own , they reign over .
+# ::save-date Sun Dec 9, 2012 ::file lpp_1943_707.txt
+(vx0 / contrast-01 :ARG1 (vx1 / own-01 :polarity - :ARG0 (vx2 / king)) :ARG2 (vx3 / reign-01 :ARG0 vx2))
+
+# ::id lpp_1943.762 ::date 2012-11-13T17:23:45 ::annotator ISI-AMR-05 ::preferred
+# ::snt When he lights his street lamp , it is as if he brought one more star to life , or one flower .
+# ::save-date Fri May 10, 2013 ::file lpp_1943_762.txt
+(vx0 / light-04 :ARG0 vx5 :ARG1 (vx1 / lamp :mod (vx2 / street) :poss vx5) :ARG1-of (vx3 / resemble-01 :ARG2 (vx4 / bring-01 :ARG0 (vx5 / he) :ARG1 (vx6 / or :op1 (vx7 / star :quant 1 :mod (vx8 / more)) :op2 (vx9 / flower)) :ARG3 (vx10 / live-01))))
+
+# ::id lpp_1943.762 ::date 2012-11-13T17:23:45 ::annotator ISI-AMR-05 ::preferred
+# ::snt When he lights his street lamp , it is as if he brought one more star to life , or one flower .
+# ::save-date Fri May 10, 2013 ::file lpp_1943_762.txt
+(vx0 / light-04 :ARG0 vx5 :ARG1 (vx1 / lamp :mod (vx2 / street) :poss vx5) :ARG1-of (vx3 / resemble-01 :ARG2 (vx4 / bring-01 :ARG0 (vx5 / he) :ARG1 (vx6 / or :op1 (vx7 / star :quant 1 :mod (vx8 / more)) :op2 (vx9 / flower)) :ARG3 (vx10 / live-01))))
+
+# ::id lpp_1943.62 ::date 2012-07-24T12:49:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt Absurd as it might seem to me , a thousand miles from any human habitation and in danger of death , I took out of my pocket a sheet of paper and my fountain - pen .
+# ::save-date Mon May 25, 2015 ::file lpp_1943_62.txt
+(vx0 / take-01 :ARG0 (vx1 / vx1 :location (vx2 / relative-position :op1 (vx3 / place :mod (vx4 / any) :ARG1-of (vx5 / inhabit-01 :ARG0 (vx6 / human))) :quant (vx7 / distance-quantity :quant 1000 :unit (vx8 / mile)) :direction (vx9 / away)) :ARG1-of (vx10 / endanger-01 :ARG0 (vx11 / die-01 :ARG1 vx1))) :ARG1 (vx12 / and :op1 (vx13 / paper :quant (vx14 / sheet :quant 1)) :op2 (vx15 / pen :mod (vx16 / fountain) :poss vx1)) :ARG2 (vx17 / pocket :poss vx1) :concession (vx18 / possible-01 :ARG1 (vx19 / seem-01 :ARG1 (vx20 / absurd) :ARG2 vx1)))
+
+# ::id lpp_1943.62 ::date 2012-07-24T12:49:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt Absurd as it might seem to me , a thousand miles from any human habitation and in danger of death , I took out of my pocket a sheet of paper and my fountain - pen .
+# ::save-date Mon May 25, 2015 ::file lpp_1943_62.txt
+(vx0 / take-01 :ARG0 (vx1 / vx1 :location (vx2 / relative-position :op1 (vx3 / place :mod (vx4 / any) :ARG1-of (vx5 / inhabit-01 :ARG0 (vx6 / human))) :quant (vx7 / distance-quantity :quant 1000 :unit (vx8 / mile)) :direction (vx9 / away)) :ARG1-of (vx10 / endanger-01 :ARG0 (vx11 / die-01 :ARG1 vx1))) :ARG1 (vx12 / and :op1 (vx13 / paper :quant (vx14 / sheet :quant 1)) :op2 (vx15 / pen :mod (vx16 / fountain) :poss vx1)) :ARG2 (vx17 / pocket :poss vx1) :concession (vx18 / possible-01 :ARG1 (vx19 / seem-01 :ARG1 (vx20 / absurd) :ARG2 vx1)))
+
+# ::id lpp_1943.1280 ::annotator ISI-AMR-05 ::preferred
+# ::snt The well that we had come to was not like the wells of the Sahara .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_1280.txt
+(vx0 / well :ARG4-of (vx1 / come-01 :ARG1 (vx2 / we)) :ARG1-of (vx3 / resemble-01 :polarity - :ARG2 (vx4 / well :location (vx5 / desert :name (vx6 / name :op1 "Sahara")))))
+
+# ::id lpp_1943.1280 ::annotator ISI-AMR-05 ::preferred
+# ::snt The well that we had come to was not like the wells of the Sahara .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_1280.txt
+(vx0 / well :ARG4-of (vx1 / come-01 :ARG1 (vx2 / we)) :ARG1-of (vx3 / resemble-01 :polarity - :ARG2 (vx4 / well :location (vx5 / desert :name (vx6 / name :op1 "Sahara")))))
+
+# ::id lpp_1943.1444 ::annotator ISI-AMR-05 ::preferred
+# ::snt " All men have the stars , " he answered , " but they are not the same things for different people .
+# ::save-date Sat May 10, 2014 ::file lpp_1943_1444.txt
+(vx0 / answer-01 :ARG0 (vx1 / he) :ARG2 (vx2 / contrast-01 :ARG1 (vx3 / have-03 :ARG0 (vx4 / man :mod (vx5 / all)) :ARG1 (vx6 / star)) :ARG2 (vx7 / thing :ARG1-of (vx8 / same-01 :polarity - :ARG2 vx6 :ARG3 (vx9 / person :ARG1-of (vx10 / differ-02))))))
+
+# ::id lpp_1943.1444 ::annotator ISI-AMR-05 ::preferred
+# ::snt " All men have the stars , " he answered , " but they are not the same things for different people .
+# ::save-date Sat May 10, 2014 ::file lpp_1943_1444.txt
+(vx0 / answer-01 :ARG0 (vx1 / he) :ARG2 (vx2 / contrast-01 :ARG1 (vx3 / have-03 :ARG0 (vx4 / man :mod (vx5 / all)) :ARG1 (vx6 / star)) :ARG2 (vx7 / thing :ARG1-of (vx8 / same-01 :polarity - :ARG2 vx6 :ARG3 (vx9 / person :ARG1-of (vx10 / differ-02))))))
+
+# ::id lpp_1943.836 ::date 2012-11-15T06:22:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What is a geographer ? " asked the little prince .
+# ::save-date Tue May 7, 2013 ::file lpp_1943_836.txt
+(vx0 / ask-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / geographer :domain (vx4 / amr-unknown)))
+
+# ::id lpp_1943.836 ::date 2012-11-15T06:22:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What is a geographer ? " asked the little prince .
+# ::save-date Tue May 7, 2013 ::file lpp_1943_836.txt
+(vx0 / ask-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / geographer :domain (vx4 / amr-unknown)))
+
+# ::id lpp_1943.691 ::date 2012-11-09T16:02:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt There is no time for idle dreaming in my life . "
+# ::save-date Thu Dec 14, 2017 ::file lpp_1943_691.txt
+(vx0 / time :polarity - :purpose (vx1 / dream-01 :manner (vx2 / idle)) :time (vx3 / live-01 :ARG0 (vx4 / i)))
+
+# ::id lpp_1943.691 ::date 2012-11-09T16:02:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt There is no time for idle dreaming in my life . "
+# ::save-date Thu Dec 14, 2017 ::file lpp_1943_691.txt
+(vx0 / time :polarity - :purpose (vx1 / dream-01 :manner (vx2 / idle)) :time (vx3 / live-01 :ARG0 (vx4 / i)))
+
+# ::id lpp_1943.804 ::date 2012-11-14T14:36:03 ::annotator ISI-AMR-05 ::preferred
+# ::snt As the little prince watched him , he felt that he loved this lamplighter who was so faithful to his orders .
+# ::save-date Wed Jul 29, 2015 ::file lpp_1943_804.txt
+(vx0 / feel-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / love-01 :ARG0 vx1 :ARG1 (vx4 / person :ARG0-of (vx5 / light-04 :ARG1 (vx6 / lamp)) :mod (vx7 / this) :ARG1-of (vx8 / faithful-00 :ARG2 (vx9 / thing :ARG2-of (vx10 / order-01 :ARG1 vx4))))) :time (vx11 / watch-01 :ARG0 vx1 :ARG1 vx4))
+
+# ::id lpp_1943.804 ::date 2012-11-14T14:36:03 ::annotator ISI-AMR-05 ::preferred
+# ::snt As the little prince watched him , he felt that he loved this lamplighter who was so faithful to his orders .
+# ::save-date Wed Jul 29, 2015 ::file lpp_1943_804.txt
+(vx0 / feel-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / love-01 :ARG0 vx1 :ARG1 (vx4 / person :ARG0-of (vx5 / light-04 :ARG1 (vx6 / lamp)) :mod (vx7 / this) :ARG1-of (vx8 / faithful-00 :ARG2 (vx9 / thing :ARG2-of (vx10 / order-01 :ARG1 vx4))))) :time (vx11 / watch-01 :ARG0 vx1 :ARG1 vx4))
+
+# ::id lpp_1943.26 ::date 2012-07-17T13:29:12 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have lived a great deal among grown - ups .
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_26.txt
+(vx0 / live-01 :ARG0 (vx1 / i) :mod (vx2 / deal :mod (vx3 / great)) :location (vx4 / among :op1 (vx5 / grown-up)))
+
+# ::id lpp_1943.26 ::date 2012-07-17T13:29:12 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have lived a great deal among grown - ups .
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_26.txt
+(vx0 / live-01 :ARG0 (vx1 / i) :mod (vx2 / deal :mod (vx3 / great)) :location (vx4 / among :op1 (vx5 / grown-up)))
+
+# ::id lpp_1943.20 ::date 2012-07-17T12:15:00 ::annotator ISI-AMR-05 ::preferred
+# ::snt Grown - ups never understand anything by themselves , and it is tiresome for children to be always and forever explaining things to them .
+# ::save-date Fri Jan 19, 2018 ::file lpp_1943_20.txt
+(vx0 / and :op1 (vx1 / understand-01 :polarity - :ARG0 (vx2 / grown-up) :ARG1 (vx3 / anything) :time (vx4 / ever) :mod (vx5 / by-oneself)) :op2 (vx6 / tire-03 :ARG0 (vx7 / explain-01 :ARG0 (vx8 / child) :ARG1 (vx9 / thing) :ARG2 vx2 :time (vx10 / always) :mod (vx11 / forever)) :ARG1 vx8))
+
+# ::id lpp_1943.20 ::date 2012-07-17T12:15:00 ::annotator ISI-AMR-05 ::preferred
+# ::snt Grown - ups never understand anything by themselves , and it is tiresome for children to be always and forever explaining things to them .
+# ::save-date Fri Jan 19, 2018 ::file lpp_1943_20.txt
+(vx0 / and :op1 (vx1 / understand-01 :polarity - :ARG0 (vx2 / grown-up) :ARG1 (vx3 / anything) :time (vx4 / ever) :mod (vx5 / by-oneself)) :op2 (vx6 / tire-03 :ARG0 (vx7 / explain-01 :ARG0 (vx8 / child) :ARG1 (vx9 / thing) :ARG2 vx2 :time (vx10 / always) :mod (vx11 / forever)) :ARG1 vx8))
+
+# ::id lpp_1943.1442 ::annotator ISI-AMR-05 ::preferred
+# ::snt It will be as it was when we drank the water ... "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_1442.txt
+(vx0 / resemble-01 :ARG1 (vx1 / it) :ARG2 (vx2 / time :time-of (vx3 / drink-01 :ARG0 (vx4 / we) :ARG1 (vx5 / water))))
+
+# ::id lpp_1943.1442 ::annotator ISI-AMR-05 ::preferred
+# ::snt It will be as it was when we drank the water ... "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_1442.txt
+(vx0 / resemble-01 :ARG1 (vx1 / it) :ARG2 (vx2 / time :time-of (vx3 / drink-01 :ARG0 (vx4 / we) :ARG1 (vx5 / water))))
+
+# ::id lpp_1943.869 ::date 2012-11-15T09:08:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_869.txt
+(vx0 / order-01 :ARG1 (vx1 / inquire-01 :ARG1 (vx2 / thing :ARG1-of (vx3 / discover-01 :ARG0 vx7))) :time (vx4 / show-01 :ARG1 (vx5 / good-02 :ARG1 (vx6 / character :poss (vx7 / person :ARG0-of (vx8 / explore-01)) :ARG1-of (vx9 / moral-02)))) :time (vx10 / then))
+
+# ::id lpp_1943.869 ::date 2012-11-15T09:08:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_869.txt
+(vx0 / order-01 :ARG1 (vx1 / inquire-01 :ARG1 (vx2 / thing :ARG1-of (vx3 / discover-01 :ARG0 vx7))) :time (vx4 / show-01 :ARG1 (vx5 / good-02 :ARG1 (vx6 / character :poss (vx7 / person :ARG0-of (vx8 / explore-01)) :ARG1-of (vx9 / moral-02)))) :time (vx10 / then))
+
+# ::id lpp_1943.1435 ::annotator ISI-AMR-05 ::preferred
+# ::snt And so you will love to watch all the stars in the heavens ... they will all be your friends .
+# ::save-date Fri Apr 18, 2014 ::file lpp_1943_1435.txt
+(vx0 / and :op2 (vx1 / love-01 :ARG0 (vx2 / you) :ARG1 (vx3 / watch-01 :ARG0 vx2 :ARG1 (vx4 / star :location (vx5 / heaven) :mod (vx6 / all) :ARG0-of (vx7 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx8 / friend))))))
+
+# ::id lpp_1943.1435 ::annotator ISI-AMR-05 ::preferred
+# ::snt And so you will love to watch all the stars in the heavens ... they will all be your friends .
+# ::save-date Fri Apr 18, 2014 ::file lpp_1943_1435.txt
+(vx0 / and :op2 (vx1 / love-01 :ARG0 (vx2 / you) :ARG1 (vx3 / watch-01 :ARG0 vx2 :ARG1 (vx4 / star :location (vx5 / heaven) :mod (vx6 / all) :ARG0-of (vx7 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx8 / friend))))))
+
+# ::id lpp_1943.645 ::date 2012-11-08T09:31:03 ::annotator ISI-AMR-05 ::preferred
+# ::snt The tippler brought his speech to an end , and shut himself up in an impregnable silence .
+# ::save-date Mon Nov 2, 2015 ::file lpp_1943_645.txt
+(vx0 / and :op1 (vx1 / end-01 :ARG0 (vx2 / person :ARG0-of (vx3 / tipple-01)) :ARG1 (vx4 / speak-01 :ARG0 vx2)) :op2 (vx5 / shut-up-06 :ARG0 vx2 :ARG1 vx2 :manner (vx6 / silent :mod (vx7 / pregnable :polarity -) :domain vx2)))
+
+# ::id lpp_1943.645 ::date 2012-11-08T09:31:03 ::annotator ISI-AMR-05 ::preferred
+# ::snt The tippler brought his speech to an end , and shut himself up in an impregnable silence .
+# ::save-date Mon Nov 2, 2015 ::file lpp_1943_645.txt
+(vx0 / and :op1 (vx1 / end-01 :ARG0 (vx2 / person :ARG0-of (vx3 / tipple-01)) :ARG1 (vx4 / speak-01 :ARG0 vx2)) :op2 (vx5 / shut-up-06 :ARG0 vx2 :ARG1 vx2 :manner (vx6 / silent :mod (vx7 / pregnable :polarity -) :domain vx2)))
+
+# ::id lpp_1943.718 ::date 2012-11-12T15:11:25 ::annotator ISI-AMR-05 ::preferred
+# ::snt To nobody . "
+# ::save-date Wed May 15, 2013 ::file lpp_1943_718.txt
+(vx0 / belong-01 :ARG1 (vx1 / nobody))
+
+# ::id lpp_1943.718 ::date 2012-11-12T15:11:25 ::annotator ISI-AMR-05 ::preferred
+# ::snt To nobody . "
+# ::save-date Wed May 15, 2013 ::file lpp_1943_718.txt
+(vx0 / belong-01 :ARG1 (vx1 / nobody))
+
+# ::id lpp_1943.1482 ::annotator ISI-AMR-05 ::preferred
+# ::snt He got away from me without making a sound .
+# ::save-date Fri Jun 19, 2015 ::file lpp_1943_1482.txt
+(vx0 / get-away-08 :ARG0 (vx1 / he) :source (vx2 / i) :manner (vx3 / sound-02 :polarity - :ARG1 vx1))
+
+# ::id lpp_1943.1482 ::annotator ISI-AMR-05 ::preferred
+# ::snt He got away from me without making a sound .
+# ::save-date Fri Jun 19, 2015 ::file lpp_1943_1482.txt
+(vx0 / get-away-08 :ARG0 (vx1 / he) :source (vx2 / i) :manner (vx3 / sound-02 :polarity - :ARG1 vx1))
+
+# ::id lpp_1943.595 ::date 2012-11-25T21:00:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt " If Your Majesty wishes to be promptly obeyed , " he said , " he should be able to give me a reasonable order .
+# ::save-date Fri Jul 24, 2015 ::file lpp_1943_595.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / order-01 :ARG0 (vx4 / person :ARG1-of (vx5 / title-01 :ARG2 (vx6 / majesty :poss vx4))) :ARG1 vx1 :ARG2 (vx7 / thing :ARG1-of (vx8 / reasonable-02))) :condition (vx9 / wish-01 :ARG0 vx4 :ARG1 (vx10 / obey-01 :ARG1 vx4 :manner (vx11 / prompt)))))
+
+# ::id lpp_1943.595 ::date 2012-11-25T21:00:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt " If Your Majesty wishes to be promptly obeyed , " he said , " he should be able to give me a reasonable order .
+# ::save-date Fri Jul 24, 2015 ::file lpp_1943_595.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / order-01 :ARG0 (vx4 / person :ARG1-of (vx5 / title-01 :ARG2 (vx6 / majesty :poss vx4))) :ARG1 vx1 :ARG2 (vx7 / thing :ARG1-of (vx8 / reasonable-02))) :condition (vx9 / wish-01 :ARG0 vx4 :ARG1 (vx10 / obey-01 :ARG1 vx4 :manner (vx11 / prompt)))))
+
+# ::id lpp_1943.766 ::date 2012-11-13T17:52:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt When he arrived on the planet he respectfully saluted the lamplighter .
+# ::save-date Tue Nov 13, 2012 ::file lpp_1943_766.txt
+(vx0 / salute-01 :ARG0 (vx1 / he) :ARG1 (vx2 / person :ARG0-of (vx3 / light-04 :ARG1 (vx4 / lamp))) :manner (vx5 / respect-01) :time (vx6 / arrive-01 :ARG1 vx1 :ARG4 (vx7 / planet)))
+
+# ::id lpp_1943.766 ::date 2012-11-13T17:52:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt When he arrived on the planet he respectfully saluted the lamplighter .
+# ::save-date Tue Nov 13, 2012 ::file lpp_1943_766.txt
+(vx0 / salute-01 :ARG0 (vx1 / he) :ARG1 (vx2 / person :ARG0-of (vx3 / light-04 :ARG1 (vx4 / lamp))) :manner (vx5 / respect-01) :time (vx6 / arrive-01 :ARG1 vx1 :ARG4 (vx7 / planet)))
+
+# ::id lpp_1943.696 ::date 2012-11-09T16:25:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And what do you do with five - hundred millions of stars ? "
+# ::save-date Fri Nov 9, 2012 ::file lpp_1943_696.txt
+(vx0 / and :op2 (vx1 / do-02 :ARG0 (vx2 / you) :ARG1 (vx3 / amr-unknown) :ARG3 (vx4 / star :quant 500000000)))
+
+# ::id lpp_1943.696 ::date 2012-11-09T16:25:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And what do you do with five - hundred millions of stars ? "
+# ::save-date Fri Nov 9, 2012 ::file lpp_1943_696.txt
+(vx0 / and :op2 (vx1 / do-02 :ARG0 (vx2 / you) :ARG1 (vx3 / amr-unknown) :ARG3 (vx4 / star :quant 500000000)))
+
+# ::id lpp_1943.622 ::date 2012-11-26T19:39:01 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And what should one do to make the hat come down ? " he asked .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_622.txt
+(vx0 / ask-01 :ARG0 (vx1 / he) :ARG1 (vx2 / do-02 :ARG0 (vx3 / one) :ARG1 (vx4 / amr-unknown) :ARG2 (vx5 / make-02 :ARG0 vx3 :ARG1 (vx6 / come-01 :ARG1 (vx7 / hat) :direction (vx8 / down)))))
+
+# ::id lpp_1943.622 ::date 2012-11-26T19:39:01 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And what should one do to make the hat come down ? " he asked .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_622.txt
+(vx0 / ask-01 :ARG0 (vx1 / he) :ARG1 (vx2 / do-02 :ARG0 (vx3 / one) :ARG1 (vx4 / amr-unknown) :ARG2 (vx5 / make-02 :ARG0 vx3 :ARG1 (vx6 / come-01 :ARG1 (vx7 / hat) :direction (vx8 / down)))))
+
+# ::id lpp_1943.351 ::date 2012-11-24T07:39:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt And you think that is not important ! "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_351.txt
+(vx0 / and :op1 (vx1 / think-01 :ARG0 (vx2 / you) :ARG1 (vx3 / important-01 :polarity - :ARG1 (vx4 / that))))
+
+# ::id lpp_1943.351 ::date 2012-11-24T07:39:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt And you think that is not important ! "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_351.txt
+(vx0 / and :op1 (vx1 / think-01 :ARG0 (vx2 / you) :ARG1 (vx3 / important-01 :polarity - :ARG1 (vx4 / that))))
+
+# ::id lpp_1943.719 ::date 2012-11-12T15:11:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Then they belong to me , because I was the first person to think of it . "
+# ::save-date Mon Nov 12, 2012 ::file lpp_1943_719.txt
+(vx0 / belong-01 :ARG0 (vx1 / they) :ARG1 (vx2 / i) :ARG1-of (vx3 / cause-01 :ARG0 (vx4 / person :ord (vx5 / ordinal-entity :value 1) :domain vx2 :ARG0-of (vx6 / think-01 :ARG2 (vx7 / it)))))
+
+# ::id lpp_1943.719 ::date 2012-11-12T15:11:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Then they belong to me , because I was the first person to think of it . "
+# ::save-date Mon Nov 12, 2012 ::file lpp_1943_719.txt
+(vx0 / belong-01 :ARG0 (vx1 / they) :ARG1 (vx2 / i) :ARG1-of (vx3 / cause-01 :ARG0 (vx4 / person :ord (vx5 / ordinal-entity :value 1) :domain vx2 :ARG0-of (vx6 / think-01 :ARG2 (vx7 / it)))))
+
+# ::id lpp_1943.810 ::date 2012-11-14T17:24:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt To be always in the sunshine , you need only walk along rather slowly .
+# ::save-date Wed Nov 11, 2015 ::file lpp_1943_810.txt
+(vx0 / need-01 :ARG0 (vx1 / you) :ARG1 (vx2 / walk-01 :ARG1-of (vx3 / slow-05 :degree (vx4 / rather)) :mod (vx5 / only)) :purpose (vx6 / be-located-at-91 :ARG1 vx1 :ARG2 (vx7 / sunshine) :time (vx8 / always)))
+
+# ::id lpp_1943.810 ::date 2012-11-14T17:24:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt To be always in the sunshine , you need only walk along rather slowly .
+# ::save-date Wed Nov 11, 2015 ::file lpp_1943_810.txt
+(vx0 / need-01 :ARG0 (vx1 / you) :ARG1 (vx2 / walk-01 :ARG1-of (vx3 / slow-05 :degree (vx4 / rather)) :mod (vx5 / only)) :purpose (vx6 / be-located-at-91 :ARG1 vx1 :ARG2 (vx7 / sunshine) :time (vx8 / always)))
+
+# ::id lpp_1943.786 ::date 2012-11-14T11:45:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt I had the rest of the day for relaxation and the rest of the night for sleep . "
+# ::save-date Sun Apr 28, 2013 ::file lpp_1943_786.txt
+(vx0 / have-03 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / rest :purpose (vx4 / relax-01) :part-of (vx5 / day)) :op2 (vx6 / rest :purpose (vx7 / sleep-01) :part-of (vx8 / night))))
+
+# ::id lpp_1943.786 ::date 2012-11-14T11:45:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt I had the rest of the day for relaxation and the rest of the night for sleep . "
+# ::save-date Sun Apr 28, 2013 ::file lpp_1943_786.txt
+(vx0 / have-03 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / rest :purpose (vx4 / relax-01) :part-of (vx5 / day)) :op2 (vx6 / rest :purpose (vx7 / sleep-01) :part-of (vx8 / night))))
+
+# ::id lpp_1943.831 ::date 2012-11-15T06:15:25 ::annotator ISI-AMR-05 ::preferred
+# ::snt He had already traveled so much and so far !
+# ::save-date Tue Sep 15, 2015 ::file lpp_1943_831.txt
+(vx0 / and :op1 (vx1 / travel-01 :ARG0 (vx2 / he) :quant (vx3 / much :mod (vx4 / so))) :op2 (vx5 / travel-01 :ARG0 vx2 :ARG1 (vx6 / far :mod (vx7 / so))) :time (vx8 / already))
+
+# ::id lpp_1943.831 ::date 2012-11-15T06:15:25 ::annotator ISI-AMR-05 ::preferred
+# ::snt He had already traveled so much and so far !
+# ::save-date Tue Sep 15, 2015 ::file lpp_1943_831.txt
+(vx0 / and :op1 (vx1 / travel-01 :ARG0 (vx2 / he) :quant (vx3 / much :mod (vx4 / so))) :op2 (vx5 / travel-01 :ARG0 vx2 :ARG1 (vx6 / far :mod (vx7 / so))) :time (vx8 / already))
+
+# ::id lpp_1943.854 ::date 2012-11-15T06:51:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have n't a single explorer on my planet .
+# ::save-date Sun Jun 28, 2015 ::file lpp_1943_854.txt
+(vx0 / have-03 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / person :ARG1-of (vx3 / single-02) :ARG0-of (vx4 / explore-01) :location (vx5 / planet :poss vx1)))
+
+# ::id lpp_1943.854 ::date 2012-11-15T06:51:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have n't a single explorer on my planet .
+# ::save-date Sun Jun 28, 2015 ::file lpp_1943_854.txt
+(vx0 / have-03 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / person :ARG1-of (vx3 / single-02) :ARG0-of (vx4 / explore-01) :location (vx5 / planet :poss vx1)))
+
+# ::id lpp_1943.56 ::date 2012-07-24T12:11:56 ::annotator ISI-AMR-05 ::preferred
+# ::snt Remember , I had crashed in the desert a thousand miles from any inhabited region .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_56.txt
+(vx0 / remember-01 :ARG0 (vx1 / you) :ARG1 (vx2 / crash-01 :ARG1 (vx3 / i) :location (vx4 / desert) :location (vx5 / relative-position :op1 (vx6 / region :ARG1-of (vx7 / inhabit-01) :mod (vx8 / any)) :quant (vx9 / distance-quantity :unit (vx10 / mile) :quant 1000) :direction (vx11 / away))) :mode imperative)
+
+# ::id lpp_1943.56 ::date 2012-07-24T12:11:56 ::annotator ISI-AMR-05 ::preferred
+# ::snt Remember , I had crashed in the desert a thousand miles from any inhabited region .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_56.txt
+(vx0 / remember-01 :ARG0 (vx1 / you) :ARG1 (vx2 / crash-01 :ARG1 (vx3 / i) :location (vx4 / desert) :location (vx5 / relative-position :op1 (vx6 / region :ARG1-of (vx7 / inhabit-01) :mod (vx8 / any)) :quant (vx9 / distance-quantity :unit (vx10 / mile) :quant 1000) :direction (vx11 / away))) :mode imperative)
+
+# ::id lpp_1943.25 ::date 2012-07-17T13:14:43 ::annotator ISI-AMR-05 ::preferred
+# ::snt In the course of this life I have had a great many encounters with a great many people who have been concerned with matters of consequence .
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_25.txt
+(vx0 / encounter-01 :ARG0 (vx1 / i) :ARG1 (vx2 / person :quant (vx3 / many :mod (vx4 / great)) :ARG1-of (vx5 / concern-01 :ARG0 (vx6 / matter :ARG1-of (vx7 / consequential-01)))) :quant (vx8 / many :mod (vx9 / great)) :time (vx10 / course :poss (vx11 / life :mod (vx12 / this))))
+
+# ::id lpp_1943.25 ::date 2012-07-17T13:14:43 ::annotator ISI-AMR-05 ::preferred
+# ::snt In the course of this life I have had a great many encounters with a great many people who have been concerned with matters of consequence .
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_25.txt
+(vx0 / encounter-01 :ARG0 (vx1 / i) :ARG1 (vx2 / person :quant (vx3 / many :mod (vx4 / great)) :ARG1-of (vx5 / concern-01 :ARG0 (vx6 / matter :ARG1-of (vx7 / consequential-01)))) :quant (vx8 / many :mod (vx9 / great)) :time (vx10 / course :poss (vx11 / life :mod (vx12 / this))))
+
+# ::id lpp_1943.844 ::date 2012-11-15T06:40:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I could n't tell you , " said the geographer .
+# ::save-date Thu Nov 15, 2012 ::file lpp_1943_844.txt
+(vx0 / say-01 :ARG0 (vx1 / geographer) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / tell-01 :ARG0 vx1 :ARG2 (vx4 / you)) :polarity -))
+
+# ::id lpp_1943.844 ::date 2012-11-15T06:40:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I could n't tell you , " said the geographer .
+# ::save-date Thu Nov 15, 2012 ::file lpp_1943_844.txt
+(vx0 / say-01 :ARG0 (vx1 / geographer) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / tell-01 :ARG0 vx1 :ARG2 (vx4 / you)) :polarity -))
+
+# ::id lpp_1943.819 ::date 2012-11-14T18:10:55 ::annotator ISI-AMR-05 ::preferred
+# ::snt Nevertheless he is the only one of them all who does not seem to me ridiculous .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_819.txt
+(vx0 / have-concession-91 :ARG1 (vx1 / seem-01 :polarity - :ARG1 (vx2 / ridiculous-02 :ARG1 (vx3 / person :mod (vx4 / only) :ARG1-of (vx5 / include-91 :ARG2 (vx6 / they :mod (vx7 / all))) :domain (vx8 / he))) :ARG2 (vx9 / i)))
+
+# ::id lpp_1943.819 ::date 2012-11-14T18:10:55 ::annotator ISI-AMR-05 ::preferred
+# ::snt Nevertheless he is the only one of them all who does not seem to me ridiculous .
+# ::save-date Sun Jul 26, 2015 ::file lpp_1943_819.txt
+(vx0 / have-concession-91 :ARG1 (vx1 / seem-01 :polarity - :ARG1 (vx2 / ridiculous-02 :ARG1 (vx3 / person :mod (vx4 / only) :ARG1-of (vx5 / include-91 :ARG2 (vx6 / they :mod (vx7 / all))) :domain (vx8 / he))) :ARG2 (vx9 / i)))
+
+# ::id lpp_1943.1450 ::annotator ISI-AMR-05 ::preferred
+# ::snt You - - you alone - - will have the stars as no one else has them - - "
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_1450.txt
+(vx0 / have-03 :ARG0 (vx1 / you :mod (vx2 / alone)) :ARG1 (vx3 / star) :ARG1-of (vx4 / resemble-01 :polarity - :ARG2 (vx5 / have-03 :ARG0 (vx6 / anyone :mod (vx7 / else)) :ARG1 vx3)))
+
+# ::id lpp_1943.1450 ::annotator ISI-AMR-05 ::preferred
+# ::snt You - - you alone - - will have the stars as no one else has them - - "
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_1450.txt
+(vx0 / have-03 :ARG0 (vx1 / you :mod (vx2 / alone)) :ARG1 (vx3 / star) :ARG1-of (vx4 / resemble-01 :polarity - :ARG2 (vx5 / have-03 :ARG0 (vx6 / anyone :mod (vx7 / else)) :ARG1 vx3)))
+
+# ::id lpp_1943.641 ::date 2012-11-08T09:20:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Forget what ? " inquired the little prince , who already was sorry for him .
+# ::save-date Tue Apr 16, 2013 ::file lpp_1943_641.txt
+(vx0 / inquire-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / sorry-01 :ARG2 (vx4 / he) :time (vx5 / already))) :ARG1 (vx6 / forget-01 :ARG0 vx4 :ARG1 (vx7 / amr-unknown)) :ARG2 vx4)
+
+# ::id lpp_1943.641 ::date 2012-11-08T09:20:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Forget what ? " inquired the little prince , who already was sorry for him .
+# ::save-date Tue Apr 16, 2013 ::file lpp_1943_641.txt
+(vx0 / inquire-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / sorry-01 :ARG2 (vx4 / he) :time (vx5 / already))) :ARG1 (vx6 / forget-01 :ARG0 vx4 :ARG1 (vx7 / amr-unknown)) :ARG2 vx4)
+
+# ::id lpp_1943.712 ::date 2012-11-12T14:50:15 ::annotator ISI-AMR-05 ::preferred
+# ::snt " It makes it possible for me to buy more stars , if any are ever discovered . "
+# ::save-date Tue Sep 19, 2017 ::file lpp_1943_712.txt
+(vx0 / possible-01 :ARG1 (vx1 / buy-01 :ARG0 (vx2 / i) :ARG1 (vx3 / star :mod (vx4 / more))) :condition (vx5 / discover-01 :ARG1 vx3 :time (vx6 / ever)))
+
+# ::id lpp_1943.712 ::date 2012-11-12T14:50:15 ::annotator ISI-AMR-05 ::preferred
+# ::snt " It makes it possible for me to buy more stars , if any are ever discovered . "
+# ::save-date Tue Sep 19, 2017 ::file lpp_1943_712.txt
+(vx0 / possible-01 :ARG1 (vx1 / buy-01 :ARG0 (vx2 / i) :ARG1 (vx3 / star :mod (vx4 / more))) :condition (vx5 / discover-01 :ARG1 vx3 :time (vx6 / ever)))
+
+# ::id lpp_1943.1221 ::date 2012-11-15T18:08:12 ::annotator ISI-AMR-05 ::preferred
+# ::snt I said to the little prince , " these memories of yours are very charming ; but I have not yet succeeded in repairing my plane ; I have nothing more to drink ; and I , too , should be very happy if I could walk at my leisure toward a spring of fresh water ! "
+# ::save-date Thu Jan 21, 2016 ::file lpp_1943_1221.txt
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / charm-01 :ARG0 (vx4 / memory :poss (vx5 / you) :mod (vx6 / this)) :concession-of (vx7 / and :op1 (vx8 / succeed-01 :polarity - :ARG0 vx1 :ARG1 (vx9 / repair-01 :ARG0 vx1 :ARG1 (vx10 / plane :poss vx1)) :time (vx11 / yet)) :op2 (vx12 / have-03 :ARG0 vx1 :ARG1 (vx13 / nothing :purpose (vx14 / drink-01 :ARG0 vx1))) :op3 (vx15 / happy-01 :ARG1 vx1 :degree (vx16 / very) :condition (vx17 / possible-01 :ARG1 (vx18 / walk-01 :ARG0 vx1 :direction (vx19 / spring :source-of (vx20 / water :ARG1-of (vx21 / fresh-04))) :manner (vx22 / at :op1 (vx23 / leisure :poss vx1)))))) :degree (vx24 / very))) :ARG2 (vx25 / prince :mod (vx26 / little)))
+
+# ::id lpp_1943.1221 ::date 2012-11-15T18:08:12 ::annotator ISI-AMR-05 ::preferred
+# ::snt I said to the little prince , " these memories of yours are very charming ; but I have not yet succeeded in repairing my plane ; I have nothing more to drink ; and I , too , should be very happy if I could walk at my leisure toward a spring of fresh water ! "
+# ::save-date Thu Jan 21, 2016 ::file lpp_1943_1221.txt
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / charm-01 :ARG0 (vx4 / memory :poss (vx5 / you) :mod (vx6 / this)) :concession-of (vx7 / and :op1 (vx8 / succeed-01 :polarity - :ARG0 vx1 :ARG1 (vx9 / repair-01 :ARG0 vx1 :ARG1 (vx10 / plane :poss vx1)) :time (vx11 / yet)) :op2 (vx12 / have-03 :ARG0 vx1 :ARG1 (vx13 / nothing :purpose (vx14 / drink-01 :ARG0 vx1))) :op3 (vx15 / happy-01 :ARG1 vx1 :degree (vx16 / very) :condition (vx17 / possible-01 :ARG1 (vx18 / walk-01 :ARG0 vx1 :direction (vx19 / spring :source-of (vx20 / water :ARG1-of (vx21 / fresh-04))) :manner (vx22 / at :op1 (vx23 / leisure :poss vx1)))))) :degree (vx24 / very))) :ARG2 (vx25 / prince :mod (vx26 / little)))
+
+# ::id lpp_1943.760 ::date 2012-11-13T17:04:11 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he is not so absurd as the king , the conceited man , the businessman , and the tippler .
+# ::save-date Wed Dec 13, 2017 ::file lpp_1943_760.txt
+(vx0 / contrast-01 :ARG2 (vx1 / have-degree-91 :polarity - :ARG1 (vx2 / he) :ARG2 (vx3 / absurd) :ARG3 (vx4 / equal) :ARG4 (vx5 / and :op1 (vx6 / king) :op2 (vx7 / man :mod (vx8 / conceit)) :op3 (vx9 / businessman) :op4 (vx10 / person :ARG0-of (vx11 / tipple-01)))))
+
+# ::id lpp_1943.760 ::date 2012-11-13T17:04:11 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he is not so absurd as the king , the conceited man , the businessman , and the tippler .
+# ::save-date Wed Dec 13, 2017 ::file lpp_1943_760.txt
+(vx0 / contrast-01 :ARG2 (vx1 / have-degree-91 :polarity - :ARG1 (vx2 / he) :ARG2 (vx3 / absurd) :ARG3 (vx4 / equal) :ARG4 (vx5 / and :op1 (vx6 / king) :op2 (vx7 / man :mod (vx8 / conceit)) :op3 (vx9 / businessman) :op4 (vx10 / person :ARG0-of (vx11 / tipple-01)))))
+
+# ::id lpp_1943.1272 ::annotator ISI-AMR-05 ::preferred
+# ::snt As his lips opened slightly with the suspicious of a half - smile , I said to myself , again : " What moves me so deeply , about this little prince who is sleeping here , is his loyalty to a flower - - the image of a rose that shines through his whole being like the flame of a lamp , even when he is asleep ... "
+# ::save-date Mon Nov 13, 2017 ::file lpp_1943_1272.txt
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / move-05 :ARG0 (vx3 / prince :mod (vx4 / little) :ARG0-of (vx5 / sleep-01 :location (vx6 / here))) :ARG1 vx1 :ARG2 (vx7 / loyal-01 :ARG1 vx3 :ARG2 (vx8 / flower :op1 (vx9 / image :poss (vx10 / rose :ARG1-of (vx11 / shine-01 :ARG2 (vx12 / through :op1 (vx13 / being :poss vx3 :mod (vx14 / whole))) :ARG1-of (vx15 / resemble-01 :ARG2 (vx16 / flame-01 :ARG1 (vx17 / lamp))) :concession (vx18 / even-when :op1 (vx19 / sleep-01 :ARG0 vx3))))))) :ARG1-of (vx20 / deep-02)) :ARG2 vx1 :time (vx21 / open-01 :ARG1 (vx22 / lip :part-of vx3) :degree (vx23 / slight) :manner (vx24 / smile-01 :mod (vx25 / half) :degree (vx26 / suspicion))) :mod (vx27 / again))
+
+# ::id lpp_1943.1272 ::annotator ISI-AMR-05 ::preferred
+# ::snt As his lips opened slightly with the suspicious of a half - smile , I said to myself , again : " What moves me so deeply , about this little prince who is sleeping here , is his loyalty to a flower - - the image of a rose that shines through his whole being like the flame of a lamp , even when he is asleep ... "
+# ::save-date Mon Nov 13, 2017 ::file lpp_1943_1272.txt
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / move-05 :ARG0 (vx3 / prince :mod (vx4 / little) :ARG0-of (vx5 / sleep-01 :location (vx6 / here))) :ARG1 vx1 :ARG2 (vx7 / loyal-01 :ARG1 vx3 :ARG2 (vx8 / flower :op1 (vx9 / image :poss (vx10 / rose :ARG1-of (vx11 / shine-01 :ARG2 (vx12 / through :op1 (vx13 / being :poss vx3 :mod (vx14 / whole))) :ARG1-of (vx15 / resemble-01 :ARG2 (vx16 / flame-01 :ARG1 (vx17 / lamp))) :concession (vx18 / even-when :op1 (vx19 / sleep-01 :ARG0 vx3))))))) :ARG1-of (vx20 / deep-02)) :ARG2 vx1 :time (vx21 / open-01 :ARG1 (vx22 / lip :part-of vx3) :degree (vx23 / slight) :manner (vx24 / smile-01 :mod (vx25 / half) :degree (vx26 / suspicion))) :mod (vx27 / again))
+
+# ::id lpp_1943.669 ::date 2012-11-08T14:11:46 ::annotator ISI-AMR-05 ::preferred
+# ::snt I do n't amuse myself with balderdash .
+# ::save-date Thu Nov 8, 2012 ::file lpp_1943_669.txt
+(vx0 / amuse-01 :ARG0 (vx1 / i) :ARG1 vx1 :ARG2 (vx2 / balderdash) :polarity -)
+
+# ::id lpp_1943.669 ::date 2012-11-08T14:11:46 ::annotator ISI-AMR-05 ::preferred
+# ::snt I do n't amuse myself with balderdash .
+# ::save-date Thu Nov 8, 2012 ::file lpp_1943_669.txt
+(vx0 / amuse-01 :ARG0 (vx1 / i) :ARG1 vx1 :ARG2 (vx2 / balderdash) :polarity -)
+
+# ::id lpp_1943.42 ::date 2012-07-24T11:10:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_42.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / i) :ARG2 (vx2 / isolate-01 :ARG1 vx1) :ARG3 (vx3 / more) :ARG4 (vx4 / person :ARG0-of (vx5 / sail-01) :ARG1-of (vx6 / shipwreck-01) :location (vx7 / raft :location (vx8 / ocean :part (vx9 / middle)))))
+
+# ::id lpp_1943.42 ::date 2012-07-24T11:10:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_42.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / i) :ARG2 (vx2 / isolate-01 :ARG1 vx1) :ARG3 (vx3 / more) :ARG4 (vx4 / person :ARG0-of (vx5 / sail-01) :ARG1-of (vx6 / shipwreck-01) :location (vx7 / raft :location (vx8 / ocean :part (vx9 / middle)))))
+
+# ::id lpp_1943.325 ::date 2012-11-19T12:15:29 ::annotator ISI-AMR-05 ::preferred
+# ::snt He looked at me there , with my hammer in my hand , my fingers black with engine - grease , bending down over an object which seemed to him extremely ugly ...
+# ::save-date Thu May 28, 2015 ::file lpp_1943_325.txt
+(vx0 / look-01 :ARG0 (vx1 / he) :ARG1 (vx2 / vx2 :ARG0-of (vx3 / bend-01 :destination (vx4 / down) :location (vx5 / object :mod (vx6 / ugly :mod (vx7 / seem-01 :ARG2 vx1) :degree (vx8 / extreme)))) :ARG0-of (vx9 / have-03 :ARG1 (vx10 / hammer :poss vx2) :location (vx11 / hand :part-of vx2)) :ARG0-of (vx12 / have-03 :ARG1 (vx13 / finger :part-of vx2 :ARG1-of (vx14 / black-04 :ARG0 (vx15 / grease :mod (vx16 / engine)))))) :location (vx17 / there))
+
+# ::id lpp_1943.325 ::date 2012-11-19T12:15:29 ::annotator ISI-AMR-05 ::preferred
+# ::snt He looked at me there , with my hammer in my hand , my fingers black with engine - grease , bending down over an object which seemed to him extremely ugly ...
+# ::save-date Thu May 28, 2015 ::file lpp_1943_325.txt
+(vx0 / look-01 :ARG0 (vx1 / he) :ARG1 (vx2 / vx2 :ARG0-of (vx3 / bend-01 :destination (vx4 / down) :location (vx5 / object :mod (vx6 / ugly :mod (vx7 / seem-01 :ARG2 vx1) :degree (vx8 / extreme)))) :ARG0-of (vx9 / have-03 :ARG1 (vx10 / hammer :poss vx2) :location (vx11 / hand :part-of vx2)) :ARG0-of (vx12 / have-03 :ARG1 (vx13 / finger :part-of vx2 :ARG1-of (vx14 / black-04 :ARG0 (vx15 / grease :mod (vx16 / engine)))))) :location (vx17 / there))
+
+# ::id lpp_1943.792 ::date 2012-11-14T13:17:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Then - - the planet now makes a complete turn every minute , and I no longer have a single second for repose .
+# ::save-date Tue Dec 19, 2017 ::file lpp_1943_792.txt
+(vx0 / and :op1 (vx1 / turn-01 :ARG1 (vx2 / planet) :ARG1-of (vx3 / complete-02) :time (vx4 / now) :frequency (vx5 / rate-entity-91 :ARG3 (vx6 / temporal-quantity :quant 1 :unit (vx7 / minute)))) :op2 (vx8 / have-03 :ARG0 (vx9 / i) :ARG1 (vx10 / temporal-quantity :quant 1 :unit (vx11 / second) :purpose (vx12 / repose-01)) :time (vx13 / no-longer)) :time (vx14 / then))
+
+# ::id lpp_1943.792 ::date 2012-11-14T13:17:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Then - - the planet now makes a complete turn every minute , and I no longer have a single second for repose .
+# ::save-date Tue Dec 19, 2017 ::file lpp_1943_792.txt
+(vx0 / and :op1 (vx1 / turn-01 :ARG1 (vx2 / planet) :ARG1-of (vx3 / complete-02) :time (vx4 / now) :frequency (vx5 / rate-entity-91 :ARG3 (vx6 / temporal-quantity :quant 1 :unit (vx7 / minute)))) :op2 (vx8 / have-03 :ARG0 (vx9 / i) :ARG1 (vx10 / temporal-quantity :quant 1 :unit (vx11 / second) :purpose (vx12 / repose-01)) :time (vx13 / no-longer)) :time (vx14 / then))
+
+# ::id lpp_1943.613 ::date 2012-11-26T18:44:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt Unfortunately , nobody at all ever passes this way . "
+# ::save-date Mon May 18, 2015 ::file lpp_1943_613.txt
+(vx0 / pass-03 :ARG1 (vx1 / nobody :degree (vx2 / at-all)) :path (vx3 / way :mod (vx4 / this)) :ARG2-of (vx5 / fortunate-01 :polarity -) :time (vx6 / ever))
+
+# ::id lpp_1943.613 ::date 2012-11-26T18:44:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt Unfortunately , nobody at all ever passes this way . "
+# ::save-date Mon May 18, 2015 ::file lpp_1943_613.txt
+(vx0 / pass-03 :ARG1 (vx1 / nobody :degree (vx2 / at-all)) :path (vx3 / way :mod (vx4 / this)) :ARG2-of (vx5 / fortunate-01 :polarity -) :time (vx6 / ever))
+
+# ::id lpp_1943.1447 ::annotator ISI-AMR-05 ::preferred
+# ::snt For others , who are scholars , they are problems .
+# ::save-date Tue May 21, 2013 ::file lpp_1943_1447.txt
+(vx0 / opine-01 :ARG0 (vx1 / scholar) :ARG1 (vx2 / problem :domain (vx3 / they)))
+
+# ::id lpp_1943.1447 ::annotator ISI-AMR-05 ::preferred
+# ::snt For others , who are scholars , they are problems .
+# ::save-date Tue May 21, 2013 ::file lpp_1943_1447.txt
+(vx0 / opine-01 :ARG0 (vx1 / scholar) :ARG1 (vx2 / problem :domain (vx3 / they)))
+
+# ::id lpp_1943.6 ::date 2012-06-07T17:06:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt After that they are not able to move , and they sleep through the six months that they need for digestion . "
+# ::save-date Fri Apr 19, 2013 ::file lpp_1943_6.txt
+(vx0 / and :op1 (vx1 / possible-01 :polarity - :ARG1 (vx2 / move-01 :ARG0 (vx3 / they) :time (vx4 / after :op1 (vx5 / that)))) :op2 (vx6 / sleep-01 :ARG0 vx3 :duration (vx7 / temporal-quantity :quant 6 :unit (vx8 / month) :ARG1-of (vx9 / need-01 :ARG0 vx3 :purpose (vx10 / digest-01 :ARG0 vx3)))))
+
+# ::id lpp_1943.6 ::date 2012-06-07T17:06:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt After that they are not able to move , and they sleep through the six months that they need for digestion . "
+# ::save-date Fri Apr 19, 2013 ::file lpp_1943_6.txt
+(vx0 / and :op1 (vx1 / possible-01 :polarity - :ARG1 (vx2 / move-01 :ARG0 (vx3 / they) :time (vx4 / after :op1 (vx5 / that)))) :op2 (vx6 / sleep-01 :ARG0 vx3 :duration (vx7 / temporal-quantity :quant 6 :unit (vx8 / month) :ARG1-of (vx9 / need-01 :ARG0 vx3 :purpose (vx10 / digest-01 :ARG0 vx3)))))
+
+# ::id lpp_1943.44 ::date 2012-07-24T11:24:15 ::annotator ISI-AMR-05 ::preferred
+# ::snt It said : " If you please -- draw me a sheep ! "
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_44.txt
+(vx0 / say-01 :ARG0 (vx1 / it) :ARG1 (vx2 / draw-01 :mode imperative :polite + :ARG0 (vx3 / you) :ARG1 (vx4 / sheep) :ARG2 (vx5 / i)))
+
+# ::id lpp_1943.44 ::date 2012-07-24T11:24:15 ::annotator ISI-AMR-05 ::preferred
+# ::snt It said : " If you please -- draw me a sheep ! "
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_44.txt
+(vx0 / say-01 :ARG0 (vx1 / it) :ARG1 (vx2 / draw-01 :mode imperative :polite + :ARG0 (vx3 / you) :ARG1 (vx4 / sheep) :ARG2 (vx5 / i)))
+
+# ::id lpp_1943.1428 ::annotator ISI-AMR-05 ::preferred
+# ::snt Because of the pulley , and the rope , what you gave me to drink was like music .
+# ::save-date Thu Oct 16, 2014 ::file lpp_1943_1428.txt
+(vx0 / cause-01 :ARG0 (vx1 / and :op1 (vx2 / pulley) :op2 (vx3 / rope)) :ARG1 (vx4 / resemble-01 :ARG1 (vx5 / thing :ARG1-of (vx6 / give-01 :ARG0 (vx7 / you) :ARG2 (vx8 / i) :purpose (vx9 / drink-01 :ARG0 vx8))) :ARG2 (vx10 / music)))
+
+# ::id lpp_1943.1428 ::annotator ISI-AMR-05 ::preferred
+# ::snt Because of the pulley , and the rope , what you gave me to drink was like music .
+# ::save-date Thu Oct 16, 2014 ::file lpp_1943_1428.txt
+(vx0 / cause-01 :ARG0 (vx1 / and :op1 (vx2 / pulley) :op2 (vx3 / rope)) :ARG1 (vx4 / resemble-01 :ARG1 (vx5 / thing :ARG1-of (vx6 / give-01 :ARG0 (vx7 / you) :ARG2 (vx8 / i) :purpose (vx9 / drink-01 :ARG0 vx8))) :ARG2 (vx10 / music)))
+
+# ::id lpp_1943.759 ::date 2012-11-13T16:59:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he said to himself , nevertheless : " It may well be that this man is absurd .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_759.txt
+(vx0 / have-concession-91 :ARG1 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / possible-01 :ARG1 (vx4 / absurd :domain (vx5 / man :mod (vx6 / this)))) :ARG2 vx2))
+
+# ::id lpp_1943.759 ::date 2012-11-13T16:59:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he said to himself , nevertheless : " It may well be that this man is absurd .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_759.txt
+(vx0 / have-concession-91 :ARG1 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / possible-01 :ARG1 (vx4 / absurd :domain (vx5 / man :mod (vx6 / this)))) :ARG2 vx2))
+
+# ::id lpp_1943.758 ::date 2012-11-13T16:44:31 ::annotator ISI-AMR-05 ::preferred
+# ::snt The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter , somewhere in the heavens , on a planet which had no people , and not one house .
+# ::save-date Fri May 10, 2013 ::file lpp_1943_758.txt
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / explain-01 :ARG0 (vx2 / prince :mod (vx3 / little)) :ARG1 (vx4 / use-01 :ARG1 (vx5 / and :op1 (vx6 / lamp :mod (vx7 / street)) :op2 (vx8 / person :ARG0-of (vx9 / light-04 :ARG1 (vx10 / lamp))) :location (vx11 / relative-position :op1 (vx12 / heaven) :location (vx13 / planet :ARG0-of (vx14 / have-03 :polarity - :ARG1 (vx15 / and :op1 (vx16 / person) :op2 (vx17 / house)))))))))
+
+# ::id lpp_1943.758 ::date 2012-11-13T16:44:31 ::annotator ISI-AMR-05 ::preferred
+# ::snt The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter , somewhere in the heavens , on a planet which had no people , and not one house .
+# ::save-date Fri May 10, 2013 ::file lpp_1943_758.txt
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / explain-01 :ARG0 (vx2 / prince :mod (vx3 / little)) :ARG1 (vx4 / use-01 :ARG1 (vx5 / and :op1 (vx6 / lamp :mod (vx7 / street)) :op2 (vx8 / person :ARG0-of (vx9 / light-04 :ARG1 (vx10 / lamp))) :location (vx11 / relative-position :op1 (vx12 / heaven) :location (vx13 / planet :ARG0-of (vx14 / have-03 :polarity - :ARG1 (vx15 / and :op1 (vx16 / person) :op2 (vx17 / house)))))))))
+
+# ::id lpp_1943.826 ::date 2012-11-15T05:50:02 ::annotator ISI-AMR-05 ::preferred
+# ::snt The sixth planet was ten times larger than the last one .
+# ::save-date Mon Oct 23, 2017 ::file lpp_1943_826.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / planet :ord (vx2 / ordinal-entity :value 6)) :ARG2 (vx3 / large) :ARG3 (vx4 / times :quant 10) :ARG4 (vx5 / planet :mod (vx6 / last)))
+
+# ::id lpp_1943.826 ::date 2012-11-15T05:50:02 ::annotator ISI-AMR-05 ::preferred
+# ::snt The sixth planet was ten times larger than the last one .
+# ::save-date Mon Oct 23, 2017 ::file lpp_1943_826.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / planet :ord (vx2 / ordinal-entity :value 6)) :ARG2 (vx3 / large) :ARG3 (vx4 / times :quant 10) :ARG4 (vx5 / planet :mod (vx6 / last)))
+
+# ::id lpp_1943.820 ::date 2012-11-14T18:11:13 ::annotator ISI-AMR-05 ::preferred
+# ::snt Perhaps that is because he is thinking of something else besides himself . "
+# ::save-date Mon Sep 22, 2014 ::file lpp_1943_820.txt
+(vx0 / possible-01 :ARG1 (vx1 / cause-01 :ARG0 (vx2 / think-01 :ARG0 (vx3 / he) :ARG2 (vx4 / something :mod (vx5 / else) :ARG1-of (vx6 / differ-02 :ARG2 vx3)))))
+
+# ::id lpp_1943.820 ::date 2012-11-14T18:11:13 ::annotator ISI-AMR-05 ::preferred
+# ::snt Perhaps that is because he is thinking of something else besides himself . "
+# ::save-date Mon Sep 22, 2014 ::file lpp_1943_820.txt
+(vx0 / possible-01 :ARG1 (vx1 / cause-01 :ARG0 (vx2 / think-01 :ARG0 (vx3 / he) :ARG2 (vx4 / something :mod (vx5 / else) :ARG1-of (vx6 / differ-02 :ARG2 vx3)))))
+
+# ::id lpp_1943.356 ::date 2012-11-24T07:59:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt Of what moment now was my hammer , my bolt , or thirst , or death ?
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_356.txt
+(vx0 / or :op1 (vx1 / hammer :poss (vx2 / i)) :op2 (vx3 / bolt :poss vx2) :op3 (vx4 / thirst-01 :ARG0 vx2) :op4 (vx5 / die-01 :ARG1 vx2) :time (vx6 / moment :mod (vx7 / amr-unknown)))
+
+# ::id lpp_1943.356 ::date 2012-11-24T07:59:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt Of what moment now was my hammer , my bolt , or thirst , or death ?
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_356.txt
+(vx0 / or :op1 (vx1 / hammer :poss (vx2 / i)) :op2 (vx3 / bolt :poss vx2) :op3 (vx4 / thirst-01 :ARG0 vx2) :op4 (vx5 / die-01 :ARG1 vx2) :time (vx6 / moment :mod (vx7 / amr-unknown)))
+
+# ::id lpp_1943.835 ::date 2012-11-15T06:21:31 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I am a geographer , " the old gentleman said to him .
+# ::save-date Thu Nov 15, 2012 ::file lpp_1943_835.txt
+(vx0 / say-01 :ARG0 (vx1 / gentleman :mod (vx2 / old)) :ARG1 (vx3 / geographer :domain vx1) :ARG2 (vx4 / he))
+
+# ::id lpp_1943.835 ::date 2012-11-15T06:21:31 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I am a geographer , " the old gentleman said to him .
+# ::save-date Thu Nov 15, 2012 ::file lpp_1943_835.txt
+(vx0 / say-01 :ARG0 (vx1 / gentleman :mod (vx2 / old)) :ARG1 (vx3 / geographer :domain vx1) :ARG2 (vx4 / he))
+
+# ::id lpp_1943.1440 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That is my present .
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_1440.txt
+(vx0 / present-01 :ARG0 (vx1 / i) :ARG1 (vx2 / that))
+
+# ::id lpp_1943.1440 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That is my present .
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_1440.txt
+(vx0 / present-01 :ARG0 (vx1 / i) :ARG1 (vx2 / that))
+
+# ::id lpp_1943.812 ::date 2012-11-14T17:57:38 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That does n't do me much good , " said the lamplighter .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_812.txt
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / light-04 :ARG1 (vx3 / lamp))) :ARG1 (vx4 / do-02 :polarity - :ARG0 (vx5 / that) :ARG1 (vx6 / good-04 :ARG2 vx1 :degree (vx7 / much)) :ARG2 vx1))
+
+# ::id lpp_1943.812 ::date 2012-11-14T17:57:38 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That does n't do me much good , " said the lamplighter .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_812.txt
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / light-04 :ARG1 (vx3 / lamp))) :ARG1 (vx4 / do-02 :polarity - :ARG0 (vx5 / that) :ARG1 (vx6 / good-04 :ARG2 vx1 :degree (vx7 / much)) :ARG2 vx1))
+
+# ::id lpp_1943.57 ::date 2012-07-24T12:14:55 ::annotator ISI-AMR-05 ::preferred
+# ::snt And yet my little man seemed neither to be straying uncertainly among the sands , nor to be fainting from fatigue or hunger or thirst or fear .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_57.txt
+(vx0 / contrast-01 :ARG2 (vx1 / seem-01 :ARG1 (vx2 / and :op1 (vx3 / stray-01 :ARG0 (vx4 / man :mod (vx5 / little) :poss (vx6 / i)) :ARG1 (vx7 / among :op1 (vx8 / sand)) :manner (vx9 / certain :polarity -) :polarity -) :op2 (vx10 / faint-01 :ARG0 vx4 :ARG1-of (vx11 / cause-01 :ARG0 (vx12 / or :op1 (vx13 / fatigue-01) :op2 (vx14 / hunger-01) :op3 (vx15 / thirst-01) :op4 (vx16 / fear-01))) :polarity -))))
+
+# ::id lpp_1943.57 ::date 2012-07-24T12:14:55 ::annotator ISI-AMR-05 ::preferred
+# ::snt And yet my little man seemed neither to be straying uncertainly among the sands , nor to be fainting from fatigue or hunger or thirst or fear .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_57.txt
+(vx0 / contrast-01 :ARG2 (vx1 / seem-01 :ARG1 (vx2 / and :op1 (vx3 / stray-01 :ARG0 (vx4 / man :mod (vx5 / little) :poss (vx6 / i)) :ARG1 (vx7 / among :op1 (vx8 / sand)) :manner (vx9 / certain :polarity -) :polarity -) :op2 (vx10 / faint-01 :ARG0 vx4 :ARG1-of (vx11 / cause-01 :ARG0 (vx12 / or :op1 (vx13 / fatigue-01) :op2 (vx14 / hunger-01) :op3 (vx15 / thirst-01) :op4 (vx16 / fear-01))) :polarity -))))
+
+# ::id lpp_1943.599 ::date 2012-11-26T16:01:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then , with a sigh , he took his leave .
+# ::save-date Sat Jul 25, 2015 ::file lpp_1943_599.txt
+(vx0 / take-01 :ARG0 (vx1 / he :ARG0-of (vx2 / sigh-02)) :ARG1 (vx3 / leave-11 :ARG0 vx1) :time (vx4 / then))
+
+# ::id lpp_1943.599 ::date 2012-11-26T16:01:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then , with a sigh , he took his leave .
+# ::save-date Sat Jul 25, 2015 ::file lpp_1943_599.txt
+(vx0 / take-01 :ARG0 (vx1 / he :ARG0-of (vx2 / sigh-02)) :ARG1 (vx3 / leave-11 :ARG0 vx1) :time (vx4 / then))
+
+# ::id lpp_1943.1456 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And when your sorrow is comforted ( time soothes all sorrows ) you will be content that you have known me .
+# ::save-date Wed Mar 18, 2015 ::file lpp_1943_1456.txt
+(vx0 / and :op2 (vx1 / content-01 :ARG1 (vx2 / you) :ARG2 (vx3 / know-02 :ARG0 vx2 :ARG1 (vx4 / i)) :time (vx5 / comfort-01 :ARG1 (vx6 / sorrow-01 :ARG0 vx2 :ARG1-of (vx7 / soothe-01 :ARG0 (vx8 / time)) :mod (vx9 / all)))))
+
+# ::id lpp_1943.1456 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And when your sorrow is comforted ( time soothes all sorrows ) you will be content that you have known me .
+# ::save-date Wed Mar 18, 2015 ::file lpp_1943_1456.txt
+(vx0 / and :op2 (vx1 / content-01 :ARG1 (vx2 / you) :ARG2 (vx3 / know-02 :ARG0 vx2 :ARG1 (vx4 / i)) :time (vx5 / comfort-01 :ARG1 (vx6 / sorrow-01 :ARG0 vx2 :ARG1-of (vx7 / soothe-01 :ARG0 (vx8 / time)) :mod (vx9 / all)))))
+
+# ::id lpp_1943.840 ::date 2012-11-15T06:33:54 ::annotator ISI-AMR-05 ::preferred
+# ::snt And he cast a look around him at the planet of the geographer .
+# ::save-date Mon May 13, 2013 ::file lpp_1943_840.txt
+(vx0 / and :op2 (vx1 / look-01 :ARG0 (vx2 / he) :ARG1 (vx3 / planet :poss (vx4 / geographer)) :direction (vx5 / around :op1 vx2)))
+
+# ::id lpp_1943.840 ::date 2012-11-15T06:33:54 ::annotator ISI-AMR-05 ::preferred
+# ::snt And he cast a look around him at the planet of the geographer .
+# ::save-date Mon May 13, 2013 ::file lpp_1943_840.txt
+(vx0 / and :op2 (vx1 / look-01 :ARG0 (vx2 / he) :ARG1 (vx3 / planet :poss (vx4 / geographer)) :direction (vx5 / around :op1 vx2)))
+
+# ::id lpp_1943.1226 ::date 2012-11-15T19:42:50 ::annotator ISI-AMR-05 ::preferred
+# ::snt He did not follow my reasoning , and he answered me : " It is a good thing to have had a friend , even if one is about to die .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_1226.txt
+(vx0 / and :op1 (vx1 / follow-02 :polarity - :ARG0 (vx2 / he) :ARG1 (vx3 / reason-01 :ARG0 (vx4 / i))) :op2 (vx5 / answer-01 :ARG0 vx2 :ARG1 vx4 :ARG2 (vx6 / good-02 :ARG1 (vx7 / have-rel-role-91 :ARG1 vx11 :ARG2 (vx8 / friend)) :concession (vx9 / even-if :op1 (vx10 / die-01 :ARG1 (vx11 / one) :time (vx12 / about-to))))))
+
+# ::id lpp_1943.1226 ::date 2012-11-15T19:42:50 ::annotator ISI-AMR-05 ::preferred
+# ::snt He did not follow my reasoning , and he answered me : " It is a good thing to have had a friend , even if one is about to die .
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_1226.txt
+(vx0 / and :op1 (vx1 / follow-02 :polarity - :ARG0 (vx2 / he) :ARG1 (vx3 / reason-01 :ARG0 (vx4 / i))) :op2 (vx5 / answer-01 :ARG0 vx2 :ARG1 vx4 :ARG2 (vx6 / good-02 :ARG1 (vx7 / have-rel-role-91 :ARG1 vx11 :ARG2 (vx8 / friend)) :concession (vx9 / even-if :op1 (vx10 / die-01 :ARG1 (vx11 / one) :time (vx12 / about-to))))))
+
+# ::id lpp_1943.830 ::date 2012-11-15T06:13:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt The little prince sat down on the table and panted a little .
+# ::save-date Tue Apr 16, 2013 ::file lpp_1943_830.txt
+(vx0 / and :op1 (vx1 / sit-down-02 :ARG1 (vx2 / prince :mod (vx3 / little)) :location (vx4 / table)) :op2 (vx5 / pant-01 :ARG0 vx2 :duration (vx6 / little)))
+
+# ::id lpp_1943.830 ::date 2012-11-15T06:13:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt The little prince sat down on the table and panted a little .
+# ::save-date Tue Apr 16, 2013 ::file lpp_1943_830.txt
+(vx0 / and :op1 (vx1 / sit-down-02 :ARG1 (vx2 / prince :mod (vx3 / little)) :location (vx4 / table)) :op2 (vx5 / pant-01 :ARG0 vx2 :duration (vx6 / little)))
+
+# ::id lpp_1943.1461 ::annotator ISI-AMR-05 ::preferred
+# ::snt It will be a very shabby trick that I shall have played on you ... "
+# ::save-date Tue May 14, 2013 ::file lpp_1943_1461.txt
+(vx0 / trick-01 :ARG0 (vx1 / i) :ARG1 (vx2 / you) :mod (vx3 / shabby :degree (vx4 / very)))
+
+# ::id lpp_1943.1461 ::annotator ISI-AMR-05 ::preferred
+# ::snt It will be a very shabby trick that I shall have played on you ... "
+# ::save-date Tue May 14, 2013 ::file lpp_1943_1461.txt
+(vx0 / trick-01 :ARG0 (vx1 / i) :ARG1 (vx2 / you) :mod (vx3 / shabby :degree (vx4 / very)))
+
+# ::id lpp_1943.33 ::date 2012-07-24T10:02:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt I would bring myself down to his level .
+# ::save-date Tue Jul 24, 2012 ::file lpp_1943_33.txt
+(vx0 / bring-01 :ARG0 (vx1 / i) :ARG1 vx1 :ARG2 (vx2 / level :poss (vx3 / he)) :ARG3 (vx4 / down))
+
+# ::id lpp_1943.33 ::date 2012-07-24T10:02:52 ::annotator ISI-AMR-05 ::preferred
+# ::snt I would bring myself down to his level .
+# ::save-date Tue Jul 24, 2012 ::file lpp_1943_33.txt
+(vx0 / bring-01 :ARG0 (vx1 / i) :ARG1 vx1 :ARG2 (vx2 / level :poss (vx3 / he)) :ARG3 (vx4 / down))
+
+# ::id lpp_1943.708 ::date 2012-11-09T17:10:17 ::annotator ISI-AMR-05 ::preferred
+# ::snt It is a very different matter . "
+# ::save-date Mon Aug 5, 2013 ::file lpp_1943_708.txt
+(vx0 / matter :ARG1-of (vx1 / differ-02 :degree (vx2 / very)) :domain (vx3 / it))
+
+# ::id lpp_1943.708 ::date 2012-11-09T17:10:17 ::annotator ISI-AMR-05 ::preferred
+# ::snt It is a very different matter . "
+# ::save-date Mon Aug 5, 2013 ::file lpp_1943_708.txt
+(vx0 / matter :ARG1-of (vx1 / differ-02 :degree (vx2 / very)) :domain (vx3 / it))
+
+# ::id lpp_1943.686 ::date 2012-11-09T15:50:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt Little glittering objects . "
+# ::save-date Wed May 8, 2013 ::file lpp_1943_686.txt
+(vx0 / object :mod (vx1 / little) :ARG0-of (vx2 / glitter-01))
+
+# ::id lpp_1943.686 ::date 2012-11-09T15:50:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt Little glittering objects . "
+# ::save-date Wed May 8, 2013 ::file lpp_1943_686.txt
+(vx0 / object :mod (vx1 / little) :ARG0-of (vx2 / glitter-01))
+
+# ::id lpp_1943.13 ::date 2012-06-07T17:45:40 ::annotator ISI-AMR-05 ::preferred
+# ::snt My drawing was not a picture of a hat .
+# ::save-date Thu Oct 29, 2015 ::file lpp_1943_13.txt
+(vx0 / picture-01 :polarity - :ARG0 (vx1 / picture :ARG1-of (vx2 / draw-01 :ARG0 (vx3 / i))) :ARG1 (vx4 / hat))
+
+# ::id lpp_1943.13 ::date 2012-06-07T17:45:40 ::annotator ISI-AMR-05 ::preferred
+# ::snt My drawing was not a picture of a hat .
+# ::save-date Thu Oct 29, 2015 ::file lpp_1943_13.txt
+(vx0 / picture-01 :polarity - :ARG0 (vx1 / picture :ARG1-of (vx2 / draw-01 :ARG0 (vx3 / i))) :ARG1 (vx4 / hat))
+
+# ::id lpp_1943.709 ::date 2012-11-09T17:14:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And what good does it do you to own the stars ? "
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_709.txt
+(vx0 / and :op2 (vx1 / cause-01 :ARG0 (vx2 / own-01 :ARG1 (vx3 / star)) :ARG1 (vx4 / good-04 :ARG1 (vx5 / amr-unknown) :ARG2 (vx6 / you))))
+
+# ::id lpp_1943.709 ::date 2012-11-09T17:14:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And what good does it do you to own the stars ? "
+# ::save-date Wed Nov 4, 2015 ::file lpp_1943_709.txt
+(vx0 / and :op2 (vx1 / cause-01 :ARG0 (vx2 / own-01 :ARG1 (vx3 / star)) :ARG1 (vx4 / good-04 :ARG1 (vx5 / amr-unknown) :ARG2 (vx6 / you))))
+
+# ::id lpp_1943.1484 ::annotator ISI-AMR-05 ::preferred
+# ::snt He said to me merely : " Ah !
+# ::save-date Tue Sep 15, 2015 ::file lpp_1943_1484.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / ah :mode expressive) :ARG2 (vx3 / i) :manner (vx4 / mere))
+
+# ::id lpp_1943.1484 ::annotator ISI-AMR-05 ::preferred
+# ::snt He said to me merely : " Ah !
+# ::save-date Tue Sep 15, 2015 ::file lpp_1943_1484.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / ah :mode expressive) :ARG2 (vx3 / i) :manner (vx4 / mere))
+
+# ::id lpp_1943.811 ::date 2012-11-14T17:29:50 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you want to rest , you will walk - - and the day will last as long as you like . "
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_811.txt
+(vx0 / walk-01 :ARG0 (vx1 / you) :time (vx2 / want-01 :ARG0 vx1 :ARG1 (vx3 / rest-01 :ARG1 vx1)) :ARG0-of (vx4 / cause-01 :ARG1 (vx5 / last-01 :ARG1 (vx6 / day) :ARG2 (vx7 / temporal-quantity :ARG1-of (vx8 / have-quant-91 :ARG3 (vx9 / equal) :ARG4 (vx10 / temporal-quantity :ARG1-of (vx11 / like-02 :ARG0 vx1)))))))
+
+# ::id lpp_1943.811 ::date 2012-11-14T17:29:50 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you want to rest , you will walk - - and the day will last as long as you like . "
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_811.txt
+(vx0 / walk-01 :ARG0 (vx1 / you) :time (vx2 / want-01 :ARG0 vx1 :ARG1 (vx3 / rest-01 :ARG1 vx1)) :ARG0-of (vx4 / cause-01 :ARG1 (vx5 / last-01 :ARG1 (vx6 / day) :ARG2 (vx7 / temporal-quantity :ARG1-of (vx8 / have-quant-91 :ARG3 (vx9 / equal) :ARG4 (vx10 / temporal-quantity :ARG1-of (vx11 / like-02 :ARG0 vx1)))))))
+
+# ::id lpp_1943.725 ::date 2012-11-12T15:45:11 ::annotator ISI-AMR-05 ::preferred
+# ::snt So with me : I own the stars , because nobody else before me ever thought of owning them . "
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_725.txt
+(vx0 / cause-01 :ARG0 (vx1 / think-01 :ARG0 (vx2 / nobody :mod (vx3 / else)) :ARG1 (vx4 / own-01 :ARG0 vx2 :ARG1 (vx5 / star)) :time (vx6 / ever) :time (vx7 / before :op1 (vx8 / i))) :ARG1 (vx9 / own-01 :ARG0 vx8 :ARG1 vx5) :ARG1-of (vx10 / resemble-01 :beneficiary vx8))
+
+# ::id lpp_1943.725 ::date 2012-11-12T15:45:11 ::annotator ISI-AMR-05 ::preferred
+# ::snt So with me : I own the stars , because nobody else before me ever thought of owning them . "
+# ::save-date Mon Nov 3, 2014 ::file lpp_1943_725.txt
+(vx0 / cause-01 :ARG0 (vx1 / think-01 :ARG0 (vx2 / nobody :mod (vx3 / else)) :ARG1 (vx4 / own-01 :ARG0 vx2 :ARG1 (vx5 / star)) :time (vx6 / ever) :time (vx7 / before :op1 (vx8 / i))) :ARG1 (vx9 / own-01 :ARG0 vx8 :ARG1 vx5) :ARG1-of (vx10 / resemble-01 :beneficiary vx8))
+
+# ::id lpp_1943.655 ::date 2012-11-08T10:00:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt Twelve and three make fifteen .
+# ::save-date Wed Oct 7, 2015 ::file lpp_1943_655.txt
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 12 :op2 3) :ARG2 15)
+
+# ::id lpp_1943.655 ::date 2012-11-08T10:00:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt Twelve and three make fifteen .
+# ::save-date Wed Oct 7, 2015 ::file lpp_1943_655.txt
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 12 :op2 3) :ARG2 15)
+
+# ::id lpp_1943.621 ::date 2012-11-26T19:32:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt After five minutes of this exercise the little prince grew tired of the game 's monotony .
+# ::save-date Tue May 14, 2013 ::file lpp_1943_621.txt
+(vx0 / tire-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / monotony :poss (vx4 / game)) :time (vx5 / after :op1 (vx6 / exercise :duration (vx7 / temporal-quantity :quant 5 :unit (vx8 / minute)))))
+
+# ::id lpp_1943.621 ::date 2012-11-26T19:32:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt After five minutes of this exercise the little prince grew tired of the game 's monotony .
+# ::save-date Tue May 14, 2013 ::file lpp_1943_621.txt
+(vx0 / tire-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / monotony :poss (vx4 / game)) :time (vx5 / after :op1 (vx6 / exercise :duration (vx7 / temporal-quantity :quant 5 :unit (vx8 / minute)))))
+
+# ::id lpp_1943.728 ::date 2012-11-12T16:11:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I administer them , " replied the businessman .
+# ::save-date Mon Aug 5, 2013 ::file lpp_1943_728.txt
+(vx0 / reply-01 :ARG0 (vx1 / businessman) :ARG2 (vx2 / administer-01 :ARG0 vx1 :ARG1 (vx3 / they)))
+
+# ::id lpp_1943.728 ::date 2012-11-12T16:11:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I administer them , " replied the businessman .
+# ::save-date Mon Aug 5, 2013 ::file lpp_1943_728.txt
+(vx0 / reply-01 :ARG0 (vx1 / businessman) :ARG2 (vx2 / administer-01 :ARG0 vx1 :ARG1 (vx3 / they)))
+
+# ::id lpp_1943.746 ::date 2012-11-13T12:26:16 ::annotator ISI-AMR-05 ::preferred
+# ::snt On matters of consequence , the little prince had ideas which were very different from those of the grown - ups .
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_746.txt
+(vx0 / have-03 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / idea :topic (vx4 / matter :ARG1-of (vx5 / consequential-01)) :ARG1-of (vx6 / differ-02 :ARG2 (vx7 / idea :poss (vx8 / grown-up)) :degree (vx9 / very))))
+
+# ::id lpp_1943.746 ::date 2012-11-13T12:26:16 ::annotator ISI-AMR-05 ::preferred
+# ::snt On matters of consequence , the little prince had ideas which were very different from those of the grown - ups .
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_746.txt
+(vx0 / have-03 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / idea :topic (vx4 / matter :ARG1-of (vx5 / consequential-01)) :ARG1-of (vx6 / differ-02 :ARG2 (vx7 / idea :poss (vx8 / grown-up)) :degree (vx9 / very))))
+
+# ::id lpp_1943.574 ::date 2012-11-25T18:40:18 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Oh , but I have looked already ! " said the little prince , turning around to give one more glance to the other side of the planet .
+# ::save-date Tue May 20, 2014 ::file lpp_1943_574.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / turn-01 :ARG1 vx1 :purpose (vx4 / glance-01 :quant 1 :ARG0 vx1 :ARG1 (vx5 / side :mod (vx6 / other) :part-of (vx7 / planet)) :mod (vx8 / more)))) :ARG1 (vx9 / contrast-01 :ARG2 (vx10 / look-01 :ARG0 vx1 :time (vx11 / already))))
+
+# ::id lpp_1943.574 ::date 2012-11-25T18:40:18 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Oh , but I have looked already ! " said the little prince , turning around to give one more glance to the other side of the planet .
+# ::save-date Tue May 20, 2014 ::file lpp_1943_574.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / turn-01 :ARG1 vx1 :purpose (vx4 / glance-01 :quant 1 :ARG0 vx1 :ARG1 (vx5 / side :mod (vx6 / other) :part-of (vx7 / planet)) :mod (vx8 / more)))) :ARG1 (vx9 / contrast-01 :ARG2 (vx10 / look-01 :ARG0 vx1 :time (vx11 / already))))
+
+# ::id lpp_1943.745 ::date 2012-11-13T12:24:29 ::annotator ISI-AMR-05 ::preferred
+# ::snt But it is of no great consequence . "
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_745.txt
+(vx0 / contrast-01 :ARG2 (vx1 / consequential-01 :ARG1 (vx2 / it) :degree (vx3 / great :polarity -)))
+
+# ::id lpp_1943.745 ::date 2012-11-13T12:24:29 ::annotator ISI-AMR-05 ::preferred
+# ::snt But it is of no great consequence . "
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_745.txt
+(vx0 / contrast-01 :ARG2 (vx1 / consequential-01 :ARG1 (vx2 / it) :degree (vx3 / great :polarity -)))
+
+# ::id lpp_1943.807 ::date 2012-11-14T16:19:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I always want to rest , " said the lamplighter .
+# ::save-date Mon Oct 6, 2014 ::file lpp_1943_807.txt
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / light-04 :ARG1 (vx3 / lamp))) :ARG1 (vx4 / want-01 :ARG0 vx1 :ARG1 (vx5 / rest-01 :ARG1 vx1) :time (vx6 / always)))
+
+# ::id lpp_1943.807 ::date 2012-11-14T16:19:19 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I always want to rest , " said the lamplighter .
+# ::save-date Mon Oct 6, 2014 ::file lpp_1943_807.txt
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / light-04 :ARG1 (vx3 / lamp))) :ARG1 (vx4 / want-01 :ARG0 vx1 :ARG1 (vx5 / rest-01 :ARG1 vx1) :time (vx6 / always)))
+
+# ::id lpp_1943.357 ::date 2012-11-24T08:10:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt On one star , one planet , my planet , the Earth , there was a little prince to be comforted .
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_357.txt
+(vx0 / be-located-at-91 :ARG1 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / comfort-01 :ARG2-of (vx4 / obligate-01))) :ARG2 (vx5 / and :op1 (vx6 / star :quant 1) :op2 (vx7 / planet :quant 1) :op3 (vx8 / planet :name (vx9 / name :op1 "Earth") :poss (vx10 / i))))
+
+# ::id lpp_1943.357 ::date 2012-11-24T08:10:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt On one star , one planet , my planet , the Earth , there was a little prince to be comforted .
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_357.txt
+(vx0 / be-located-at-91 :ARG1 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / comfort-01 :ARG2-of (vx4 / obligate-01))) :ARG2 (vx5 / and :op1 (vx6 / star :quant 1) :op2 (vx7 / planet :quant 1) :op3 (vx8 / planet :name (vx9 / name :op1 "Earth") :poss (vx10 / i))))
+
+# ::id lpp_1943.1515 ::annotator ISI-AMR-05 ::preferred
+# ::snt She has four thorns , of no use at all , to protect herself against all the world ... "
+# ::save-date Tue Dec 26, 2017 ::file lpp_1943_1515.txt
+(vx0 / have-03 :ARG0 (vx1 / she) :ARG1 (vx2 / thorn :quant 4 :ARG1-of (vx3 / use-01 :polarity - :degree (vx4 / at-all))) :purpose (vx5 / protect-01 :ARG0 vx2 :ARG1 vx1 :ARG2 (vx6 / world :mod (vx7 / all))))
+
+# ::id lpp_1943.1515 ::annotator ISI-AMR-05 ::preferred
+# ::snt She has four thorns , of no use at all , to protect herself against all the world ... "
+# ::save-date Tue Dec 26, 2017 ::file lpp_1943_1515.txt
+(vx0 / have-03 :ARG0 (vx1 / she) :ARG1 (vx2 / thorn :quant 4 :ARG1-of (vx3 / use-01 :polarity - :degree (vx4 / at-all))) :purpose (vx5 / protect-01 :ARG0 vx2 :ARG1 vx1 :ARG2 (vx6 / world :mod (vx7 / all))))
+
+# ::id lpp_1943.40 ::date 2012-07-24T10:37:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was a question of life or death for me : I had scarcely enough drinking water to last a week .
+# ::save-date Fri Sep 22, 2017 ::file lpp_1943_40.txt
+(vx0 / question-01 :ARG0 vx6 :ARG1 (vx1 / or :op1 (vx2 / live-01) :op2 (vx3 / die-01)) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / have-03 :ARG0 (vx6 / i) :ARG1 (vx7 / water :purpose (vx8 / drink-01) :ARG1-of (vx9 / have-quant-91 :ARG3 (vx10 / enough :mod (vx11 / scarce)) :ARG6 (vx12 / last-03 :ARG2 (vx13 / temporal-quantity :quant 1 :unit (vx14 / week)) :ARG3 vx6))))))
+
+# ::id lpp_1943.40 ::date 2012-07-24T10:37:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was a question of life or death for me : I had scarcely enough drinking water to last a week .
+# ::save-date Fri Sep 22, 2017 ::file lpp_1943_40.txt
+(vx0 / question-01 :ARG0 vx6 :ARG1 (vx1 / or :op1 (vx2 / live-01) :op2 (vx3 / die-01)) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / have-03 :ARG0 (vx6 / i) :ARG1 (vx7 / water :purpose (vx8 / drink-01) :ARG1-of (vx9 / have-quant-91 :ARG3 (vx10 / enough :mod (vx11 / scarce)) :ARG6 (vx12 / last-03 :ARG2 (vx13 / temporal-quantity :quant 1 :unit (vx14 / week)) :ARG3 vx6))))))
+
+# ::id lpp_1943.1454 ::date 2013-05-14T13:08:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt And so it will be as if all the stars were laughing , when you look at the sky at night ... you - - only you - - will have stars that can laugh ! "
+# ::save-date Tue Mar 1, 2016 ::file lpp_1943_1454.txt
+(vx0 / and :op2 (vx1 / resemble-01 :ARG1 (vx2 / it) :ARG2 (vx3 / laugh-01 :ARG0 (vx4 / star :mod (vx5 / all))) :time (vx6 / look-01 :ARG0 (vx7 / you :mod (vx8 / only)) :ARG1 (vx9 / sky) :time (vx10 / date-entity :dayperiod (vx11 / night) :time-of (vx12 / have-03 :ARG0 vx7 :ARG1 (vx13 / star :ARG0-of (vx14 / laugh-01 :ARG1-of (vx15 / possible-01))))))))
+
+# ::id lpp_1943.1454 ::date 2013-05-14T13:08:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt And so it will be as if all the stars were laughing , when you look at the sky at night ... you - - only you - - will have stars that can laugh ! "
+# ::save-date Tue Mar 1, 2016 ::file lpp_1943_1454.txt
+(vx0 / and :op2 (vx1 / resemble-01 :ARG1 (vx2 / it) :ARG2 (vx3 / laugh-01 :ARG0 (vx4 / star :mod (vx5 / all))) :time (vx6 / look-01 :ARG0 (vx7 / you :mod (vx8 / only)) :ARG1 (vx9 / sky) :time (vx10 / date-entity :dayperiod (vx11 / night) :time-of (vx12 / have-03 :ARG0 vx7 :ARG1 (vx13 / star :ARG0-of (vx14 / laugh-01 :ARG1-of (vx15 / possible-01))))))))
+
+# ::id lpp_1943.1219 ::date 2012-11-15T17:22:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was now the eighth day since I had had my accident in the desert , and I had listened to the story of the merchant as I was drinking the last drop of my water supply .
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_1219.txt
+(vx0 / and :op1 (vx1 / pass-03 :ARG1 (vx2 / temporal-quantity :quant 8 :unit (vx3 / day)) :time (vx4 / since :op1 (vx5 / accident :poss (vx6 / i) :location (vx7 / desert)))) :op2 (vx8 / listen-01 :ARG0 vx6 :ARG1 (vx9 / story :poss (vx10 / person :ARG0-of (vx11 / merchandise-01))) :time (vx12 / drink-01 :ARG0 vx6 :ARG1 (vx13 / drop :part-of (vx14 / water :ARG1-of (vx15 / supply-01 :ARG2 vx6)) :ord (vx16 / ordinal-entity :value "-1")))))
+
+# ::id lpp_1943.1219 ::date 2012-11-15T17:22:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was now the eighth day since I had had my accident in the desert , and I had listened to the story of the merchant as I was drinking the last drop of my water supply .
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_1219.txt
+(vx0 / and :op1 (vx1 / pass-03 :ARG1 (vx2 / temporal-quantity :quant 8 :unit (vx3 / day)) :time (vx4 / since :op1 (vx5 / accident :poss (vx6 / i) :location (vx7 / desert)))) :op2 (vx8 / listen-01 :ARG0 vx6 :ARG1 (vx9 / story :poss (vx10 / person :ARG0-of (vx11 / merchandise-01))) :time (vx12 / drink-01 :ARG0 vx6 :ARG1 (vx13 / drop :part-of (vx14 / water :ARG1-of (vx15 / supply-01 :ARG2 vx6)) :ord (vx16 / ordinal-entity :value "-1")))))
+
+# ::id lpp_1943.677 ::date 2012-11-09T14:39:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt I do n't get enough exercise .
+# ::save-date Thu Sep 21, 2017 ::file lpp_1943_677.txt
+(vx0 / have-quant-91 :polarity - :ARG1 (vx1 / exercise-02 :ARG0 (vx2 / i)) :ARG3 (vx3 / enough))
+
+# ::id lpp_1943.677 ::date 2012-11-09T14:39:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt I do n't get enough exercise .
+# ::save-date Thu Sep 21, 2017 ::file lpp_1943_677.txt
+(vx0 / have-quant-91 :polarity - :ARG1 (vx1 / exercise-02 :ARG0 (vx2 / i)) :ARG3 (vx3 / enough))
+
+# ::id lpp_1943.631 ::date 2012-11-26T20:35:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
+# ::save-date Thu Aug 7, 2014 ::file lpp_1943_631.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / shrug-01 :ARG1 (vx4 / shoulder :part-of vx1) :degree (vx5 / slight))) :ARG1 (vx6 / contrast-01 :ARG1 (vx7 / admire-01 :ARG0 (vx8 / i) :ARG1 (vx9 / you)) :ARG2 (vx10 / interest-01 :ARG0 vx7 :ARG1 vx9 :degree (vx11 / much :degree (vx12 / so)) :ARG1-of (vx13 / cause-01 :ARG0 (vx14 / amr-unknown)))))
+
+# ::id lpp_1943.631 ::date 2012-11-26T20:35:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
+# ::save-date Thu Aug 7, 2014 ::file lpp_1943_631.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / shrug-01 :ARG1 (vx4 / shoulder :part-of vx1) :degree (vx5 / slight))) :ARG1 (vx6 / contrast-01 :ARG1 (vx7 / admire-01 :ARG0 (vx8 / i) :ARG1 (vx9 / you)) :ARG2 (vx10 / interest-01 :ARG0 vx7 :ARG1 vx9 :degree (vx11 / much :degree (vx12 / so)) :ARG1-of (vx13 / cause-01 :ARG0 (vx14 / amr-unknown)))))
+
+# ::id lpp_1943.1230 ::date 2012-11-15T19:56:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt " He has never been either hungry or thirsty .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_1230.txt
+(vx0 / and :op1 (vx1 / hunger-01 :ARG0 (vx2 / he) :polarity -) :op2 (vx3 / thirst-01 :ARG0 vx2 :polarity -) :time (vx4 / ever))
+
+# ::id lpp_1943.1230 ::date 2012-11-15T19:56:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt " He has never been either hungry or thirsty .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_1230.txt
+(vx0 / and :op1 (vx1 / hunger-01 :ARG0 (vx2 / he) :polarity -) :op2 (vx3 / thirst-01 :ARG0 vx2 :polarity -) :time (vx4 / ever))
+
+# ::id lpp_1943.24 ::date 2012-07-17T13:04:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt If one gets lost in the night , such knowledge is valuable .
+# ::save-date Tue Mar 17, 2015 ::file lpp_1943_24.txt
+(vx0 / value-02 :ARG1 (vx1 / knowledge :mod (vx2 / such)) :condition (vx3 / get-03 :ARG1 (vx4 / one) :ARG2 (vx5 / lost :time (vx6 / date-entity :dayperiod (vx7 / night)))))
+
+# ::id lpp_1943.24 ::date 2012-07-17T13:04:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt If one gets lost in the night , such knowledge is valuable .
+# ::save-date Tue Mar 17, 2015 ::file lpp_1943_24.txt
+(vx0 / value-02 :ARG1 (vx1 / knowledge :mod (vx2 / such)) :condition (vx3 / get-03 :ARG1 (vx4 / one) :ARG2 (vx5 / lost :time (vx6 / date-entity :dayperiod (vx7 / night)))))
+
+# ::id lpp_1943.602 ::date 2012-11-26T16:20:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt " The grown - ups are very strange , " the little prince said to himself , as he continued on his journey .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_602.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / strange :degree (vx4 / very) :domain (vx5 / grown-up)) :ARG2 vx1 :time (vx6 / continue-01 :ARG0 vx1 :ARG1 (vx7 / journey-01 :ARG0 vx1)))
+
+# ::id lpp_1943.602 ::date 2012-11-26T16:20:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt " The grown - ups are very strange , " the little prince said to himself , as he continued on his journey .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_602.txt
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / strange :degree (vx4 / very) :domain (vx5 / grown-up)) :ARG2 vx1 :time (vx6 / continue-01 :ARG0 vx1 :ARG1 (vx7 / journey-01 :ARG0 vx1)))
+
+# ::id lpp_1943.742 ::date 2012-11-12T16:52:25 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That is enough , " said the businessman .
+# ::save-date Sat May 18, 2013 ::file lpp_1943_742.txt
+(vx0 / say-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / enough :domain (vx3 / that)))
+
+# ::id lpp_1943.742 ::date 2012-11-12T16:52:25 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That is enough , " said the businessman .
+# ::save-date Sat May 18, 2013 ::file lpp_1943_742.txt
+(vx0 / say-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / enough :domain (vx3 / that)))
+
+# ::id lpp_1943.678 ::date 2012-11-09T14:47:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have no time for loafing .
+# ::save-date Fri Apr 26, 2013 ::file lpp_1943_678.txt
+(vx0 / have-03 :ARG0 (vx1 / i) :ARG1 (vx2 / time :purpose (vx3 / loaf-01 :ARG0 vx1)) :polarity -)
+
+# ::id lpp_1943.678 ::date 2012-11-09T14:47:37 ::annotator ISI-AMR-05 ::preferred
+# ::snt I have no time for loafing .
+# ::save-date Fri Apr 26, 2013 ::file lpp_1943_678.txt
+(vx0 / have-03 :ARG0 (vx1 / i) :ARG1 (vx2 / time :purpose (vx3 / loaf-01 :ARG0 vx1)) :polarity -)
+
+# ::id lpp_1943.849 ::date 2012-11-15T06:45:56 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And towns , and rivers , and deserts ? "
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_849.txt
+(vx0 / and :op2 (vx1 / and :op1 (vx2 / town) :op2 (vx3 / river) :op3 (vx4 / desert) :polarity (vx5 / amr-unknown)))
+
+# ::id lpp_1943.849 ::date 2012-11-15T06:45:56 ::annotator ISI-AMR-05 ::preferred
+# ::snt " And towns , and rivers , and deserts ? "
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_849.txt
+(vx0 / and :op2 (vx1 / and :op1 (vx2 / town) :op2 (vx3 / river) :op3 (vx4 / desert) :polarity (vx5 / amr-unknown)))
+
+# ::id lpp_1943.28 ::date 2012-07-17T13:35:38 ::annotator ISI-AMR-05 ::preferred
+# ::snt And that has n't much improved my opinion of them .
+# ::save-date Thu May 16, 2013 ::file lpp_1943_28.txt
+(vx0 / and :op2 (vx1 / improve-01 :polarity - :ARG0 (vx2 / that) :ARG1 (vx3 / thing :ARG1-of (vx4 / opine-01 :ARG0 (vx5 / i) :topic (vx6 / they))) :degree (vx7 / much)))
+
+# ::id lpp_1943.28 ::date 2012-07-17T13:35:38 ::annotator ISI-AMR-05 ::preferred
+# ::snt And that has n't much improved my opinion of them .
+# ::save-date Thu May 16, 2013 ::file lpp_1943_28.txt
+(vx0 / and :op2 (vx1 / improve-01 :polarity - :ARG0 (vx2 / that) :ARG1 (vx3 / thing :ARG1-of (vx4 / opine-01 :ARG0 (vx5 / i) :topic (vx6 / they))) :degree (vx7 / much)))
+
+# ::id lpp_1943.751 ::date 2012-11-13T15:07:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt The businessman opened his mouth , but he found nothing to say in answer .
+# ::save-date Sat May 18, 2013 ::file lpp_1943_751.txt
+(vx0 / contrast-01 :ARG1 (vx1 / open-01 :ARG0 (vx2 / businessman) :ARG1 (vx3 / mouth :part-of vx2)) :ARG2 (vx4 / find-01 :ARG0 vx2 :ARG1 (vx5 / answer-01 :polarity -)))
+
+# ::id lpp_1943.751 ::date 2012-11-13T15:07:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt The businessman opened his mouth , but he found nothing to say in answer .
+# ::save-date Sat May 18, 2013 ::file lpp_1943_751.txt
+(vx0 / contrast-01 :ARG1 (vx1 / open-01 :ARG0 (vx2 / businessman) :ARG1 (vx3 / mouth :part-of vx2)) :ARG2 (vx4 / find-01 :ARG0 vx2 :ARG1 (vx5 / answer-01 :polarity -)))
+
+# ::id lpp_1943.47 ::date 2012-07-24T11:31:14 ::annotator ISI-AMR-05 ::preferred
+# ::snt I jumped to my feet , completely thunderstruck .
+# ::save-date Tue Jul 28, 2015 ::file lpp_1943_47.txt
+(vx0 / jump-03 :ARG0 (vx1 / vx1 :mod (vx2 / thunderstruck :ARG1-of (vx3 / complete-02))) :destination (vx4 / foot :part-of vx1))
+
+# ::id lpp_1943.47 ::date 2012-07-24T11:31:14 ::annotator ISI-AMR-05 ::preferred
+# ::snt I jumped to my feet , completely thunderstruck .
+# ::save-date Tue Jul 28, 2015 ::file lpp_1943_47.txt
+(vx0 / jump-03 :ARG0 (vx1 / vx1 :mod (vx2 / thunderstruck :ARG1-of (vx3 / complete-02))) :destination (vx4 / foot :part-of vx1))
+
+# ::id lpp_1943.839 ::date 2012-11-15T06:32:06 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Here at last is a man who has a real profession ! "
+# ::save-date Tue Oct 6, 2015 ::file lpp_1943_839.txt
+(vx0 / man :ARG0-of (vx1 / have-03 :ARG1 (vx2 / profession :ARG1-of (vx3 / real-04))) :time (vx4 / at-last))
+
+# ::id lpp_1943.839 ::date 2012-11-15T06:32:06 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Here at last is a man who has a real profession ! "
+# ::save-date Tue Oct 6, 2015 ::file lpp_1943_839.txt
+(vx0 / man :ARG0-of (vx1 / have-03 :ARG1 (vx2 / profession :ARG1-of (vx3 / real-04))) :time (vx4 / at-last))
+
+# ::id lpp_1943.809 ::date 2012-11-14T16:40:24 ::annotator ISI-AMR-05 ::preferred
+# ::snt The little prince went on with his explanation : " Your planet is so small that three strides will take you all the way around it .
+# ::save-date Wed Jan 3, 2018 ::file lpp_1943_809.txt
+(vx0 / go-on-25 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / explain-01 :ARG0 vx1 :ARG1 (vx4 / cause-01 :ARG0 (vx5 / have-degree-91 :ARG1 (vx6 / planet :poss (vx7 / you)) :ARG2 (vx8 / small) :ARG3 (vx9 / so) :ARG6 (vx10 / take-03 :ARG0 (vx11 / stride-01 :quant 3) :ARG1 vx7 :ARG2 (vx12 / around :op1 vx6 :extent (vx13 / all-the-way)))))))
+
+# ::id lpp_1943.809 ::date 2012-11-14T16:40:24 ::annotator ISI-AMR-05 ::preferred
+# ::snt The little prince went on with his explanation : " Your planet is so small that three strides will take you all the way around it .
+# ::save-date Wed Jan 3, 2018 ::file lpp_1943_809.txt
+(vx0 / go-on-25 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / explain-01 :ARG0 vx1 :ARG1 (vx4 / cause-01 :ARG0 (vx5 / have-degree-91 :ARG1 (vx6 / planet :poss (vx7 / you)) :ARG2 (vx8 / small) :ARG3 (vx9 / so) :ARG6 (vx10 / take-03 :ARG0 (vx11 / stride-01 :quant 3) :ARG1 vx7 :ARG2 (vx12 / around :op1 vx6 :extent (vx13 / all-the-way)))))))
+
+# ::id lpp_1943.15 ::date 2012-06-07T17:46:55 ::annotator ISI-AMR-05 ::preferred
+# ::snt But since the grown - ups were not able to understand it , I made another drawing : I drew the inside of the boa constrictor , so that the grown - ups could see it clearly .
+# ::save-date Tue Jan 23, 2018 ::file lpp_1943_15.txt
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / draw-01 :ARG0 (vx3 / i) :ARG1 (vx4 / picture :mod (vx5 / another)) :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / possible-01 :polarity - :ARG1 (vx8 / understand-01 :ARG0 (vx9 / grown-up) :ARG1 (vx10 / it))))) :op2 (vx11 / draw-01 :ARG0 vx3 :ARG1 (vx12 / inside :part-of (vx13 / boa :mod (vx14 / constrictor))) :purpose (vx15 / possible-01 :ARG1 (vx16 / see-01 :ARG0 vx9 :ARG1 vx10 :ARG1-of (vx17 / clear-06))))))
+
+# ::id lpp_1943.15 ::date 2012-06-07T17:46:55 ::annotator ISI-AMR-05 ::preferred
+# ::snt But since the grown - ups were not able to understand it , I made another drawing : I drew the inside of the boa constrictor , so that the grown - ups could see it clearly .
+# ::save-date Tue Jan 23, 2018 ::file lpp_1943_15.txt
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / draw-01 :ARG0 (vx3 / i) :ARG1 (vx4 / picture :mod (vx5 / another)) :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / possible-01 :polarity - :ARG1 (vx8 / understand-01 :ARG0 (vx9 / grown-up) :ARG1 (vx10 / it))))) :op2 (vx11 / draw-01 :ARG0 vx3 :ARG1 (vx12 / inside :part-of (vx13 / boa :mod (vx14 / constrictor))) :purpose (vx15 / possible-01 :ARG1 (vx16 / see-01 :ARG0 vx9 :ARG1 vx10 :ARG1-of (vx17 / clear-06))))))
+
+# ::id lpp_1943.652 ::date 2012-11-08T09:55:00 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Your cigarette has gone out . "
+# ::save-date Thu Nov 8, 2012 ::file lpp_1943_652.txt
+(vx0 / go-out-18 :ARG1 (vx1 / cigarette :poss (vx2 / you)))
+
+# ::id lpp_1943.652 ::date 2012-11-08T09:55:00 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Your cigarette has gone out . "
+# ::save-date Thu Nov 8, 2012 ::file lpp_1943_652.txt
+(vx0 / go-out-18 :ARG1 (vx1 / cigarette :poss (vx2 / you)))
+
+# ::id lpp_1943.724 ::date 2012-11-12T15:31:00 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you get an idea before any one else , you take out a patent on it : it is yours .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_724.txt
+(vx0 / and :op1 (vx1 / patent-01 :ARG0 vx3 :ARG1 vx5) :op2 (vx2 / belong-01 :ARG0 vx5 :ARG1 (vx3 / you)) :condition (vx4 / get-01 :ARG0 vx3 :ARG1 (vx5 / idea) :time (vx6 / before :op1 (vx7 / anyone :mod (vx8 / else)))))
+
+# ::id lpp_1943.724 ::date 2012-11-12T15:31:00 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you get an idea before any one else , you take out a patent on it : it is yours .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_724.txt
+(vx0 / and :op1 (vx1 / patent-01 :ARG0 vx3 :ARG1 vx5) :op2 (vx2 / belong-01 :ARG0 vx5 :ARG1 (vx3 / you)) :condition (vx4 / get-01 :ARG0 vx3 :ARG1 (vx5 / idea) :time (vx6 / before :op1 (vx7 / anyone :mod (vx8 / else)))))
+
+# ::id lpp_1943.739 ::date 2012-11-12T16:46:45 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That means that I write the number of my stars on a little paper .
+# ::save-date Sat Mar 14, 2015 ::file lpp_1943_739.txt
+(vx0 / mean-01 :ARG1 (vx1 / that) :ARG2 (vx2 / write-01 :ARG0 (vx3 / i) :ARG1 (vx4 / number :quant-of (vx5 / star :poss vx3)) :location (vx6 / paper :mod (vx7 / little))))
+
+# ::id lpp_1943.739 ::date 2012-11-12T16:46:45 ::annotator ISI-AMR-05 ::preferred
+# ::snt " That means that I write the number of my stars on a little paper .
+# ::save-date Sat Mar 14, 2015 ::file lpp_1943_739.txt
+(vx0 / mean-01 :ARG1 (vx1 / that) :ARG2 (vx2 / write-01 :ARG0 (vx3 / i) :ARG1 (vx4 / number :quant-of (vx5 / star :poss vx3)) :location (vx6 / paper :mod (vx7 / little))))
+
+# ::id lpp_1943.39 ::date 2012-07-24T10:28:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt And as I had with me neither a mechanic nor any passengers , I set myself to attempt the difficult repairs all alone .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_39.txt
+(vx0 / and :op2 (vx1 / cause-01 :ARG0 (vx2 / have-03 :ARG0 vx6 :ARG1 (vx3 / or :op1 (vx4 / mechanic) :op2 (vx5 / passenger)) :accompanier (vx6 / i) :polarity -) :ARG1 (vx7 / attempt-01 :ARG0 vx6 :ARG1 (vx8 / repair-01 :mod (vx9 / difficult)) :mod (vx10 / alone :degree (vx11 / all)))))
+
+# ::id lpp_1943.39 ::date 2012-07-24T10:28:08 ::annotator ISI-AMR-05 ::preferred
+# ::snt And as I had with me neither a mechanic nor any passengers , I set myself to attempt the difficult repairs all alone .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_39.txt
+(vx0 / and :op2 (vx1 / cause-01 :ARG0 (vx2 / have-03 :ARG0 vx6 :ARG1 (vx3 / or :op1 (vx4 / mechanic) :op2 (vx5 / passenger)) :accompanier (vx6 / i) :polarity -) :ARG1 (vx7 / attempt-01 :ARG0 vx6 :ARG1 (vx8 / repair-01 :mod (vx9 / difficult)) :mod (vx10 / alone :degree (vx11 / all)))))
+
+# ::id lpp_1943.756 ::date 2012-11-13T16:23:34 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was the smallest of all .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_756.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / it) :ARG2 (vx2 / small) :ARG3 (vx3 / most) :ARG5 (vx4 / all))
+
+# ::id lpp_1943.756 ::date 2012-11-13T16:23:34 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was the smallest of all .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_756.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / it) :ARG2 (vx2 / small) :ARG3 (vx3 / most) :ARG5 (vx4 / all))
+
+# ::id lpp_1943.1432 ::annotator ISI-AMR-05 ::preferred
+# ::snt Where I live everything is so small that I can not show you where my star is to be found .
+# ::save-date Thu Sep 21, 2017 ::file lpp_1943_1432.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / everything :location (vx2 / live-01 :ARG0 vx7)) :ARG2 (vx3 / small) :ARG3 (vx4 / so) :ARG6 (vx5 / possible-01 :polarity - :ARG1 (vx6 / show-01 :ARG0 (vx7 / i) :ARG1 (vx8 / location :location-of (vx9 / find-01 :ARG1 (vx10 / star :poss vx7))) :ARG2 (vx11 / you))))
+
+# ::id lpp_1943.1432 ::annotator ISI-AMR-05 ::preferred
+# ::snt Where I live everything is so small that I can not show you where my star is to be found .
+# ::save-date Thu Sep 21, 2017 ::file lpp_1943_1432.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / everything :location (vx2 / live-01 :ARG0 vx7)) :ARG2 (vx3 / small) :ARG3 (vx4 / so) :ARG6 (vx5 / possible-01 :polarity - :ARG1 (vx6 / show-01 :ARG0 (vx7 / i) :ARG1 (vx8 / location :location-of (vx9 / find-01 :ARG1 (vx10 / star :poss vx7))) :ARG2 (vx11 / you))))
+
+# ::id lpp_1943.337 ::date 2012-11-19T12:40:31 ::annotator ISI-AMR-05 ::preferred
+# ::snt And all day he says over and over , just like you : ' I am busy with matters of consequence ! ' And that makes him swell up with pride .
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_337.txt
+(vx0 / multi-sentence :snt1 (vx1 / and :op1 (vx2 / say-01 :ARG0 (vx3 / he) :ARG1 (vx4 / busy-01 :ARG1 vx3 :ARG2 (vx5 / matter :ARG1-of (vx6 / consequential-01))) :time (vx7 / day :mod (vx8 / all)) :frequency (vx9 / over-and-over) :manner (vx10 / resemble-01 :ARG2 (vx11 / you) :mod (vx12 / just)) :ARG0-of (vx13 / cause-01))) :snt2 (vx14 / and :op1 (vx15 / make-02 :ARG0 (vx16 / that) :ARG1 (vx17 / swell-01 :ARG0 vx16 :ARG1 vx19 :manner (vx18 / pride-01 :ARG0 (vx19 / he) :ARG2 vx16)))))
+
+# ::id lpp_1943.337 ::date 2012-11-19T12:40:31 ::annotator ISI-AMR-05 ::preferred
+# ::snt And all day he says over and over , just like you : ' I am busy with matters of consequence ! ' And that makes him swell up with pride .
+# ::save-date Thu Nov 2, 2017 ::file lpp_1943_337.txt
+(vx0 / multi-sentence :snt1 (vx1 / and :op1 (vx2 / say-01 :ARG0 (vx3 / he) :ARG1 (vx4 / busy-01 :ARG1 vx3 :ARG2 (vx5 / matter :ARG1-of (vx6 / consequential-01))) :time (vx7 / day :mod (vx8 / all)) :frequency (vx9 / over-and-over) :manner (vx10 / resemble-01 :ARG2 (vx11 / you) :mod (vx12 / just)) :ARG0-of (vx13 / cause-01))) :snt2 (vx14 / and :op1 (vx15 / make-02 :ARG0 (vx16 / that) :ARG1 (vx17 / swell-01 :ARG0 vx16 :ARG1 vx19 :manner (vx18 / pride-01 :ARG0 (vx19 / he) :ARG2 vx16)))))
+
+# ::id lpp_1943.722 ::date 2012-11-12T15:23:11 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you find a diamond that belongs to nobody , it is yours .
+# ::save-date Wed May 15, 2013 ::file lpp_1943_722.txt
+(vx0 / belong-01 :ARG0 vx3 :ARG1 (vx1 / you) :condition (vx2 / find-01 :ARG0 vx1 :ARG1 (vx3 / diamond :ARG0-of (vx4 / belong-01 :ARG1 (vx5 / nobody)))))
+
+# ::id lpp_1943.722 ::date 2012-11-12T15:23:11 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you find a diamond that belongs to nobody , it is yours .
+# ::save-date Wed May 15, 2013 ::file lpp_1943_722.txt
+(vx0 / belong-01 :ARG0 vx3 :ARG1 (vx1 / you) :condition (vx2 / find-01 :ARG0 vx1 :ARG1 (vx3 / diamond :ARG0-of (vx4 / belong-01 :ARG1 (vx5 / nobody)))))
+
+# ::id lpp_1943.1434 ::annotator ISI-AMR-05 ::preferred
+# ::snt My star will just be one of the stars , for you .
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_1434.txt
+(vx0 / star :quant 1 :beneficiary (vx1 / you) :poss (vx2 / i) :ARG1-of (vx3 / include-91 :ARG2 (vx4 / star) :mod (vx5 / just)))
+
+# ::id lpp_1943.1434 ::annotator ISI-AMR-05 ::preferred
+# ::snt My star will just be one of the stars , for you .
+# ::save-date Fri Oct 16, 2015 ::file lpp_1943_1434.txt
+(vx0 / star :quant 1 :beneficiary (vx1 / you) :poss (vx2 / i) :ARG1-of (vx3 / include-91 :ARG2 (vx4 / star) :mod (vx5 / just)))
+
+# ::id lpp_1943.63 ::date 2012-07-24T12:58:21 ::annotator ISI-AMR-05 ::preferred
+# ::snt But then I remembered how my studies had been concentrated on geography , history , arithmetic , and grammar , and I told the little chap ( a little crossly , too ) that I did not know how to draw .
+# ::save-date Wed Mar 18, 2015 ::file lpp_1943_63.txt
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / remember-01 :ARG0 (vx3 / i) :ARG1 (vx4 / concentrate-01 :ARG1 (vx5 / and :op1 (vx6 / geography) :op2 (vx7 / history) :op3 (vx8 / arithmetic) :op4 (vx9 / grammar)) :ARG2 (vx10 / study-01 :ARG0 vx3)) :time (vx11 / then)) :op2 (vx12 / tell-01 :ARG0 vx3 :ARG1 (vx13 / know-03 :polarity - :ARG0 vx3 :ARG1 (vx14 / draw-01 :ARG0 vx3)) :ARG2 (vx15 / chap :mod (vx16 / little)) :manner (vx17 / cross :mod (vx18 / little) :mod (vx19 / also)))))
+
+# ::id lpp_1943.63 ::date 2012-07-24T12:58:21 ::annotator ISI-AMR-05 ::preferred
+# ::snt But then I remembered how my studies had been concentrated on geography , history , arithmetic , and grammar , and I told the little chap ( a little crossly , too ) that I did not know how to draw .
+# ::save-date Wed Mar 18, 2015 ::file lpp_1943_63.txt
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / remember-01 :ARG0 (vx3 / i) :ARG1 (vx4 / concentrate-01 :ARG1 (vx5 / and :op1 (vx6 / geography) :op2 (vx7 / history) :op3 (vx8 / arithmetic) :op4 (vx9 / grammar)) :ARG2 (vx10 / study-01 :ARG0 vx3)) :time (vx11 / then)) :op2 (vx12 / tell-01 :ARG0 vx3 :ARG1 (vx13 / know-03 :polarity - :ARG0 vx3 :ARG1 (vx14 / draw-01 :ARG0 vx3)) :ARG2 (vx15 / chap :mod (vx16 / little)) :manner (vx17 / cross :mod (vx18 / little) :mod (vx19 / also)))))
+
+# ::id lpp_1943.1478 ::annotator ISI-AMR-05 ::preferred
+# ::snt This one might bite you just for fun ... "
+# ::save-date Thu Jan 21, 2016 ::file lpp_1943_1478.txt
+(vx0 / possible-01 :ARG1 (vx1 / bite-01 :ARG0 (vx2 / one :mod (vx3 / this)) :ARG1 (vx4 / you) :purpose (vx5 / fun-01 :mod (vx6 / just))))
+
+# ::id lpp_1943.1478 ::annotator ISI-AMR-05 ::preferred
+# ::snt This one might bite you just for fun ... "
+# ::save-date Thu Jan 21, 2016 ::file lpp_1943_1478.txt
+(vx0 / possible-01 :ARG1 (vx1 / bite-01 :ARG0 (vx2 / one :mod (vx3 / this)) :ARG1 (vx4 / you) :purpose (vx5 / fun-01 :mod (vx6 / just))))
+
+# ::id lpp_1943.723 ::date 2012-11-12T15:27:46 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you discover an island that belongs to nobody , it is yours .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_723.txt
+(vx0 / belong-01 :ARG0 vx3 :ARG1 (vx1 / you) :condition (vx2 / discover-01 :ARG0 vx1 :ARG1 (vx3 / island :ARG0-of (vx4 / belong-01 :ARG1 (vx5 / nobody)))))
+
+# ::id lpp_1943.723 ::date 2012-11-12T15:27:46 ::annotator ISI-AMR-05 ::preferred
+# ::snt When you discover an island that belongs to nobody , it is yours .
+# ::save-date Thu May 9, 2013 ::file lpp_1943_723.txt
+(vx0 / belong-01 :ARG0 vx3 :ARG1 (vx1 / you) :condition (vx2 / discover-01 :ARG0 vx1 :ARG1 (vx3 / island :ARG0-of (vx4 / belong-01 :ARG1 (vx5 / nobody)))))
+
+# ::id lpp_1943.326 ::date 2012-11-19T12:19:04 ::annotator ISI-AMR-05 ::preferred
+# ::snt " You talk just like the grown - ups ! "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_326.txt
+(vx0 / talk-01 :ARG0 (vx1 / you) :ARG1-of (vx2 / resemble-01 :ARG2 (vx3 / grown-up) :mod (vx4 / just)))
+
+# ::id lpp_1943.326 ::date 2012-11-19T12:19:04 ::annotator ISI-AMR-05 ::preferred
+# ::snt " You talk just like the grown - ups ! "
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_326.txt
+(vx0 / talk-01 :ARG0 (vx1 / you) :ARG1-of (vx2 / resemble-01 :ARG2 (vx3 / grown-up) :mod (vx4 / just)))
+
+# ::id lpp_1943.67 ::date 2012-07-24T13:11:14 ::annotator ISI-AMR-05 ::preferred
+# ::snt So I drew for him one of the two pictures I had drawn so often .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_67.txt
+(vx0 / cause-01 :ARG1 (vx1 / draw-01 :ARG0 (vx2 / i) :ARG1 (vx3 / picture :quant 1 :ARG1-of (vx4 / include-91 :ARG2 (vx5 / picture :quant 2 :ARG1-of (vx6 / draw-01 :ARG0 vx2 :time (vx7 / often :degree (vx8 / so)))))) :ARG2 (vx9 / he)))
+
+# ::id lpp_1943.67 ::date 2012-07-24T13:11:14 ::annotator ISI-AMR-05 ::preferred
+# ::snt So I drew for him one of the two pictures I had drawn so often .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_67.txt
+(vx0 / cause-01 :ARG1 (vx1 / draw-01 :ARG0 (vx2 / i) :ARG1 (vx3 / picture :quant 1 :ARG1-of (vx4 / include-91 :ARG2 (vx5 / picture :quant 2 :ARG1-of (vx6 / draw-01 :ARG0 vx2 :time (vx7 / often :degree (vx8 / so)))))) :ARG2 (vx9 / he)))
+
+# ::id lpp_1943.3 ::date 2012-06-07T17:06:23 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was a picture of a boa constrictor in the act of swallowing an animal .
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_3.txt
+(vx0 / picture :domain (vx1 / it) :topic (vx2 / boa :mod (vx3 / constrictor) :ARG0-of (vx4 / swallow-01 :ARG1 (vx5 / animal))))
+
+# ::id lpp_1943.3 ::date 2012-06-07T17:06:23 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was a picture of a boa constrictor in the act of swallowing an animal .
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_3.txt
+(vx0 / picture :domain (vx1 / it) :topic (vx2 / boa :mod (vx3 / constrictor) :ARG0-of (vx4 / swallow-01 :ARG1 (vx5 / animal))))
+
+# ::id lpp_1943.662 ::date 2012-11-08T10:14:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then that makes five - hundred - and - one - million , six - hundred - twenty - two - thousand , seven - hundred - thirty - one . "
+# ::save-date Tue May 14, 2013 ::file lpp_1943_662.txt
+(vx0 / equal-01 :ARG1 501622731 :ARG2 (vx1 / that))
+
+# ::id lpp_1943.662 ::date 2012-11-08T10:14:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then that makes five - hundred - and - one - million , six - hundred - twenty - two - thousand , seven - hundred - thirty - one . "
+# ::save-date Tue May 14, 2013 ::file lpp_1943_662.txt
+(vx0 / equal-01 :ARG1 501622731 :ARG2 (vx1 / that))
+
+# ::id lpp_1943.1227 ::date 2012-11-15T19:51:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt I , for instance , am very glad to have had a fox as a friend ... "
+# ::save-date Sat Jul 25, 2015 ::file lpp_1943_1227.txt
+(vx0 / glad-02 :ARG0 (vx1 / have-rel-role-91 :ARG0 (vx2 / fox) :ARG1 vx4 :ARG2 (vx3 / friend)) :ARG1 (vx4 / vx4 :ARG0-of (vx5 / exemplify-01)) :degree (vx6 / very))
+
+# ::id lpp_1943.1227 ::date 2012-11-15T19:51:07 ::annotator ISI-AMR-05 ::preferred
+# ::snt I , for instance , am very glad to have had a fox as a friend ... "
+# ::save-date Sat Jul 25, 2015 ::file lpp_1943_1227.txt
+(vx0 / glad-02 :ARG0 (vx1 / have-rel-role-91 :ARG0 (vx2 / fox) :ARG1 vx4 :ARG2 (vx3 / friend)) :ARG1 (vx4 / vx4 :ARG0-of (vx5 / exemplify-01)) :degree (vx6 / very))
+
+# ::id lpp_1943.797 ::date 2012-11-14T13:43:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt " While we have been talking together a month has gone by . "
+# ::save-date Wed Sep 18, 2013 ::file lpp_1943_797.txt
+(vx0 / pass-03 :ARG1 (vx1 / temporal-quantity :quant 1 :unit (vx2 / month)) :duration-of (vx3 / talk-01 :ARG0 (vx4 / we) :mod (vx5 / together)))
+
+# ::id lpp_1943.797 ::date 2012-11-14T13:43:30 ::annotator ISI-AMR-05 ::preferred
+# ::snt " While we have been talking together a month has gone by . "
+# ::save-date Wed Sep 18, 2013 ::file lpp_1943_797.txt
+(vx0 / pass-03 :ARG1 (vx1 / temporal-quantity :quant 1 :unit (vx2 / month)) :duration-of (vx3 / talk-01 :ARG0 (vx4 / we) :mod (vx5 / together)))
+
+# ::id lpp_1943.626 ::date 2012-11-26T20:05:32 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What does that mean - - ' admire ' ? "
+# ::save-date Sat Mar 14, 2015 ::file lpp_1943_626.txt
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / amr-unknown))
+
+# ::id lpp_1943.626 ::date 2012-11-26T20:05:32 ::annotator ISI-AMR-05 ::preferred
+# ::snt " What does that mean - - ' admire ' ? "
+# ::save-date Sat Mar 14, 2015 ::file lpp_1943_626.txt
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / amr-unknown))
+
+# ::id lpp_1943.781 ::date 2012-11-13T18:49:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt And he put out his lamp .
+# ::save-date Tue Nov 13, 2012 ::file lpp_1943_781.txt
+(vx0 / and :op2 (vx1 / put-out-09 :ARG0 (vx2 / he) :ARG1 (vx3 / lamp :poss vx2)))
+
+# ::id lpp_1943.781 ::date 2012-11-13T18:49:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt And he put out his lamp .
+# ::save-date Tue Nov 13, 2012 ::file lpp_1943_781.txt
+(vx0 / and :op2 (vx1 / put-out-09 :ARG0 (vx2 / he) :ARG1 (vx3 / lamp :poss vx2)))
+
+# ::id lpp_1943.338 ::date 2012-11-20T10:13:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he is not a man - - he is a mushroom ! "
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_338.txt
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / man :polarity - :domain vx4) :op2 (vx3 / mushroom :domain (vx4 / he))))
+
+# ::id lpp_1943.338 ::date 2012-11-20T10:13:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt But he is not a man - - he is a mushroom ! "
+# ::save-date Mon Apr 15, 2013 ::file lpp_1943_338.txt
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / man :polarity - :domain vx4) :op2 (vx3 / mushroom :domain (vx4 / he))))
+
+# ::id lpp_1943.1481 ::annotator ISI-AMR-05 ::preferred
+# ::snt That night I did not see him set out on his way .
+# ::save-date Tue Mar 1, 2016 ::file lpp_1943_1481.txt
+(vx0 / see-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / set-out-07 :ARG0 (vx3 / he) :ARG1 (vx4 / way :poss vx3)) :time (vx5 / date-entity :dayperiod (vx6 / night) :mod (vx7 / that)))
+
+# ::id lpp_1943.1481 ::annotator ISI-AMR-05 ::preferred
+# ::snt That night I did not see him set out on his way .
+# ::save-date Tue Mar 1, 2016 ::file lpp_1943_1481.txt
+(vx0 / see-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / set-out-07 :ARG0 (vx3 / he) :ARG1 (vx4 / way :poss vx3)) :time (vx5 / date-entity :dayperiod (vx6 / night) :mod (vx7 / that)))
+
+# ::id lpp_1943.607 ::date 2012-11-26T16:29:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
+# ::save-date Fri Feb 14, 2014 ::file lpp_1943_607.txt
+(vx0 / exclaim-01 :ARG0 (vx1 / he) :ARG1 (vx2 / visit-01 :ARG0 vx1 :ARG1 (vx3 / person :ARG0-of (vx4 / admire-01 :ARG1 vx1)) :time (vx5 / about-to)) :time (vx6 / see-01 :ARG0 vx1 :ARG1 (vx7 / come-01 :ARG1 (vx8 / prince :mod (vx9 / little))) :ord (vx10 / ordinal-entity :value 1)) :direction (vx11 / from :op1 (vx12 / afar)))
+
+# ::id lpp_1943.607 ::date 2012-11-26T16:29:28 ::annotator ISI-AMR-05 ::preferred
+# ::snt I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
+# ::save-date Fri Feb 14, 2014 ::file lpp_1943_607.txt
+(vx0 / exclaim-01 :ARG0 (vx1 / he) :ARG1 (vx2 / visit-01 :ARG0 vx1 :ARG1 (vx3 / person :ARG0-of (vx4 / admire-01 :ARG1 vx1)) :time (vx5 / about-to)) :time (vx6 / see-01 :ARG0 vx1 :ARG1 (vx7 / come-01 :ARG1 (vx8 / prince :mod (vx9 / little))) :ord (vx10 / ordinal-entity :value 1)) :direction (vx11 / from :op1 (vx12 / afar)))
+
+# ::id lpp_1943.859 ::date 2012-11-15T07:57:29 ::annotator ISI-AMR-05 ::preferred
+# ::snt He asks them questions , and he notes down what they recall of their travels .
+# ::save-date Wed Apr 8, 2015 ::file lpp_1943_859.txt
+(vx0 / and :op1 (vx1 / question-01 :ARG0 (vx2 / he) :ARG2 (vx3 / they)) :op2 (vx4 / note-02 :ARG0 vx2 :ARG1 (vx5 / thing :ARG1-of (vx6 / recall-02) :source (vx7 / travel-01 :ARG0 vx3))))
+
+# ::id lpp_1943.859 ::date 2012-11-15T07:57:29 ::annotator ISI-AMR-05 ::preferred
+# ::snt He asks them questions , and he notes down what they recall of their travels .
+# ::save-date Wed Apr 8, 2015 ::file lpp_1943_859.txt
+(vx0 / and :op1 (vx1 / question-01 :ARG0 (vx2 / he) :ARG2 (vx3 / they)) :op2 (vx4 / note-02 :ARG0 vx2 :ARG1 (vx5 / thing :ARG1-of (vx6 / recall-02) :source (vx7 / travel-01 :ARG0 vx3))))
+
+# ::id lpp_1943.353 ::date 2012-11-24T07:57:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt His words were choked by sobbing .
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_353.txt
+(vx0 / choke-up-04 :ARG0 (vx1 / sob-01) :ARG1 (vx2 / word :poss (vx3 / he)))
+
+# ::id lpp_1943.353 ::date 2012-11-24T07:57:36 ::annotator ISI-AMR-05 ::preferred
+# ::snt His words were choked by sobbing .
+# ::save-date Tue Apr 23, 2013 ::file lpp_1943_353.txt
+(vx0 / choke-up-04 :ARG0 (vx1 / sob-01) :ARG1 (vx2 / word :poss (vx3 / he)))
+
+# ::id lpp_1943.1271 ::annotator ISI-AMR-05 ::preferred
+# ::snt What is most important is invisible ... "
+# ::save-date Wed Oct 11, 2017 ::file lpp_1943_1271.txt
+(vx0 / see-01 :ARG1 (vx1 / thing :ARG1-of (vx2 / have-degree-91 :ARG2 (vx3 / important-01 :ARG1 vx1) :ARG3 (vx4 / most))) :ARG1-of (vx5 / possible-01 :polarity -))
+
+# ::id lpp_1943.1271 ::annotator ISI-AMR-05 ::preferred
+# ::snt What is most important is invisible ... "
+# ::save-date Wed Oct 11, 2017 ::file lpp_1943_1271.txt
+(vx0 / see-01 :ARG1 (vx1 / thing :ARG1-of (vx2 / have-degree-91 :ARG2 (vx3 / important-01 :ARG1 vx1) :ARG3 (vx4 / most))) :ARG1-of (vx5 / possible-01 :polarity -))
+
+# ::id lpp_1943.1463 ::annotator ISI-AMR-05 ::preferred
+# ::snt " It will be as if , in place of the stars , I had given you a great number of little bells that knew how to laugh ... "
+# ::save-date Wed Sep 10, 2014 ::file lpp_1943_1463.txt
+(vx0 / resemble-01 :ARG1 (vx1 / give-01 :ARG0 (vx2 / i) :ARG1 (vx3 / bell :mod (vx4 / little) :quant (vx5 / great) :ARG0-of (vx6 / know-01 :ARG1 (vx7 / laugh-01))) :ARG2 (vx8 / you) :ARG1-of (vx9 / instead-of-91 :ARG2 (vx10 / give-01 :ARG0 vx2 :ARG1 (vx11 / star) :ARG2 vx8))))
+
+# ::id lpp_1943.1463 ::annotator ISI-AMR-05 ::preferred
+# ::snt " It will be as if , in place of the stars , I had given you a great number of little bells that knew how to laugh ... "
+# ::save-date Wed Sep 10, 2014 ::file lpp_1943_1463.txt
+(vx0 / resemble-01 :ARG1 (vx1 / give-01 :ARG0 (vx2 / i) :ARG1 (vx3 / bell :mod (vx4 / little) :quant (vx5 / great) :ARG0-of (vx6 / know-01 :ARG1 (vx7 / laugh-01))) :ARG2 (vx8 / you) :ARG1-of (vx9 / instead-of-91 :ARG2 (vx10 / give-01 :ARG0 vx2 :ARG1 (vx11 / star) :ARG2 vx8))))
+
+# ::id lpp_1943.633 ::date 2012-11-27T10:31:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt " The grown - ups are certainly very odd , " he said to himself , as he continued on his journey .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_633.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / odd :degree (vx3 / very) :mod (vx4 / certain) :domain (vx5 / grown-up)) :ARG2 vx1 :time (vx6 / continue-01 :ARG0 vx1 :ARG1 (vx7 / journey-01 :ARG0 vx1)))
+
+# ::id lpp_1943.633 ::date 2012-11-27T10:31:10 ::annotator ISI-AMR-05 ::preferred
+# ::snt " The grown - ups are certainly very odd , " he said to himself , as he continued on his journey .
+# ::save-date Wed Apr 24, 2013 ::file lpp_1943_633.txt
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / odd :degree (vx3 / very) :mod (vx4 / certain) :domain (vx5 / grown-up)) :ARG2 vx1 :time (vx6 / continue-01 :ARG0 vx1 :ARG1 (vx7 / journey-01 :ARG0 vx1)))
+
+# ::id lpp_1943.625 ::date 2012-11-26T19:59:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Do you really admire me very much ? " he demanded of the little prince .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_625.txt
+(vx0 / demand-01 :ARG0 (vx1 / he) :ARG1 (vx2 / truth-value :polarity-of (vx3 / admire-01 :ARG0 vx7 :ARG1 vx1 :degree (vx4 / much :degree (vx5 / very)) :ARG1-of (vx6 / real-04))) :ARG2 (vx7 / prince :mod (vx8 / little)))
+
+# ::id lpp_1943.625 ::date 2012-11-26T19:59:49 ::annotator ISI-AMR-05 ::preferred
+# ::snt " Do you really admire me very much ? " he demanded of the little prince .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_625.txt
+(vx0 / demand-01 :ARG0 (vx1 / he) :ARG1 (vx2 / truth-value :polarity-of (vx3 / admire-01 :ARG0 vx7 :ARG1 vx1 :degree (vx4 / much :degree (vx5 / very)) :ARG1-of (vx6 / real-04))) :ARG2 (vx7 / prince :mod (vx8 / little)))
+
+# ::id lpp_1943.37 ::date 2012-07-24T10:10:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt So I lived my life alone , without anyone that I could really talk to , until I had an accident with my plane in the Desert of Sahara , six years ago .
+# ::save-date Tue Oct 6, 2015 ::file lpp_1943_37.txt
+(vx0 / cause-01 :ARG1 (vx1 / live-01 :ARG0 (vx2 / vx2 :ARG0-of (vx3 / talk-01 :polarity - :ARG2 (vx4 / anyone) :ARG1-of (vx5 / real-04))) :ARG1 (vx6 / life :poss vx2) :manner (vx7 / alone) :duration (vx8 / until :op1 (vx9 / have-06 :ARG0 vx2 :ARG1 (vx10 / accident :mod (vx11 / plane)) :location (vx12 / desert :name (vx13 / name :op1 "Desert" :op2 "of" :op3 "Sahara")) :time (vx14 / before :op1 (vx15 / now) :quant (vx16 / temporal-quantity :quant 6 :unit (vx17 / year)))))))
+
+# ::id lpp_1943.37 ::date 2012-07-24T10:10:35 ::annotator ISI-AMR-05 ::preferred
+# ::snt So I lived my life alone , without anyone that I could really talk to , until I had an accident with my plane in the Desert of Sahara , six years ago .
+# ::save-date Tue Oct 6, 2015 ::file lpp_1943_37.txt
+(vx0 / cause-01 :ARG1 (vx1 / live-01 :ARG0 (vx2 / vx2 :ARG0-of (vx3 / talk-01 :polarity - :ARG2 (vx4 / anyone) :ARG1-of (vx5 / real-04))) :ARG1 (vx6 / life :poss vx2) :manner (vx7 / alone) :duration (vx8 / until :op1 (vx9 / have-06 :ARG0 vx2 :ARG1 (vx10 / accident :mod (vx11 / plane)) :location (vx12 / desert :name (vx13 / name :op1 "Desert" :op2 "of" :op3 "Sahara")) :time (vx14 / before :op1 (vx15 / now) :quant (vx16 / temporal-quantity :quant 6 :unit (vx17 / year)))))))
+
+# ::id lpp_1943.8 ::date 2012-06-07T17:06:41 ::annotator ISI-AMR-05 ::preferred
+# ::snt And after some work with a colored pencil I succeeded in making my first drawing .
+# ::save-date Thu Oct 29, 2015 ::file lpp_1943_8.txt
+(vx0 / and :op2 (vx1 / succeed-01 :ARG0 (vx2 / i) :ARG1 (vx3 / make-01 :ARG0 vx2 :ARG1 (vx4 / picture :ARG1-of (vx5 / draw-01 :ARG0 vx2 :ord (vx6 / ordinal-entity :value 1)))) :time (vx7 / after :op1 (vx8 / work-01 :ARG0 vx2 :instrument (vx9 / pencil :mod (vx10 / color)) :mod (vx11 / some)))))
+
+# ::id lpp_1943.8 ::date 2012-06-07T17:06:41 ::annotator ISI-AMR-05 ::preferred
+# ::snt And after some work with a colored pencil I succeeded in making my first drawing .
+# ::save-date Thu Oct 29, 2015 ::file lpp_1943_8.txt
+(vx0 / and :op2 (vx1 / succeed-01 :ARG0 (vx2 / i) :ARG1 (vx3 / make-01 :ARG0 vx2 :ARG1 (vx4 / picture :ARG1-of (vx5 / draw-01 :ARG0 vx2 :ord (vx6 / ordinal-entity :value 1)))) :time (vx7 / after :op1 (vx8 / work-01 :ARG0 vx2 :instrument (vx9 / pencil :mod (vx10 / color)) :mod (vx11 / some)))))
+
+# ::id lpp_1943.9 ::date 2012-06-07T17:06:44 ::annotator ISI-AMR-05 ::preferred
+# ::snt My Drawing Number One .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_9.txt
+(vx0 / picture :name (vx1 / name :op1 "Drawing" :op2 "Number" :op3 "One") :poss (vx2 / i))
+
+# ::id lpp_1943.9 ::date 2012-06-07T17:06:44 ::annotator ISI-AMR-05 ::preferred
+# ::snt My Drawing Number One .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_9.txt
+(vx0 / picture :name (vx1 / name :op1 "Drawing" :op2 "Number" :op3 "One") :poss (vx2 / i))
+
+# ::id lpp_1943.782 ::date 2012-11-13T18:50:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then he mopped his forehead with a handkerchief decorated with red squares .
+# ::save-date Thu Jun 18, 2015 ::file lpp_1943_782.txt
+(vx0 / mop-01 :ARG0 (vx1 / he) :ARG1 (vx2 / forehead :part-of vx1) :ARG2 (vx3 / handkerchief :ARG1-of (vx4 / decorate-01 :ARG2 (vx5 / square :ARG1-of (vx6 / red-02)))) :time (vx7 / then))
+
+# ::id lpp_1943.782 ::date 2012-11-13T18:50:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt Then he mopped his forehead with a handkerchief decorated with red squares .
+# ::save-date Thu Jun 18, 2015 ::file lpp_1943_782.txt
+(vx0 / mop-01 :ARG0 (vx1 / he) :ARG1 (vx2 / forehead :part-of vx1) :ARG2 (vx3 / handkerchief :ARG1-of (vx4 / decorate-01 :ARG2 (vx5 / square :ARG1-of (vx6 / red-02)))) :time (vx7 / then))
+
+# ::id lpp_1943.1228 ::date 2012-11-15T19:54:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt " He has no way of guessing the danger , "
+# ::save-date Thu Nov 15, 2012 ::file lpp_1943_1228.txt
+(vx0 / possible-01 :ARG1 (vx1 / guess-01 :ARG0 (vx2 / he) :ARG1 (vx3 / danger)) :polarity -)
+
+# ::id lpp_1943.1228 ::date 2012-11-15T19:54:33 ::annotator ISI-AMR-05 ::preferred
+# ::snt " He has no way of guessing the danger , "
+# ::save-date Thu Nov 15, 2012 ::file lpp_1943_1228.txt
+(vx0 / possible-01 :ARG1 (vx1 / guess-01 :ARG0 (vx2 / he) :ARG1 (vx3 / danger)) :polarity -)
+
+# ::id lpp_1943.34 ::date 2012-07-24T10:05:56 ::annotator ISI-AMR-05 ::preferred
+# ::snt I would talk to him about bridge , and golf , and politics , and neckties .
+# ::save-date Sat Dec 29, 2012 ::file lpp_1943_34.txt
+(vx0 / talk-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / bridge) :op2 (vx4 / golf) :op3 (vx5 / politics) :op4 (vx6 / necktie)) :ARG2 (vx7 / he))
+
+# ::id lpp_1943.34 ::date 2012-07-24T10:05:56 ::annotator ISI-AMR-05 ::preferred
+# ::snt I would talk to him about bridge , and golf , and politics , and neckties .
+# ::save-date Sat Dec 29, 2012 ::file lpp_1943_34.txt
+(vx0 / talk-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / bridge) :op2 (vx4 / golf) :op3 (vx5 / politics) :op4 (vx6 / necktie)) :ARG2 (vx7 / he))
+
+# ::id lpp_1943.841 ::date 2012-11-15T06:36:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was the most magnificent and stately planet that he had ever seen .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_841.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / it) :ARG2 (vx2 / and :op1 (vx3 / magnificent) :op2 (vx4 / stately)) :ARG3 (vx5 / most) :ARG5 (vx6 / planet :ARG1-of (vx7 / see-01 :ARG0 (vx8 / he) :time (vx9 / ever))))
+
+# ::id lpp_1943.841 ::date 2012-11-15T06:36:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt It was the most magnificent and stately planet that he had ever seen .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_841.txt
+(vx0 / have-degree-91 :ARG1 (vx1 / it) :ARG2 (vx2 / and :op1 (vx3 / magnificent) :op2 (vx4 / stately)) :ARG3 (vx5 / most) :ARG5 (vx6 / planet :ARG1-of (vx7 / see-01 :ARG0 (vx8 / he) :time (vx9 / ever))))
+
+# ::id lpp_1943.1446 ::annotator ISI-AMR-05 ::preferred
+# ::snt For others they are no more than little lights in the sky .
+# ::save-date Tue May 21, 2013 ::file lpp_1943_1446.txt
+(vx0 / opine-01 :ARG0 (vx1 / person :mod (vx2 / other)) :ARG1 (vx3 / light :mod (vx4 / little) :location (vx5 / sky) :mod (vx6 / only) :domain (vx7 / they)))
+
+# ::id lpp_1943.1446 ::annotator ISI-AMR-05 ::preferred
+# ::snt For others they are no more than little lights in the sky .
+# ::save-date Tue May 21, 2013 ::file lpp_1943_1446.txt
+(vx0 / opine-01 :ARG0 (vx1 / person :mod (vx2 / other)) :ARG1 (vx3 / light :mod (vx4 / little) :location (vx5 / sky) :mod (vx6 / only) :domain (vx7 / they)))
+
+# ::id lpp_1943.41 ::date 2012-07-24T10:52:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt The first night , then , I went to sleep on the sand , a thousand miles from any human habitation .
+# ::save-date Tue Mar 1, 2016 ::file lpp_1943_41.txt
+(vx0 / sleep-01 :ARG0 (vx1 / i) :location (vx2 / sand) :time (vx3 / date-entity :dayperiod (vx4 / night) :ord (vx5 / ordinal-entity :value 1)) :location (vx6 / relative-position :op1 (vx7 / place :ARG1-of (vx8 / inhabit-01 :ARG0 (vx9 / human)) :mod (vx10 / any)) :quant (vx11 / distance-quantity :quant 1000 :unit (vx12 / mile)) :direction (vx13 / away)))
+
+# ::id lpp_1943.41 ::date 2012-07-24T10:52:42 ::annotator ISI-AMR-05 ::preferred
+# ::snt The first night , then , I went to sleep on the sand , a thousand miles from any human habitation .
+# ::save-date Tue Mar 1, 2016 ::file lpp_1943_41.txt
+(vx0 / sleep-01 :ARG0 (vx1 / i) :location (vx2 / sand) :time (vx3 / date-entity :dayperiod (vx4 / night) :ord (vx5 / ordinal-entity :value 1)) :location (vx6 / relative-position :op1 (vx7 / place :ARG1-of (vx8 / inhabit-01 :ARG0 (vx9 / human)) :mod (vx10 / any)) :quant (vx11 / distance-quantity :quant 1000 :unit (vx12 / mile)) :direction (vx13 / away)))
+
+# ::id lpp_1943.331 ::date 2012-11-19T12:26:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt He tossed his golden curls in the breeze .
+# ::save-date Mon Nov 19, 2012 ::file lpp_1943_331.txt
+(vx0 / toss-01 :ARG0 (vx1 / he) :ARG1 (vx2 / curl :poss vx1 :mod (vx3 / golden)) :location (vx4 / breeze))
+
+# ::id lpp_1943.331 ::date 2012-11-19T12:26:09 ::annotator ISI-AMR-05 ::preferred
+# ::snt He tossed his golden curls in the breeze .
+# ::save-date Mon Nov 19, 2012 ::file lpp_1943_331.txt
+(vx0 / toss-01 :ARG0 (vx1 / he) :ARG1 (vx2 / curl :poss vx1 :mod (vx3 / golden)) :location (vx4 / breeze))
+
+# ::id lpp_1943.58 ::date 2012-07-24T12:23:24 ::annotator ISI-AMR-05 ::preferred
+# ::snt Nothing about him gave any suggestion of a child lost in the middle of the desert , a thousand miles from any human habitation .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_58.txt
+(vx0 / suggest-01 :ARG0 (vx1 / nothing :topic (vx2 / he)) :ARG1 (vx3 / child :ARG1-of (vx4 / lose-02 :location (vx5 / desert :part (vx6 / middle)) :location (vx7 / relative-position :op1 (vx8 / thing :ARG1-of (vx9 / inhabit-01 :ARG0 (vx10 / human)) :mod (vx11 / any)) :quant (vx12 / distance-quantity :unit (vx13 / mile) :quant 1000) :direction (vx14 / away)))))
+
+# ::id lpp_1943.58 ::date 2012-07-24T12:23:24 ::annotator ISI-AMR-05 ::preferred
+# ::snt Nothing about him gave any suggestion of a child lost in the middle of the desert , a thousand miles from any human habitation .
+# ::save-date Tue Apr 9, 2013 ::file lpp_1943_58.txt
+(vx0 / suggest-01 :ARG0 (vx1 / nothing :topic (vx2 / he)) :ARG1 (vx3 / child :ARG1-of (vx4 / lose-02 :location (vx5 / desert :part (vx6 / middle)) :location (vx7 / relative-position :op1 (vx8 / thing :ARG1-of (vx9 / inhabit-01 :ARG0 (vx10 / human)) :mod (vx11 / any)) :quant (vx12 / distance-quantity :unit (vx13 / mile) :quant 1000) :direction (vx14 / away)))))
+
+# ::id lpp_1943.627 ::date 2012-11-26T20:08:34 ::annotator ISI-AMR-05 ::preferred
+# ::snt " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
+# ::save-date Wed Sep 20, 2017 ::file lpp_1943_627.txt
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / regard-01 :ARG0 (vx3 / you) :ARG1 (vx4 / i) :ARG2 (vx5 / man :ARG1-of (vx6 / have-degree-91 :ARG2 (vx7 / handsome) :ARG3 (vx8 / most) :ARG5 (vx9 / planet :mod (vx10 / this))) :ARG1-of (vx11 / have-degree-91 :ARG2 (vx12 / well-09 :ARG1 (vx13 / dress-01 :ARG1 vx5)) :ARG3 (vx14 / most) :ARG5 vx9) :ARG1-of (vx15 / have-degree-91 :ARG2 (vx16 / rich) :ARG3 (vx17 / most) :ARG5 vx9) :ARG1-of (vx18 / have-degree-91 :ARG2 (vx19 / intelligent-01 :ARG1 vx5) :ARG3 (vx20 / most) :ARG5 vx9))))
+
+# ::id lpp_1943.627 ::date 2012-11-26T20:08:34 ::annotator ISI-AMR-05 ::preferred
+# ::snt " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
+# ::save-date Wed Sep 20, 2017 ::file lpp_1943_627.txt
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / regard-01 :ARG0 (vx3 / you) :ARG1 (vx4 / i) :ARG2 (vx5 / man :ARG1-of (vx6 / have-degree-91 :ARG2 (vx7 / handsome) :ARG3 (vx8 / most) :ARG5 (vx9 / planet :mod (vx10 / this))) :ARG1-of (vx11 / have-degree-91 :ARG2 (vx12 / well-09 :ARG1 (vx13 / dress-01 :ARG1 vx5)) :ARG3 (vx14 / most) :ARG5 vx9) :ARG1-of (vx15 / have-degree-91 :ARG2 (vx16 / rich) :ARG3 (vx17 / most) :ARG5 vx9) :ARG1-of (vx18 / have-degree-91 :ARG2 (vx19 / intelligent-01 :ARG1 vx5) :ARG3 (vx20 / most) :ARG5 vx9))))
+
+# ::id lpp_1943.640 ::date 2012-11-08T09:16:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " So that I may forget , " replied the tippler .
+# ::save-date Mon Apr 22, 2013 ::file lpp_1943_640.txt
+(vx0 / reply-01 :ARG0 (vx1 / person :ARG0-of (vx2 / tipple-01)) :ARG2 (vx3 / cause-01 :ARG0 (vx4 / possible-01 :ARG1 (vx5 / forget-01 :ARG0 vx1))))
+
+# ::id lpp_1943.640 ::date 2012-11-08T09:16:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt " So that I may forget , " replied the tippler .
+# ::save-date Mon Apr 22, 2013 ::file lpp_1943_640.txt
+(vx0 / reply-01 :ARG0 (vx1 / person :ARG0-of (vx2 / tipple-01)) :ARG2 (vx3 / cause-01 :ARG0 (vx4 / possible-01 :ARG1 (vx5 / forget-01 :ARG0 vx1))))
+
+# ::id lpp_1943.658 ::date 2012-11-08T10:02:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt Twenty - two and six make twenty - eight .
+# ::save-date Wed May 8, 2013 ::file lpp_1943_658.txt
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 22 :op2 6) :ARG2 28)
+
+# ::id lpp_1943.658 ::date 2012-11-08T10:02:53 ::annotator ISI-AMR-05 ::preferred
+# ::snt Twenty - two and six make twenty - eight .
+# ::save-date Wed May 8, 2013 ::file lpp_1943_658.txt
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 22 :op2 6) :ARG2 28)
+
+# ::id lpp_1943.332 ::date 2012-11-19T12:26:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I know a planet where there is a certain red - faced gentleman .
+# ::save-date Thu Jun 18, 2015 ::file lpp_1943_332.txt
+(vx0 / know-02 :ARG0 (vx1 / i) :ARG1 (vx2 / planet :location-of (vx3 / gentleman :mod (vx4 / certain) :part (vx5 / face :ARG1-of (vx6 / red-02)))))
+
+# ::id lpp_1943.332 ::date 2012-11-19T12:26:48 ::annotator ISI-AMR-05 ::preferred
+# ::snt " I know a planet where there is a certain red - faced gentleman .
+# ::save-date Thu Jun 18, 2015 ::file lpp_1943_332.txt
+(vx0 / know-02 :ARG0 (vx1 / i) :ARG1 (vx2 / planet :location-of (vx3 / gentleman :mod (vx4 / certain) :part (vx5 / face :ARG1-of (vx6 / red-02)))))
+
+# ::id lpp_1943.10 ::date 2012-06-07T17:06:47 ::annotator ISI-AMR-05 ::preferred
+# ::snt It looked like this : I showed my masterpiece to the grown - ups , and asked them whether the drawing frightened them .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_10.txt
+(vx0 / and :op1 (vx1 / look-02 :ARG0 (vx2 / it) :ARG1 (vx3 / this)) :op2 (vx4 / show-01 :ARG0 (vx5 / i) :ARG1 (vx6 / masterpiece :poss vx5) :ARG2 (vx7 / grown-up)) :op3 (vx8 / ask-01 :ARG0 vx5 :ARG1 (vx9 / truth-value :polarity-of (vx10 / frighten-01 :ARG0 (vx11 / picture :ARG1-of (vx12 / draw-01)) :ARG1 vx7)) :ARG2 vx7))
+
+# ::id lpp_1943.10 ::date 2012-06-07T17:06:47 ::annotator ISI-AMR-05 ::preferred
+# ::snt It looked like this : I showed my masterpiece to the grown - ups , and asked them whether the drawing frightened them .
+# ::save-date Mon Sep 18, 2017 ::file lpp_1943_10.txt
+(vx0 / and :op1 (vx1 / look-02 :ARG0 (vx2 / it) :ARG1 (vx3 / this)) :op2 (vx4 / show-01 :ARG0 (vx5 / i) :ARG1 (vx6 / masterpiece :poss vx5) :ARG2 (vx7 / grown-up)) :op3 (vx8 / ask-01 :ARG0 vx5 :ARG1 (vx9 / truth-value :polarity-of (vx10 / frighten-01 :ARG0 (vx11 / picture :ARG1-of (vx12 / draw-01)) :ARG1 vx7)) :ARG2 vx7))
+
+# ::id lpp_1943.43 ::date 2012-07-24T11:16:46 ::annotator ISI-AMR-05 ::preferred
+# ::snt Thus you can imagine my amazement , at sunrise , when I was awakened by an odd little voice .
+# ::save-date Mon May 13, 2013 ::file lpp_1943_43.txt
+(vx0 / cause-01 :ARG1 (vx1 / possible-01 :ARG1 (vx2 / imagine-01 :ARG0 (vx3 / you) :ARG1 (vx4 / amaze-01 :ARG1 (vx5 / i) :time (vx6 / sunrise :time-of (vx7 / wake-01 :ARG0 (vx8 / voice :mod (vx9 / odd) :mod (vx10 / little)) :ARG1 vx5))))))
+
+# ::id lpp_1943.43 ::date 2012-07-24T11:16:46 ::annotator ISI-AMR-05 ::preferred
+# ::snt Thus you can imagine my amazement , at sunrise , when I was awakened by an odd little voice .
+# ::save-date Mon May 13, 2013 ::file lpp_1943_43.txt
+(vx0 / cause-01 :ARG1 (vx1 / possible-01 :ARG1 (vx2 / imagine-01 :ARG0 (vx3 / you) :ARG1 (vx4 / amaze-01 :ARG1 (vx5 / i) :time (vx6 / sunrise :time-of (vx7 / wake-01 :ARG0 (vx8 / voice :mod (vx9 / odd) :mod (vx10 / little)) :ARG1 vx5))))))
+
+# ::id lpp_1943.1486 ::annotator ISI-AMR-05 ::preferred
+# ::snt And he took me by the hand .
+# ::save-date Sun Apr 21, 2013 ::file lpp_1943_1486.txt
+(vx0 / and :op2 (vx1 / take-01 :ARG0 (vx2 / he) :ARG1 (vx3 / i) :manner (vx4 / hand)))
+
+# ::id lpp_1943.1486 ::annotator ISI-AMR-05 ::preferred
+# ::snt And he took me by the hand .
+# ::save-date Sun Apr 21, 2013 ::file lpp_1943_1486.txt
+(vx0 / and :op2 (vx1 / take-01 :ARG0 (vx2 / he) :ARG1 (vx3 / i) :manner (vx4 / hand)))

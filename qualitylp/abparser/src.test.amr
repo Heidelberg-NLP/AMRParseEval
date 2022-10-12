@@ -1,0 +1,1199 @@
+# ::snt And the little prince went away , puzzled .
+(vx0 / and :op2 (vx1 / go-02 :ARG0 (vx2 / prince :mod (vx3 / little)) :ARG4 (vx4 / away) :manner (vx5 / puzzle-01 :ARG1 vx2)))
+
+# ::snt And the little prince went away , puzzled .
+(vx0 / and :op2 (vx1 / go-02 :ARG0 (vx2 / prince :mod (vx3 / little) :ARG2-of (vx4 / puzzle-01)) :ARG4 (vx5 / away)))
+
+# ::snt But he went on , relentlessly : " You mix everything up together ...
+(vx0 / contrast-01 :ARG2 (vx1 / go-on-15 :ARG0 (vx2 / he) :ARG1 (vx3 / mix-up-03 :ARG0 (vx4 / you) :ARG1 (vx5 / everything) :mod (vx6 / together)) :manner (vx7 / relentless)))
+
+# ::snt But he went on , relentlessly : " You mix everything up together ...
+(vx0 / contrast-01 :ARG2 (vx1 / go-on-15 :ARG1 (vx2 / say-01 :ARG0 (vx3 / he) :ARG1 (vx4 / mix-up-02 :ARG0 (vx5 / you) :ARG1 (vx6 / everything) :manner (vx7 / together)) :manner (vx8 / relentless))))
+
+# ::snt For at least his work has some meaning .
+(vx0 / mean-01 :ARG1 (vx1 / work-01 :ARG0 (vx2 / he)) :mod (vx3 / at-least))
+
+# ::snt For at least his work has some meaning .
+(vx0 / mean-01 :ARG1 (vx1 / work-01 :ARG0 (vx2 / he)) :mod (vx3 / at-least) :mod (vx4 / some))
+
+# ::snt And if I know - - I , myself - - one flower which is unique in the world , which grows nowhere but on my planet , but which one little sheep can destroy in a single bite some morning , without even noticing what he is doing - - Oh !
+(vx0 / and :op2 (vx1 / have-condition-91 :ARG2 (vx2 / know-01 :ARG0 (vx3 / i) :ARG1 (vx4 / flower :quant 1 :mod (vx5 / unique :location (vx6 / world) :ARG1-of (vx7 / grow-03 :location (vx8 / nowhere :ARG2-of (vx9 / except-01 :ARG1 (vx10 / planet :poss vx3))) :ARG1-of (vx11 / contrast-01 :ARG2 (vx12 / possible-01 :ARG1 (vx13 / destroy-01 :ARG0 (vx14 / sheep :quant 1 :mod (vx15 / little)) :ARG1 vx4 :manner (vx16 / bite-01 :ARG0 vx14 :ARG1-of (vx17 / single-02) :time (vx18 / date-entity :dayperiod (vx19 / morning) :mod (vx20 / some))) :manner (vx21 / notice-01 :polarity - :ARG0 vx14 :ARG1 (vx22 / do-02 :ARG0 vx14 :ARG1 (vx23 / amr-unknown)) :mod (vx24 / even)))))))))))
+
+# ::snt And if I know - - I , myself - - one flower which is unique in the world , which grows nowhere but on my planet , but which one little sheep can destroy in a single bite some morning , without even noticing what he is doing - - Oh !
+(vx0 / and :op2 (vx1 / have-condition-91 :ARG1 (vx2 / oh :mode expressive) :ARG2 (vx3 / know-01 :ARG0 (vx4 / i) :ARG1 (vx5 / flower :quant 1 :mod (vx6 / unique :location (vx7 / world)) :ARG1-of (vx8 / grow-03 :location (vx9 / nowhere :ARG2-of (vx10 / except-01 :ARG1 (vx11 / planet :poss vx4)))) :ARG1-of (vx12 / contrast-01 :ARG2 (vx13 / possible-01 :ARG1 (vx14 / destroy-01 :ARG0 (vx15 / sheep :quant 1 :mod (vx16 / little)) :manner (vx17 / bite-01 :ARG0 vx15 :ARG1-of (vx18 / single-02) :time (vx19 / date-entity :dayperiod (vx20 / morning) :mod (vx21 / some))) :manner (vx22 / notice-01 :polarity - :ARG0 vx15 :ARG1 (vx23 / thing :ARG1-of (vx24 / do-02 :ARG0 vx15)) :mod (vx25 / even)))))))))
+
+# ::snt From year to year the planet has turned more rapidly and the orders have not been changed ! "
+(vx0 / and :mode expressive :op1 (vx1 / turn-01 :ARG1 (vx2 / planet) :manner (vx3 / rapid :degree (vx4 / more))) :op2 (vx5 / change-01 :polarity - :ARG1 (vx6 / order-01)) :frequency (vx7 / rate-entity-91 :ARG3 (vx8 / temporal-quantity :quant 1 :unit (vx9 / year))))
+
+# ::snt From year to year the planet has turned more rapidly and the orders have not been changed ! "
+(vx0 / and :op1 (vx1 / turn-02 :ARG1 (vx2 / planet) :manner (vx3 / rapid :degree (vx4 / more)) :time (vx5 / date-interval :op1 (vx6 / year) :op2 (vx7 / year))) :op2 (vx8 / change-01 :polarity - :ARG1 (vx9 / order-03)))
+
+# ::snt " The one thing I love in life is to sleep . "
+(vx0 / love-01 :ARG0 (vx1 / i) :ARG1 (vx2 / sleep-01 :ARG0 vx1) :time (vx3 / life))
+
+# ::snt " The one thing I love in life is to sleep . "
+(vx0 / love-01 :ARG0 (vx1 / i) :ARG1 (vx2 / sleep-01) :mod (vx3 / thing :quant 1) :time (vx4 / life))
+
+# ::snt That is why , at the age of six , I gave up what might have been a magnificent career as a painter .
+(vx0 / cause-01 :ARG0 (vx1 / that) :ARG1 (vx2 / give-up-07 :ARG0 (vx3 / i) :ARG1 (vx4 / career :ARG1-of (vx5 / possible-01) :mod (vx6 / magnificent) :topic (vx7 / person :ARG0-of (vx8 / paint-02))) :time (vx9 / age-01 :ARG1 vx3 :ARG2 (vx10 / temporal-quantity :quant 6 :unit (vx11 / year)))))
+
+# ::snt That is why , at the age of six , I gave up what might have been a magnificent career as a painter .
+(vx0 / cause-01 :ARG0 (vx1 / that) :ARG1 (vx2 / give-up-07 :ARG0 (vx3 / i) :ARG1 (vx4 / career :mod (vx5 / magnificent) :ARG1-of (vx6 / possible-01) :topic (vx7 / person :ARG0-of (vx8 / paint-02))) :time (vx9 / age-01 :ARG2 (vx10 / temporal-quantity :quant 6 :unit (vx11 / year)))))
+
+# ::snt Here is a copy of the drawing .
+(vx0 / thing :ARG2-of (vx1 / copy-01 :ARG1 (vx2 / drawing)) :location (vx3 / here))
+
+# ::snt Here is a copy of the drawing .
+(vx0 / thing :ARG2-of (vx1 / copy-01 :ARG1 (vx2 / thing :ARG1-of (vx3 / draw-01))) :location (vx4 / here))
+
+# ::snt " Forget that I am ashamed , " the tippler confessed , hanging his head .
+(vx0 / confess-01 :ARG0 (vx1 / tippler) :ARG1 (vx2 / shame-02 :ARG1 vx1) :manner (vx3 / hanging-07 :ARG0 vx1 :ARG1 (vx4 / head :part-of vx1)) :ARG1-of (vx5 / forget-01 :mode imperative :ARG0 (vx6 / you)))
+
+# ::snt " Forget that I am ashamed , " the tippler confessed , hanging his head .
+(vx0 / confess-01 :ARG0 (vx1 / tippler :part (vx2 / head) :ARG0-of (vx3 / hang-01 :ARG1 vx2)) :ARG1 (vx4 / forget-01 :mode imperative :ARG0 (vx5 / you) :ARG1 (vx6 / shame-02 :ARG1 vx1)))
+
+# ::snt " Hum !
+(vx0 / humor :mode expressive)
+
+# ::snt " Hum !
+(vx0 / hum :mode expressive)
+
+# ::snt " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
+(vx0 / scholar :domain (vx1 / geographer) :ARG0-of (vx2 / know-01 :ARG1 (vx3 / thing :location-of (vx4 / and :op1 (vx5 / sea) :op2 (vx6 / river) :op3 (vx7 / town) :op4 (vx8 / mountain) :op5 (vx9 / desert) :mod (vx10 / all)))))
+
+# ::snt " A geographer is a scholar who knows the location of all the seas , rivers , towns , mountains , and deserts . "
+(vx0 / scholar :domain (vx1 / geographer) :ARG0-of (vx2 / know-01 :ARG1 (vx3 / location :poss (vx4 / and :op1 (vx5 / sea) :op2 (vx6 / river) :op3 (vx7 / town) :op4 (vx8 / mountain) :op5 (vx9 / desert) :mod (vx10 / all)))))
+
+# ::snt " In one of the stars I shall be living .
+(vx0 / live-01 :ARG0 (vx1 / i) :location (vx2 / star :ARG1-of (vx3 / include-91 :ARG2 (vx4 / star))))
+
+# ::snt " In one of the stars I shall be living .
+(vx0 / live-01 :ARG0 (vx1 / i) :location (vx2 / star :quant 1 :ARG1-of (vx3 / include-91 :ARG2 (vx4 / star))))
+
+# ::snt He breathed a sigh of regret , and said to himself , again : " That man is the only one of them all whom I could have made my friend .
+(vx0 / and :op1 (vx1 / breathe-01 :ARG0 (vx2 / he) :ARG1 (vx3 / sigh-02 :ARG0 vx2 :ARG1 (vx4 / regret-01 :ARG0 vx2))) :op2 (vx5 / say-01 :ARG0 vx2 :ARG1 (vx6 / man :mod (vx7 / only) :ARG1-of (vx8 / include-91 :ARG2 (vx9 / they :mod (vx10 / all))) :domain (vx11 / man :mod (vx12 / that)) :ARG0-of (vx13 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx14 / friend) :ARG1-of (vx15 / possible-01))) :ARG2 vx2 :mod (vx16 / again)))
+
+# ::snt He breathed a sigh of regret , and said to himself , again : " That man is the only one of them all whom I could have made my friend .
+(vx0 / and :op1 (vx1 / breathe-01 :ARG0 (vx2 / he) :ARG1 (vx3 / sigh-01 :ARG0 vx2 :ARG1 (vx4 / regret-01 :ARG0 vx2))) :op2 (vx5 / say-01 :ARG0 vx2 :ARG1 (vx6 / include-91 :ARG1 (vx7 / man :mod (vx8 / that) :mod (vx9 / only)) :ARG2 (vx10 / they :mod (vx11 / all)) :ARG3 (vx12 / person :ARG0-of (vx13 / have-rel-role-91 :ARG1 (vx14 / i) :ARG2 (vx15 / friend)) :ARG1-of (vx16 / possible-01))) :mod (vx17 / again)))
+
+# ::snt The businessman suddenly realized that there was no hope of being left in peace until he answered this question .
+(vx0 / realize-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / hopeful-03 :polarity - :ARG1 (vx3 / leave-12 :manner (vx4 / peace)) :time (vx5 / until :op1 (vx6 / answer-01 :ARG0 vx1 :ARG1 (vx7 / thing :ARG1-of (vx8 / question-01) :mod (vx9 / this))))) :manner (vx10 / sudden))
+
+# ::snt The businessman suddenly realized that there was no hope of being left in peace until he answered this question .
+(vx0 / realize-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / hopeful-03 :polarity - :ARG1 (vx3 / leave-14 :ARG1 vx1 :prep-in (vx4 / peace)) :time (vx5 / until :op1 (vx6 / answer-01 :ARG0 (vx7 / he) :ARG1 (vx8 / thing :ARG1-of (vx9 / question-01) :mod (vx10 / this))))) :manner (vx11 / sudden))
+
+# ::snt All the stars will pour out fresh water for me to drink ... "
+(vx0 / pour-01 :ARG0 (vx1 / star :mod (vx2 / all)) :ARG1 (vx3 / water :ARG1-of (vx4 / fresh-04)) :ARG2 (vx5 / i) :purpose (vx6 / drink-01 :ARG0 vx5 :ARG1 vx3) :direction (vx7 / out))
+
+# ::snt All the stars will pour out fresh water for me to drink ... "
+(vx0 / pour-01 :ARG0 (vx1 / star :mod (vx2 / all)) :ARG1 (vx3 / water :ARG1-of (vx4 / fresh-04)) :direction (vx5 / out) :purpose (vx6 / drink-01 :ARG0 (vx7 / i) :ARG1 vx3))
+
+# ::snt But a thought came to reassure him : " It is true that they have no more poison for a second bite . "
+(vx0 / contrast-01 :ARG2 (vx1 / think-01 :ARG1 (vx2 / true-01 :ARG1 (vx3 / have-03 :polarity - :ARG0 (vx4 / they) :ARG1 (vx5 / poison :quant (vx6 / more)) :purpose (vx7 / bite :ord (vx8 / ordinal-entity :value 2)))) :purpose (vx9 / reassure-01 :ARG1 (vx10 / he) :ARG2 vx2)))
+
+# ::snt But a thought came to reassure him : " It is true that they have no more poison for a second bite . "
+(vx0 / contrast-01 :ARG2 (vx1 / think-01 :ARG1 (vx2 / true-01 :ARG1 (vx3 / have-03 :polarity - :ARG0 (vx4 / they) :ARG1 (vx5 / poison :quant (vx6 / more)) :condition (vx7 / bite-01 :ord (vx8 / ordinal-entity :value 2)))) :ARG0-of (vx9 / reassure-01 :ARG1 (vx10 / he))))
+
+# ::snt But you will pardon him on each occasion ; for he must be treated thriftily .
+(vx0 / contrast-01 :ARG2 (vx1 / pardon-01 :ARG0 (vx2 / you) :ARG1 (vx3 / he) :time (vx4 / occasion-02 :mod (vx5 / each)) :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / obligate-01 :ARG2 (vx8 / treat-01 :ARG1 vx3 :manner (vx9 / thrift))))))
+
+# ::snt But you will pardon him on each occasion ; for he must be treated thriftily .
+(vx0 / contrast-01 :ARG2 (vx1 / pardon-01 :ARG0 (vx2 / you) :ARG1 (vx3 / he) :frequency (vx4 / occasion-02 :mod (vx5 / each)) :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / obligate-01 :ARG2 (vx8 / treat-01 :ARG1 vx3 :manner (vx9 / thrift))))))
+
+# ::snt Then he quickly became serious : " Tonight - - you know ... do not come , " said the little prince .
+(vx0 / become-01 :ARG1 (vx1 / he) :ARG2 (vx2 / serious-01 :ARG2 (vx3 / say-01 :ARG0 vx1 :ARG1 (vx4 / come-01 :polarity - :mode imperative :ARG1 (vx5 / you) :time (vx6 / date-entity :dayperiod (vx7 / night) :mod (vx8 / today))))) :ARG1-of (vx9 / quick-02) :time (vx10 / then) :mod (vx11 / prince :mod (vx12 / little)))
+
+# ::snt Then he quickly became serious : " Tonight - - you know ... do not come , " said the little prince .
+(vx0 / and :op1 (vx1 / become-01 :ARG1 (vx2 / he) :ARG2 (vx3 / serious-01 :ARG1 vx2) :ARG1-of (vx4 / quick-02) :time (vx5 / then)) :op2 (vx6 / say-01 :ARG0 (vx7 / prince :mod (vx8 / little)) :ARG1 (vx9 / come-01 :polarity - :mode imperative :ARG1 (vx10 / you) :time (vx11 / date-entity :dayperiod (vx12 / night)) :ARG1-of (vx13 / know-01 :ARG0 vx10))))
+
+# ::snt " Draw me a sheep ! "
+(vx0 / draw-01 :mode imperative :ARG0 (vx1 / you) :ARG1 (vx2 / sheep) :ARG3 (vx3 / i))
+
+# ::snt " Draw me a sheep ! "
+(vx0 / draw-01 :mode imperative :ARG0 (vx1 / you) :ARG1 (vx2 / sheep) :beneficiary (vx3 / i))
+
+# ::snt In the book it said : " Boa constrictors swallow their prey whole , without chewing it .
+(vx0 / say-01 :ARG0 (vx1 / book) :ARG1 (vx2 / swallow-01 :ARG0 (vx3 / person :ARG0-of (vx4 / constrict-01 :ARG1 (vx5 / boa))) :ARG1 (vx6 / thing :ARG1-of (vx7 / prey-01 :ARG0 vx3)) :manner (vx8 / whole) :manner (vx9 / chew-01 :polarity - :ARG0 vx3 :ARG1 vx6)))
+
+# ::snt In the book it said : " Boa constrictors swallow their prey whole , without chewing it .
+(vx0 / say-01 :ARG0 (vx1 / book) :ARG1 (vx2 / swallow-01 :ARG0 (vx3 / person :ARG0-of (vx4 / constrict-01) :mod (vx5 / boa)) :ARG1 (vx6 / prey :poss vx3) :manner (vx7 / whole) :manner (vx8 / chew-01 :polarity - :ARG0 vx3 :ARG1 vx6)))
+
+# ::snt All the stars will be wells with a rusty pulley .
+(vx0 / well :domain (vx1 / star :mod (vx2 / all)) :instrument (vx3 / pulley :ARG1-of (vx4 / rust-01)))
+
+# ::snt All the stars will be wells with a rusty pulley .
+(vx0 / well-09 :ARG1 (vx1 / star :mod (vx2 / all)) :prep-with (vx3 / pulley :ARG1-of (vx4 / rust-01)))
+
+# ::snt So then I chose another profession , and learned to pilot airplanes .
+(vx0 / and :op1 (vx1 / choose-01 :ARG0 (vx2 / i) :ARG1 (vx3 / profession :mod (vx4 / another))) :op2 (vx5 / learn-01 :ARG0 vx2 :ARG1 (vx6 / pilot-01 :ARG0 vx2 :ARG1 (vx7 / airplane))) :time (vx8 / then))
+
+# ::snt So then I chose another profession , and learned to pilot airplanes .
+(vx0 / and :op1 (vx1 / choose-01 :ARG0 (vx2 / i) :ARG1 (vx3 / profession :mod (vx4 / another)) :time (vx5 / then)) :op2 (vx6 / learn-01 :ARG0 vx2 :ARG1 (vx7 / pilot-01 :ARG0 vx2 :ARG1 (vx8 / airplane))))
+
+# ::snt " Then you shall judge yourself , " the king answered .
+(vx0 / answer-01 :ARG0 (vx1 / king) :ARG2 (vx2 / judge-01 :ARG0 (vx3 / you :ARG1-of vx2) :mod (vx4 / then)))
+
+# ::snt " Then you shall judge yourself , " the king answered .
+(vx0 / answer-01 :ARG0 (vx1 / king) :ARG2 (vx2 / recommend-01 :ARG1 (vx3 / judge-01 :ARG0 (vx4 / you) :ARG1 vx4) :time (vx5 / then)))
+
+# ::snt Then you will say to them , ' Yes , the stars always make me laugh ! ' And they will think you are crazy .
+(vx0 / and :op1 (vx1 / say-01 :ARG0 (vx2 / you) :ARG1 (vx3 / make-02 :ARG0 (vx4 / star) :ARG1 (vx5 / laugh-01 :ARG0 (vx6 / they)) :time (vx7 / always)) :ARG2 vx6 :time (vx8 / then)) :op2 (vx9 / think-01 :ARG0 vx6 :ARG1 (vx10 / crazy-03 :ARG1 vx2)))
+
+# ::snt Then you will say to them , ' Yes , the stars always make me laugh ! ' And they will think you are crazy .
+(vx0 / and :op1 (vx1 / say-01 :ARG0 (vx2 / you) :ARG1 (vx3 / and :op1 (vx4 / make-02 :ARG0 (vx5 / star) :ARG1 (vx6 / laugh-01 :ARG0 (vx7 / i)) :time (vx8 / always)) :op2 (vx9 / think-01 :ARG0 (vx10 / they) :ARG1 (vx11 / crazy-03 :ARG1 vx2))) :ARG2 vx10 :time (vx12 / then)))
+
+# ::snt You confuse everything ... "
+(vx0 / confuse-01 :ARG1 (vx1 / you) :ARG2 (vx2 / everything))
+
+# ::snt You confuse everything ... "
+(vx0 / confuse-01 :ARG0 (vx1 / you) :ARG1 (vx2 / everything))
+
+# ::snt " It was wrong of you to come .
+(vx0 / wrong-02 :ARG1 (vx1 / come-01 :ARG1 (vx2 / you)))
+
+# ::snt " It was wrong of you to come .
+(vx0 / wrong-02 :ARG1 (vx1 / you) :ARG2 (vx2 / come-01 :ARG1 vx1))
+
+# ::snt As the king made no answer , the little prince hesitated a moment .
+(vx0 / hesitate-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :time (vx3 / moment) :time (vx4 / answer-01 :polarity - :ARG0 (vx5 / king)))
+
+# ::snt As the king made no answer , the little prince hesitated a moment .
+(vx0 / hesitate-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :duration (vx3 / moment) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / answer-01 :polarity - :ARG0 (vx6 / king))))
+
+# ::snt " And the orders have been changed since that time ? "
+(vx0 / and :mode interrogative :op2 (vx1 / change-01 :ARG1 (vx2 / thing :ARG2-of (vx3 / order-01)) :time (vx4 / since :op1 (vx5 / time :mod (vx6 / that)))))
+
+# ::snt " And the orders have been changed since that time ? "
+(vx0 / and :mode interrogative :op2 (vx1 / change-01 :ARG1 (vx2 / order-02) :time (vx3 / since :op1 (vx4 / time :mod (vx5 / that)))))
+
+# ::snt I pondered deeply , then , over the adventures of the jungle .
+(vx0 / pondble-01 :ARG0 (vx1 / i) :ARG1 (vx2 / adventure :location (vx3 / jungle)) :ARG1-of (vx4 / deep-02) :time (vx5 / then))
+
+# ::snt I pondered deeply , then , over the adventures of the jungle .
+(vx0 / ponder-01 :ARG0 (vx1 / i) :ARG1 (vx2 / adventure :poss (vx3 / jungle)) :ARG1-of (vx4 / deep-02) :time (vx5 / then))
+
+# ::snt His face turned from white to red as he continued : " If some one loves a flower , of which just one single blossom grows in all the millions and millions of stars , it is enough to make him happy just to look at the stars .
+(vx0 / multi-sentence :snt1 (vx1 / turn-02 :ARG1 (vx2 / face :part-of (vx3 / he)) :ARG3 (vx4 / white-03) :ARG4 (vx5 / red-02 :ARG1 vx3) :time (vx6 / continue-01 :ARG0 vx3)) :snt2 (vx7 / enough :ARG0-of (vx8 / make-02 :ARG1 (vx9 / happy-01 :ARG0 (vx10 / star) :ARG1 vx3) :condition (vx11 / love-01 :ARG0 (vx12 / someone) :ARG1 (vx13 / flower :ARG2-of (vx14 / grow-03 :ARG1 (vx15 / blossom :quant 1 :ARG1-of (vx16 / single-02) :mod (vx17 / just)) :location (vx18 / star :quant (vx19 / multiple :op1 1000000 :mod (vx20 / all)))))))))
+
+# ::snt His face turned from white to red as he continued : " If some one loves a flower , of which just one single blossom grows in all the millions and millions of stars , it is enough to make him happy just to look at the stars .
+(vx0 / multi-sentence :snt1 (vx1 / turn-01 :ARG1 (vx2 / face :part-of (vx3 / he)) :ARG3 (vx4 / white-03) :ARG4 (vx5 / red-02 :ARG1 vx2) :time (vx6 / continue-01 :ARG0 (vx7 / he))) :snt2 (vx8 / enough :condition (vx9 / love-01 :ARG0 (vx10 / someone) :ARG1 (vx11 / flower :consist-of (vx12 / blossom :quant 1 :ARG1-of (vx13 / single-02) :mod (vx14 / just)) :ARG1-of (vx15 / grow-03 :location (vx16 / star :quant (vx17 / multiple :op1 1000000) :mod (vx18 / all))))) :ARG0-of (vx19 / make-02 :ARG1 (vx20 / happy-01 :ARG0 (vx21 / look-01 :ARG0 (vx22 / he) :ARG1 (vx23 / star) :mod vx14)) :ARG1 vx22)))
+
+# ::snt When a mystery is too overpowering , one dare not disobey .
+(vx0 / dare-01 :polarity - :ARG1 (vx1 / one) :ARG2 (vx2 / disobey-01 :ARG0 vx1) :condition (vx3 / overpower-01 :ARG0 (vx4 / mystery) :degree (vx5 / too)))
+
+# ::snt When a mystery is too overpowering , one dare not disobey .
+(vx0 / dare-01 :polarity - :ARG1 (vx1 / one) :ARG2 (vx2 / disobey-01 :ARG0 vx1 :ARG1 (vx3 / mystery)) :condition (vx4 / overpower-01 :ARG0 vx3 :degree (vx5 / too)))
+
+# ::snt " That man , " said the little prince to himself , as he continued farther on his journey , " that man would be scorned by all the others : by the king , by the conceited man , by the tippler , by the businessman .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / and :op1 (vx4 / scorn-01 :ARG0 (vx5 / other :mod (vx6 / all) :example (vx7 / and :op1 (vx8 / king) :op2 (vx9 / man :mod (vx10 / conceited)) :op3 (vx11 / tippler) :op4 (vx12 / businessman))) :ARG1 vx1) :op2 (vx13 / continue-01 :ARG0 vx1 :ARG1 (vx14 / journey-01 :ARG0 vx1) :extent (vx15 / far :degree (vx16 / more)))) :ARG2 vx1)
+
+# ::snt " That man , " said the little prince to himself , as he continued farther on his journey , " that man would be scorned by all the others : by the king , by the conceited man , by the tippler , by the businessman .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / scorn-01 :ARG0 (vx4 / other :mod (vx5 / all) :example (vx6 / and :op1 (vx7 / king) :op2 (vx8 / man :ARG1-of (vx9 / conceive-01)) :op3 (vx10 / tippler) :op4 (vx11 / businessman))) :ARG1 vx8 :mod (vx12 / that)) :time (vx13 / continue-01 :ARG0 vx1 :ARG1 (vx14 / journey-01 :ARG0 vx1) :ARG1-of (vx15 / far-03 :degree (vx16 / more))))
+
+# ::snt They always need to have things explained .
+(vx0 / obligate-01 :ARG1 (vx1 / they) :ARG2 (vx2 / explain-01 :ARG1 (vx3 / thing) :ARG2 vx1) :time (vx4 / always))
+
+# ::snt They always need to have things explained .
+(vx0 / need-01 :ARG0 (vx1 / they) :ARG1 (vx2 / explain-01 :ARG1 (vx3 / thing)) :time (vx4 / always))
+
+# ::snt And in answer he repeated , very slowly , as if he were speaking of a matter of great consequence : " If you please -- draw me a sheep ... "
+(vx0 / and :op2 (vx1 / repeat-01 :ARG0 (vx2 / he) :ARG1 (vx3 / draw-01 :mode imperative :polite + :ARG0 (vx4 / you) :ARG1 (vx5 / sheep) :ARG2 vx2 :ARG1-of (vx6 / repeat-01)) :ARG1-of (vx7 / slow-05 :degree (vx8 / very)) :ARG2-of (vx9 / answer-01) :manner (vx10 / speak-01 :ARG0 vx2 :ARG1 (vx11 / matter :mod (vx12 / consequence :mod (vx13 / great))))))
+
+# ::snt And in answer he repeated , very slowly , as if he were speaking of a matter of great consequence : " If you please -- draw me a sheep ... "
+(vx0 / and :op2 (vx1 / repeat-01 :ARG0 (vx2 / he) :ARG1 (vx3 / have-condition-91 :ARG1 (vx4 / draw-01 :mode imperative :polite + :ARG0 (vx5 / you) :ARG1 (vx6 / sheep) :ARG2 vx2)) :ARG1-of (vx7 / slow-05 :degree (vx8 / very)) :ARG1-of (vx9 / resemble-01 :ARG2 (vx10 / speak-01 :ARG0 vx2 :ARG1 (vx11 / matter :mod (vx12 / consequence :mod (vx13 / great)))))))
+
+# ::snt In the moonlight I looked at his pale forehead , his closed eyes , his locks of hair that trembled in the wind , and I said to myself : " What I see here is nothing but a shell .
+(vx0 / and :op1 (vx1 / look-01 :ARG0 (vx2 / i) :ARG1 (vx3 / and :op1 (vx4 / forehead :part-of (vx5 / he :part vx7) :ARG1-of (vx6 / pale-03)) :op2 (vx7 / eye :ARG1-of (vx8 / close-01)) :op3 (vx9 / lock :consist-of (vx10 / hair :part-of vx5) :ARG0-of (vx11 / tremble-01 :ARG1-of (vx12 / cause-01 :ARG0 (vx13 / wind))))) :location (vx14 / moonlight)) :op2 (vx15 / say-01 :ARG0 vx2 :ARG1 (vx16 / shell :mod (vx17 / nothing-but) :domain (vx18 / thing :ARG1-of (vx19 / see-01 :ARG0 vx2 :location (vx20 / here)))) :ARG2 vx2))
+
+# ::snt In the moonlight I looked at his pale forehead , his closed eyes , his locks of hair that trembled in the wind , and I said to myself : " What I see here is nothing but a shell .
+(vx0 / and :op1 (vx1 / look-01 :ARG0 (vx2 / i) :ARG1 (vx3 / and :op1 (vx4 / forehead :ARG1-of (vx5 / pale-03) :part-of (vx6 / he)) :op2 (vx7 / eye :ARG1-of (vx8 / close-01) :poss vx6) :op3 (vx9 / lock :consist-of (vx10 / hair) :poss vx6 :ARG1-of (vx11 / tremble-01 :ARG0 (vx12 / wind)))) :location (vx13 / moonlight)) :op2 (vx14 / say-01 :ARG0 vx2 :ARG1 (vx15 / thing :domain (vx16 / shell :mod (vx17 / nothing-but) :ARG1-of (vx18 / see-01 :ARG0 vx2 :location (vx19 / here)))) :ARG2 vx2))
+
+# ::snt FIfteen and seven make twenty - two .
+(vx0 / equal-01 :ARG1 (vx1 / and :op1 (vx2 / temporal-quantity :quant 15 :unit (vx3 / year)) :op2 (vx4 / temporal-quantity :quant 7 :unit (vx5 / year))) :ARG2 2)
+
+# ::snt FIfteen and seven make twenty - two .
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 15 :op2 7) :ARG2 (vx2 / product-of :op1 20 :op2 2))
+
+# ::snt " What are you doing there ? " he said to the tippler , whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles .
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / do-02 :ARG0 (vx3 / there) :ARG1 (vx4 / amr-unknown) :location vx3) :ARG2 (vx5 / tippler :ARG1-of (vx6 / settle-03 :ARG4 (vx7 / before :op1 (vx8 / collect-01 :ARG1 (vx9 / bottle :ARG1-of (vx10 / empty-02))) :op2 (vx11 / collect-01 :ARG1 (vx12 / bottle :mod (vx13 / full)) :mod (vx14 / also))) :manner (vx15 / silent) :ARG1-of (vx16 / find-01 :ARG0 vx1))))
+
+# ::snt " What are you doing there ? " he said to the tippler , whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles .
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / do-02 :ARG0 (vx3 / you) :ARG1 (vx4 / amr-unknown) :location (vx5 / there)) :ARG2 (vx6 / tippler :ARG1-of (vx7 / settle-down-02 :manner (vx8 / silent) :time (vx9 / before :op1 (vx10 / collect-01 :ARG1 (vx11 / and :op1 (vx12 / bottle :ARG1-of (vx13 / empty-02)) :op2 (vx14 / collect-01 :ARG1 (vx15 / bottle :mod (vx16 / full)) :mod (vx17 / also))))) :ARG1-of (vx18 / find-01 :ARG0 vx1))))
+
+# ::snt He can say to himself , ' Somewhere , my flower is there ... ' But if the sheep eats the flower , in one moment all his stars will be darkened ...
+(vx0 / contrast-01 :ARG1 (vx1 / possible-01 :ARG1 (vx2 / say-01 :ARG0 (vx3 / he) :ARG1 (vx4 / be-located-at-91 :ARG1 (vx5 / flower :poss vx3) :ARG2 (vx6 / there :mod (vx7 / somewhere))) :ARG2 vx3)) :ARG2 (vx8 / darken-01 :ARG1 (vx9 / star :mod (vx10 / all) :poss vx3) :time (vx11 / moment :mod (vx12 / one)) :condition (vx13 / eat-01 :ARG0 (vx14 / sheep) :ARG1 vx5)))
+
+# ::snt He can say to himself , ' Somewhere , my flower is there ... ' But if the sheep eats the flower , in one moment all his stars will be darkened ...
+(vx0 / contrast-01 :ARG1 (vx1 / possible-01 :ARG1 (vx2 / say-01 :ARG0 (vx3 / he) :ARG1 (vx4 / be-located-at-91 :ARG1 (vx5 / flower :poss vx3) :ARG2 (vx6 / somewhere)))) :ARG2 (vx7 / darken-01 :ARG1 (vx8 / star :mod (vx9 / all) :poss vx3) :time (vx10 / moment :mod (vx11 / one)) :condition (vx12 / eat-01 :ARG0 (vx13 / sheep) :ARG1 vx5)))
+
+# ::snt The grown - ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
+(vx0 / and :op1 (vx1 / discourage-01 :ARG0 (vx2 / person :ARG1-of (vx3 / grow-up-04)) :ARG1 (vx4 / i) :ARG2 (vx5 / career :poss (vx6 / person :ARG0-of (vx7 / paint-02))) :time (vx8 / age-01 :ARG1 vx4 :ARG2 (vx9 / temporal-quantity :quant 6 :unit (vx10 / year)))) :op2 (vx11 / learn-01 :polarity - :ARG0 vx4 :ARG1 (vx12 / draw-01 :ARG0 vx4 :ARG1 (vx13 / anything :ARG2-of (vx14 / except-01 :ARG1 (vx15 / and :op1 (vx16 / boa :source (vx17 / outside)) :op2 (vx18 / boa :source (vx19 / inside)))))) :time (vx20 / ever)))
+
+# ::snt The grown - ups discouraged me in my painter 's career when I was six years old , and I never learned to draw anything , except boas from the outside and boas from the inside .
+(vx0 / and :op1 (vx1 / discourage-01 :ARG0 (vx2 / person :ARG1-of (vx3 / grown-up-04)) :ARG1 (vx4 / i) :ARG2 (vx5 / career :poss (vx6 / person :ARG0-of (vx7 / paint-02))) :time (vx8 / age-01 :ARG1 vx4 :ARG2 (vx9 / temporal-quantity :quant 6 :unit (vx10 / year)))) :op2 (vx11 / learn-01 :polarity - :ARG0 vx4 :ARG1 (vx12 / draw-01 :ARG0 vx4 :ARG1 (vx13 / anything :ARG2-of (vx14 / except-01 :ARG1 (vx15 / and :op1 (vx16 / boa :source (vx17 / outside) :op2-of vx15) :source (vx18 / inside)))))) :time (vx19 / ever))
+
+# ::snt For some , who are travelers , the stars are guides .
+(vx0 / guide-01 :ARG0 (vx1 / star) :ARG1 (vx2 / person :ARG0-of (vx3 / travel-01) :quant (vx4 / some)))
+
+# ::snt For some , who are travelers , the stars are guides .
+(vx0 / guide-01 :ARG0 (vx1 / star) :beneficiary (vx2 / person :quant (vx3 / some) :ARG0-of (vx4 / travel-01)))
+
+# ::snt " What are you trying to say ? "
+(vx0 / try-01 :mode interrogative :ARG0 (vx1 / you) :ARG1 (vx2 / say-01 :ARG0 vx1 :ARG1 (vx3 / amr-unknown)))
+
+# ::snt " What are you trying to say ? "
+(vx0 / try-01 :ARG0 (vx1 / you) :ARG1 (vx2 / say-01 :ARG0 vx1 :ARG1 (vx3 / amr-unknown)))
+
+# ::snt This was a very short visit , but it plunged the little prince into deep dejection .
+(vx0 / contrast-01 :ARG1 (vx1 / visit-01 :ARG1-of (vx2 / short-07 :degree (vx3 / very)) :domain (vx4 / this)) :ARG2 (vx5 / plunge-02 :ARG0 vx1 :ARG1 (vx6 / prince :mod (vx7 / little)) :ARG2 (vx8 / deplete-01 :ARG1 vx6 :ARG1-of (vx9 / deep-02))))
+
+# ::snt This was a very short visit , but it plunged the little prince into deep dejection .
+(vx0 / contrast-01 :ARG1 (vx1 / visit-01 :ARG1 (vx2 / this) :ARG1-of (vx3 / short-07 :degree (vx4 / very))) :ARG2 (vx5 / plunge-01 :ARG0 vx2 :ARG1 (vx6 / prince :mod (vx7 / little)) :ARG2 (vx8 / depress-01 :ARG1 vx6 :ARG1-of (vx9 / deep-02))))
+
+# ::snt It was a picture of a boa constrictor digesting an elephant .
+(vx0 / picture :topic (vx1 / digest-01 :ARG0 (vx2 / constrictor :mod (vx3 / boa)) :ARG1 (vx4 / elephant)) :domain (vx5 / it))
+
+# ::snt It was a picture of a boa constrictor digesting an elephant .
+(vx0 / picture :topic (vx1 / digest-01 :ARG0 (vx2 / boa :ARG0-of (vx3 / constrict-01)) :ARG1 (vx4 / elephant)) :domain (vx5 / it))
+
+# ::snt " Because intoxicated men see double .
+(vx0 / cause-01 :ARG0 (vx1 / see-01 :ARG0 (vx2 / man :ARG1-of (vx3 / impair-01)) :ARG1 (vx4 / double-01)))
+
+# ::snt " Because intoxicated men see double .
+(vx0 / cause-01 :ARG0 (vx1 / see-01 :ARG0 (vx2 / man :ARG1-of (vx3 / intoxicate-01)) :ARG1 (vx4 / double-01)))
+
+# ::snt I , too , shall look at the stars .
+(vx0 / look-01 :ARG0 (vx1 / i) :ARG1 (vx2 / star) :mod (vx3 / too))
+
+# ::snt I , too , shall look at the stars .
+(vx0 / recommend-01 :ARG1 (vx1 / look-01 :ARG0 (vx2 / i) :ARG1 (vx3 / star)) :mod (vx4 / too))
+
+# ::snt " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / understand-01 :polarity - :ARG1 (vx4 / thing :ARG1-of (vx5 / talk-01 :ARG0 (vx6 / man :mod (vx7 / conceited)))))) :ARG1 (vx8 / yes :mode interrogative))
+
+# ::snt " Yes ? " said the little prince , who did not understand what the conceited man was talking about .
+(vx0 / say-01 :mode interrogative :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / understand-01 :polarity - :ARG1 (vx4 / thing :ARG1-of (vx5 / talk-01 :ARG0 (vx6 / man :ARG1-of (vx7 / conceive-01)))))) :ARG1 (vx8 / yes))
+
+# ::snt And you will sometimes open your window , so , for that pleasure ... and your friends will be properly astonished to see you laughing as you look up at the sky !
+(vx0 / and :op2 (vx1 / open-01 :ARG0 (vx2 / you) :ARG1 (vx3 / window :poss vx2) :frequency (vx4 / sometimes) :ARG0-of (vx5 / pleasure-02 :mod (vx6 / that)) :ARG0-of (vx7 / astonish-01 :ARG1 (vx8 / person :ARG0-of (vx9 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx10 / friend))) :ARG2 (vx11 / see-01 :ARG0 vx8 :ARG1 (vx12 / laugh-01 :ARG0 vx2 :ARG2 (vx13 / look-up-05 :ARG0 vx2 :ARG1 (vx14 / sky)))) :degree (vx15 / proper))))
+
+# ::snt And you will sometimes open your window , so , for that pleasure ... and your friends will be properly astonished to see you laughing as you look up at the sky !
+(vx0 / and :op1 (vx1 / open-01 :ARG0 (vx2 / you) :ARG1 (vx3 / window :poss vx2) :frequency (vx4 / sometimes) :purpose (vx5 / pleasure :mod (vx6 / that))) :op2 (vx7 / astonish-01 :ARG0 (vx8 / see-01 :ARG0 (vx9 / person :ARG0-of (vx10 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx11 / friend))) :ARG1 (vx12 / laugh-01 :ARG0 vx2 :time (vx13 / look-01 :ARG0 vx2 :ARG1 (vx14 / sky) :direction (vx15 / up)))) :ARG1 vx9 :manner (vx16 / proper)))
+
+# ::snt " There is nothing to understand , " said the lamplighter .
+(vx0 / say-01 :ARG0 (vx1 / lamplighter) :ARG1 (vx2 / understand-01 :ARG1 (vx3 / nothing)))
+
+# ::snt " There is nothing to understand , " said the lamplighter .
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / lamplight-01)) :ARG1 (vx3 / nothing :ARG1-of (vx4 / understand-01)))
+
+# ::snt The second time , eleven years ago , I was disturbed by an attack of rheumatism .
+(vx0 / disturb-01 :ARG0 (vx1 / attack-01 :ARG1 (vx2 / i) :ARG2 (vx3 / rheumatism)) :ARG1 vx2 :time (vx4 / before :op1 (vx5 / now) :quant (vx6 / temporal-quantity :quant 11 :unit (vx7 / year))) :ord (vx8 / ordinal-entity :value 2))
+
+# ::snt The second time , eleven years ago , I was disturbed by an attack of rheumatism .
+(vx0 / disturb-01 :ARG0 (vx1 / attack-01 :ARG0 (vx2 / rheumatism)) :ARG1 (vx3 / i) :time (vx4 / before :op1 (vx5 / now) :quant (vx6 / temporal-quantity :quant 11 :unit (vx7 / year))) :ord (vx8 / ordinal-entity :value 2))
+
+# ::snt A day lasts only one minute , here where you live ! "
+(vx0 / last-04 :ARG1 (vx1 / day) :ARG2 (vx2 / temporal-quantity :quant 1 :unit (vx3 / minute) :mod (vx4 / only)) :location (vx5 / here :location-of (vx6 / live-01 :ARG0 (vx7 / you))))
+
+# ::snt A day lasts only one minute , here where you live ! "
+(vx0 / last-01 :ARG1 (vx1 / temporal-quantity :quant 1 :unit (vx2 / day)) :ARG2 (vx3 / temporal-quantity :quant 1 :unit (vx4 / minute) :mod (vx5 / only)) :location (vx6 / here :location-of (vx7 / live-01 :ARG0 (vx8 / you))))
+
+# ::snt Good evening . "
+(vx0 / evening :mode expressive :ARG1-of (vx1 / good-02))
+
+# ::snt Good evening . "
+(vx0 / evening :ARG1-of (vx1 / good-02))
+
+# ::snt " I myself own a flower , " he continued his conversation with the businessman , " which I water every day .
+(vx0 / continue-01 :ARG0 (vx1 / he) :ARG1 (vx2 / converse-01 :ARG0 vx1 :ARG2 (vx3 / businessman) :topic (vx4 / own-01 :ARG0 vx1 :ARG1 (vx5 / flower :ARG1-of (vx6 / water-01 :ARG0 vx1 :frequency (vx7 / rate-entity-91 :ARG3 (vx8 / temporal-quantity :quant 1 :unit (vx9 / day))))))))
+
+# ::snt " I myself own a flower , " he continued his conversation with the businessman , " which I water every day .
+(vx0 / continue-01 :ARG0 (vx1 / he) :ARG1 (vx2 / converse-01 :ARG0 vx1 :ARG2 (vx3 / businessman :ARG1-of (vx4 / water-01 :ARG0 (vx5 / i) :frequency (vx6 / day :mod (vx7 / every))))) :ARG2 (vx8 / own-01 :ARG0 vx5 :ARG1 (vx9 / flower)))
+
+# ::snt When he puts out his lamp , he sends the flower , or the star , to sleep .
+(vx0 / send-01 :ARG0 (vx1 / he) :ARG1 (vx2 / or :op1 (vx3 / flower) :op2 (vx4 / star)) :ARG2 (vx5 / sleep-01 :ARG0 vx2) :time (vx6 / put-out-10 :ARG0 vx1 :ARG1 (vx7 / lamp :poss vx1)))
+
+# ::snt When he puts out his lamp , he sends the flower , or the star , to sleep .
+(vx0 / send-03 :ARG0 (vx1 / he) :ARG1 (vx2 / or :op1 (vx3 / flower) :op2 (vx4 / star)) :ARG2 (vx5 / sleep-01 :ARG0 vx2) :time (vx6 / put-01 :ARG0 vx1 :ARG1 (vx7 / lamp :poss vx1) :ARG2 (vx8 / out)))
+
+# ::snt " I know some one , " said the little prince , " who would make a bad explorer . "
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / know-02 :ARG0 vx1 :ARG1 (vx4 / someone :ARG1-of (vx5 / make-01 :ARG2 (vx6 / person :ARG0-of (vx7 / explore-01) :ARG1-of (vx8 / bad-02))))))
+
+# ::snt " I know some one , " said the little prince , " who would make a bad explorer . "
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / make-06 :ARG2 (vx4 / person :ARG0-of (vx5 / explore-01) :ARG1-of (vx6 / bad-02)))) :ARG1 (vx7 / know-02 :ARG0 vx1 :ARG1 (vx8 / someone)))
+
+# ::snt If you succeed in judging yourself rightly , then you are indeed a man of true wisdom . "
+(vx0 / man :domain (vx1 / you) :mod (vx2 / indeed) :mod (vx3 / wise :ARG1-of (vx4 / true-01)) :condition (vx5 / succeed-01 :ARG0 vx1 :ARG1 (vx6 / judge-01 :ARG0 vx1 :ARG1 vx1 :ARG1-of (vx7 / right-02))))
+
+# ::snt If you succeed in judging yourself rightly , then you are indeed a man of true wisdom . "
+(vx0 / have-condition-91 :ARG1 (vx1 / man :mod (vx2 / wise :ARG1-of (vx3 / true-01)) :mod (vx4 / indeed) :domain (vx5 / you)) :ARG2 (vx6 / succeed-01 :ARG0 vx5 :ARG1 (vx7 / judge-01 :ARG0 vx5 :ARG1 vx5 :ARG1-of (vx8 / right-02))))
+
+# ::snt Once when I was six years old I saw a magnificent picture in a book , called True Stories from Nature , about the primeval forest .
+(vx0 / see-01 :frequency 1 :ARG0 (vx1 / i) :ARG1 (vx2 / picture :mod (vx3 / magnificent)) :location (vx4 / book :name (vx5 / name :op1 "True" :op2 "Stories" :op3 "from" :op4 "Nature") :topic (vx6 / forest :mod (vx7 / primeval))) :time (vx8 / age-01 :ARG1 vx1 :ARG2 (vx9 / temporal-quantity :quant 6 :unit (vx10 / year))))
+
+# ::snt Once when I was six years old I saw a magnificent picture in a book , called True Stories from Nature , about the primeval forest .
+(vx0 / see-01 :frequency 1 :ARG0 (vx1 / i) :ARG1 (vx2 / picture :mod (vx3 / magnificent)) :location (vx4 / book :ARG1-of (vx5 / call-01 :name (vx6 / name :op1 "True" :op2 "Stories" :op3 "from" :op4 "Nature")) :ARG2-of vx5) :topic (vx7 / forest :mod (vx8 / primeval)))
+
+# ::snt But he made one more effort : " You know , it will be very nice .
+(vx0 / contrast-01 :ARG2 (vx1 / effort-01 :quant 1 :ARG0 (vx2 / he) :ARG1 (vx3 / know-01 :ARG0 (vx4 / you) :ARG1 (vx5 / nice-01 :ARG1 (vx6 / it) :degree (vx7 / very))) :mod (vx8 / more)))
+
+# ::snt But he made one more effort : " You know , it will be very nice .
+(vx0 / contrast-01 :ARG2 (vx1 / effort-01 :ARG0 (vx2 / he) :ARG1 (vx3 / say-01 :ARG1 (vx4 / nice-01 :ARG1 (vx5 / it) :degree (vx6 / very)) :ARG2 (vx7 / you)) :mod (vx8 / more :quant 1)))
+
+# ::snt And is it not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns which are never of any use to them ?
+(vx0 / and :mode interrogative :op2 (vx1 / matter :domain (vx2 / try-01 :ARG1 (vx3 / understand-01 :ARG1 (vx4 / thing :ARG0-of (vx5 / cause-01 :ARG1 (vx6 / go-02 :ARG0 (vx7 / flower) :ARG1 (vx8 / trouble :mod (vx9 / much :degree (vx10 / so))) :purpose (vx11 / grow-03 :ARG0 vx7 :ARG1 (vx12 / thorn :ARG1-of (vx13 / use-01 :polarity - :ARG2 vx7 :time (vx14 / ever) :mod (vx15 / any))))))))) :ARG1-of (vx16 / consequence-02)))
+
+# ::snt And is it not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns which are never of any use to them ?
+(vx0 / and :mode interrogative :op2 (vx1 / matter :polarity - :mod (vx2 / consequence) :domain (vx3 / try-01 :ARG1 (vx4 / understand-01 :ARG1 (vx5 / thing :ARG0-of (vx6 / cause-01 :ARG1 (vx7 / go-02 :ARG0 (vx8 / flower) :ARG1 (vx9 / trouble :quant (vx10 / much :degree (vx11 / so)) :purpose (vx12 / grow-03 :ARG1 (vx13 / thorn :ARG1-of (vx14 / use-01 :polarity - :ARG0 vx8 :time (vx15 / ever))))))))))))
+
+# ::snt I have flown a little over all parts of the world ; and it is true that geography has been very useful to me .
+(vx0 / and :op1 (vx1 / fly-01 :ARG0 (vx2 / i) :ARG2 (vx3 / over :op1 (vx4 / part :part-of (vx5 / world) :mod (vx6 / all)) :degree (vx7 / little))) :op2 (vx8 / true-01 :ARG1 (vx9 / useful-05 :ARG0 (vx10 / geography) :ARG1 vx2 :degree (vx11 / very))))
+
+# ::snt I have flown a little over all parts of the world ; and it is true that geography has been very useful to me .
+(vx0 / and :op1 (vx1 / fly-01 :ARG0 (vx2 / i) :quant (vx3 / little) :path (vx4 / over :op1 (vx5 / part :mod (vx6 / all) :part-of (vx7 / world)))) :op2 (vx8 / true-01 :ARG1 (vx9 / useful-05 :ARG0 (vx10 / geography) :ARG1 vx2 :degree (vx11 / very))))
+
+# ::snt " Kings do not own , they reign over .
+(vx0 / contrast-01 :ARG1 (vx1 / own-01 :polarity - :ARG0 (vx2 / king)) :ARG2 (vx3 / reign-over-03 :ARG0 vx2))
+
+# ::snt " Kings do not own , they reign over .
+(vx0 / contrast-01 :ARG1 (vx1 / own-01 :polarity - :ARG0 (vx2 / king)) :ARG2 (vx3 / reign-01 :ARG0 vx2))
+
+# ::snt When he lights his street lamp , it is as if he brought one more star to life , or one flower .
+(vx0 / resemble-01 :ARG2 (vx1 / bring-01 :ARG0 (vx2 / he) :ARG1 (vx3 / or :op1 (vx4 / star :quant 1 :mod (vx5 / more)) :op2 (vx6 / flower :quant 1)) :ARG2 (vx7 / life)) :time (vx8 / light-04 :ARG0 vx2 :ARG1 (vx9 / lamp :location (vx10 / street) :poss vx2)))
+
+# ::snt When he lights his street lamp , it is as if he brought one more star to life , or one flower .
+(vx0 / resemble-01 :ARG2 (vx1 / bring-01 :ARG0 (vx2 / he) :ARG1 (vx3 / or :op1 (vx4 / star :quant 1 :mod (vx5 / more)) :op2 (vx6 / flower :quant 1)) :ARG2 (vx7 / life)) :time (vx8 / light-01 :ARG0 vx2 :ARG1 (vx9 / lamp :mod (vx10 / street) :poss vx2)))
+
+# ::snt Absurd as it might seem to me , a thousand miles from any human habitation and in danger of death , I took out of my pocket a sheet of paper and my fountain - pen .
+(vx0 / take-out-11 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / sheet :consist-of (vx4 / paper)) :op2 (vx5 / pen :instrument-of (vx6 / fountain-01))) :source (vx7 / pocket :poss vx1) :concession (vx8 / possible-01 :ARG1 (vx9 / seem-01 :ARG1 (vx10 / absurd) :ARG2 vx1 :ARG1-of (vx11 / cause-01 :ARG0 (vx12 / and :op1 (vx13 / be-located-at-91 :ARG1 (vx14 / habitation :mod (vx15 / human) :mod (vx16 / any)) :ARG2 (vx17 / relative-position :op1 (vx18 / habitation :mod (vx19 / human)) :quant (vx20 / distance-quantity :quant 1000 :unit (vx21 / mile)))) :op2 (vx22 / endanger-01 :ARG0 (vx23 / die-01) :ARG1 vx1))))))
+
+# ::snt Absurd as it might seem to me , a thousand miles from any human habitation and in danger of death , I took out of my pocket a sheet of paper and my fountain - pen .
+(vx0 / take-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / sheet :consist-of (vx4 / paper)) :op2 (vx5 / pen :mod (vx6 / fountain) :poss vx1)) :ARG2 (vx7 / pocket :poss vx1) :concession (vx8 / possible-01 :ARG1 (vx9 / seem-01 :ARG1 (vx10 / absurd) :ARG2 vx1)) :location (vx11 / relative-position :op1 (vx12 / habitation :mod (vx13 / human) :mod (vx14 / any)) :quant (vx15 / distance-quantity :quant 1000 :unit (vx16 / mile))) :ARG2-of (vx17 / endanger-01 :ARG1 vx1 :ARG1-of vx8))
+
+# ::snt The well that we had come to was not like the wells of the Sahara .
+(vx0 / resemble-01 :polarity - :ARG1 (vx1 / well :ARG1-of (vx2 / come-16 :ARG0 (vx3 / we))) :ARG2 (vx4 / well :location (vx5 / world-region :name (vx6 / name :op1 "Sahara"))))
+
+# ::snt The well that we had come to was not like the wells of the Sahara .
+(vx0 / resemble-01 :polarity - :ARG1 (vx1 / well :ARG4-of (vx2 / come-01 :ARG1 (vx3 / we))) :ARG2 (vx4 / well :location (vx5 / world-region :name (vx6 / name :op1 "Sahara"))))
+
+# ::snt " All men have the stars , " he answered , " but they are not the same things for different people .
+(vx0 / answer-01 :ARG0 (vx1 / he) :ARG2 (vx2 / contrast-01 :ARG1 (vx3 / have-03 :ARG0 (vx4 / man :mod (vx5 / all)) :ARG1 (vx6 / star)) :ARG2 (vx7 / same-01 :polarity - :ARG1 vx6 :ARG2 (vx8 / person :ARG1-of (vx9 / differ-02)))))
+
+# ::snt " All men have the stars , " he answered , " but they are not the same things for different people .
+(vx0 / answer-01 :ARG0 (vx1 / he) :ARG2 (vx2 / have-03 :ARG0 (vx3 / man :mod (vx4 / all)) :ARG1 (vx5 / star) :concession-of (vx6 / same-01 :polarity - :ARG1 vx5 :ARG2 (vx7 / thing) :beneficiary (vx8 / person :ARG1-of (vx9 / differ-02)))))
+
+# ::snt " What is a geographer ? " asked the little prince .
+(vx0 / ask-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / geographer :domain (vx4 / amr-unknown)))
+
+# ::snt " What is a geographer ? " asked the little prince .
+(vx0 / ask-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / amr-unknown :domain (vx4 / geographer)))
+
+# ::snt There is no time for idle dreaming in my life . "
+(vx0 / time :polarity - :beneficiary (vx1 / dream-01 :manner (vx2 / idle)) :part-of (vx3 / life :poss (vx4 / i)))
+
+# ::snt There is no time for idle dreaming in my life . "
+(vx0 / time :polarity - :purpose (vx1 / dream-01 :mod (vx2 / idle)) :time (vx3 / life :poss (vx4 / i)))
+
+# ::snt As the little prince watched him , he felt that he loved this lamplighter who was so faithful to his orders .
+(vx0 / feel-01 :ARG0 (vx1 / lamplighter :mod (vx2 / this) :ARG0-of (vx3 / obey-01 :ARG1 (vx4 / thing :ARG2-of (vx5 / order-01 :ARG0 vx1)) :degree (vx6 / so))) :ARG1 (vx7 / love-01 :ARG0 vx1 :ARG1 vx1) :time (vx8 / watch-01 :ARG0 (vx9 / prince :mod (vx10 / little)) :ARG1 (vx11 / he)))
+
+# ::snt As the little prince watched him , he felt that he loved this lamplighter who was so faithful to his orders .
+(vx0 / feel-01 :ARG0 (vx1 / he) :ARG1 (vx2 / love-01 :ARG0 vx1 :ARG1 (vx3 / person :ARG0-of (vx4 / lamplight-01) :mod (vx5 / this) :mod (vx6 / faithful :degree (vx7 / so) :prep-to (vx8 / order-01 :ARG2 vx3)))) :time (vx9 / watch-01 :ARG0 (vx10 / prince :mod (vx11 / little)) :ARG1 vx1))
+
+# ::snt I have lived a great deal among grown - ups .
+(vx0 / live-01 :ARG0 (vx1 / i) :ARG1 (vx2 / deal :mod (vx3 / great)) :prep-among (vx4 / grown-up))
+
+# ::snt I have lived a great deal among grown - ups .
+(vx0 / live-01 :ARG0 (vx1 / i) :ARG1 (vx2 / deal :mod (vx3 / great)) :location (vx4 / among :op1 (vx5 / person :ARG1-of (vx6 / grow-up-04))))
+
+# ::snt Grown - ups never understand anything by themselves , and it is tiresome for children to be always and forever explaining things to them .
+(vx0 / and :op1 (vx1 / understand-01 :polarity - :ARG0 (vx2 / person :ARG1-of (vx3 / grow-up-04) :ARG1-of (vx4 / grown-up-02)) :ARG1 (vx5 / anything :mod (vx6 / by-oneself)) :time (vx7 / ever)) :op2 (vx8 / tire-03 :ARG0 (vx9 / explain-01 :ARG0 (vx10 / child) :ARG1 (vx11 / thing) :ARG2 vx10 :time (vx12 / and :op1 (vx13 / always) :op2 (vx14 / forever))) :ARG1 vx10))
+
+# ::snt Grown - ups never understand anything by themselves , and it is tiresome for children to be always and forever explaining things to them .
+(vx0 / and :op1 (vx1 / understand-01 :polarity - :ARG0 (vx2 / person :ARG1-of (vx3 / grow-up-04)) :ARG1 (vx4 / anything) :time (vx5 / ever) :mod (vx6 / by-oneself)) :op2 (vx7 / tiresome-02 :ARG0 (vx8 / explain-01 :ARG0 (vx9 / child) :ARG1 (vx10 / thing) :ARG2 vx2 :time (vx11 / forever) :time (vx12 / always))))
+
+# ::snt It will be as it was when we drank the water ... "
+(vx0 / resemble-01 :ARG1 (vx1 / it) :ARG2 (vx2 / thing :time (vx3 / drink-01 :ARG0 (vx4 / we) :ARG1 (vx5 / water))))
+
+# ::snt It will be as it was when we drank the water ... "
+(vx0 / resemble-01 :ARG1 (vx1 / it) :ARG2 vx1 :time (vx2 / drink-01 :ARG0 (vx3 / we) :ARG1 (vx4 / water)))
+
+# ::snt Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
+(vx0 / order-01 :ARG2 (vx1 / inquire-01 :ARG2 (vx2 / discover-01 :ARG0 (vx3 / moral-02))) :time (vx4 / then) :time (vx5 / show-01 :ARG1 (vx6 / character :ARG1-of vx3 :poss (vx7 / person :ARG0-of (vx8 / discover-01)) :ARG1-of (vx9 / good-02))))
+
+# ::snt Then , when the moral character of the explorer is shown to be good , an inquiry is ordered into his discovery . "
+(vx0 / order-01 :ARG2 (vx1 / inquire-01 :ARG1 (vx2 / thing :ARG1-of (vx3 / discover-01 :ARG0 (vx4 / person :ARG0-of (vx5 / explore-01))))) :time (vx6 / show-01 :ARG1 (vx7 / good-02 :ARG1 (vx8 / character :ARG1-of (vx9 / moral-02) :poss vx4))) :time (vx10 / then))
+
+# ::snt And so you will love to watch all the stars in the heavens ... they will all be your friends .
+(vx0 / and :op2 (vx1 / love-01 :ARG0 (vx2 / you) :ARG1 (vx3 / watch-01 :ARG0 vx2 :ARG1 (vx4 / star :mod (vx5 / all) :location (vx6 / heaven))) :ARG1-of (vx7 / cause-01 :ARG0 (vx8 / have-rel-role-91 :ARG0 (vx9 / they :mod (vx10 / all)) :ARG1 vx2 :ARG2 (vx11 / friend)))))
+
+# ::snt And so you will love to watch all the stars in the heavens ... they will all be your friends .
+(vx0 / and :op2 (vx1 / love-01 :ARG0 (vx2 / you) :ARG1 (vx3 / watch-01 :ARG0 vx2 :ARG1 (vx4 / star :mod (vx5 / all) :location (vx6 / heaven))) :ARG1-of (vx7 / cause-01)) :op3 (vx8 / have-rel-role-91 :ARG0 vx4 :ARG1 vx2 :ARG2 (vx9 / friend)))
+
+# ::snt The tippler brought his speech to an end , and shut himself up in an impregnable silence .
+(vx0 / and :op1 (vx1 / end-01 :ARG0 (vx2 / tippler) :ARG1 (vx3 / speak-01 :ARG0 vx2)) :op2 (vx4 / shut-up-06 :ARG0 vx2 :ARG1 vx2 :manner (vx5 / silent :mod (vx6 / impregnable))))
+
+# ::snt The tippler brought his speech to an end , and shut himself up in an impregnable silence .
+(vx0 / and :op1 (vx1 / end-01 :ARG0 (vx2 / person :ARG0-of (vx3 / tip-05)) :ARG1 (vx4 / speak-01 :ARG0 vx2)) :op2 (vx5 / shut-up-06 :ARG0 vx2 :ARG1 vx2 :manner (vx6 / silent :ARG1-of (vx7 / impregnate-01))))
+
+# ::snt To nobody . "
+(vx0 / opine-01 :ARG1 (vx1 / nobody))
+
+# ::snt To nobody . "
+(vx0 / benefit-01 :ARG1 (vx1 / nobody))
+
+# ::snt He got away from me without making a sound .
+(vx0 / get-05 :ARG1 (vx1 / he) :direction (vx2 / away :op1 (vx3 / i)) :manner (vx4 / make-01 :polarity - :ARG0 vx1 :ARG1 (vx5 / sound)))
+
+# ::snt He got away from me without making a sound .
+(vx0 / get-05 :ARG0 (vx1 / he) :ARG1 (vx2 / i) :direction (vx3 / away) :manner (vx4 / make-01 :polarity - :ARG0 vx1 :ARG1 (vx5 / sound)))
+
+# ::snt " If Your Majesty wishes to be promptly obeyed , " he said , " he should be able to give me a reasonable order .
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / have-condition-91 :ARG1 (vx3 / recommend-01 :ARG1 (vx4 / possible-01 :ARG1 (vx5 / give-01 :ARG0 (vx6 / person :name (vx7 / name :op1 "Your" :op2 "Majesty")) :ARG1 (vx8 / order-01 :ARG1 vx6 :ARG1-of (vx9 / reasonable-02)) :ARG2 vx1))) :ARG2 (vx10 / wish-01 :ARG0 vx6 :ARG1 (vx11 / obey-01 :ARG1 vx6 :manner (vx12 / prompt)))))
+
+# ::snt " If Your Majesty wishes to be promptly obeyed , " he said , " he should be able to give me a reasonable order .
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / have-condition-91 :ARG1 (vx3 / recommend-01 :ARG1 (vx4 / possible-01 :ARG1 (vx5 / give-01 :ARG0 vx1 :ARG1 (vx6 / order-01 :ARG0 vx1 :ARG1 (vx7 / i) :ARG1-of (vx8 / reasonable-02)) :ARG2 vx7))) :ARG2 (vx9 / wish-01 :ARG0 (vx10 / person :name (vx11 / name :op1 "Your" :op2 "Majesty")) :ARG1 (vx12 / obey-01 :ARG1 vx10 :time (vx13 / prompt)))))
+
+# ::snt When he arrived on the planet he respectfully saluted the lamplighter .
+(vx0 / salute-01 :ARG0 (vx1 / he) :ARG1 (vx2 / person :ARG0-of (vx3 / lighten-up-03)) :manner (vx4 / respect-01) :time (vx5 / arrive-01 :ARG1 vx1 :ARG4 (vx6 / planet)))
+
+# ::snt When he arrived on the planet he respectfully saluted the lamplighter .
+(vx0 / salute-01 :ARG0 (vx1 / he) :ARG1 (vx2 / person :ARG0-of (vx3 / lamplight-01)) :manner (vx4 / respect-01 :ARG0 vx1 :ARG1 vx2) :time (vx5 / arrive-01 :ARG1 vx1 :ARG4 (vx6 / planet)))
+
+# ::snt " And what do you do with five - hundred millions of stars ? "
+(vx0 / and :op2 (vx1 / do-02 :ARG0 (vx2 / you) :ARG1 (vx3 / amr-unknown) :ARG2 (vx4 / star :quant 500000000)))
+
+# ::snt " And what do you do with five - hundred millions of stars ? "
+(vx0 / and :op2 (vx1 / do-02 :ARG0 (vx2 / you) :ARG1 (vx3 / amr-unknown) :ARG3 (vx4 / star :quant (vx5 / between :op1 5000000 :op2 100000000))))
+
+# ::snt " And what should one do to make the hat come down ? " he asked .
+(vx0 / ask-01 :ARG0 (vx1 / he) :ARG1 (vx2 / and :op2 (vx3 / recommend-01 :ARG1 (vx4 / do-02 :ARG0 (vx5 / one) :ARG1 (vx6 / amr-unknown) :purpose (vx7 / make-02 :ARG0 vx5 :ARG1 (vx8 / come-01 :ARG1 (vx9 / hat) :direction (vx10 / down)))))))
+
+# ::snt " And what should one do to make the hat come down ? " he asked .
+(vx0 / ask-01 :ARG0 (vx1 / he) :ARG1 (vx2 / recommend-01 :ARG1 (vx3 / do-02 :ARG0 (vx4 / one) :ARG1 (vx5 / amr-unknown) :purpose (vx6 / make-02 :ARG0 vx4 :ARG1 (vx7 / come-01 :ARG1 (vx8 / hat) :direction (vx9 / down))))))
+
+# ::snt And you think that is not important ! "
+(vx0 / and :op2 (vx1 / think-01 :ARG0 (vx2 / you) :ARG1 (vx3 / important :polarity - :domain (vx4 / that))))
+
+# ::snt And you think that is not important ! "
+(vx0 / and :op2 (vx1 / think-01 :mode expressive :ARG0 (vx2 / you) :ARG1 (vx3 / important :polarity - :domain (vx4 / that))))
+
+# ::snt " Then they belong to me , because I was the first person to think of it . "
+(vx0 / cause-01 :ARG0 (vx1 / think-01 :ARG0 (vx2 / they) :ARG1 (vx3 / it) :ord (vx4 / ordinal-entity :value 1)) :ARG1 (vx5 / belong-01 :ARG0 vx2 :ARG1 (vx6 / i)) :mod (vx7 / then))
+
+# ::snt " Then they belong to me , because I was the first person to think of it . "
+(vx0 / belong-01 :ARG0 (vx1 / they) :ARG1 (vx2 / i) :mod (vx3 / then) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / person :ord (vx6 / ordinal-entity :value 1) :ARG0-of (vx7 / think-01 :ARG1 (vx8 / it)) :domain vx2)))
+
+# ::snt To be always in the sunshine , you need only walk along rather slowly .
+(vx0 / need-01 :ARG0 (vx1 / you) :ARG1 (vx2 / walk-01 :ARG0 vx1 :ARG2 (vx3 / along) :ARG1-of (vx4 / slow-05 :degree (vx5 / rather)) :mod (vx6 / only)) :purpose (vx7 / be-located-at-91 :ARG1 vx1 :ARG2 (vx8 / sunshine) :time (vx9 / always)))
+
+# ::snt To be always in the sunshine , you need only walk along rather slowly .
+(vx0 / need-01 :ARG0 (vx1 / you) :ARG1 (vx2 / walk-01 :ARG0 vx1 :ARG2 (vx3 / along) :ARG1-of (vx4 / slow-05 :degree (vx5 / rather)) :mod (vx6 / only)) :purpose (vx7 / be-located-at-91 :ARG2 (vx8 / sunshine) :time (vx9 / always)))
+
+# ::snt I had the rest of the day for relaxation and the rest of the night for sleep . "
+(vx0 / and :op1 (vx1 / have-03 :ARG0 (vx2 / i) :ARG1 (vx3 / rest-01 :ARG1 (vx4 / day)) :purpose (vx5 / relax-01 :ARG1 vx2)) :op2 (vx6 / sleep-01 :ARG0 vx2 :time (vx7 / rest :part-of (vx8 / night))))
+
+# ::snt I had the rest of the day for relaxation and the rest of the night for sleep . "
+(vx0 / have-purpose-91 :ARG1 (vx1 / and :op1 (vx2 / rest :part-of (vx3 / day)) :op2 (vx4 / rest :part-of (vx5 / night))) :ARG2 (vx6 / relax-01))
+
+# ::snt He had already traveled so much and so far !
+(vx0 / travel-01 :ARG0 (vx1 / he) :time (vx2 / already) :mod (vx3 / much :degree (vx4 / so)) :time (vx5 / so-far))
+
+# ::snt He had already traveled so much and so far !
+(vx0 / travel-01 :ARG0 (vx1 / he) :time (vx2 / already) :quant (vx3 / much :degree (vx4 / so)) :time (vx5 / far :degree vx4))
+
+# ::snt I have n't a single explorer on my planet .
+(vx0 / have-03 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / person :ARG0-of (vx3 / explore-01) :ARG1-of (vx4 / single-02)) :location (vx5 / planet :poss vx1))
+
+# ::snt I have n't a single explorer on my planet .
+(vx0 / have-03 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / person :ARG0-of (vx3 / explore-01) :quant (vx4 / single)) :location (vx5 / planet :poss vx1))
+
+# ::snt Remember , I had crashed in the desert a thousand miles from any inhabited region .
+(vx0 / remember-01 :mode imperative :ARG0 (vx1 / you) :ARG1 (vx2 / crash-01 :ARG1 (vx3 / i) :location (vx4 / desert) :location (vx5 / relative-position :op1 (vx6 / region :ARG1-of (vx7 / inhabit-01) :mod (vx8 / any)) :quant (vx9 / distance-quantity :quant 1000 :unit (vx10 / mile)))))
+
+# ::snt Remember , I had crashed in the desert a thousand miles from any inhabited region .
+(vx0 / remember-01 :ARG1 (vx1 / crash-01 :ARG1 (vx2 / i) :location (vx3 / desert :location (vx4 / relative-position :op1 (vx5 / region :ARG1-of (vx6 / inhabit-01) :mod (vx7 / any)) :quant (vx8 / distance-quantity :quant 1000 :unit (vx9 / mile))))))
+
+# ::snt In the course of this life I have had a great many encounters with a great many people who have been concerned with matters of consequence .
+(vx0 / encounter-01 :ARG0 (vx1 / i) :ARG1 (vx2 / person :quant (vx3 / many :mod (vx4 / great)) :ARG1-of (vx5 / concern-01 :ARG0 (vx6 / matter :mod (vx7 / consequence)))) :subevent-of (vx8 / life :mod (vx9 / this)))
+
+# ::snt In the course of this life I have had a great many encounters with a great many people who have been concerned with matters of consequence .
+(vx0 / encounter-01 :ARG0 (vx1 / i) :ARG1 (vx2 / person :quant (vx3 / many :degree (vx4 / great)) :ARG1-of (vx5 / concern-01 :ARG0 (vx6 / matter :mod (vx7 / consequence)))) :time (vx8 / life :mod (vx9 / this)))
+
+# ::snt " I could n't tell you , " said the geographer .
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / have-org-role-91 :ARG2 (vx3 / geographer))) :ARG1 (vx4 / possible-01 :polarity - :ARG1 (vx5 / tell-01 :ARG0 vx1 :ARG2 (vx6 / you))))
+
+# ::snt " I could n't tell you , " said the geographer .
+(vx0 / say-01 :ARG0 (vx1 / geographer) :ARG1 (vx2 / possible-01 :polarity - :ARG1 (vx3 / tell-01 :ARG0 vx1 :ARG2 (vx4 / you))))
+
+# ::snt Nevertheless he is the only one of them all who does not seem to me ridiculous .
+(vx0 / have-concession-91 :ARG1 (vx1 / seem-01 :ARG1 (vx2 / ridiculous-02 :ARG1 (vx3 / he :ARG1-of (vx4 / include-91 :ARG2 (vx5 / they :mod (vx6 / all))) :mod (vx7 / only))) :ARG2 (vx8 / i)))
+
+# ::snt Nevertheless he is the only one of them all who does not seem to me ridiculous .
+(vx0 / have-concession-91 :ARG1 (vx1 / one :mod (vx2 / only) :domain (vx3 / he) :ARG1-of (vx4 / include-91 :ARG2 (vx5 / they :mod (vx6 / all))) :ARG1-of (vx7 / ridiculous-02 :ARG1-of (vx8 / seem-01 :polarity - :ARG2 (vx9 / i)))))
+
+# ::snt You - - you alone - - will have the stars as no one else has them - - "
+(vx0 / have-03 :ARG0 (vx1 / you :mod (vx2 / alone)) :ARG1 (vx3 / star) :ARG1-of (vx4 / same-01 :ARG2 (vx5 / have-03 :ARG0 (vx6 / no-one :mod (vx7 / else)) :ARG1 vx3)))
+
+# ::snt You - - you alone - - will have the stars as no one else has them - - "
+(vx0 / have-03 :ARG0 (vx1 / you :mod (vx2 / alone)) :ARG1 (vx3 / star) :ARG1-of (vx4 / cause-01 :ARG0 (vx5 / have-03 :ARG0 (vx6 / no-one :mod (vx7 / else)) :ARG1 vx3)))
+
+# ::snt " Forget what ? " inquired the little prince , who already was sorry for him .
+(vx0 / inquire-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / sorry-01 :ARG2 (vx4 / he) :time (vx5 / already))) :ARG1 (vx6 / forget-01 :mode imperative :ARG0 vx4 :ARG1 (vx7 / amr-unknown)))
+
+# ::snt " Forget what ? " inquired the little prince , who already was sorry for him .
+(vx0 / inquire-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG1-of (vx3 / sorry-01 :ARG2 (vx4 / he) :time (vx5 / already))) :ARG1 (vx6 / forget-01 :mode interrogative :ARG0 (vx7 / you) :ARG1 (vx8 / amr-unknown)))
+
+# ::snt " It makes it possible for me to buy more stars , if any are ever discovered . "
+(vx0 / make-02 :ARG0 (vx1 / it) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / buy-01 :ARG0 (vx4 / i) :ARG1 (vx5 / star :quant (vx6 / more))) :condition (vx7 / discover-01 :ARG1 vx5 :time (vx8 / ever))))
+
+# ::snt " It makes it possible for me to buy more stars , if any are ever discovered . "
+(vx0 / make-02 :ARG0 (vx1 / it) :ARG1 (vx2 / possible-01 :ARG1 (vx3 / buy-01 :ARG0 (vx4 / i) :ARG1 (vx5 / star :mod (vx6 / more)))) :condition (vx7 / discover-01 :ARG1 (vx8 / star :mod (vx9 / any)) :time (vx10 / ever)))
+
+# ::snt I said to the little prince , " these memories of yours are very charming ; but I have not yet succeeded in repairing my plane ; I have nothing more to drink ; and I , too , should be very happy if I could walk at my leisure toward a spring of fresh water ! "
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / contrast-01 :ARG1 (vx4 / charm-01 :ARG0 (vx5 / memory :mod (vx6 / this) :poss (vx7 / plane :poss vx1)) :degree (vx8 / very)) :ARG2 (vx9 / succeed-01 :polarity - :ARG0 vx1 :ARG1 (vx10 / repair-01 :ARG0 vx1 :ARG1 vx7) :time (vx11 / yet))) :op2 (vx12 / drink-01 :ARG0 vx1 :ARG1 (vx13 / nothing :mod (vx14 / more))) :op3 (vx15 / recommend-01 :ARG1 (vx16 / happy-01 :ARG1 vx1 :degree (vx17 / very) :condition (vx18 / possible-01 :ARG1 (vx19 / walk-01 :ARG0 vx1 :ARG2 (vx20 / spring :location-of (vx21 / water :ARG1-of (vx22 / fresh-04))) :destination (vx23 / leisure :poss vx1)))) :ARG2 vx1 :mod (vx24 / too))) :ARG2 (vx25 / prince :mod (vx26 / little)))
+
+# ::snt I said to the little prince , " these memories of yours are very charming ; but I have not yet succeeded in repairing my plane ; I have nothing more to drink ; and I , too , should be very happy if I could walk at my leisure toward a spring of fresh water ! "
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / charm-01 :ARG0 (vx4 / memory :poss (vx5 / prince :mod (vx6 / little)) :mod (vx7 / this)) :degree (vx8 / very)) :op2 (vx9 / succeed-01 :polarity - :ARG0 vx1 :ARG1 (vx10 / repair-01 :ARG0 vx1 :ARG1 (vx11 / plane :poss vx1)) :time (vx12 / yet)) :op3 (vx13 / have-03 :ARG0 vx1 :ARG1 (vx14 / nothing :mod (vx15 / more) :ARG1-of (vx16 / drink-01 :ARG0 vx1))) :op4 (vx17 / recommend-01 :ARG1 (vx18 / happy-01 :ARG1 vx1 :degree (vx19 / very) :condition (vx20 / possible-01 :ARG1 (vx21 / walk-01 :ARG0 vx1 :ARG2 (vx22 / spring :consist-of (vx23 / water :ARG1-of (vx24 / fresh-04))) :manner (vx25 / leisure :poss vx1)))) :mod (vx26 / too))) :ARG2 vx5)
+
+# ::snt But he is not so absurd as the king , the conceited man , the businessman , and the tippler .
+(vx0 / contrast-01 :ARG2 (vx1 / absurd :polarity - :degree (vx2 / so) :domain (vx3 / he) :compared-to (vx4 / and :op1 (vx5 / king) :op2 (vx6 / man :mod (vx7 / conceited)) :op3 (vx8 / businessman) :op4 (vx9 / tippler))))
+
+# ::snt But he is not so absurd as the king , the conceited man , the businessman , and the tippler .
+(vx0 / contrast-01 :ARG2 (vx1 / absurd :polarity - :degree (vx2 / so) :domain (vx3 / he) :compared-to (vx4 / and :op1 (vx5 / king) :op2 (vx6 / man :ARG1-of (vx7 / conceive-01)) :op3 (vx8 / businessman) :op4 (vx9 / tippler))))
+
+# ::snt As his lips opened slightly with the suspicious of a half - smile , I said to myself , again : " What moves me so deeply , about this little prince who is sleeping here , is his loyalty to a flower - - the image of a rose that shines through his whole being like the flame of a lamp , even when he is asleep ... "
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / move-01 :ARG0 (vx3 / loyal-01 :ARG1 (vx4 / flame :location (vx5 / lamp)) :ARG2 (vx6 / flower :ARG1-of (vx7 / mean-01 :ARG2 (vx8 / image :mod (vx9 / rose :ARG1-of (vx10 / shine-01 :ARG1-of (vx11 / resemble-01 :ARG2 vx4 :time (vx12 / sleep-01 :ARG0 vx4 :concession (vx13 / even-when :op1 (vx14 / sleep-01 :ARG0 vx4)))))))))) :ARG1 vx1 :ARG1-of (vx15 / deep-02 :degree (vx16 / so)) :topic (vx17 / prince :mod (vx18 / little) :mod (vx19 / this) :location (vx20 / here))) :ARG2 (vx21 / i) :mod (vx22 / again) :time (vx23 / open-01 :ARG1 (vx24 / lip :part-of vx17) :manner (vx25 / suspicious :mod (vx26 / smile-01 :degree (vx27 / half))) :degree (vx28 / slight)))
+
+# ::snt As his lips opened slightly with the suspicious of a half - smile , I said to myself , again : " What moves me so deeply , about this little prince who is sleeping here , is his loyalty to a flower - - the image of a rose that shines through his whole being like the flame of a lamp , even when he is asleep ... "
+(vx0 / say-01 :ARG0 (vx1 / i) :ARG1 (vx2 / thing :ARG0-of (vx3 / move-03 :ARG1 vx1 :ARG1-of (vx4 / deep-02 :degree (vx5 / so))) :topic (vx6 / prince :mod (vx7 / little) :ARG0-of (vx8 / sleep-01 :location (vx9 / here)) :mod (vx10 / this)) :domain (vx11 / loyal-01 :ARG1 vx6 :ARG2 (vx12 / flower) :ARG1-of (vx13 / resemble-01 :ARG2 (vx14 / image :mod (vx15 / rose) :ARG1-of (vx16 / shine-01 :ARG1-of vx13 :ARG2 (vx17 / flame :poss (vx18 / lamp)) :time (vx19 / even-when :op1 (vx20 / sleep-01 :ARG0 vx6))) :mod (vx21 / whole :poss vx6))))) :ARG2 vx1 :mod (vx22 / again) :time (vx23 / open-01 :ARG1 (vx24 / lip :part-of (vx25 / he)) :degree (vx26 / slight) :manner (vx27 / suspicious :domain (vx28 / smile-01 :mod (vx29 / half)))))
+
+# ::snt I do n't amuse myself with balderdash .
+(vx0 / amuse-01 :polarity - :ARG0 (vx1 / i :ARG1-of vx0) :ARG2 (vx2 / balderdash))
+
+# ::snt I do n't amuse myself with balderdash .
+(vx0 / amuse-01 :polarity - :ARG0 (vx1 / balderdash) :ARG1 (vx2 / i))
+
+# ::snt I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean .
+(vx0 / isolate-01 :ARG1 (vx1 / i) :degree (vx2 / more) :compared-to (vx3 / person :ARG0-of (vx4 / sail-01) :ARG1-of (vx5 / wreck-01 :ARG2 (vx6 / ship)) :location (vx7 / raft) :location (vx8 / middle :part-of (vx9 / ocean))))
+
+# ::snt I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean .
+(vx0 / isolate-01 :ARG1 (vx1 / i) :degree (vx2 / more) :compared-to (vx3 / person :ARG0-of (vx4 / sail-01) :ARG1-of (vx5 / shipwrecked) :location (vx6 / raft :location (vx7 / middle :part-of (vx8 / ocean)))))
+
+# ::snt He looked at me there , with my hammer in my hand , my fingers black with engine - grease , bending down over an object which seemed to him extremely ugly ...
+(vx0 / look-01 :ARG0 (vx1 / he) :ARG1 (vx2 / i) :location (vx3 / there) :accompanier (vx4 / and :op1 (vx5 / hammer :location (vx6 / hand :part-of vx2)) :op2 (vx7 / black-04 :ARG1 (vx8 / finger :part-of vx2) :ARG2 (vx9 / grease :mod (vx10 / engine))) :op3 (vx11 / bend-01 :ARG0 vx2 :direction (vx12 / down) :location (vx13 / object :mod (vx14 / ugly :degree (vx15 / extreme) :ARG1-of (vx16 / seem-01 :ARG2 vx1))))))
+
+# ::snt He looked at me there , with my hammer in my hand , my fingers black with engine - grease , bending down over an object which seemed to him extremely ugly ...
+(vx0 / look-01 :ARG0 (vx1 / he) :ARG1 (vx2 / i :part (vx3 / finger :ARG1-of (vx4 / black-04 :ARG0 (vx5 / grease :mod (vx6 / engine)))) :part (vx7 / hand)) :location (vx8 / there) :manner (vx9 / and :op1 (vx10 / hammer :poss vx2 :location vx7) :op2 (vx11 / bend-01 :ARG0 vx1 :ARG1 vx3 :direction (vx12 / down) :topic (vx13 / object :mod (vx14 / ugly :degree (vx15 / extreme) :ARG1-of (vx16 / seem-01 :ARG2 vx1))))))
+
+# ::snt " Then - - the planet now makes a complete turn every minute , and I no longer have a single second for repose .
+(vx0 / and :op1 (vx1 / turn-01 :ARG0 (vx2 / planet) :ARG1-of (vx3 / complete-02) :frequency (vx4 / rate-entity-91 :ARG2 (vx5 / minute :quant 1)) :time (vx6 / now)) :op2 (vx7 / have-03 :ARG0 (vx8 / i) :ARG1 (vx9 / temporal-quantity :quant 1 :unit (vx10 / second) :ARG1-of (vx11 / single-02) :duration-of (vx12 / repose-01 :ARG1 vx8)) :time (vx13 / no-longer)) :time (vx14 / then))
+
+# ::snt " Then - - the planet now makes a complete turn every minute , and I no longer have a single second for repose .
+(vx0 / and :op1 (vx1 / turn-01 :ARG0 (vx2 / planet) :ARG1-of (vx3 / complete-02) :time (vx4 / now) :frequency (vx5 / rate-entity-91 :ARG3 (vx6 / minute))) :op2 (vx7 / have-03 :polarity - :ARG0 (vx8 / i) :ARG1 (vx9 / temporal-quantity :quant 1 :unit (vx10 / second)) :purpose (vx11 / repose-01 :ARG0 vx8) :time (vx12 / no-longer)) :mod (vx13 / then))
+
+# ::snt Unfortunately , nobody at all ever passes this way . "
+(vx0 / pass-02 :ARG0 (vx1 / nobody :mod (vx2 / at-all)) :ARG1 (vx3 / way :mod (vx4 / this)) :time (vx5 / ever) :ARG2-of (vx6 / fortunate-01 :polarity -))
+
+# ::snt Unfortunately , nobody at all ever passes this way . "
+(vx0 / fortunate-01 :polarity - :ARG2 (vx1 / pass-02 :ARG0 (vx2 / nobody :mod (vx3 / at-all)) :time (vx4 / ever) :direction (vx5 / this)))
+
+# ::snt For others , who are scholars , they are problems .
+(vx0 / problem :domain (vx1 / they) :prep-for (vx2 / other :mod (vx3 / scholar)))
+
+# ::snt For others , who are scholars , they are problems .
+(vx0 / problem :domain (vx1 / they) :beneficiary (vx2 / person :mod (vx3 / other) :mod (vx4 / scholar)))
+
+# ::snt After that they are not able to move , and they sleep through the six months that they need for digestion . "
+(vx0 / and :op1 (vx1 / possible-01 :polarity - :ARG1 (vx2 / move-01 :ARG1 (vx3 / they)) :time (vx4 / after :op1 (vx5 / that))) :op2 (vx6 / sleep-01 :ARG0 vx3 :duration (vx7 / temporal-quantity :quant 6 :unit (vx8 / month) :ARG1-of (vx9 / need-01 :ARG0 vx3 :purpose (vx10 / digest-01 :ARG1 vx3)))))
+
+# ::snt After that they are not able to move , and they sleep through the six months that they need for digestion . "
+(vx0 / and :op1 (vx1 / possible-01 :polarity - :ARG1 (vx2 / move-01 :ARG1 (vx3 / they)) :time (vx4 / after :op1 (vx5 / that))) :op2 (vx6 / sleep-01 :ARG0 vx3 :duration (vx7 / temporal-quantity :quant 6 :unit (vx8 / month) :ARG1-of (vx9 / need-01 :purpose (vx10 / digest-01)))))
+
+# ::snt It said : " If you please -- draw me a sheep ! "
+(vx0 / say-01 :ARG0 (vx1 / it) :ARG1 (vx2 / draw-01 :mode imperative :polite + :ARG0 (vx3 / you) :ARG1 (vx4 / sheep) :ARG4 (vx5 / i) :condition (vx6 / please :domain vx3)))
+
+# ::snt It said : " If you please -- draw me a sheep ! "
+(vx0 / say-01 :ARG0 (vx1 / it) :ARG1 (vx2 / draw-01 :mode imperative :polite + :ARG0 (vx3 / you) :ARG1 (vx4 / sheep) :ARG2 vx1))
+
+# ::snt Because of the pulley , and the rope , what you gave me to drink was like music .
+(vx0 / resemble-01 :ARG1 (vx1 / thing :ARG1-of (vx2 / give-01 :ARG0 (vx3 / you) :ARG2 (vx4 / i) :purpose (vx5 / drink-01 :ARG0 vx4))) :ARG2 (vx6 / music) :ARG1-of (vx7 / cause-01 :ARG0 (vx8 / and :op1 (vx9 / pulley) :op2 (vx10 / rope))))
+
+# ::snt Because of the pulley , and the rope , what you gave me to drink was like music .
+(vx0 / resemble-01 :ARG1 (vx1 / thing :ARG1-of (vx2 / drink-01 :ARG0 (vx3 / i))) :ARG2 (vx4 / music) :ARG1-of (vx5 / cause-01 :ARG0 (vx6 / and :op1 (vx7 / pulley) :op2 (vx8 / rope))))
+
+# ::snt But he said to himself , nevertheless : " It may well be that this man is absurd .
+(vx0 / contrast-01 :ARG2 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / possible-01 :ARG1 (vx4 / absurd :domain (vx5 / man :mod (vx6 / this))) :mod (vx7 / well)) :ARG2 vx2) :ARG1-of (vx8 / have-concession-91))
+
+# ::snt But he said to himself , nevertheless : " It may well be that this man is absurd .
+(vx0 / have-concession-91 :ARG1 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / possible-01 :ARG1 (vx4 / absurd :domain (vx5 / man :mod (vx6 / this))) :mod (vx7 / well))))
+
+# ::snt The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter , somewhere in the heavens , on a planet which had no people , and not one house .
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / reach-01 :ARG0 (vx2 / prince :mod (vx3 / little)) :ARG1 (vx4 / explain-01 :ARG1 (vx5 / use-01 :ARG1 (vx6 / and :op1 (vx7 / lamp :mod (vx8 / street)) :op2 (vx9 / lamplighter)) :location (vx10 / somewhere :location (vx11 / sky)) :location (vx12 / planet :ARG0-of (vx13 / have-03 :polarity - :ARG1 (vx14 / person)) :ARG0-of (vx15 / have-03 :polarity - :ARG1 (vx16 / house)))) :mod (vx17 / any))))
+
+# ::snt The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter , somewhere in the heavens , on a planet which had no people , and not one house .
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / reach-01 :ARG0 (vx2 / prince :mod (vx3 / little)) :ARG1 (vx4 / explain-01 :ARG1 (vx5 / use-01 :ARG1 (vx6 / and :op1 (vx7 / lamp :mod (vx8 / street)) :op2 (vx9 / thing :ARG0-of (vx10 / lamp-01))) :location (vx11 / somewhere :location (vx12 / heaven)) :location (vx13 / planet :ARG0-of (vx14 / have-03 :polarity - :ARG1 (vx15 / and :op1 (vx16 / person) :op2 (vx17 / house :quant 1))))))))
+
+# ::snt The sixth planet was ten times larger than the last one .
+(vx0 / large :degree (vx1 / more :quant (vx2 / product-of :op1 10)) :domain (vx3 / planet :ord (vx4 / ordinal-entity :value 6)) :compared-to (vx5 / planet :mod (vx6 / last)))
+
+# ::snt The sixth planet was ten times larger than the last one .
+(vx0 / planet :mod (vx1 / sixth) :mod (vx2 / large :degree (vx3 / more :quant (vx4 / product-of :op1 10)) :compared-to (vx5 / planet :mod (vx6 / last))))
+
+# ::snt Perhaps that is because he is thinking of something else besides himself . "
+(vx0 / possible-01 :ARG1 (vx1 / cause-01 :ARG0 (vx2 / think-01 :ARG0 (vx3 / he) :ARG1 (vx4 / something :mod (vx5 / else) :ARG2-of (vx6 / except-01 :ARG1 vx3))) :ARG1 (vx7 / that)))
+
+# ::snt Perhaps that is because he is thinking of something else besides himself . "
+(vx0 / possible-01 :ARG1 (vx1 / cause-01 :ARG0 (vx2 / think-01 :ARG0 (vx3 / he) :ARG1 (vx4 / something :mod (vx5 / else) :compared-to vx3)) :ARG1 (vx6 / that)))
+
+# ::snt Of what moment now was my hammer , my bolt , or thirst , or death ?
+(vx0 / or :op1 (vx1 / hammer :poss (vx2 / i)) :op2 (vx3 / bolt :poss vx2) :op3 (vx4 / thirst-01 :ARG0 vx2) :op4 (vx5 / die-01 :ARG1 vx2) :time (vx6 / moment :mod (vx7 / amr-unknown) :time (vx8 / now)))
+
+# ::snt Of what moment now was my hammer , my bolt , or thirst , or death ?
+(vx0 / moment :mod (vx1 / amr-unknown) :time (vx2 / now) :domain (vx3 / or :op1 (vx4 / hammer :poss (vx5 / i)) :op2 (vx6 / bolt :poss vx5) :op3 (vx7 / thirst-01 :ARG0 vx5) :op4 (vx8 / die-01 :ARG1 vx5)))
+
+# ::snt " I am a geographer , " the old gentleman said to him .
+(vx0 / say-01 :ARG0 (vx1 / gentleman :mod (vx2 / old)) :ARG1 (vx3 / geographer :domain vx1) :ARG2 (vx4 / he))
+
+# ::snt " I am a geographer , " the old gentleman said to him .
+(vx0 / say-01 :ARG0 (vx1 / gentleman :mod (vx2 / old)) :ARG1 (vx3 / geographer :domain (vx4 / i)) :ARG2 (vx5 / he))
+
+# ::snt " That is my present .
+(vx0 / present :domain (vx1 / that) :poss (vx2 / i))
+
+# ::snt " That is my present .
+(vx0 / present-02 :ARG1 (vx1 / that) :ARG2 (vx2 / i))
+
+# ::snt " That does n't do me much good , " said the lamplighter .
+(vx0 / say-01 :ARG0 (vx1 / lamplighter) :ARG1 (vx2 / do-02 :ARG0 (vx3 / that) :ARG1 (vx4 / good-02 :polarity - :quant (vx5 / much)) :ARG2 vx1))
+
+# ::snt " That does n't do me much good , " said the lamplighter .
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / lamplight-01)) :ARG1 (vx3 / do-02 :polarity - :ARG0 (vx4 / that) :ARG1 (vx5 / good-02 :quant (vx6 / much)) :ARG2 vx1))
+
+# ::snt And yet my little man seemed neither to be straying uncertainly among the sands , nor to be fainting from fatigue or hunger or thirst or fear .
+(vx0 / and :op2 (vx1 / seem-01 :ARG1 (vx2 / or :op1 (vx3 / stray-01 :polarity - :ARG0 (vx4 / man :mod (vx5 / little) :poss (vx6 / i)) :ARG1 (vx7 / among :op1 (vx8 / sands)) :manner (vx9 / certain :polarity -)) :op2 (vx10 / faint-01 :polarity - :ARG0 vx4 :ARG1 (vx11 / or :op1 (vx12 / fatigue) :op2 (vx13 / hunger) :op3 (vx14 / thirst) :op4 (vx15 / fear-01)))) :mod (vx16 / yet)))
+
+# ::snt And yet my little man seemed neither to be straying uncertainly among the sands , nor to be fainting from fatigue or hunger or thirst or fear .
+(vx0 / and :op2 (vx1 / seem-01 :ARG1 (vx2 / and :op1 (vx3 / stray-01 :polarity - :ARG0 (vx4 / man :mod (vx5 / little) :poss (vx6 / i)) :ARG1 (vx7 / among :op1 (vx8 / sand)) :ARG1-of (vx9 / sure-02 :polarity -)) :op2 (vx10 / faint-01 :polarity - :ARG0 vx4 :ARG1-of (vx11 / cause-01 :ARG0 (vx12 / or :op1 (vx13 / fatigue-01 :ARG1 vx4) :op2 (vx14 / hunger-01) :op3 (vx15 / thirst-01) :op4 (vx16 / fear-01))))) :mod (vx17 / yet)))
+
+# ::snt Then , with a sigh , he took his leave .
+(vx0 / leave-15 :ARG0 (vx1 / he) :time (vx2 / then) :manner (vx3 / sigh-02 :ARG0 vx1))
+
+# ::snt Then , with a sigh , he took his leave .
+(vx0 / take-01 :ARG0 (vx1 / he) :ARG1 (vx2 / leave-15 :ARG0 vx1) :time (vx3 / then) :manner (vx4 / sigh-02 :ARG0 vx1))
+
+# ::snt " And when your sorrow is comforted ( time soothes all sorrows ) you will be content that you have known me .
+(vx0 / and :op2 (vx1 / content-02 :ARG0 (vx2 / know-02 :ARG0 (vx3 / i) :ARG1 vx3) :ARG1 (vx4 / you) :time (vx5 / comfort-01 :ARG1 (vx6 / sorrow :poss vx4) :ARG1-of (vx7 / mean-01 :ARG2 (vx8 / soothe-01 :ARG0 (vx9 / time) :ARG1 (vx10 / sorrow :mod (vx11 / all)))))))
+
+# ::snt " And when your sorrow is comforted ( time soothes all sorrows ) you will be content that you have known me .
+(vx0 / and :op2 (vx1 / content-02 :ARG0 (vx2 / know-02 :ARG0 (vx3 / you) :ARG1 (vx4 / i)) :ARG1 vx3 :time (vx5 / comfort-01 :ARG1 vx3 :ARG2 (vx6 / sorrow-01 :ARG0 vx3) :ARG1-of (vx7 / mean-01 :ARG2 (vx8 / soothe-01 :ARG0 (vx9 / time) :ARG1 (vx10 / sorrow-01 :mod (vx11 / all)))))))
+
+# ::snt And he cast a look around him at the planet of the geographer .
+(vx0 / and :op2 (vx1 / look-01 :ARG0 (vx2 / he) :ARG1 (vx3 / planet :poss (vx4 / person :ARG0-of (vx5 / have-org-role-91 :ARG2 (vx6 / geographer)))) :location (vx7 / around :op1 vx2)))
+
+# ::snt And he cast a look around him at the planet of the geographer .
+(vx0 / and :op2 (vx1 / cast-01 :ARG0 (vx2 / he) :ARG1 (vx3 / look-01 :ARG0 vx2 :ARG1 (vx4 / planet :poss (vx5 / geographer)) :direction (vx6 / around :op1 vx2))))
+
+# ::snt He did not follow my reasoning , and he answered me : " It is a good thing to have had a friend , even if one is about to die .
+(vx0 / and :op1 (vx1 / follow-02 :polarity - :ARG0 (vx2 / he) :ARG1 (vx3 / reason-01 :ARG0 (vx4 / i))) :op2 (vx5 / answer-01 :ARG0 vx2 :ARG1 vx4 :ARG2 (vx6 / good-02 :ARG1 (vx7 / have-03 :ARG1 (vx8 / person :ARG0-of (vx9 / have-rel-role-91 :ARG2 (vx10 / friend)))) :concession (vx11 / even-if :op1 (vx12 / die-01 :ARG1 (vx13 / one) :time (vx14 / about-to))))))
+
+# ::snt He did not follow my reasoning , and he answered me : " It is a good thing to have had a friend , even if one is about to die .
+(vx0 / and :op1 (vx1 / follow-02 :polarity - :ARG0 (vx2 / he) :ARG1 (vx3 / reason-01 :ARG0 (vx4 / i))) :op2 (vx5 / answer-01 :ARG0 vx2 :ARG1 vx4 :ARG2 (vx6 / thing :ARG1-of (vx7 / good-02) :domain (vx8 / have-03 :ARG1 (vx9 / person :ARG0-of (vx10 / have-rel-role-91 :ARG1 vx2 :ARG2 (vx11 / friend)))) :concession (vx12 / even-if :op1 (vx13 / die-01 :ARG1 vx9)))))
+
+# ::snt The little prince sat down on the table and panted a little .
+(vx0 / and :op1 (vx1 / sit-down-02 :ARG1 (vx2 / prince :mod (vx3 / little)) :ARG2 (vx4 / table)) :op2 (vx5 / pant-01 :ARG0 vx2 :quant (vx6 / little)))
+
+# ::snt The little prince sat down on the table and panted a little .
+(vx0 / and :op1 (vx1 / sit-01 :ARG1 (vx2 / prince :mod (vx3 / little)) :ARG2 (vx4 / table) :manner (vx5 / down)) :op2 (vx6 / pant-01 :ARG0 vx2 :degree (vx7 / little)))
+
+# ::snt It will be a very shabby trick that I shall have played on you ... "
+(vx0 / trick :mod (vx1 / shabby :degree (vx2 / very)) :ARG2-of (vx3 / play-on-04 :ARG0 (vx4 / i) :ARG1 (vx5 / you)))
+
+# ::snt It will be a very shabby trick that I shall have played on you ... "
+(vx0 / trick :mod (vx1 / shabby :degree (vx2 / very)) :ARG1-of (vx3 / play-01 :ARG0 (vx4 / i) :ARG2 (vx5 / you)) :domain (vx6 / it))
+
+# ::snt I would bring myself down to his level .
+(vx0 / bring-down-03 :ARG0 (vx1 / i :ARG1-of vx0) :ARG4 (vx2 / level :poss (vx3 / he)))
+
+# ::snt I would bring myself down to his level .
+(vx0 / bring-01 :ARG0 (vx1 / i) :ARG1 vx1 :ARG4 (vx2 / level :poss (vx3 / he)) :direction (vx4 / down))
+
+# ::snt It is a very different matter . "
+(vx0 / matter :ARG1-of (vx1 / differ-02 :degree (vx2 / very)))
+
+# ::snt It is a very different matter . "
+(vx0 / matter :ARG1-of (vx1 / differ-02 :degree (vx2 / very)) :domain (vx3 / it))
+
+# ::snt Little glittering objects . "
+(vx0 / object :ARG1-of (vx1 / glitter-01) :mod (vx2 / little))
+
+# ::snt Little glittering objects . "
+(vx0 / object :ARG0-of (vx1 / glitter-01) :mod (vx2 / little))
+
+# ::snt My drawing was not a picture of a hat .
+(vx0 / picture :polarity - :topic (vx1 / hat) :domain (vx2 / thing :ARG1-of (vx3 / draw-02 :ARG0 (vx4 / i))))
+
+# ::snt My drawing was not a picture of a hat .
+(vx0 / picture-01 :polarity - :ARG1 (vx1 / hat) :ARG1-of (vx2 / draw-01 :ARG0 (vx3 / i)))
+
+# ::snt " And what good does it do you to own the stars ? "
+(vx0 / and :op2 (vx1 / do-02 :ARG0 (vx2 / own-01 :ARG0 (vx3 / you) :ARG1 (vx4 / star)) :ARG1 (vx5 / amr-unknown)))
+
+# ::snt " And what good does it do you to own the stars ? "
+(vx0 / and :op2 (vx1 / do-02 :ARG0 (vx2 / own-01 :ARG0 (vx3 / you) :ARG1 (vx4 / star)) :ARG1 (vx5 / amr-unknown :ARG1-of (vx6 / good-02)) :ARG2 vx3))
+
+# ::snt He said to me merely : " Ah !
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / multi-sentence :snt1 (vx3 / ah :mode expressive) :snt2 (vx4 / ah :mode expressive)) :ARG2 (vx5 / i) :manner (vx6 / mere))
+
+# ::snt He said to me merely : " Ah !
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / ah :mode expressive) :ARG2 (vx3 / i) :manner (vx4 / mere))
+
+# ::snt When you want to rest , you will walk - - and the day will last as long as you like . "
+(vx0 / and :op1 (vx1 / walk-01 :ARG0 (vx2 / you)) :op2 (vx3 / last-01 :ARG1 (vx4 / day) :ARG2 (vx5 / like-02 :ARG0 vx2)) :time (vx6 / want-01 :ARG0 vx2 :ARG1 (vx7 / rest-01 :ARG0 vx2)))
+
+# ::snt When you want to rest , you will walk - - and the day will last as long as you like . "
+(vx0 / and :op1 (vx1 / walk-01 :ARG0 (vx2 / you) :time (vx3 / want-01 :ARG0 vx2 :ARG1 (vx4 / rest-01 :ARG1 vx2))) :op2 (vx5 / last-01 :ARG1 (vx6 / day) :ARG2 (vx7 / temporal-quantity :degree (vx8 / equal) :compared-to (vx9 / like-02 :ARG0 vx2))))
+
+# ::snt So with me : I own the stars , because nobody else before me ever thought of owning them . "
+(vx0 / own-01 :ARG0 (vx1 / i) :ARG1 (vx2 / star) :ARG1-of (vx3 / cause-01 :ARG0 (vx4 / think-01 :ARG0 (vx5 / nobody :mod (vx6 / else)) :ARG1 (vx7 / own-01 :ARG0 vx5 :ARG1 vx2) :time (vx8 / ever) :time (vx9 / before :op1 vx1))) :prep-with vx1)
+
+# ::snt So with me : I own the stars , because nobody else before me ever thought of owning them . "
+(vx0 / cause-01 :ARG0 (vx1 / think-01 :ARG0 (vx2 / nobody :mod (vx3 / else) :time (vx4 / before :op1 (vx5 / i))) :ARG1 (vx6 / own-01 :ARG0 vx5 :ARG1 (vx7 / star)) :time (vx8 / ever)) :ARG1 (vx9 / own-01 :ARG0 vx5 :ARG1 vx7) :topic vx5)
+
+# ::snt Twelve and three make fifteen .
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 12 :op2 3) :ARG2 15)
+
+# ::snt Twelve and three make fifteen .
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 12 :op2 3 :ARG2-of vx0) :op1 15)
+
+# ::snt After five minutes of this exercise the little prince grew tired of the game 's monotony .
+(vx0 / tire-03 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / monotony :poss (vx4 / game)) :time (vx5 / after :op1 (vx6 / exercise-02 :mod (vx7 / this) :duration (vx8 / temporal-quantity :quant 5 :unit (vx9 / minute)))))
+
+# ::snt After five minutes of this exercise the little prince grew tired of the game 's monotony .
+(vx0 / grow-02 :ARG1 (vx1 / prince :mod (vx2 / little)) :ARG2 (vx3 / tire-03 :ARG0 (vx4 / monotony :poss (vx5 / game)) :ARG1 vx1) :time (vx6 / after :op1 (vx7 / exercise-02 :mod (vx8 / this) :duration (vx9 / temporal-quantity :quant 5 :unit (vx10 / minute)))))
+
+# ::snt " I administer them , " replied the businessman .
+(vx0 / reply-01 :ARG0 (vx1 / businessman) :ARG2 (vx2 / administer-01 :ARG0 vx1 :ARG1 (vx3 / they)))
+
+# ::snt " I administer them , " replied the businessman .
+(vx0 / reply-01 :ARG0 (vx1 / businessman) :ARG2 (vx2 / administer-01 :ARG0 (vx3 / i) :ARG1 (vx4 / they)))
+
+# ::snt On matters of consequence , the little prince had ideas which were very different from those of the grown - ups .
+(vx0 / have-03 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / idea :ARG1-of (vx4 / differ-02 :ARG2 (vx5 / idea :poss (vx6 / person :ARG1-of (vx7 / grow-up-04 :ARG1-of (vx8 / grown-up-04)))) :degree (vx9 / very))) :topic (vx10 / matter :mod (vx11 / consequence)))
+
+# ::snt On matters of consequence , the little prince had ideas which were very different from those of the grown - ups .
+(vx0 / have-03 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / idea :ARG1-of (vx4 / differ-02 :ARG2 (vx5 / idea :poss (vx6 / person :ARG1-of (vx7 / grow-up-04))) :degree (vx8 / very))) :topic (vx9 / consequence))
+
+# ::snt " Oh , but I have looked already ! " said the little prince , turning around to give one more glance to the other side of the planet .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / contrast-01 :ARG2 (vx4 / look-01 :ARG0 vx1 :time (vx5 / already))) :manner (vx6 / turn-01 :ARG1 vx1 :direction (vx7 / around) :purpose (vx8 / glance-01 :ARG0 vx1 :ARG1 (vx9 / side :mod (vx10 / other) :part-of (vx11 / planet)) :mod (vx12 / more))) :mod (vx13 / oh :mode expressive))
+
+# ::snt " Oh , but I have looked already ! " said the little prince , turning around to give one more glance to the other side of the planet .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / turn-01 :direction (vx4 / around) :purpose (vx5 / glance-01 :ARG0 vx1 :ARG1 (vx6 / side :mod (vx7 / other) :part-of (vx8 / planet)) :quant (vx9 / one :mod (vx10 / more))))) :ARG1 (vx11 / contrast-01 :ARG2 (vx12 / look-01 :ARG0 vx1 :time (vx13 / already)) :mod (vx14 / oh :mode expressive)))
+
+# ::snt But it is of no great consequence . "
+(vx0 / contrast-01 :ARG2 (vx1 / consequence :mod (vx2 / great :polarity -) :domain (vx3 / it)))
+
+# ::snt But it is of no great consequence . "
+(vx0 / contrast-01 :ARG2 (vx1 / consequence :polarity - :mod (vx2 / great) :domain (vx3 / it)))
+
+# ::snt " I always want to rest , " said the lamplighter .
+(vx0 / say-01 :ARG0 (vx1 / lamplighter) :ARG1 (vx2 / want-01 :ARG0 vx1 :ARG1 (vx3 / rest-01 :ARG0 vx1) :time (vx4 / always)))
+
+# ::snt " I always want to rest , " said the lamplighter .
+(vx0 / say-01 :ARG0 (vx1 / person :ARG0-of (vx2 / lamplight-01)) :ARG1 (vx3 / want-01 :ARG0 vx1 :ARG1 (vx4 / rest-01 :ARG1 vx1) :time (vx5 / always)))
+
+# ::snt On one star , one planet , my planet , the Earth , there was a little prince to be comforted .
+(vx0 / be-located-at-91 :ARG1 (vx1 / prince :mod (vx2 / little)) :ARG2 (vx3 / and :op1 (vx4 / star :quant 1) :op2 (vx5 / planet :quant 1) :op3 (vx6 / planet :poss (vx7 / i)) :op4 (vx8 / planet :name (vx9 / name :op1 "Earth"))) :ARG2-of (vx10 / comfort-01))
+
+# ::snt On one star , one planet , my planet , the Earth , there was a little prince to be comforted .
+(vx0 / prince :mod (vx1 / little) :ARG2-of (vx2 / comfort-01) :location (vx3 / and :op1 (vx4 / star :quant 1) :op2 (vx5 / planet :quant 1) :op3 (vx6 / planet :poss (vx7 / i)) :op4 (vx8 / planet :name (vx9 / name :op1 "Earth") :poss vx7)))
+
+# ::snt She has four thorns , of no use at all , to protect herself against all the world ... "
+(vx0 / have-03 :ARG0 (vx1 / she) :ARG1 (vx2 / thorn :quant 4 :ARG1-of (vx3 / use-01 :polarity - :ARG2 (vx4 / protect-01 :ARG1 vx1 :ARG3 (vx5 / world :mod (vx6 / all))) :degree (vx7 / at-all))))
+
+# ::snt She has four thorns , of no use at all , to protect herself against all the world ... "
+(vx0 / have-03 :ARG0 (vx1 / she) :ARG1 (vx2 / thorn :quant 4 :ARG1-of (vx3 / use-01 :polarity - :degree (vx4 / at-all))) :purpose (vx5 / protect-01 :ARG0 vx1 :ARG1 vx1 :ARG2 (vx6 / world :mod (vx7 / all))))
+
+# ::snt It was a question of life or death for me : I had scarcely enough drinking water to last a week .
+(vx0 / question-01 :ARG1 (vx1 / or :op1 (vx2 / live-01 :ARG0 (vx3 / cause-01 :ARG1 vx0 :ARG0 (vx4 / have-03 :ARG0 vx12 :ARG1 (vx5 / water :ARG1-of (vx6 / drink-01) :quant (vx7 / enough :degree (vx8 / scarce)) :duration (vx9 / temporal-quantity :quant 1 :unit (vx10 / week)))))) :op2 (vx11 / die-01 :ARG1 vx3)) :ARG2 (vx12 / i))
+
+# ::snt It was a question of life or death for me : I had scarcely enough drinking water to last a week .
+(vx0 / question-01 :ARG1 (vx1 / or :op1 (vx2 / live-01) :op2 (vx3 / die-01)) :ARG2 (vx4 / i) :ARG1-of (vx5 / cause-01 :ARG0 (vx6 / have-03 :ARG0 vx4 :ARG1 (vx7 / water :ARG1-of (vx8 / drink-01) :quant (vx9 / enough :degree (vx10 / scarce)) :ARG0-of (vx11 / last-03 :ARG1 (vx12 / temporal-quantity :quant 1 :unit (vx13 / week)))))))
+
+# ::snt And so it will be as if all the stars were laughing , when you look at the sky at night ... you - - only you - - will have stars that can laugh ! "
+(vx0 / and :op2 (vx1 / have-03 :ARG0 (vx2 / you :mod (vx3 / only)) :ARG1 (vx4 / star :ARG0-of (vx5 / laugh-01 :ARG1-of (vx6 / possible-01))) :time (vx7 / look-01 :ARG0 vx2 :ARG1 (vx8 / sky) :time (vx9 / date-entity :dayperiod (vx10 / night))) :ARG1-of (vx11 / resemble-01 :ARG2 (vx12 / laugh-01 :ARG0 (vx13 / star :mod (vx14 / all))))))
+
+# ::snt And so it will be as if all the stars were laughing , when you look at the sky at night ... you - - only you - - will have stars that can laugh ! "
+(vx0 / and :op1 (vx1 / infer-01 :ARG1 (vx2 / resemble-01 :ARG2 (vx3 / laugh-01 :ARG0 (vx4 / star :mod (vx5 / all))))) :op2 (vx6 / have-03 :ARG0 (vx7 / you :mod (vx8 / only)) :ARG1 (vx9 / star :ARG0-of (vx10 / laugh-01 :ARG1-of (vx11 / possible-01))) :time (vx12 / look-01 :ARG0 vx7 :ARG1 (vx13 / sky) :time (vx14 / date-entity :dayperiod (vx15 / night)))))
+
+# ::snt It was now the eighth day since I had had my accident in the desert , and I had listened to the story of the merchant as I was drinking the last drop of my water supply .
+(vx0 / and :op1 (vx1 / day :ord (vx2 / ordinal-entity :value 8) :time (vx3 / since :op1 (vx4 / accident :poss (vx5 / i) :location (vx6 / desert))) :time (vx7 / now)) :op2 (vx8 / listen-01 :ARG0 vx5 :ARG1 (vx9 / story :topic (vx10 / person :ARG0-of (vx11 / merchandise-01))) :time (vx12 / drink-01 :ARG0 vx5 :ARG1 (vx13 / drop :mod (vx14 / last) :ARG1-of (vx15 / supply-01 :ARG2 vx5)))))
+
+# ::snt It was now the eighth day since I had had my accident in the desert , and I had listened to the story of the merchant as I was drinking the last drop of my water supply .
+(vx0 / and :op1 (vx1 / be-temporally-at-91 :ARG1 (vx2 / now) :ARG2 (vx3 / day :ord (vx4 / ordinal-entity :value 8) :range (vx5 / since :op1 (vx6 / accident :poss (vx7 / i) :location (vx8 / desert))))) :op2 (vx9 / listen-01 :ARG0 vx7 :ARG1 (vx10 / story :poss (vx11 / person :ARG0-of (vx12 / merchandise-01))) :time (vx13 / drink-01 :ARG0 vx7 :ARG1 (vx14 / drop :mod (vx15 / last) :part-of (vx16 / supply-01 :ARG1 (vx17 / water) :ARG2 vx7)))))
+
+# ::snt I do n't get enough exercise .
+(vx0 / exercise-02 :polarity - :ARG0 (vx1 / i) :quant (vx2 / enough))
+
+# ::snt I do n't get enough exercise .
+(vx0 / get-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / exercise-02 :ARG0 vx1 :quant (vx3 / enough)))
+
+# ::snt " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / contrast-01 :ARG1 (vx4 / admire-01 :ARG0 vx1 :ARG1 (vx5 / you)) :ARG2 (vx6 / interest-01 :ARG0 (vx7 / amr-unknown) :ARG1 vx5 :degree (vx8 / much :degree (vx9 / so)))) :manner (vx10 / shrug-01 :ARG0 vx1 :ARG1 (vx11 / shoulder :part-of vx1) :degree (vx12 / slight)))
+
+# ::snt " I admire you , " said the little prince , shrugging his shoulders slightly , " but what is there in that to interest you so much ? "
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little) :ARG0-of (vx3 / shrug-01 :ARG1 (vx4 / shoulder) :manner (vx5 / slight)) :part vx4) :ARG1 (vx6 / contrast-01 :ARG1 (vx7 / admire-01 :ARG0 vx1 :ARG1 (vx8 / you)) :ARG2 (vx9 / amr-unknown :ARG0-of (vx10 / interest-01 :ARG1 vx8 :degree (vx11 / much :degree (vx12 / so))))))
+
+# ::snt " He has never been either hungry or thirsty .
+(vx0 / or :op1 (vx1 / hunger-01 :ARG0 (vx2 / he)) :op2 (vx3 / thirst-01 :ARG0 vx2) :time (vx4 / ever :polarity -))
+
+# ::snt " He has never been either hungry or thirsty .
+(vx0 / or :op1 (vx1 / hunger-01 :polarity - :ARG0 (vx2 / he) :time (vx3 / ever)) :op2 (vx4 / thirst-01 :polarity - :ARG0 vx2 :time vx3))
+
+# ::snt If one gets lost in the night , such knowledge is valuable .
+(vx0 / have-condition-91 :ARG1 (vx1 / value-02 :ARG1 (vx2 / know-01 :mod (vx3 / such))) :ARG2 (vx4 / lose-02 :ARG1 (vx5 / one) :time (vx6 / date-entity :dayperiod (vx7 / night))))
+
+# ::snt If one gets lost in the night , such knowledge is valuable .
+(vx0 / value-01 :ARG1 (vx1 / knowledge :mod (vx2 / such)) :condition (vx3 / lose-02 :ARG1 (vx4 / one) :time (vx5 / night)))
+
+# ::snt " The grown - ups are very strange , " the little prince said to himself , as he continued on his journey .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / strange :degree (vx4 / very) :domain (vx5 / person :ARG1-of (vx6 / grow-up-04))) :ARG2 vx1 :time (vx7 / continue-01 :ARG0 vx1 :ARG1 (vx8 / journey-01 :ARG0 vx1)))
+
+# ::snt " The grown - ups are very strange , " the little prince said to himself , as he continued on his journey .
+(vx0 / say-01 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / strange :domain (vx4 / grown-up-04) :degree (vx5 / very)) :time (vx6 / continue-01 :ARG0 vx1 :ARG1 (vx7 / journey-01 :ARG0 vx1)))
+
+# ::snt " That is enough , " said the businessman .
+(vx0 / say-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / enough :domain (vx3 / that)))
+
+# ::snt " That is enough , " said the businessman .
+(vx0 / say-01 :ARG0 (vx1 / businessman) :ARG1 (vx2 / suffice-01 :ARG0 (vx3 / that)))
+
+# ::snt I have no time for loafing .
+(vx0 / have-03 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / time :purpose (vx3 / loaf-around-01 :ARG0 vx1)))
+
+# ::snt I have no time for loafing .
+(vx0 / lounge-01 :polarity - :ARG0 (vx1 / i))
+
+# ::snt " And towns , and rivers , and deserts ? "
+(vx0 / and :mode interrogative :op2 (vx1 / and :op1 (vx2 / town) :op2 (vx3 / river) :op3 (vx4 / desert)))
+
+# ::snt " And towns , and rivers , and deserts ? "
+(vx0 / and :mode interrogative :op1 (vx1 / town) :op2 (vx2 / river) :op3 (vx3 / desert))
+
+# ::snt And that has n't much improved my opinion of them .
+(vx0 / and :op2 (vx1 / improve-01 :polarity - :ARG0 (vx2 / that) :ARG1 (vx3 / thing :topic (vx4 / they) :ARG1-of (vx5 / opine-01 :ARG0 (vx6 / i))) :degree (vx7 / much)))
+
+# ::snt And that has n't much improved my opinion of them .
+(vx0 / and :op2 (vx1 / improve-01 :polarity - :ARG0 (vx2 / that) :ARG1 (vx3 / thing :ARG1-of (vx4 / opine-01 :ARG0 (vx5 / i) :topic (vx6 / they))) :degree (vx7 / much)))
+
+# ::snt The businessman opened his mouth , but he found nothing to say in answer .
+(vx0 / have-concession-91 :ARG1 (vx1 / find-01 :ARG0 (vx2 / businessman) :ARG1 (vx3 / say-01 :ARG0 vx2 :ARG1 (vx4 / nothing) :ARG2-of (vx5 / answer-01))) :ARG2 (vx6 / open-01 :ARG0 vx2 :ARG1 (vx7 / mouth :part-of vx2)))
+
+# ::snt The businessman opened his mouth , but he found nothing to say in answer .
+(vx0 / contrast-01 :ARG1 (vx1 / open-01 :ARG0 (vx2 / businessman :part (vx3 / mouth)) :ARG1 vx3) :ARG2 (vx4 / find-02 :ARG0 vx2 :ARG1 (vx5 / nothing :ARG1-of (vx6 / answer-01 :ARG0 vx2))))
+
+# ::snt I jumped to my feet , completely thunderstruck .
+(vx0 / jump-03 :ARG0 (vx1 / i) :destination (vx2 / foot :part-of vx1) :ARG1-of (vx3 / cause-01 :ARG0 (vx4 / thunderstruck-01 :ARG1 vx1 :degree (vx5 / complete))))
+
+# ::snt I jumped to my feet , completely thunderstruck .
+(vx0 / and :op1 (vx1 / jump-03 :ARG0 (vx2 / i :part (vx3 / foot)) :destination vx3) :op2 (vx4 / thunderstruck-01 :ARG1 vx2 :degree (vx5 / complete)))
+
+# ::snt " Here at last is a man who has a real profession ! "
+(vx0 / man :domain (vx1 / here :mod (vx2 / at-last)) :ARG0-of (vx3 / have-03 :ARG1 (vx4 / profession :ARG1-of (vx5 / real-04))))
+
+# ::snt " Here at last is a man who has a real profession ! "
+(vx0 / man :ARG0-of (vx1 / have-03 :ARG1 (vx2 / profession :ARG1-of (vx3 / real-04))) :location (vx4 / here) :mod (vx5 / at-last))
+
+# ::snt The little prince went on with his explanation : " Your planet is so small that three strides will take you all the way around it .
+(vx0 / go-on-25 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / explain-01 :ARG0 vx1 :ARG1 (vx4 / cause-01 :ARG0 (vx5 / small :domain (vx6 / planet :poss (vx7 / you)) :degree (vx8 / so)) :ARG1 (vx9 / take-01 :ARG0 (vx10 / stride :quant 3) :ARG1 (vx11 / way :mod (vx12 / all) :path (vx13 / around :op1 vx6)) :ARG2 vx7))))
+
+# ::snt The little prince went on with his explanation : " Your planet is so small that three strides will take you all the way around it .
+(vx0 / go-on-25 :ARG0 (vx1 / prince :mod (vx2 / little)) :ARG1 (vx3 / explain-01 :ARG0 vx1 :ARG1 (vx4 / cause-01 :ARG0 (vx5 / small :domain (vx6 / planet :poss (vx7 / you)) :degree (vx8 / so)) :ARG1 (vx9 / take-01 :ARG0 (vx10 / stride-01 :quant 3) :ARG1 vx7 :ARG3 (vx11 / way :mod (vx12 / all) :path (vx13 / around :op1 vx6))))))
+
+# ::snt But since the grown - ups were not able to understand it , I made another drawing : I drew the inside of the boa constrictor , so that the grown - ups could see it clearly .
+(vx0 / contrast-01 :ARG2 (vx1 / cause-01 :ARG0 (vx2 / possible-01 :polarity - :ARG1 (vx3 / understand-01 :ARG0 (vx4 / person :ARG1-of (vx5 / grow-up-04)) :ARG1 (vx6 / it))) :ARG1 (vx7 / draw-01 :ARG0 (vx8 / i) :mod (vx9 / another) :ARG1-of (vx10 / mean-01 :ARG2 (vx11 / draw-01 :ARG0 vx8 :ARG1 (vx12 / inside :op1 (vx13 / constrictor :mod (vx14 / boa))) :purpose (vx15 / possible-01 :ARG1 (vx16 / see-01 :ARG0 vx4 :ARG1 vx6 :ARG1-of (vx17 / clear-08))))))))
+
+# ::snt But since the grown - ups were not able to understand it , I made another drawing : I drew the inside of the boa constrictor , so that the grown - ups could see it clearly .
+(vx0 / contrast-01 :ARG2 (vx1 / cause-01 :ARG0 (vx2 / possible-01 :polarity - :ARG1 (vx3 / understand-01 :ARG0 (vx4 / person :ARG1-of (vx5 / grow-up-04)) :ARG1 (vx6 / it))) :ARG1 (vx7 / draw-01 :ARG0 (vx8 / i) :ARG1 (vx9 / inside :part-of (vx10 / constrictor :mod (vx11 / boa))) :mod (vx12 / another)) :ARG1-of (vx13 / mean-01 :ARG2 vx7 :ARG0 vx8 :ARG1 vx9 :purpose (vx14 / possible-01 :ARG1 (vx15 / see-01 :ARG0 vx4 :ARG1 vx9 :ARG1-of (vx16 / clear-06))))))
+
+# ::snt " Your cigarette has gone out . "
+(vx0 / go-out-06 :ARG0 (vx1 / cigarette :poss (vx2 / you)))
+
+# ::snt " Your cigarette has gone out . "
+(vx0 / go-out-17 :ARG1 (vx1 / cigarette :poss (vx2 / you)))
+
+# ::snt When you get an idea before any one else , you take out a patent on it : it is yours .
+(vx0 / patent-02 :ARG1 z11 :ARG1-of (vx1 / cause-01 :ARG0 (vx2 / own-01 :ARG0 (vx3 / you) :ARG1 (vx4 / idea))) :time (vx5 / get-01 :ARG0 vx3 :ARG1 vx4 :time (vx6 / before :op1 (vx7 / anyone :mod (vx8 / else)))))
+
+# ::snt When you get an idea before any one else , you take out a patent on it : it is yours .
+(vx0 / and :op1 (vx1 / take-out-11 :ARG0 (vx2 / you) :ARG1 (vx3 / patent-01 :ARG1 (vx4 / idea))) :op2 (vx5 / own-01 :ARG0 vx2 :ARG1 vx4) :time (vx6 / get-01 :ARG0 vx2 :ARG1 vx4 :time (vx7 / before :op1 (vx8 / anyone :mod (vx9 / else)))))
+
+# ::snt " That means that I write the number of my stars on a little paper .
+(vx0 / mean-01 :ARG1 (vx1 / that) :ARG2 (vx2 / write-01 :ARG0 (vx3 / i) :ARG1 (vx4 / number :quant-of (vx5 / star :poss vx3)) :location (vx6 / paper :mod (vx7 / little))))
+
+# ::snt " That means that I write the number of my stars on a little paper .
+(vx0 / mean-01 :ARG1 (vx1 / that) :ARG2 (vx2 / write-01 :ARG0 (vx3 / i) :ARG1 (vx4 / number :poss (vx5 / star :poss vx3)) :location (vx6 / paper :mod (vx7 / little))))
+
+# ::snt And as I had with me neither a mechanic nor any passengers , I set myself to attempt the difficult repairs all alone .
+(vx0 / and :op2 (vx1 / set-02 :ARG0 (vx2 / i :ARG1-of vx1) :ARG2 (vx3 / attempt-01 :ARG0 vx2 :ARG1 (vx4 / repair-01 :mod (vx5 / difficult))) :ARG1-of (vx6 / cause-01 :ARG0 (vx7 / have-03 :polarity - :ARG0 vx2 :ARG1 (vx8 / and :op1 (vx9 / person :ARG0-of (vx10 / repair-01)) :op2 (vx11 / passenger)) :accompanier vx2 :mod (vx12 / alone :mod (vx13 / all))))))
+
+# ::snt And as I had with me neither a mechanic nor any passengers , I set myself to attempt the difficult repairs all alone .
+(vx0 / and :op2 (vx1 / set-02 :ARG0 (vx2 / i) :ARG1 vx2 :ARG2 (vx3 / attempt-01 :ARG0 vx2 :ARG1 (vx4 / repair-01 :ARG1-of (vx5 / difficult-02)) :manner (vx6 / alone :mod (vx7 / all))) :ARG1-of (vx8 / resemble-01 :ARG2 (vx9 / have-03 :polarity - :ARG0 vx2 :ARG1 (vx10 / and :op1 (vx11 / mechanic) :op2 (vx12 / passenger :mod (vx13 / any))) :prep-with vx2))))
+
+# ::snt It was the smallest of all .
+(vx0 / thing :mod (vx1 / small :degree (vx2 / most) :compared-to (vx3 / all)) :domain (vx4 / it))
+
+# ::snt It was the smallest of all .
+(vx0 / small :degree (vx1 / most) :domain (vx2 / it) :compared-to (vx3 / all))
+
+# ::snt Where I live everything is so small that I can not show you where my star is to be found .
+(vx0 / cause-01 :ARG0 (vx1 / small :mod (vx2 / so) :domain (vx3 / everything) :location (vx4 / live-01 :ARG0 (vx5 / i))) :ARG1 (vx6 / possible-01 :polarity - :ARG1 (vx7 / show-01 :ARG0 vx5 :ARG1 (vx8 / thing :location-of (vx9 / find-01 :ARG1 (vx10 / star :poss vx5))) :ARG2 (vx11 / you))))
+
+# ::snt Where I live everything is so small that I can not show you where my star is to be found .
+(vx0 / cause-01 :ARG0 (vx1 / small :degree (vx2 / so) :domain (vx3 / everything :location (vx4 / live-01 :ARG0 (vx5 / i)))) :ARG1 (vx6 / possible-01 :polarity - :ARG1 (vx7 / show-01 :ARG0 vx5 :ARG1 (vx8 / thing :location-of (vx9 / find-01 :ARG1 (vx10 / star :poss vx5))) :ARG2 (vx11 / you))))
+
+# ::snt And all day he says over and over , just like you : ' I am busy with matters of consequence ! ' And that makes him swell up with pride .
+(vx0 / multi-sentence :snt1 (vx1 / and :op2 (vx2 / say-01 :ARG0 (vx3 / he) :ARG1 (vx4 / busy-01 :ARG1 vx3 :ARG2 (vx5 / matter :mod (vx6 / consequence))) :frequency (vx7 / over-and-over) :ARG1-of (vx8 / resemble-01 :ARG2 (vx9 / you) :mod (vx10 / just)) :duration (vx11 / day :mod (vx12 / all)))) :snt2 (vx13 / and :op2 (vx14 / make-02 :ARG0 (vx15 / that) :ARG1 (vx16 / swell-01 :ARG1 (vx17 / he) :ARG0-of (vx18 / pride-01)))))
+
+# ::snt And all day he says over and over , just like you : ' I am busy with matters of consequence ! ' And that makes him swell up with pride .
+(vx0 / and :op2 (vx1 / say-01 :ARG0 (vx2 / he) :ARG1 (vx3 / busy-01 :ARG1 vx2 :ARG2 (vx4 / matter :topic (vx5 / consequence))) :frequency (vx6 / over-and-over) :time (vx7 / day :mod (vx8 / all)) :ARG1-of (vx9 / resemble-01 :ARG2 (vx10 / you)) :ARG0-of (vx11 / make-02 :ARG1 (vx12 / swell-up-04 :ARG1 vx2 :ARG2 (vx13 / pride-01 :ARG0 vx2)))))
+
+# ::snt When you find a diamond that belongs to nobody , it is yours .
+(vx0 / own-01 :ARG0 (vx1 / you) :ARG1 (vx2 / diamond) :time (vx3 / find-01 :ARG0 vx1 :ARG1 (vx4 / diamond :ARG0-of (vx5 / belong-01 :ARG1 (vx6 / nobody)))))
+
+# ::snt When you find a diamond that belongs to nobody , it is yours .
+(vx0 / own-01 :ARG0 (vx1 / you) :ARG1 (vx2 / diamond :ARG0-of (vx3 / belong-01 :ARG1 (vx4 / nobody))) :time (vx5 / find-01 :ARG0 vx1 :ARG1 vx2))
+
+# ::snt My star will just be one of the stars , for you .
+(vx0 / star :domain (vx1 / star :poss (vx2 / i)) :mod (vx3 / just) :ARG1-of (vx4 / include-91 :ARG2 (vx5 / star :beneficiary (vx6 / you))))
+
+# ::snt My star will just be one of the stars , for you .
+(vx0 / include-91 :ARG1 (vx1 / star :poss (vx2 / i)) :ARG2 (vx3 / star) :beneficiary (vx4 / you) :mod (vx5 / just))
+
+# ::snt But then I remembered how my studies had been concentrated on geography , history , arithmetic , and grammar , and I told the little chap ( a little crossly , too ) that I did not know how to draw .
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / remember-01 :ARG0 (vx3 / i) :ARG1 (vx4 / thing :manner-of (vx5 / concentrate-01 :ARG1 (vx6 / study-01 :ARG0 vx3) :ARG2 (vx7 / and :op1 (vx8 / geography) :op2 (vx9 / history) :op3 (vx10 / mathematics) :op4 (vx11 / grammar)))) :time (vx12 / then)) :op2 (vx13 / tell-01 :ARG0 vx3 :ARG1 (vx14 / know-01 :polarity - :ARG0 vx3 :ARG1 (vx15 / draw-01 :ARG0 vx3)) :ARG2 (vx16 / chap :mod (vx17 / little) :mod (vx18 / cross :mod (vx19 / little))) :mod (vx20 / too) :mod (vx21 / little))))
+
+# ::snt But then I remembered how my studies had been concentrated on geography , history , arithmetic , and grammar , and I told the little chap ( a little crossly , too ) that I did not know how to draw .
+(vx0 / contrast-01 :ARG2 (vx1 / and :op1 (vx2 / remember-01 :ARG0 (vx3 / i) :ARG1 (vx4 / thing :manner-of (vx5 / concentrate-01 :ARG1 (vx6 / study-01 :ARG0 vx3) :ARG2 (vx7 / and :op1 (vx8 / geography) :op2 (vx9 / history) :op3 (vx10 / arithmetic) :op4 (vx11 / grammar))))) :op2 (vx12 / tell-01 :ARG0 vx3 :ARG1 (vx13 / know-01 :polarity - :ARG0 vx3 :ARG1 (vx14 / thing :manner-of (vx15 / draw-01 :ARG0 vx3))) :ARG2 (vx16 / chap :mod (vx17 / little)) :manner (vx18 / cross :mod (vx19 / little) :mod (vx20 / too)))) :time (vx21 / then))
+
+# ::snt This one might bite you just for fun ... "
+(vx0 / possible-01 :ARG1 (vx1 / bite-01 :ARG0 (vx2 / one :mod (vx3 / this)) :ARG1 (vx4 / you) :purpose (vx5 / fun-01 :mod (vx6 / just))))
+
+# ::snt This one might bite you just for fun ... "
+(vx0 / possible-01 :ARG1 (vx1 / bite-01 :ARG0 (vx2 / one :mod (vx3 / this)) :ARG1 (vx4 / you) :purpose (vx5 / fun-01 :ARG0 vx2 :ARG1 vx4)))
+
+# ::snt When you discover an island that belongs to nobody , it is yours .
+(vx0 / own-01 :ARG0 (vx1 / nobody) :ARG1 (vx2 / island :ARG0-of (vx3 / belong-01 :ARG1 vx1)) :time (vx4 / discover-01 :ARG0 (vx5 / you) :ARG1 vx2))
+
+# ::snt When you discover an island that belongs to nobody , it is yours .
+(vx0 / belong-01 :ARG0 (vx1 / island) :ARG1 (vx2 / you) :time (vx3 / discover-01 :ARG0 vx2 :ARG1 vx1))
+
+# ::snt " You talk just like the grown - ups ! "
+(vx0 / talk-01 :mode expressive :ARG0 (vx1 / you) :ARG1-of (vx2 / resemble-01 :ARG2 (vx3 / talk-01 :ARG0 (vx4 / grown-up)) :mod (vx5 / just)))
+
+# ::snt " You talk just like the grown - ups ! "
+(vx0 / talk-01 :ARG0 (vx1 / you) :ARG1-of (vx2 / resemble-01 :ARG2 (vx3 / talk-01 :ARG0 (vx4 / person :ARG1-of (vx5 / grow-up-04))) :mod (vx6 / just)))
+
+# ::snt So I drew for him one of the two pictures I had drawn so often .
+(vx0 / cause-01 :ARG1 (vx1 / draw-01 :ARG0 (vx2 / i) :ARG1 (vx3 / picture :quant 1 :ARG1-of (vx4 / include-91 :ARG2 (vx5 / picture :quant 2 :ARG1-of (vx6 / draw-01 :ARG0 vx2 :frequency (vx7 / often :degree (vx8 / so)))))) :beneficiary (vx9 / he)))
+
+# ::snt So I drew for him one of the two pictures I had drawn so often .
+(vx0 / draw-01 :ARG0 (vx1 / i) :ARG1 (vx2 / picture :quant 1 :ARG1-of (vx3 / include-91 :ARG2 (vx4 / picture :quant 2 :ARG1-of (vx5 / draw-01 :ARG0 vx1 :frequency (vx6 / often :degree (vx7 / so)))))) :beneficiary (vx8 / he))
+
+# ::snt It was a picture of a boa constrictor in the act of swallowing an animal .
+(vx0 / picture :topic (vx1 / constrain-01 :ARG1 (vx2 / boa) :manner (vx3 / swallow-01 :ARG1 (vx4 / animal))) :domain (vx5 / it))
+
+# ::snt It was a picture of a boa constrictor in the act of swallowing an animal .
+(vx0 / picture-01 :ARG1 (vx1 / person :ARG0-of (vx2 / constrict-01 :ARG1 (vx3 / boa)) :ARG0-of (vx4 / swallow-01 :ARG1 (vx5 / animal))) :domain (vx6 / it))
+
+# ::snt Then that makes five - hundred - and - one - million , six - hundred - twenty - two - thousand , seven - hundred - thirty - one . "
+(vx0 / make-01 :ARG0 (vx1 / that) :ARG1 (vx2 / and :op1 (vx3 / sum-of :op1 52000000 :op2 1000000) :op2 (vx4 / sum-of :op1 2000000 :op2 2000000) :op3 (vx5 / sum-of :op1 2000000 :op2 300000) :op4 (vx6 / sum-of :op1 7-100-30-000)) :mod (vx7 / then))
+
+# ::snt Then that makes five - hundred - and - one - million , six - hundred - twenty - two - thousand , seven - hundred - thirty - one . "
+(vx0 / make-05 :ARG0 (vx1 / that) :ARG1 (vx2 / and :op1 (vx3 / monetary-quantity :quant 5000000 :unit (vx4 / dollar)) :op2 (vx5 / monetary-quantity :quant 6000000 :unit (vx6 / dollar)) :op3 (vx7 / monetary-quantity :quant 200000 :unit (vx8 / dollar)) :op4 (vx9 / monetary-quantity :quant 2100000 :unit (vx10 / dollar)) :op5 (vx11 / monetary-quantity :quant 7200000 :unit (vx12 / dollar)) :op6 (vx13 / monetary-quantity :quant 240000 :unit (vx14 / dollar)) :op7 (vx15 / monetary-quantity :quant 7000 :unit (vx16 / dollar))) :mod (vx17 / then))
+
+# ::snt I , for instance , am very glad to have had a fox as a friend ... "
+(vx0 / glad-02 :ARG0 (vx1 / have-rel-role-91 :ARG0 (vx2 / person :name (vx3 / name :op1 "Fox")) :ARG1 (vx4 / i) :ARG2 (vx5 / friend)) :ARG1 vx4 :ARG0-of (vx6 / exemplify-01) :degree (vx7 / very))
+
+# ::snt I , for instance , am very glad to have had a fox as a friend ... "
+(vx0 / exemplify-01 :ARG0 (vx1 / glad-02 :ARG0 (vx2 / have-03 :ARG0 (vx3 / i) :ARG1 (vx4 / company :name (vx5 / name :op1 "Fox")) :prep-as (vx6 / person :ARG0-of (vx7 / have-rel-role-91 :ARG1 vx3 :ARG2 (vx8 / friend)))) :ARG1 vx3 :degree (vx9 / very)))
+
+# ::snt " While we have been talking together a month has gone by . "
+(vx0 / pass-by-17 :ARG0 (vx1 / temporal-quantity :quant 1 :unit (vx2 / month)) :ARG1 (vx3 / talk-01 :ARG0 (vx4 / we) :mod (vx5 / together)))
+
+# ::snt " While we have been talking together a month has gone by . "
+(vx0 / go-01 :ARG1 (vx1 / temporal-quantity :quant 1 :unit (vx2 / month)) :concession (vx3 / talk-01 :ARG0 (vx4 / we) :manner (vx5 / together)))
+
+# ::snt " What does that mean - - ' admire ' ? "
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / amr-unknown))
+
+# ::snt " What does that mean - - ' admire ' ? "
+(vx0 / mean-01 :ARG1 (vx1 / that) :ARG2 (vx2 / amr-unknown) :ARG3 (vx3 / admire-01))
+
+# ::snt And he put out his lamp .
+(vx0 / and :op2 (vx1 / put-out-10 :ARG0 (vx2 / he) :ARG1 (vx3 / lamp :poss vx2)))
+
+# ::snt And he put out his lamp .
+(vx0 / and :op2 (vx1 / put-out-11 :ARG0 (vx2 / he) :ARG1 (vx3 / lamp :poss vx2)))
+
+# ::snt But he is not a man - - he is a mushroom ! "
+(vx0 / contrast-01 :ARG2 (vx1 / contrast-01 :ARG1 (vx2 / man :polarity - :domain (vx3 / he)) :ARG2 (vx4 / mushroom :domain vx3)))
+
+# ::snt But he is not a man - - he is a mushroom ! "
+(vx0 / contrast-01 :ARG2 (vx1 / mushroom :domain (vx2 / he) :ARG1-of (vx3 / instead-of-91 :ARG2 (vx4 / man))))
+
+# ::snt That night I did not see him set out on his way .
+(vx0 / see-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / set-out-10 :ARG0 (vx3 / he :ARG1-of vx2) :path (vx4 / way :poss vx3)) :time (vx5 / date-entity :dayperiod (vx6 / night) :mod (vx7 / that)))
+
+# ::snt That night I did not see him set out on his way .
+(vx0 / see-01 :polarity - :ARG0 (vx1 / i) :ARG1 (vx2 / set-out-07 :ARG0 (vx3 / he) :ARG1 (vx4 / way :poss vx3)) :time (vx5 / date-entity :dayperiod (vx6 / night) :mod (vx7 / that)))
+
+# ::snt I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
+(vx0 / exclaim-01 :ARG0 (vx1 / he) :ARG1 (vx2 / visit-01 :ARG0 (vx3 / person :ARG0-of (vx4 / admire-01)) :ARG1 vx1 :time (vx5 / about-to)) :manner (vx6 / afar) :time (vx7 / see-01 :ARG0 vx1 :ARG1 (vx8 / come-01 :ARG1 (vx9 / prince :mod (vx10 / little))) :ord (vx11 / ordinal-entity :value 1)))
+
+# ::snt I am about to receive a visit from an admirer ! " he exclaimed from afar , when he first saw the little prince coming .
+(vx0 / exclaim-01 :ARG0 (vx1 / he) :ARG1 (vx2 / come-01 :ARG1 (vx3 / prince :mod (vx4 / little))) :time (vx5 / see-01 :ARG0 vx1 :ARG1 vx2 :ord (vx6 / ordinal-entity :value 1)) :manner (vx7 / afar))
+
+# ::snt He asks them questions , and he notes down what they recall of their travels .
+(vx0 / and :op1 (vx1 / ask-01 :ARG0 (vx2 / he) :ARG1 (vx3 / thing :ARG1-of (vx4 / question-01)) :ARG2 (vx5 / they)) :op2 (vx6 / note-01 :ARG0 vx2 :ARG1 (vx7 / thing :ARG1-of (vx8 / recall-02 :ARG0 vx5) :topic (vx9 / travel-01 :ARG0 vx5))))
+
+# ::snt He asks them questions , and he notes down what they recall of their travels .
+(vx0 / and :op1 (vx1 / ask-01 :ARG0 (vx2 / he) :ARG1 (vx3 / thing :ARG1-of (vx4 / question-01)) :ARG2 (vx5 / they)) :op2 (vx6 / note-down-02 :ARG0 vx2 :ARG1 vx3 :ARG1-of (vx7 / recall-02 :ARG0 vx5 :ARG2 (vx8 / travel-01 :ARG0 vx5))))
+
+# ::snt His words were choked by sobbing .
+(vx0 / choke-01 :ARG1 (vx1 / word :poss (vx2 / he)) :manner (vx3 / sob-01 :ARG0 vx2))
+
+# ::snt His words were choked by sobbing .
+(vx0 / choke-01 :ARG0 (vx1 / sob-01) :ARG1 (vx2 / word :poss (vx3 / he)))
+
+# ::snt What is most important is invisible ... "
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / see-01 :ARG1 (vx2 / important :degree (vx3 / most))))
+
+# ::snt What is most important is invisible ... "
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / see-01 :ARG1 (vx2 / thing :mod (vx3 / important :degree (vx4 / most)))))
+
+# ::snt " It will be as if , in place of the stars , I had given you a great number of little bells that knew how to laugh ... "
+(vx0 / resemble-01 :ARG2 (vx1 / give-01 :ARG0 (vx2 / i) :ARG1 (vx3 / number :mod (vx4 / little) :quant (vx5 / great) :ARG0-of (vx6 / know-01 :ARG1 (vx7 / thing :manner-of (vx8 / laugh-01)))) :ARG2 (vx9 / you) :ARG1-of (vx10 / instead-of-91 :ARG2 (vx11 / give-01 :ARG0 vx2 :ARG1 (vx12 / star) :ARG2 vx9))))
+
+# ::snt " It will be as if , in place of the stars , I had given you a great number of little bells that knew how to laugh ... "
+(vx0 / resemble-01 :ARG2 (vx1 / give-01 :ARG0 (vx2 / i) :ARG1 (vx3 / bell :mod (vx4 / little) :quant (vx5 / number :mod (vx6 / great)) :ARG0-of (vx7 / know-01 :ARG1 (vx8 / thing :manner-of (vx9 / laugh-01 :ARG0 vx3)))) :ARG2 (vx10 / you) :ARG1-of (vx11 / instead-of-91 :ARG2 (vx12 / star))))
+
+# ::snt " The grown - ups are certainly very odd , " he said to himself , as he continued on his journey .
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / odd :degree (vx3 / very) :manner (vx4 / certain) :domain (vx5 / person :ARG1-of (vx6 / grow-up-04))) :ARG2 vx1 :time (vx7 / continue-01 :ARG1 (vx8 / journey-01 :ARG0 vx1)))
+
+# ::snt " The grown - ups are certainly very odd , " he said to himself , as he continued on his journey .
+(vx0 / say-01 :ARG0 (vx1 / he) :ARG1 (vx2 / odd :degree (vx3 / very) :mod (vx4 / certain) :domain (vx5 / person :ARG1-of (vx6 / grow-up-04))) :time (vx7 / continue-01 :ARG0 vx1 :ARG1 (vx8 / journey-01 :ARG0 vx1)))
+
+# ::snt " Do you really admire me very much ? " he demanded of the little prince .
+(vx0 / demand-01 :ARG0 (vx1 / he) :ARG1 (vx2 / admire-01 :mode interrogative :ARG0 (vx3 / very) :ARG1 vx1 :mod (vx4 / much :degree vx3) :ARG1-of (vx5 / real-04)) :ARG2 (vx6 / prince :mod (vx7 / little)))
+
+# ::snt " Do you really admire me very much ? " he demanded of the little prince .
+(vx0 / demand-01 :ARG0 (vx1 / he) :ARG1 (vx2 / admire-01 :mode interrogative :ARG0 (vx3 / you) :ARG1 (vx4 / i) :ARG1-of (vx5 / real-04) :mod (vx6 / much :degree (vx7 / very))) :ARG2 (vx8 / prince :mod (vx9 / little)))
+
+# ::snt So I lived my life alone , without anyone that I could really talk to , until I had an accident with my plane in the Desert of Sahara , six years ago .
+(vx0 / cause-01 :ARG1 (vx1 / live-01 :ARG0 (vx2 / i) :ARG1 (vx3 / life :poss vx2) :manner (vx4 / alone) :accompanier (vx5 / anyone :ARG2-of (vx6 / talk-01 :ARG0 vx2 :ARG1-of (vx7 / real-04) :ARG1-of (vx8 / possible-01))) :time (vx9 / until :op1 (vx10 / accident :accompanier (vx11 / plane :poss vx2) :location (vx12 / desert :name (vx13 / name :op1 "Desert" :op2 "of" :op3 "Sahara")) :time (vx14 / before :op1 (vx15 / now) :quant (vx16 / temporal-quantity :quant 6 :unit (vx17 / year)))))))
+
+# ::snt So I lived my life alone , without anyone that I could really talk to , until I had an accident with my plane in the Desert of Sahara , six years ago .
+(vx0 / cause-01 :ARG1 (vx1 / live-01 :ARG0 (vx2 / i) :ARG1 (vx3 / life :poss vx2) :manner (vx4 / alone) :manner (vx5 / talk-01 :polarity - :ARG0 vx2 :ARG2 (vx6 / anyone) :ARG1-of (vx7 / real-04)) :time (vx8 / until :op1 (vx9 / accident :domain (vx10 / have-03 :ARG0 vx2 :ARG1 (vx11 / plane :poss vx2)) :location (vx12 / desert :name (vx13 / name :op1 "Desert" :op2 "of" :op3 "Sahara")) :time (vx14 / before :op1 (vx15 / now) :quant (vx16 / temporal-quantity :quant 6 :unit (vx17 / year)))))))
+
+# ::snt And after some work with a colored pencil I succeeded in making my first drawing .
+(vx0 / and :op2 (vx1 / succeed-01 :ARG0 (vx2 / i) :ARG1 (vx3 / make-01 :ARG0 vx2 :ARG1 (vx4 / draw-01 :ARG0 vx2 :ord (vx5 / ordinal-entity :value 1))) :time (vx6 / after :op1 (vx7 / work-01 :ARG0 vx2 :instrument (vx8 / pencil :ARG1-of (vx9 / color-01)) :mod (vx10 / some)))))
+
+# ::snt And after some work with a colored pencil I succeeded in making my first drawing .
+(vx0 / succeed-01 :ARG0 (vx1 / i) :ARG1 (vx2 / make-01 :ARG0 vx1 :ARG1 (vx3 / thing :ARG1-of (vx4 / draw-01 :ARG0 vx1) :ord (vx5 / ordinal-entity :value 1))) :time (vx6 / after :op1 (vx7 / work-01 :ARG0 vx1 :ARG3 (vx8 / pencil :ARG1-of (vx9 / color-01)) :quant (vx10 / some))))
+
+# ::snt My Drawing Number One .
+(vx0 / number :mod 1 :poss (vx1 / thing :ARG1-of (vx2 / draw-01 :ARG0 (vx3 / i))))
+
+# ::snt My Drawing Number One .
+(vx0 / thing :ARG1-of (vx1 / draw-01 :ARG0 (vx2 / i)) :ord (vx3 / ordinal-entity :value 1))
+
+# ::snt Then he mopped his forehead with a handkerchief decorated with red squares .
+(vx0 / wipe-01 :ARG0 (vx1 / he) :ARG1 (vx2 / forehead :part-of vx1) :ARG2 (vx3 / handkerchief :ARG1-of (vx4 / decorate-01 :ARG2 (vx5 / square :ARG1-of (vx6 / red-02)))) :time (vx7 / then))
+
+# ::snt Then he mopped his forehead with a handkerchief decorated with red squares .
+(vx0 / mop-01 :ARG0 (vx1 / he) :ARG1 (vx2 / forehead :part-of vx1) :instrument (vx3 / handkerchief :ARG1-of (vx4 / decorate-01 :ARG2 (vx5 / square :ARG1-of (vx6 / red-02)))) :time (vx7 / then))
+
+# ::snt " He has no way of guessing the danger , "
+(vx0 / have-03 :polarity - :ARG0 (vx1 / he) :ARG1 (vx2 / way :instrument-of (vx3 / guess-01 :ARG0 vx1 :ARG1 (vx4 / danger))))
+
+# ::snt " He has no way of guessing the danger , "
+(vx0 / possible-01 :polarity - :ARG1 (vx1 / guess-01 :ARG0 (vx2 / he) :ARG1 (vx3 / danger)))
+
+# ::snt I would talk to him about bridge , and golf , and politics , and neckties .
+(vx0 / talk-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / bridge) :op2 (vx4 / golf) :op3 (vx5 / politics) :op4 (vx6 / necktie)) :ARG2 (vx7 / he))
+
+# ::snt I would talk to him about bridge , and golf , and politics , and neckties .
+(vx0 / talk-01 :ARG0 (vx1 / i) :ARG1 (vx2 / and :op1 (vx3 / bridge) :op2 (vx4 / golf-01) :op3 (vx5 / politics) :op4 (vx6 / neckties)) :ARG2 (vx7 / he))
+
+# ::snt It was the most magnificent and stately planet that he had ever seen .
+(vx0 / planet :mod (vx1 / magnificent :degree (vx2 / most)) :mod (vx3 / stately :degree vx2) :ARG1-of (vx4 / see-01 :ARG0 (vx5 / he) :time (vx6 / ever)) :domain (vx7 / it))
+
+# ::snt It was the most magnificent and stately planet that he had ever seen .
+(vx0 / planet :domain (vx1 / it) :mod (vx2 / magnificent :degree (vx3 / most)) :mod (vx4 / stately) :compared-to (vx5 / see-01 :ARG0 (vx6 / he) :time (vx7 / ever)))
+
+# ::snt For others they are no more than little lights in the sky .
+(vx0 / light :mod (vx1 / little) :location (vx2 / sky) :domain (vx3 / they) :mod (vx4 / more :polarity -) :prep-for (vx5 / other))
+
+# ::snt For others they are no more than little lights in the sky .
+(vx0 / light :mod (vx1 / little) :domain (vx2 / they) :mod (vx3 / only) :location (vx4 / sky) :beneficiary (vx5 / person :mod (vx6 / other)))
+
+# ::snt The first night , then , I went to sleep on the sand , a thousand miles from any human habitation .
+(vx0 / go-02 :ARG0 (vx1 / i) :ARG4 (vx2 / sleep-01 :ARG0 vx1 :location (vx3 / sand :location (vx4 / relative-position :op1 (vx5 / habitation :mod (vx6 / human) :mod (vx7 / any)) :quant (vx8 / distance-quantity :quant 1000 :unit (vx9 / mile))))) :time (vx10 / date-entity :day 1 :dayperiod (vx11 / night)) :time (vx12 / then))
+
+# ::snt The first night , then , I went to sleep on the sand , a thousand miles from any human habitation .
+(vx0 / go-05 :ARG0 (vx1 / i) :ARG1 (vx2 / sleep-01 :ARG0 vx1 :location (vx3 / sand :location (vx4 / relative-position :op1 (vx5 / habitation :mod (vx6 / human) :mod (vx7 / any)) :quant (vx8 / distance-quantity :quant 1000 :unit (vx9 / mile))))) :time (vx10 / date-entity :dayperiod (vx11 / night) :ord (vx12 / ordinal-entity :value 1)) :time (vx13 / then))
+
+# ::snt He tossed his golden curls in the breeze .
+(vx0 / toss-01 :ARG0 (vx1 / he :part vx2) :ARG1 (vx2 / curl :consist-of (vx3 / gold)) :location (vx4 / breeze))
+
+# ::snt He tossed his golden curls in the breeze .
+(vx0 / toss-01 :ARG0 (vx1 / he) :ARG1 (vx2 / curl :mod (vx3 / gold) :poss vx1) :location (vx4 / breeze))
+
+# ::snt Nothing about him gave any suggestion of a child lost in the middle of the desert , a thousand miles from any human habitation .
+(vx0 / suggest-01 :ARG0 (vx1 / nothing :topic (vx2 / he)) :ARG1 (vx3 / child :ARG1-of (vx4 / lose-02 :location (vx5 / middle :part-of (vx6 / desert) :location (vx7 / relative-position :op1 (vx8 / habitation :mod (vx9 / human)) :quant (vx10 / distance-quantity :quant 1000 :unit (vx11 / mile)))))) :mod (vx12 / any))
+
+# ::snt Nothing about him gave any suggestion of a child lost in the middle of the desert , a thousand miles from any human habitation .
+(vx0 / suggest-01 :ARG0 (vx1 / nothing :topic (vx2 / he)) :ARG1 (vx3 / child :ARG1-of (vx4 / lose-02 :location (vx5 / middle :part-of (vx6 / desert :location (vx7 / relative-position :op1 (vx8 / habitation :mod (vx9 / human) :mod (vx10 / any)) :quant (vx11 / distance-quantity :quant 1000 :unit (vx12 / mile))))))))
+
+# ::snt " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / regard-01 :ARG0 (vx3 / you) :ARG1 (vx4 / i) :ARG2 (vx5 / and :op1 (vx6 / handsomest :domain vx4) :op2 (vx7 / dress-01 :ARG1 vx4 :degree (vx8 / most)) :op3 (vx9 / rich :degree (vx10 / most) :domain vx4) :op4 (vx11 / intelligent-01 :ARG1 vx4 :degree (vx12 / most) :compared-to (vx13 / planet :mod (vx14 / this))))))
+
+# ::snt " To admire mean that you regard me as the handsomest , the best - dressed , the richest , and the most intelligent man on this planet . "
+(vx0 / mean-01 :ARG1 (vx1 / admire-01) :ARG2 (vx2 / regard-01 :ARG0 (vx3 / you) :ARG1 (vx4 / i) :ARG2 (vx5 / man :location (vx6 / planet :mod (vx7 / this)) :ARG1-of (vx8 / handsome-01 :degree (vx9 / most)) :ARG1-of (vx10 / dress-01 :manner (vx11 / good-02 :degree (vx12 / most))) :mod (vx13 / rich :degree (vx14 / most)) :ARG1-of (vx15 / intelligent-01 :degree (vx16 / most)))))
+
+# ::snt " So that I may forget , " replied the tippler .
+(vx0 / reply-01 :ARG0 (vx1 / tippler) :ARG2 (vx2 / have-purpose-91 :ARG2 (vx3 / possible-01 :ARG1 (vx4 / forget-01 :ARG0 vx1))))
+
+# ::snt " So that I may forget , " replied the tippler .
+(vx0 / reply-01 :ARG0 (vx1 / tippler) :ARG2 (vx2 / possible-01 :ARG1 (vx3 / forget-01 :ARG0 (vx4 / i))))
+
+# ::snt Twenty - two and six make twenty - eight .
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 (vx2 / temporal-quantity :quant 20 :unit (vx3 / year)) :op2 (vx4 / temporal-quantity :quant 6 :unit (vx5 / year))) :ARG2 (vx6 / sum-of :op1 2 :op2 6))
+
+# ::snt Twenty - two and six make twenty - eight .
+(vx0 / equal-01 :ARG1 (vx1 / sum-of :op1 20_0 :op2 2 :op3 6 :ARG2-of vx0) :op1 20_1 :op2 8)
+
+# ::snt " I know a planet where there is a certain red - faced gentleman .
+(vx0 / know-01 :ARG0 (vx1 / i) :ARG1 (vx2 / planet :location-of (vx3 / gentleman :part (vx4 / face :ARG1-of (vx5 / red-02)) :mod (vx6 / certain))))
+
+# ::snt " I know a planet where there is a certain red - faced gentleman .
+(vx0 / know-01 :ARG0 (vx1 / i) :ARG1 (vx2 / planet :location-of (vx3 / gentleman :mod (vx4 / face :ARG1-of (vx5 / red-02)) :mod (vx6 / certain))))
+
+# ::snt It looked like this : I showed my masterpiece to the grown - ups , and asked them whether the drawing frightened them .
+(vx0 / multi-sentence :snt1 (vx1 / look-02 :ARG0 (vx2 / it) :ARG1 (vx3 / this)) :snt2 (vx4 / and :op1 (vx5 / show-01 :ARG0 (vx6 / i) :ARG1 (vx7 / masterpiece :poss vx6) :ARG2 (vx8 / grown-up)) :op2 (vx9 / ask-01 :ARG0 vx6 :ARG1 (vx10 / frighten-01 :mode interrogative :ARG0 (vx11 / draw-01) :ARG1 vx8) :ARG2 vx8)))
+
+# ::snt It looked like this : I showed my masterpiece to the grown - ups , and asked them whether the drawing frightened them .
+(vx0 / look-02 :ARG1 (vx1 / resemble-01 :ARG2 (vx2 / this :ARG1-of (vx3 / mean-01 :ARG2 (vx4 / and :op1 (vx5 / show-01 :ARG0 (vx6 / i) :ARG1 (vx7 / masterpiece :poss vx6) :ARG2 (vx8 / person :ARG1-of (vx9 / grow-up-04))) :op2 (vx10 / ask-01 :ARG0 vx6 :ARG1 (vx11 / frighten-01 :mode interrogative :ARG0 (vx12 / draw-01) :ARG1 vx8) :ARG2 vx8))))))
+
+# ::snt Thus you can imagine my amazement , at sunrise , when I was awakened by an odd little voice .
+(vx0 / cause-01 :ARG1 (vx1 / possible-01 :ARG1 (vx2 / imagine-01 :ARG0 (vx3 / you) :ARG1 (vx4 / amaze-01 :ARG0 (vx5 / wake-01 :ARG0 (vx6 / voice :mod (vx7 / little) :mod (vx8 / odd)) :ARG1 (vx9 / i)) :ARG1 vx9 :time (vx10 / dawn-01)))))
+
+# ::snt Thus you can imagine my amazement , at sunrise , when I was awakened by an odd little voice .
+(vx0 / cause-01 :ARG1 (vx1 / possible-01 :ARG1 (vx2 / imagine-01 :ARG0 (vx3 / you) :ARG1 (vx4 / amaze-01 :ARG0 (vx5 / voice :mod (vx6 / little) :mod (vx7 / odd)) :ARG1 (vx8 / i) :time (vx9 / sunrise)))))
+
+# ::snt And he took me by the hand .
+(vx0 / and :op2 (vx1 / take-01 :ARG0 (vx2 / he) :ARG1 (vx3 / hand :part-of (vx4 / i))))
+
+# ::snt And he took me by the hand .
+(vx0 / and :op2 (vx1 / take-01 :ARG0 (vx2 / he) :ARG1 (vx3 / i) :ARG3 (vx4 / hand)))

@@ -1,0 +1,400 @@
+0.5	0	0	ENG_DF_000170_20050903_C00020J0V_0001.24
+see above
+1.0	1	0	wb.eng_0003.7
+see above
+1.0	1	0	NW_AFP_ENG_0019_2003_0630.9
+see above
+1.0	1	1	bolt12_91455_5340.1
+see above
+1.0	1	0	NW_XIN_ENG_0189_2003_0324.1
+see above
+0.0	0	1	NW_XIN_ENG_0190_2003_0709.7
+see above
+0.0	0	0	bolt12_91455_5315.1
+see above
+0.5	1	1	bolt12_6455_6562.22
+see above
+0.0	1	1	ENG_DF_000170_20050903_C00020J0V_0001.20
+see above
+0.5	0	1	DF-200-192400-625_7557.5
+see above
+1.0	1	0	NW_XIN_ENG_0192_2005_0906.4
+see above
+0.0	0	0	wb.eng_0003.56
+see above
+0.0	0	1	NW_XIN_ENG_0191_2005_0405.7
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.42
+see above
+0.5	1	1	NW_XIN_ENG_0209_2008_0513.6
+see above
+0.0	0	0	wb.eng_0003.59
+see above
+0.5	0	0	DF-200-192400-625_7557.9
+see above
+1.0	1	0	NW_XIN_ENG_0191_2005_0405.12
+see above
+1.0	1	0	nw.chtb_0324.15
+see above
+0.0	1	1	bolt12_64556_5627.3
+see above
+0.5	0	0	NW_XIN_ENG_0209_2008_0513.7
+see above
+0.0	0	1	nw.chtb_0318.13
+see above
+0.0	0	0	DF-200-192400-625_7557.2
+see above
+1.0	1	0	NW_XIN_ENG_0191_2005_0405.5
+see above
+1.0	1	0	wb.eng_0003.9
+see above
+1.0	1	0	NW_XIN_ENG_0209_2008_0513.11
+see above
+0.5	1	1	DF-200-192400-625_7557.25
+see above
+0.0	0	1	NW_AFP_ENG_0019_2003_0630.20
+see above
+0.5	1	1	bolt12_6455_6564.1
+see above
+1.0	1	0	bolt12_91455_5339.1
+see above
+0.0	0	1	DF-200-192400-625_7046.10
+see above
+0.5	1	1	NW_XIN_ENG_0190_2003_0709.8
+see above
+1.0	1	1	bolt12_91455_5314.1
+see above
+0.0	0	1	DF-200-192400-625_7046.9
+see above
+1.0	1	1	NW_XIN_ENG_0194_2007_0704.3
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.31
+see above
+0.0	1	1	ENG_DF_000170_20050903_C00020J0V_0001.11
+see above
+0.0	0	0	bolt12_91455_5338.1
+see above
+0.5	1	1	nw.chtb_0325.6
+see above
+0.0	0	0	wb.eng_0003.53
+see above
+0.0	0	1	wb.eng_0003.54
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.7
+see above
+0.0	0	1	bolt12_91455_5312.1
+see above
+0.5	1	1	PROXY_NYT_ENG_20080808_0162.20
+see above
+1.0	1	1	NW_XIN_ENG_0209_2008_0513.8
+see above
+0.0	1	1	DF-200-192400-625_7744.13
+see above
+1.0	0	0	NW_XIN_ENG_0191_2005_0405.4
+see above
+0.0	0	1	NW_AFP_ENG_0019_2003_0630.14
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.38
+see above
+0.0	0	1	NW_XIN_ENG_0189_2003_0324.4
+see above
+0.0	1	1	NW_AFP_ENG_0019_2003_0630.13
+see above
+0.5	0	0	NW_AFP_ENG_0018_2003_0616.8
+see above
+0.5	0	0	NW_AFP_ENG_0019_2003_0630.11
+see above
+0.5	1	1	PROXY_NYT_ENG_20080808_0162.23
+see above
+0.5	0	0	DF-200-192400-625_7557.4
+see above
+0.0	0	1	bolt12_6455_6562.20
+see above
+1.0	0	0	NW_XIN_ENG_0209_2008_0513.9
+see above
+1.0	1	1	bolt12_91455_5341.1
+see above
+1.0	1	0	nw.chtb_0319.1
+see above
+0.5	0	0	ENG_DF_000170_20050903_C00020J0V_0001.48
+see above
+0.5	0	0	NW_AFP_ENG_0019_2003_0630.10
+see above
+1.0	1	0	DF-200-192400-625_7046.11
+see above
+0.0	1	1	NW_XIN_ENG_0194_2007_0704.9
+see above
+0.0	1	1	wb.eng_0003.31
+see above
+0.5	0	0	NW_XIN_ENG_0192_2005_0906.1
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.45
+see above
+0.0	0	1	NW_XIN_ENG_0189_2003_0324.7
+see above
+1.0	1	0	nw.chtb_0322.4
+see above
+0.5	1	1	bolt12_91455_5317.1
+see above
+0.5	1	1	wb.eng_0003.29
+see above
+0.5	1	1	PROXY_NYT_ENG_20080808_0162.24
+see above
+0.5	1	1	wb.eng_0003.25
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.22
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.57
+see above
+1.0	0	0	NW_XIN_ENG_0209_2008_0513.21
+see above
+0.5	1	1	DF-200-192400-625_7557.16
+see above
+0.5	1	1	NW_AFP_ENG_0019_2003_0630.12
+see above
+0.0	0	1	ENG_DF_000170_20050903_C00020J0V_0001.46
+see above
+1.0	1	0	DF-200-192400-625_7744.17
+see above
+0.0	0	1	bolt12_91455_5334.1
+see above
+0.5	0	0	ENG_DF_000170_20050903_C00020J0V_0001.60
+see above
+1.0	1	0	NW_XIN_ENG_0190_2003_0709.4
+see above
+0.5	1	1	NW_AFP_ENG_0019_2003_0630.18
+see above
+0.5	1	1	NW_XIN_ENG_0191_2005_0405.15
+see above
+1.0	1	1	NW_XIN_ENG_0193_2006_0822.6
+see above
+1.0	1	0	nw.chtb_0325.8
+see above
+0.0	0	1	nw.chtb_0322.3
+see above
+0.5	0	0	NW_XIN_ENG_0193_2006_0822.3
+see above
+0.5	1	1	NW_XIN_ENG_0191_2005_0405.2
+see above
+1.0	0	1	wb.eng_0003.32
+see above
+0.0	1	1	ENG_DF_000170_20050903_C00020J0V_0001.18
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.55
+see above
+0.0	1	1	nw.chtb_0318.4
+see above
+0.5	0	0	NW_AFP_ENG_0019_2003_0630.8
+see above
+0.5	1	1	NW_XIN_ENG_0194_2007_0704.8
+see above
+0.0	0	1	ENG_DF_000170_20050903_C00020J0V_0001.34
+see above
+0.5	1	1	nw.chtb_0324.9
+see above
+1.0	1	1	wb.eng_0003.17
+see above
+1.0	1	1	NW_XIN_ENG_0189_2003_0324.2
+see above
+0.5	1	1	DF-200-192400-625_7744.12
+see above
+1.0	1	1	wb.eng_0003.33
+see above
+1.0	0	0	bolt12_6455_6562.26
+see above
+0.0	1	1	nw.chtb_0324.11
+see above
+0.5	1	1	wb.eng_0003.18
+see above
+0.5	1	1	NW_AFP_ENG_0019_2003_0630.6
+see above
+0.0	0	1	NW_AFP_ENG_0019_2003_0630.5
+see above
+0.0	1	1	NW_XIN_ENG_0191_2005_0405.13
+see above
+0.5	0	0	NW_XIN_ENG_0191_2005_0405.3
+see above
+1.0	1	0	DF-199-194215-653_0484.1
+see above
+1.0	1	1	NW_XIN_ENG_0191_2005_0405.16
+see above
+0.5	1	1	wb.eng_0003.26
+see above
+1.0	1	0	NW_XIN_ENG_0190_2003_0709.6
+see above
+1.0	1	1	bolt12_64556_5627.2
+see above
+0.5	1	1	DF-200-192400-625_7557.31
+see above
+0.5	0	0	wb.eng_0003.57
+see above
+1.0	1	0	NW_XIN_ENG_0192_2005_0906.9
+see above
+0.0	0	1	nw.chtb_0318.5
+see above
+0.5	1	1	NW_XIN_ENG_0191_2005_0405.14
+see above
+1.0	1	0	NW_XIN_ENG_0191_2005_0405.6
+see above
+0.5	1	1	nw.chtb_0322.6
+see above
+0.0	0	0	ENG_DF_000170_20050903_C00020J0V_0001.49
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.43
+see above
+0.0	0	1	bolt12_91455_5310.1
+see above
+0.5	0	0	ENG_DF_000170_20050903_C00020J0V_0001.51
+see above
+0.0	0	0	NW_XIN_ENG_0209_2008_0513.20
+see above
+1.0	1	1	NW_XIN_ENG_0190_2003_0709.5
+see above
+0.0	1	1	NW_AFP_ENG_0018_2003_0616.1
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.30
+see above
+1.0	1	0	DF-200-192400-625_7744.16
+see above
+1.0	1	0	NW_AFP_ENG_0018_2003_0616.2
+see above
+0.5	1	1	NW_AFP_ENG_0018_2003_0616.7
+see above
+0.0	0	1	DF-200-192400-625_7557.1
+see above
+0.0	0	1	NW_AFP_ENG_0018_2003_0616.5
+see above
+0.0	0	1	NW_XIN_ENG_0190_2003_0709.2
+see above
+0.5	1	1	PROXY_NYT_ENG_20070828_0223.27
+see above
+1.0	1	0	NW_XIN_ENG_0194_2007_0704.10
+see above
+1.0	1	1	nw.chtb_0322.16
+see above
+0.0	1	1	wb.eng_0003.24
+see above
+0.0	1	1	nw.chtb_0318.3
+see above
+0.0	0	0	ENG_DF_000170_20050903_C00020J0V_0001.40
+see above
+0.0	0	1	ENG_DF_000170_20050903_C00020J0V_0001.4
+see above
+0.5	1	1	NW_XIN_ENG_0193_2006_0822.12
+see above
+0.0	0	0	nw.chtb_0322.2
+see above
+1.0	1	0	DF-200-192400-625_7744.8
+see above
+0.0	0	1	NW_AFP_ENG_0018_2003_0616.4
+see above
+0.0	1	1	ENG_DF_000170_20050903_C00020J0V_0001.41
+see above
+1.0	1	1	NW_XIN_ENG_0193_2006_0822.4
+see above
+1.0	1	0	nw.chtb_0322.5
+see above
+1.0	1	0	NW_AFP_ENG_0019_2003_0630.1
+see above
+0.5	1	1	nw.chtb_0325.4
+see above
+0.5	1	1	NW_XIN_ENG_0192_2005_0906.8
+see above
+0.5	1	1	NW_XIN_ENG_0190_2003_0709.3
+see above
+0.0	0	1	bolt12_91455_5313.1
+see above
+0.5	0	0	ENG_DF_000170_20050903_C00020J0V_0001.27
+see above
+0.0	0	0	NW_AFP_ENG_0017_2003_0607.8
+see above
+0.0	0	1	NW_AFP_ENG_0018_2003_0616.3
+see above
+0.5	0	0	nw.chtb_0322.15
+see above
+0.5	1	1	NW_AFP_ENG_0019_2003_0630.4
+see above
+1.0	1	0	wb.eng_0003.19
+see above
+0.0	0	1	bolt12_9145_5531.2
+see above
+0.0	0	1	ENG_DF_000170_20050903_C00020J0V_0001.61
+see above
+0.0	1	1	wb.eng_0003.23
+see above
+1.0	0	0	DF-200-192400-625_7200.16
+see above
+0.0	0	1	wb.eng_0003.58
+see above
+0.0	0	1	NW_AFP_ENG_0017_2003_0607.7
+see above
+0.0	0	1	wb.eng_0003.16
+see above
+0.0	0	1	DF-200-192400-625_7200.17
+see above
+0.5	1	1	bolt12_6455_6562.21
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.33
+see above
+0.0	0	1	nw.chtb_0318.8
+see above
+1.0	1	0	NW_XIN_ENG_0189_2003_0324.5
+see above
+1.0	1	1	ENG_DF_000170_20050903_C00020J0V_0001.1
+see above
+1.0	1	1	NW_AFP_ENG_0019_2003_0630.16
+see above
+0.0	1	1	bolt12_91455_5342.1
+see above
+0.5	0	0	NW_XIN_ENG_0209_2008_0513.22
+see above
+0.5	1	1	DF-200-192400-625_7744.10
+see above
+1.0	1	1	NW_XIN_ENG_0193_2006_0822.7
+see above
+1.0	1	1	bolt12_91455_5325.1
+see above
+1.0	0	0	NW_XIN_ENG_0194_2007_0704.7
+see above
+0.5	1	1	NW_XIN_ENG_0191_2005_0405.9
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.5
+see above
+0.5	1	1	DF-200-192400-625_7806.16
+see above
+1.0	1	0	nw.chtb_0322.14
+see above
+0.5	0	0	bolt12_6455_6566.2
+see above
+1.0	1	0	bolt12_6455_6566.3
+see above
+0.5	1	1	NW_AFP_ENG_0019_2003_0630.17
+see above
+1.0	1	0	NW_XIN_ENG_0193_2006_0822.11
+see above
+0.5	0	0	nw.chtb_0322.7
+see above
+0.5	1	1	NW_XIN_ENG_0193_2006_0822.1
+see above
+0.0	0	1	wb.eng_0003.35
+see above
+0.0	0	1	nw.chtb_0324.7
+see above
+1.0	1	1	wb.eng_0003.5
+see above
+1.0	1	0	DF-200-192400-625_7046.8
+see above
+0.5	1	1	ENG_DF_000170_20050903_C00020J0V_0001.3
+see above
+0.0	1	1	ENG_DF_000170_20050903_C00020J0V_0001.13
+see above
+1.0	1	0	ENG_DF_000170_20050903_C00020J0V_0001.32
+see above
+0.0	0	1	bolt12_9145_5531.4
+see above
+1.0	1	0	bolt12_6455_6565.4
+see above
+0.5	1	1	nw.chtb_0324.10
+see above
+0.0	0	1	NW_XIN_ENG_0209_2008_0513.13
+see above

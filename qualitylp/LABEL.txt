@@ -1,0 +1,400 @@
+1.0	1	0	lpp_1943.646
+see above
+0.0	0	1	lpp_1943.328
+see above
+0.0	1	1	lpp_1943.761
+see above
+0.5	1	1	lpp_1943.347
+see above
+1.0	1	0	lpp_1943.790
+see above
+0.0	0	0	lpp_1943.813
+see above
+1.0	1	1	lpp_1943.18
+see above
+0.5	1	1	lpp_1943.4
+see above
+0.0	0	1	lpp_1943.642
+see above
+0.0	0	1	lpp_1943.582
+see above
+0.5	1	1	lpp_1943.837
+see above
+0.0	1	1	lpp_1943.1452
+see above
+1.0	1	0	lpp_1943.821
+see above
+0.0	0	1	lpp_1943.682
+see above
+0.0	0	1	lpp_1943.1503
+see above
+0.5	1	1	lpp_1943.1480
+see above
+1.0	1	1	lpp_1943.589
+see above
+0.0	0	0	lpp_1943.1465
+see above
+0.0	0	1	lpp_1943.46
+see above
+0.5	0	0	lpp_1943.5
+see above
+1.0	1	0	lpp_1943.1502
+see above
+0.5	1	1	lpp_1943.21
+see above
+0.0	1	1	lpp_1943.576
+see above
+1.0	1	0	lpp_1943.1460
+see above
+0.5	1	1	lpp_1943.329
+see above
+1.0	1	1	lpp_1943.1488
+see above
+0.0	0	1	lpp_1943.598
+see above
+0.5	1	1	lpp_1943.787
+see above
+0.0	0	1	lpp_1943.7
+see above
+1.0	1	0	lpp_1943.349
+see above
+1.0	1	0	lpp_1943.61
+see above
+0.5	0	0	lpp_1943.818
+see above
+0.5	0	0	lpp_1943.16
+see above
+1.0	1	1	lpp_1943.60
+see above
+0.0	0	0	lpp_1943.1270
+see above
+0.0	0	0	lpp_1943.657
+see above
+1.0	0	0	lpp_1943.637
+see above
+1.0	1	0	lpp_1943.350
+see above
+0.5	0	0	lpp_1943.54
+see above
+1.0	1	1	lpp_1943.1445
+see above
+1.0	1	1	lpp_1943.1451
+see above
+0.0	0	1	lpp_1943.636
+see above
+0.0	1	1	lpp_1943.14
+see above
+0.0	0	1	lpp_1943.865
+see above
+0.0	0	1	lpp_1943.1501
+see above
+0.5	1	1	lpp_1943.614
+see above
+0.5	1	1	lpp_1943.1459
+see above
+0.5	0	0	lpp_1943.778
+see above
+0.0	0	1	lpp_1943.676
+see above
+0.0	0	1	lpp_1943.795
+see above
+0.5	1	1	lpp_1943.773
+see above
+1.0	1	0	lpp_1943.747
+see above
+0.0	0	0	lpp_1943.763
+see above
+1.0	0	0	lpp_1943.867
+see above
+0.0	1	1	lpp_1943.579
+see above
+1.0	1	0	lpp_1943.2
+see above
+0.0	0	1	lpp_1943.1500
+see above
+0.0	1	1	lpp_1943.344
+see above
+0.5	1	1	lpp_1943.22
+see above
+0.0	1	1	lpp_1943.707
+see above
+0.5	1	1	lpp_1943.762
+see above
+1.0	1	1	lpp_1943.62
+see above
+0.0	0	1	lpp_1943.1280
+see above
+0.0	0	1	lpp_1943.1444
+see above
+0.5	1	1	lpp_1943.836
+see above
+0.5	1	1	lpp_1943.691
+see above
+0.0	0	0	lpp_1943.804
+see above
+0.0	1	1	lpp_1943.26
+see above
+0.0	0	0	lpp_1943.20
+see above
+1.0	1	1	lpp_1943.1442
+see above
+0.0	0	1	lpp_1943.869
+see above
+0.5	1	1	lpp_1943.1435
+see above
+1.0	1	1	lpp_1943.645
+see above
+0.0	0	1	lpp_1943.718
+see above
+1.0	1	0	lpp_1943.1482
+see above
+0.0	0	1	lpp_1943.595
+see above
+0.0	0	0	lpp_1943.766
+see above
+0.5	1	1	lpp_1943.696
+see above
+0.5	1	1	lpp_1943.622
+see above
+1.0	1	1	lpp_1943.351
+see above
+0.0	0	1	lpp_1943.719
+see above
+1.0	1	0	lpp_1943.810
+see above
+0.0	0	0	lpp_1943.786
+see above
+0.0	0	0	lpp_1943.831
+see above
+0.5	1	1	lpp_1943.854
+see above
+1.0	1	1	lpp_1943.56
+see above
+0.5	0	0	lpp_1943.25
+see above
+1.0	1	1	lpp_1943.844
+see above
+0.0	0	1	lpp_1943.819
+see above
+0.5	1	1	lpp_1943.1450
+see above
+1.0	1	0	lpp_1943.641
+see above
+0.5	1	1	lpp_1943.712
+see above
+0.0	0	0	lpp_1943.1221
+see above
+0.5	1	1	lpp_1943.760
+see above
+0.0	0	0	lpp_1943.1272
+see above
+0.5	1	1	lpp_1943.669
+see above
+1.0	1	1	lpp_1943.42
+see above
+0.5	0	0	lpp_1943.325
+see above
+0.0	0	0	lpp_1943.792
+see above
+0.5	1	1	lpp_1943.613
+see above
+0.0	1	1	lpp_1943.1447
+see above
+0.0	0	1	lpp_1943.6
+see above
+0.0	0	1	lpp_1943.44
+see above
+1.0	1	0	lpp_1943.1428
+see above
+1.0	1	0	lpp_1943.759
+see above
+0.5	1	1	lpp_1943.758
+see above
+1.0	1	0	lpp_1943.826
+see above
+1.0	1	1	lpp_1943.820
+see above
+0.5	1	1	lpp_1943.356
+see above
+1.0	1	0	lpp_1943.835
+see above
+0.5	1	1	lpp_1943.1440
+see above
+0.5	0	0	lpp_1943.812
+see above
+0.0	0	1	lpp_1943.57
+see above
+0.5	1	1	lpp_1943.599
+see above
+0.0	0	1	lpp_1943.1456
+see above
+0.5	1	1	lpp_1943.840
+see above
+0.5	0	0	lpp_1943.1226
+see above
+0.0	0	1	lpp_1943.830
+see above
+0.5	0	0	lpp_1943.1461
+see above
+0.5	1	1	lpp_1943.33
+see above
+0.0	1	1	lpp_1943.708
+see above
+0.0	0	1	lpp_1943.686
+see above
+0.5	1	1	lpp_1943.13
+see above
+0.0	0	1	lpp_1943.709
+see above
+0.0	0	1	lpp_1943.1484
+see above
+0.0	0	1	lpp_1943.811
+see above
+0.5	0	0	lpp_1943.725
+see above
+1.0	1	0	lpp_1943.655
+see above
+1.0	1	0	lpp_1943.621
+see above
+1.0	1	0	lpp_1943.728
+see above
+0.0	0	0	lpp_1943.746
+see above
+0.5	1	1	lpp_1943.574
+see above
+0.5	1	1	lpp_1943.745
+see above
+0.5	0	0	lpp_1943.807
+see above
+1.0	1	0	lpp_1943.357
+see above
+0.0	0	1	lpp_1943.1515
+see above
+0.0	0	1	lpp_1943.40
+see above
+0.5	1	1	lpp_1943.1454
+see above
+0.0	0	1	lpp_1943.1219
+see above
+0.0	1	1	lpp_1943.677
+see above
+0.5	0	0	lpp_1943.631
+see above
+0.0	1	1	lpp_1943.1230
+see above
+0.5	1	1	lpp_1943.24
+see above
+1.0	1	0	lpp_1943.602
+see above
+0.0	1	1	lpp_1943.742
+see above
+1.0	0	0	lpp_1943.678
+see above
+0.5	1	1	lpp_1943.849
+see above
+0.5	1	1	lpp_1943.28
+see above
+1.0	1	0	lpp_1943.751
+see above
+1.0	1	1	lpp_1943.47
+see above
+0.5	1	1	lpp_1943.839
+see above
+0.0	0	1	lpp_1943.809
+see above
+1.0	1	0	lpp_1943.15
+see above
+0.5	0	0	lpp_1943.652
+see above
+0.0	0	1	lpp_1943.724
+see above
+1.0	1	0	lpp_1943.739
+see above
+0.5	0	0	lpp_1943.39
+see above
+0.5	1	1	lpp_1943.756
+see above
+0.5	1	1	lpp_1943.1432
+see above
+0.0	0	0	lpp_1943.337
+see above
+0.0	0	1	lpp_1943.722
+see above
+0.5	1	1	lpp_1943.1434
+see above
+0.0	0	0	lpp_1943.63
+see above
+0.5	1	1	lpp_1943.1478
+see above
+0.0	0	1	lpp_1943.723
+see above
+0.0	1	1	lpp_1943.326
+see above
+1.0	1	1	lpp_1943.67
+see above
+1.0	0	0	lpp_1943.3
+see above
+0.5	0	0	lpp_1943.662
+see above
+1.0	1	0	lpp_1943.1227
+see above
+0.0	0	0	lpp_1943.797
+see above
+1.0	1	0	lpp_1943.626
+see above
+0.5	0	0	lpp_1943.781
+see above
+1.0	1	1	lpp_1943.338
+see above
+0.0	0	1	lpp_1943.1481
+see above
+1.0	1	1	lpp_1943.607
+see above
+1.0	1	1	lpp_1943.859
+see above
+0.5	1	1	lpp_1943.353
+see above
+0.0	1	1	lpp_1943.1271
+see above
+0.0	0	0	lpp_1943.1463
+see above
+0.5	1	1	lpp_1943.633
+see above
+0.0	0	0	lpp_1943.625
+see above
+0.0	0	1	lpp_1943.37
+see above
+0.0	1	1	lpp_1943.8
+see above
+0.0	0	1	lpp_1943.9
+see above
+0.0	1	1	lpp_1943.782
+see above
+0.5	1	1	lpp_1943.1228
+see above
+0.5	1	1	lpp_1943.34
+see above
+0.5	0	0	lpp_1943.841
+see above
+0.0	0	1	lpp_1943.1446
+see above
+0.0	1	1	lpp_1943.41
+see above
+0.0	1	1	lpp_1943.331
+see above
+0.5	1	1	lpp_1943.58
+see above
+0.0	0	1	lpp_1943.627
+see above
+1.0	1	0	lpp_1943.640
+see above
+0.5	0	0	lpp_1943.658
+see above
+1.0	1	1	lpp_1943.332
+see above
+0.5	1	1	lpp_1943.10
+see above
+1.0	1	0	lpp_1943.43
+see above
+1.0	1	1	lpp_1943.1486
+see above
