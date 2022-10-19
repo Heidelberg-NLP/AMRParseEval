@@ -6,7 +6,7 @@ SRC=weisfeiler-leman-amr-metrics/src/
 cd $SRC
 
 
-for dat in qualitybio qualitylp qualityamr3
+for dat in qualitylp qualityamr3
 do
     for task in abparser
     do

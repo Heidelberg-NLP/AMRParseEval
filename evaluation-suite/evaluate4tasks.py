@@ -8,7 +8,6 @@ random.seed(42)
 # SICK and PARA first graph is ignored (empty graph)
 LPQUALITY = ("../qualitylp/LABEL.txt", [0, 400])
 AMR3QUALITY = ("../qualityamr3/LABEL.txt", [0, 400])
-BIOQUALITY = ("../qualitybio/LABEL.txt", [0, 50])
 
 def get_arg_parser():
     import argparse
@@ -17,10 +16,7 @@ def get_arg_parser():
      
     parser.add_argument('-path_princequality_prediction_file_abparser', type=str, nargs='?',
                                 help='path to quality prediction file', required = True)
-    
-    parser.add_argument('-path_bioquality_prediction_file_abparser', type=str, nargs='?',
-                                help='path to quality prediction file', required = True)
-    
+     
     parser.add_argument('-path_amr3quality_prediction_file_abparser', type=str, nargs='?',
                                 help='path to quality prediction file', required = True)
     
@@ -42,10 +38,6 @@ def get_predicted_scores(lines, f = lambda x: x.split()[-1], index=LPQUALITY[0])
 def readl(p):
     with open(p) as f:
         return f.read().split("\n")
-
-
-def load_parse_quality_bio():
-    return load_parse_quality(BIOQUALITY)
 
 
 def load_parse_quality_lp():
@@ -142,21 +134,6 @@ def pw_acc(gold, ys):
     
     return len([x for x in pw if x > 0 ]) / len(pw)
 
-def eq_recall(gold, ys):
-    eqs = [(i, g) for i, g in enumerate(gold) if g == 0.0]
-    eqs = set([i for i, g in eqs])
-    rs = list(enumerate(ys))
-    rs = sorted(rs, key= lambda k:k[1])
-    rs = set([i for i, x in rs[:len(eqs)]])
-    return len(eqs.intersection(rs)) / len(eqs)
-
-def eq_rank_loss(gold, ys):
-    #ys = np.random.normal(size=(200))
-    eqs = [(i, g) for i, g in enumerate(gold) if g == 0.0]
-    eqs = set([i for i, g in eqs])
-    ysr = [i for i, j in rank(ys)]
-    ysr = [ysr[i] for i in eqs]
-    return np.median(ysr)
 
 def mrank(gold, ys):
     notaccept = [(i, g) for i, g in enumerate(gold) if g == 0.0]
