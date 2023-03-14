@@ -6,6 +6,8 @@ def read_amr_file(p1):
         amrs = f.read().split("\n\n")
     sents = [amr.split("# ::snt")[1].split("\n")[0] for amr in amrs]
     amrs = [amr.split("#")[-1].split("\n", 1)[1] for amr in amrs]
+    amrs = [amr.replace("\n", " ") for amr in amrs]
+    amrs = [" ".join(amr.split()) for amr in amrs]
     return amrs, sents
 
 
@@ -27,9 +29,6 @@ def simple_overlap(amrs1, amrs2):
     def so(a1, a2):
         toks_1 = get_nodes_edges(a1)
         toks_2 = get_nodes_edges(a2)
-        #if "look" in a1:
-        #    print(a1, toks_1)
-        #    print(a2, toks_2)
         intersec = set(toks_1).intersection(set(toks_2))
         union = set(toks_1).union(set(toks_2))
         score =  len(intersec) / len(union)
@@ -46,7 +45,6 @@ a1, s = read_amr_file(sys.argv[1])
 a2, _ = read_amr_file(sys.argv[2])
 
 result = simple_overlap(a1, a2)
-#result = sent_lens(s)
 
 print("\n".join([str(num) for num in result]))
 
