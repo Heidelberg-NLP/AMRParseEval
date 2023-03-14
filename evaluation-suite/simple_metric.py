@@ -7,6 +7,7 @@ def read_amr_file(p1):
     sents = [amr.split("# ::snt")[1].split("\n")[0] for amr in amrs]
     amrs = [amr.split("#")[-1].split("\n", 1)[1] for amr in amrs]
     amrs = [amr.replace("\n", " ") for amr in amrs]
+    amrs = [amr.replace("\t", " ") for amr in amrs]
     amrs = [" ".join(amr.split()) for amr in amrs]
     amrs = [amr.lower() for amr in amrs]
     return amrs, sents
