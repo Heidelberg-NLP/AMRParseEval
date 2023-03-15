@@ -19,8 +19,6 @@ def format_amr(amrstring):
     vm = {}
     idx = 0
     for v in var:
-        if v in vm:
-            asd
         vm[v] = "vx" + str(idx)
         idx += 1
 
