@@ -28,6 +28,9 @@ Please look in this directory:
 
 # Citation
 
+If you find the work interesting, consider citing
+
+```
 @inproceedings{opitz-frank-2022-better,
     title = "Better {S}match = Better Parser? {AMR} evaluation is not so simple anymore",
     author = "Opitz, Juri  and
@@ -41,6 +44,6 @@ Please look in this directory:
     doi = "10.18653/v1/2022.eval4nlp-1.4",
     pages = "32--43",
 }
-
+```
 
 
