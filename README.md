@@ -33,8 +33,7 @@ If you find the work interesting, consider citing
 ```
 @inproceedings{opitz-frank-2022-better,
     title = "Better {S}match = Better Parser? {AMR} evaluation is not so simple anymore",
-    author = "Opitz, Juri  and
-      Frank, Anette",
+    author = "Opitz, Juri and Frank, Anette",
     booktitle = "Proceedings of the 3rd Workshop on Evaluation and Comparison of NLP Systems",
     month = nov,
     year = "2022",
